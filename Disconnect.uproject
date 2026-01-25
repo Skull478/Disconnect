@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Disconnect",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -16,15 +23,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystem",
+			"Name": "SteamSockets",
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemUtils",
+			"Name": "ScriptableToolsEditorMode",
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemNull",
+			"Name": "ScriptableToolsFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
 			"Enabled": true
 		}
 	]
