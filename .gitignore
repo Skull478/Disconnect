@@ -72,3 +72,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# GITIGNORE template for Wwise Project
+.backup*
+.cache*
+*.akd
+*.prof
+*.validationcache
+*.wsettings
+AkWwiseProjectData.asset
+IncrementalSoundBankData.xml
+*/Audio/Wwise_Disconnect/Disconnect/Soundcaster Sessions/*
