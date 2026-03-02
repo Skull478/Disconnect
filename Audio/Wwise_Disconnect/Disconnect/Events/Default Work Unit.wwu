@@ -3,17 +3,6 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="eventalaconavecriendedans" ID="{BBDCB173-C6B5-4C45-AF7C-C259C81374B6}">
-					<ChildrenList>
-						<Action Name="" ID="{AC237470-223D-495B-8044-7BB687D24BB3}" ShortID="974351304">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="test" ID="{A94B6974-BEF9-4690-86FE-F0BE48304AA3}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="AMB_Play_Main" ID="{06C919E1-4ED1-4537-B3E0-60678D3B203F}">
 					<ChildrenList>
 						<Action Name="" ID="{F3DCE3CF-A1FF-443D-8C7E-0B82C51721F5}" ShortID="812508494">

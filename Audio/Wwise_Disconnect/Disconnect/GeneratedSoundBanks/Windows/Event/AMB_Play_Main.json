@@ -1,0 +1,298 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3023966288",
+    "Type": "Event",
+    "GUID": "{06C919E1-4ED1-4537-B3E0-60678D3B203F}",
+    "Language": "SFX",
+    "Hash": "{4C927C2E-3D84-20FC-B504-BDC3D0F59EBC}",
+    "ObjectPath": "AMB_Play_Main",
+    "ShortName": "AMB_Play_Main",
+    "Path": "Event/AMB_Play_Main.bnk",
+    "Media": [
+     {
+      "Id": "3629596",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-005.wav",
+      "Path": "Media/3629596.wem",
+      "CachePath": "1B/{1B646AD5-CF78-9DF4-8AAE-F93A253B435A}.wem"
+     },
+     {
+      "Id": "14730876",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-015.wav",
+      "Path": "Media/14730876.wem",
+      "CachePath": "18/{18C0826A-16CE-6F4B-CBDB-71F633E3FD64}.wem"
+     },
+     {
+      "Id": "44219547",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-013.wav",
+      "Path": "Media/44219547.wem",
+      "CachePath": "1B/{1BFA1B85-73E2-1686-E4CE-601759EBF465}.wem"
+     },
+     {
+      "Id": "56857213",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-008.wav",
+      "Path": "Media/56857213.wem",
+      "CachePath": "84/{84DD4022-1B49-D1C2-FC3E-E1DCAD7EF19E}.wem"
+     },
+     {
+      "Id": "89530440",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-016.wav",
+      "Path": "Media/89530440.wem",
+      "CachePath": "B4/{B4A339E8-F077-9E12-D781-F9106A9FDC3C}.wem"
+     },
+     {
+      "Id": "163203971",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-010.wav",
+      "Path": "Media/163203971.wem",
+      "CachePath": "EB/{EBC9C792-E7E5-0DD0-F90A-2705187B7CE8}.wem"
+     },
+     {
+      "Id": "228051004",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-002.wav",
+      "Path": "Media/228051004.wem",
+      "CachePath": "65/{6573DA9D-B68D-C07E-83F0-A286F2785043}.wem"
+     },
+     {
+      "Id": "286360241",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-020.wav",
+      "Path": "Media/286360241.wem",
+      "CachePath": "E1/{E1C817CE-0181-BF98-2421-FE683ADC314A}.wem"
+     },
+     {
+      "Id": "294532487",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-011.wav",
+      "Path": "Media/294532487.wem",
+      "CachePath": "6E/{6EF95447-A0F6-61FE-0D92-FB86B489B807}.wem"
+     },
+     {
+      "Id": "305608905",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-003.wav",
+      "Path": "Media/305608905.wem",
+      "CachePath": "01/{01D96015-2226-668E-9EC8-F359B3ECB4B8}.wem"
+     },
+     {
+      "Id": "327049440",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-007.wav",
+      "Path": "Media/327049440.wem",
+      "CachePath": "1C/{1C2BC939-2670-E3E0-D4F3-D4EF82D303C0}.wem"
+     },
+     {
+      "Id": "335564966",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-012.wav",
+      "Path": "Media/335564966.wem",
+      "CachePath": "76/{761FB782-035E-DD4F-E0F9-D5192010957C}.wem"
+     },
+     {
+      "Id": "386357966",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-017.wav",
+      "Path": "Media/386357966.wem",
+      "CachePath": "C3/{C3298FE8-CB93-80E1-E1D2-356A9BD1BE08}.wem"
+     },
+     {
+      "Id": "435173270",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-019.wav",
+      "Path": "Media/435173270.wem",
+      "CachePath": "A3/{A3D3CA04-4356-7EC0-911D-D2EF18D1EEC7}.wem"
+     },
+     {
+      "Id": "453615201",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-001.wav",
+      "Path": "Media/453615201.wem",
+      "CachePath": "38/{38E77086-1E49-199A-4DF3-AA59B6EA7C47}.wem"
+     },
+     {
+      "Id": "507202688",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-018.wav",
+      "Path": "Media/507202688.wem",
+      "CachePath": "FD/{FDF1D9D2-A1A5-8A49-710C-7B6B8F10DA19}.wem"
+     },
+     {
+      "Id": "596927392",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-006.wav",
+      "Path": "Media/596927392.wem",
+      "CachePath": "5E/{5ED97501-8E20-99B6-C939-A017CF4964F0}.wem"
+     },
+     {
+      "Id": "769224833",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-009.wav",
+      "Path": "Media/769224833.wem",
+      "CachePath": "61/{61E52E7F-7C25-2EC2-D7B9-32D1AE481FAD}.wem"
+     },
+     {
+      "Id": "796839688",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_Roomtone.wav",
+      "Path": "Media/796839688.wem",
+      "CachePath": "3F/{3F5A8CA9-6660-E59D-B2C8-6169A9594D45}.wem"
+     },
+     {
+      "Id": "830571104",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-021.wav",
+      "Path": "Media/830571104.wem",
+      "CachePath": "A7/{A73AFA73-1A4F-93D1-7420-5BBF1292F0F4}.wem"
+     },
+     {
+      "Id": "1014699499",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-004.wav",
+      "Path": "Media/1014699499.wem",
+      "CachePath": "86/{86CF541D-4437-324A-E188-E03D5FD21211}.wem"
+     },
+     {
+      "Id": "1048870961",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Main_RandomSounds-014.wav",
+      "Path": "Media/1048870961.wem",
+      "CachePath": "B8/{B8207CAF-FB04-2772-7B14-5AA2CEFBF8AC}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3023966288",
+      "Name": "AMB_Play_Main",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB_Play_Main",
+      "GUID": "{06C919E1-4ED1-4537-B3E0-60678D3B203F}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "3629596"
+       },
+       {
+        "Id": "14730876"
+       },
+       {
+        "Id": "44219547"
+       },
+       {
+        "Id": "56857213"
+       },
+       {
+        "Id": "89530440"
+       },
+       {
+        "Id": "163203971"
+       },
+       {
+        "Id": "228051004"
+       },
+       {
+        "Id": "286360241"
+       },
+       {
+        "Id": "294532487"
+       },
+       {
+        "Id": "305608905"
+       },
+       {
+        "Id": "327049440"
+       },
+       {
+        "Id": "335564966"
+       },
+       {
+        "Id": "386357966"
+       },
+       {
+        "Id": "435173270"
+       },
+       {
+        "Id": "453615201"
+       },
+       {
+        "Id": "507202688"
+       },
+       {
+        "Id": "596927392"
+       },
+       {
+        "Id": "769224833"
+       },
+       {
+        "Id": "796839688"
+       },
+       {
+        "Id": "830571104"
+       },
+       {
+        "Id": "1014699499"
+       },
+       {
+        "Id": "1048870961"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2BE4323D-5CAB-E6E2-81CF-B2B5D1CAE7E7}"
+ }
+}
