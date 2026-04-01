@@ -1,0 +1,206 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "850931785",
+    "Type": "Event",
+    "GUID": "{8729EA78-A896-4FB9-BB69-99B0EE0D227D}",
+    "Language": "SFX",
+    "Hash": "{F8EA2084-F6F5-3E9A-0551-A1457007F0A2}",
+    "ObjectPath": "PL_Footsteps",
+    "ShortName": "PL_Footsteps",
+    "Path": "Event/PL_Footsteps.bnk",
+    "Media": [
+     {
+      "Id": "143011961",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_10.wav",
+      "Path": "Media/143011961.wem",
+      "CachePath": "E2/{E287C5D6-F2E0-2F1E-A0A2-9D24E99831C8}.wem"
+     },
+     {
+      "Id": "230901682",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_05.wav",
+      "Path": "Media/230901682.wem",
+      "CachePath": "3E/{3EBC3AB8-52FB-FD07-6C34-85F5EBF0E056}.wem"
+     },
+     {
+      "Id": "440787668",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_07.wav",
+      "Path": "Media/440787668.wem",
+      "CachePath": "4B/{4B4CF535-1564-8976-F4F4-1A69A2C69B5A}.wem"
+     },
+     {
+      "Id": "512074321",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_11.wav",
+      "Path": "Media/512074321.wem",
+      "CachePath": "7B/{7B6D8D31-5795-59FA-0AA6-15808A277CA6}.wem"
+     },
+     {
+      "Id": "577048927",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_09.wav",
+      "Path": "Media/577048927.wem",
+      "CachePath": "DB/{DBF096D3-FE7B-DAD4-E763-1D8D5CC377EE}.wem"
+     },
+     {
+      "Id": "625162232",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_03.wav",
+      "Path": "Media/625162232.wem",
+      "CachePath": "75/{75650DB0-4DCC-F763-9C01-0B7ABC921DB0}.wem"
+     },
+     {
+      "Id": "653910795",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_04.wav",
+      "Path": "Media/653910795.wem",
+      "CachePath": "C2/{C227A10A-BACB-5DF1-EF9D-B7F652052D51}.wem"
+     },
+     {
+      "Id": "979014120",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_02.wav",
+      "Path": "Media/979014120.wem",
+      "CachePath": "9B/{9B86DB22-173A-F9FE-6CF3-2A609859A912}.wem"
+     },
+     {
+      "Id": "986772648",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_01.wav",
+      "Path": "Media/986772648.wem",
+      "CachePath": "4F/{4F7363D0-BD37-E4BC-113B-303A19C9871D}.wem"
+     },
+     {
+      "Id": "1015458140",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_06.wav",
+      "Path": "Media/1015458140.wem",
+      "CachePath": "8C/{8CBF69C5-FBE0-A63D-5ACC-7AF2D160480B}.wem"
+     },
+     {
+      "Id": "1071442842",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "$region_08.wav",
+      "Path": "Media/1071442842.wem",
+      "CachePath": "D7/{D797CA64-9CE2-B8FA-B2D7-8C88A610CBA6}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "850931785",
+      "Name": "PL_Footsteps",
+      "ObjectPath": "\\Events\\PlayerEvents\\PL_Footsteps",
+      "GUID": "{8729EA78-A896-4FB9-BB69-99B0EE0D227D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.20136349",
+      "DurationMax": "0.3003917",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3865314626",
+         "Id": "841620460",
+         "GUID": "{15E8F383-838B-4947-9B02-C57FE37C96D9}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "143011961"
+         },
+         {
+          "Id": "230901682"
+         },
+         {
+          "Id": "440787668"
+         },
+         {
+          "Id": "512074321"
+         },
+         {
+          "Id": "577048927"
+         },
+         {
+          "Id": "625162232"
+         },
+         {
+          "Id": "653910795"
+         },
+         {
+          "Id": "979014120"
+         },
+         {
+          "Id": "986772648"
+         },
+         {
+          "Id": "1015458140"
+         },
+         {
+          "Id": "1071442842"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "3865314626",
+      "Name": "Material",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material",
+      "GUID": "{5F68457F-1EE9-4994-B1DA-97AA8DE297C9}",
+      "Switches": [
+       {
+        "Id": "660835419",
+        "Name": "Plastic",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Plastic",
+        "GUID": "{561B3A4E-24CA-4AA4-9D5A-3C3B7D7D905C}"
+       },
+       {
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Concrete",
+        "GUID": "{15E8F383-838B-4947-9B02-C57FE37C96D9}"
+       },
+       {
+        "Id": "2473969246",
+        "Name": "Metal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Metal",
+        "GUID": "{DAF07205-EA54-4B52-9012-270A76DC255E}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{702CF431-B1D0-3DAF-74D6-B1B481EDBFD1}"
+ }
+}

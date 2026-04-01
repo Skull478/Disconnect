@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{E8C73C05-9AC5-A17E-EA11-491BBCB2A45E}",
+    "Hash": "{9C654E5E-D0E9-0EA3-306A-B726FD5CD097}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -36,14 +36,48 @@
     },
     "Busses": [
      {
+      "Id": "1138681361",
+      "Name": "Player_Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Player_Bus",
+      "GUID": "{629C5111-3670-43D6-A27A-6027C6EB3D95}"
+     },
+     {
       "Id": "3803692087",
       "Name": "Master Audio Bus",
       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
       "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
      }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "3865314626",
+      "Name": "Material",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material",
+      "GUID": "{5F68457F-1EE9-4994-B1DA-97AA8DE297C9}",
+      "Switches": [
+       {
+        "Id": "660835419",
+        "Name": "Plastic",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Plastic",
+        "GUID": "{561B3A4E-24CA-4AA4-9D5A-3C3B7D7D905C}"
+       },
+       {
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Concrete",
+        "GUID": "{15E8F383-838B-4947-9B02-C57FE37C96D9}"
+       },
+       {
+        "Id": "2473969246",
+        "Name": "Metal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Metal",
+        "GUID": "{DAF07205-EA54-4B52-9012-270A76DC255E}"
+       }
+      ]
+     }
     ]
    }
   ],
-  "FileHash": "{87D14B0F-C613-82FE-37D8-EB2FCC0D6E8C}"
+  "FileHash": "{16ABD77D-B06F-0181-30FB-A494F4F676AB}"
  }
 }
