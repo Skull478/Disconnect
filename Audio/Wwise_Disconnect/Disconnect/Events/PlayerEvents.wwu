@@ -3,12 +3,23 @@
 	<Events>
 		<WorkUnit Name="PlayerEvents" ID="{ABEDFCF9-2D17-41D8-AAC5-DBD6B099186F}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="PL_Footsteps" ID="{8729EA78-A896-4FB9-BB69-99B0EE0D227D}">
+				<Event Name="Play_PL_Footsteps" ID="{8729EA78-A896-4FB9-BB69-99B0EE0D227D}">
 					<ChildrenList>
 						<Action Name="" ID="{ACA45F67-3531-489F-B340-525BF21C31D9}" ShortID="588887498">
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="PL_Footsteps" ID="{C38E584B-6113-448B-A684-09EC8A120777}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Gen_interact" ID="{376B0EC4-FCB2-4D75-A2B5-0A9603FB12FA}">
+					<ChildrenList>
+						<Action Name="" ID="{FDFD0646-19E4-40A9-B473-643555AD2817}" ShortID="409574464">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Gen_interact" ID="{A9532432-849E-4E9E-80AE-D7CD87CE5D12}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
