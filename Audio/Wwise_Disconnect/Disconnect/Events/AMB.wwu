@@ -21,6 +21,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_AMB_Garage" ID="{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}">
+					<ChildrenList>
+						<Action Name="" ID="{E8767C34-4AAE-498A-A3B9-2CE5456B5333}" ShortID="949924982">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Garage" ID="{B1BCFF33-C3E1-4540-AC81-A7EA5B44B3C6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

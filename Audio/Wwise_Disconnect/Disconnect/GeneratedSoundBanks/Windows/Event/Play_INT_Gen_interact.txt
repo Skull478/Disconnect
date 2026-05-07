@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3689609391	Play_INT_Gen_interact			\PlayerEvents\Play_INT_Gen_interact	
+

@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2207983986",
+    "Type": "Event",
+    "GUID": "{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}",
+    "Language": "SFX",
+    "Hash": "{EDA1F6BA-669B-F0B3-D889-D6307AFFFBBC}",
+    "ObjectPath": "Play_AMB_Garage",
+    "ShortName": "Play_AMB_Garage",
+    "Path": "Event/Play_AMB_Garage.bnk",
+    "Media": [
+     {
+      "Id": "609653296",
+      "Language": "SFX",
+      "Streaming": "true",
+      "Location": "Loose",
+      "ShortName": "AMB_Garage.wav",
+      "Path": "Media/609653296.wem",
+      "CachePath": "D9/{D90C4723-5CB6-D7BC-0046-9E68FDA34DA9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2207983986",
+      "Name": "Play_AMB_Garage",
+      "ObjectPath": "\\Events\\AMB\\Play_AMB_Garage",
+      "GUID": "{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "609653296"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{71949755-291A-4290-F153-198E9CB700F8}"
+ }
+}

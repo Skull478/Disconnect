@@ -10,11 +10,21 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{9C654E5E-D0E9-0EA3-306A-B726FD5CD097}",
+    "Hash": "{7B4716AE-9D2A-95EF-08A7-DA62F4614849}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
     "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "1990128658",
+       "Name": "Room_Medium",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Medium",
+       "GUID": "{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ],
      "AudioDevices": [
       {
        "Id": "2317455096",
@@ -46,6 +56,21 @@
       "Name": "Master Audio Bus",
       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
       "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "3540377276",
+      "Name": "REV_Garage",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Garage",
+      "GUID": "{4809821F-5F41-4F99-8175-61D9A6567B87}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1990128658"
+        }
+       ]
+      }
      }
     ],
     "SwitchGroups": [
@@ -81,9 +106,44 @@
        }
       ]
      }
+    ],
+    "AcousticTextures": [
+     {
+      "Id": "2473969246",
+      "Name": "Metal",
+      "ObjectPath": "\\Virtual Acoustics\\Default Work Unit\\Metal",
+      "GUID": "{82827A8A-709C-48B8-BBDD-0F345A0466BD}",
+      "Properties": [
+       {
+        "Name": "AbsorptionLow",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "AbsorptionMidLow",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "AbsorptionMidHigh",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "AbsorptionHigh",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "Scattering",
+        "Type": "Real32",
+        "Value": "0"
+       }
+      ]
+     }
     ]
    }
   ],
-  "FileHash": "{D3BC53D5-8C06-A7C2-BEDD-5205C659D1A5}"
+  "FileHash": "{53328119-3951-D177-AFCA-A4E524BEC0F2}"
  }
 }

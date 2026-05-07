@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "825856370",
+    "Type": "Event",
+    "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
+    "Language": "SFX",
+    "Hash": "{D1EA89CC-CDB4-0385-68F5-B755690D1047}",
+    "ObjectPath": "Play_OBJ_GarageDoor_open",
+    "ShortName": "Play_OBJ_GarageDoor_open",
+    "Path": "Event/Play_OBJ_GarageDoor_open.bnk",
+    "Media": [
+     {
+      "Id": "413578713",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_GarageDoor_open.wav",
+      "Path": "Media/413578713.wem",
+      "CachePath": "FD/{FDDFFDF8-1B4F-CC35-5744-21B87C2CF145}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "825856370",
+      "Name": "Play_OBJ_GarageDoor_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_GarageDoor_open",
+      "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.25",
+      "DurationMax": "4.25",
+      "MediaRefs": [
+       {
+        "Id": "413578713"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BB594AAA-50EA-EC33-5F02-3EEA23AE0A1F}"
+ }
+}

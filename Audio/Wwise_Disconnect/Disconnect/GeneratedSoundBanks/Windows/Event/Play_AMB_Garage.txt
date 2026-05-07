@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2207983986	Play_AMB_Garage			\AMB\Play_AMB_Garage	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	609653296	AMB_Garage	D:\Utilisateurs\Benoit\Documents\GitHub\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\D9\{D90C4723-5CB6-D7BC-0046-9E68FDA34DA9}.wem	609653296.wem	\Actor-Mixer Hierarchy\Default Work Unit\AMBIANCE\AMB_Garage	
+

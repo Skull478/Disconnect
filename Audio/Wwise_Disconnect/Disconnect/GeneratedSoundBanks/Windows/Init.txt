@@ -1,6 +1,15 @@
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2473969246	Metal			\Default Work Unit\Metal	
+
 Audio Bus	ID	Name			Wwise Object Path	Notes
 	1138681361	Player_Bus			\Default Work Unit\Master Audio Bus\Player_Bus	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3540377276	REV_Garage			\Default Work Unit\Master Audio Bus\REV_Garage	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1990128658	Room_Medium	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			
