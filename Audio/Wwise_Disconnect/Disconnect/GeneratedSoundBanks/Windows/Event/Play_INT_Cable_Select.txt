@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2035846102	Play_INT_Cable_Select			\Default Work Unit\Play_INT_Cable_Select	
+
