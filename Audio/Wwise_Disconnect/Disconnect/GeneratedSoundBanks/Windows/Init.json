@@ -68,6 +68,12 @@
         "GUID": "{15E8F383-838B-4947-9B02-C57FE37C96D9}"
        },
        {
+        "Id": "1181096339",
+        "Name": "Wet",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Wet",
+        "GUID": "{9694F716-1FDB-4C45-A6FA-4B0D09CF5770}"
+       },
+       {
         "Id": "2473969246",
         "Name": "Metal",
         "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Metal",
@@ -78,6 +84,6 @@
     ]
    }
   ],
-  "FileHash": "{16ABD77D-B06F-0181-30FB-A494F4F676AB}"
+  "FileHash": "{D3BC53D5-8C06-A7C2-BEDD-5205C659D1A5}"
  }
 }

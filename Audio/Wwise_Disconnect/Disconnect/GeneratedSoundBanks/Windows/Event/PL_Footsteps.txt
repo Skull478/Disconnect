@@ -7,5 +7,6 @@ Switch Group	ID	Name			Wwise Object Path	Notes
 Switch	ID	Name	Switch Group			Notes
 	660835419	Plastic	Material			
 	841620460	Concrete	Material			
+	1181096339	Wet	Material			
 	2473969246	Metal	Material			
 

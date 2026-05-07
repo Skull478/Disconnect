@@ -570,6 +570,9 @@
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
 								</Reference>
+								<Reference Name="DefaultSwitchOrState">
+									<ObjectRef Name="Metal" ID="{DAF07205-EA54-4B52-9012-270A76DC255E}" WorkUnitID="{BE2758AA-E9B4-446E-8FF9-5AB945820F20}"/>
+								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
 								</Reference>
@@ -604,7 +607,7 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<Sound Name="concrete_01" ID="{AB847F64-F395-4E3E-9911-75BEE6A87FD5}" ShortID="926559700">
+										<Sound Name="concrete_01" ID="{A0C17CAF-26E7-4A61-9337-B076323FF891}" ShortID="881335727">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -614,19 +617,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_01" ID="{F21F509D-14B5-4643-84CB-1DB97A72533B}">
+												<AudioFileSource Name="concrete_01" ID="{688900DD-A7C6-48C7-B3E8-DE1974468E17}">
 													<Language>SFX</Language>
-													<AudioFile>$region_01.wav</AudioFile>
+													<AudioFile>concrete_01.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="986772648"/>
+														<MediaID ID="894261694"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_01" ID="{F21F509D-14B5-4643-84CB-1DB97A72533B}" Platform="Linked"/>
+												<ActiveSource Name="concrete_01" ID="{688900DD-A7C6-48C7-B3E8-DE1974468E17}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_02" ID="{315AE164-1DDD-4D3C-8215-27F16586AB61}" ShortID="105771258">
+										<Sound Name="concrete_02" ID="{CDCD5E2C-68AE-4745-B052-E03F86031755}" ShortID="830481211">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -636,19 +639,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_02" ID="{A5558B68-8D71-4508-BDA4-398CBEE9DF6D}">
+												<AudioFileSource Name="concrete_02" ID="{47D4D47F-9FA1-4EDC-BE9C-B466D3B41736}">
 													<Language>SFX</Language>
-													<AudioFile>$region_02.wav</AudioFile>
+													<AudioFile>concrete_02.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="979014120"/>
+														<MediaID ID="1001690823"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_02" ID="{A5558B68-8D71-4508-BDA4-398CBEE9DF6D}" Platform="Linked"/>
+												<ActiveSource Name="concrete_02" ID="{47D4D47F-9FA1-4EDC-BE9C-B466D3B41736}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_03" ID="{58BC39A9-1241-4C9F-82AE-D61AE777195B}" ShortID="503104768">
+										<Sound Name="concrete_03" ID="{8D866301-5883-4700-86E5-B929298AF5BC}" ShortID="96086194">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -658,19 +661,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_03" ID="{F831078D-6E8F-4082-9AD0-7FAA2164D6AA}">
+												<AudioFileSource Name="concrete_03" ID="{052DB694-744F-4DA9-93CA-B02A5A85CD6B}">
 													<Language>SFX</Language>
-													<AudioFile>$region_03.wav</AudioFile>
+													<AudioFile>concrete_03.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="625162232"/>
+														<MediaID ID="1009761822"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_03" ID="{F831078D-6E8F-4082-9AD0-7FAA2164D6AA}" Platform="Linked"/>
+												<ActiveSource Name="concrete_03" ID="{052DB694-744F-4DA9-93CA-B02A5A85CD6B}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_04" ID="{03521685-14A5-4513-ACE4-D4228D42AAF5}" ShortID="368581565">
+										<Sound Name="concrete_04" ID="{F61AC173-C842-4083-9D96-988263E8726D}" ShortID="709437520">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -680,19 +683,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_04" ID="{08C27420-40B1-4003-9F60-474F2645B0C2}">
+												<AudioFileSource Name="concrete_04" ID="{18DDC2A6-3D98-4C09-A387-FE5C2D71F97D}">
 													<Language>SFX</Language>
-													<AudioFile>$region_04.wav</AudioFile>
+													<AudioFile>concrete_04.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="653910795"/>
+														<MediaID ID="830821356"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_04" ID="{08C27420-40B1-4003-9F60-474F2645B0C2}" Platform="Linked"/>
+												<ActiveSource Name="concrete_04" ID="{18DDC2A6-3D98-4C09-A387-FE5C2D71F97D}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_05" ID="{98CDC9EF-F220-4661-837C-886E74731BFC}" ShortID="819754999">
+										<Sound Name="concrete_05" ID="{07512505-C7C6-407D-88BC-180E3C49E3FA}" ShortID="655203990">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -702,19 +705,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_05" ID="{0F2188A2-B846-41F0-93FF-99D90153665E}">
+												<AudioFileSource Name="concrete_05" ID="{971D9432-591F-4A43-A9B1-6DCBE9498B9F}">
 													<Language>SFX</Language>
-													<AudioFile>$region_05.wav</AudioFile>
+													<AudioFile>concrete_05.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="230901682"/>
+														<MediaID ID="647241310"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_05" ID="{0F2188A2-B846-41F0-93FF-99D90153665E}" Platform="Linked"/>
+												<ActiveSource Name="concrete_05" ID="{971D9432-591F-4A43-A9B1-6DCBE9498B9F}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_06" ID="{C5960709-6047-4CB1-99E2-3FCE24CBD90F}" ShortID="598479684">
+										<Sound Name="concrete_06" ID="{F7A9E5C2-8EF5-4AA7-BB2B-7E106A7DC5C1}" ShortID="899818418">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -724,19 +727,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_06" ID="{CCADE7C0-6760-41C5-83EC-1AAA6FE29139}">
+												<AudioFileSource Name="concrete_06" ID="{0F6B6EE2-9DD7-4CE1-8CD1-41EE3156D0C1}">
 													<Language>SFX</Language>
-													<AudioFile>$region_06.wav</AudioFile>
+													<AudioFile>concrete_06.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="1015458140"/>
+														<MediaID ID="986659287"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_06" ID="{CCADE7C0-6760-41C5-83EC-1AAA6FE29139}" Platform="Linked"/>
+												<ActiveSource Name="concrete_06" ID="{0F6B6EE2-9DD7-4CE1-8CD1-41EE3156D0C1}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_07" ID="{F5C8F45D-CEB7-4FEB-B1E3-D07ABFC73290}" ShortID="403255071">
+										<Sound Name="concrete_07" ID="{0C103E5D-3C97-4663-B90D-E1471A1687F4}" ShortID="871812956">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -746,19 +749,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_07" ID="{AEC7C3E6-4E8E-44D4-B754-D157A2426EC4}">
+												<AudioFileSource Name="concrete_07" ID="{92BBF52D-7B20-4597-B9B0-BCAB2D47CBB8}">
 													<Language>SFX</Language>
-													<AudioFile>$region_07.wav</AudioFile>
+													<AudioFile>concrete_07.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="440787668"/>
+														<MediaID ID="120268379"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_07" ID="{AEC7C3E6-4E8E-44D4-B754-D157A2426EC4}" Platform="Linked"/>
+												<ActiveSource Name="concrete_07" ID="{92BBF52D-7B20-4597-B9B0-BCAB2D47CBB8}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_08" ID="{46F2CD17-C665-4CDE-8912-49B8DB783CDA}" ShortID="75399667">
+										<Sound Name="concrete_08" ID="{9DE8D285-B25B-4A43-B21E-55736884A9FD}" ShortID="255721317">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -768,19 +771,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_08" ID="{EE098D35-2222-420C-A523-F484AAA6B3F8}">
+												<AudioFileSource Name="concrete_08" ID="{057B3486-EA20-4FDE-913B-57AB2ABB75C0}">
 													<Language>SFX</Language>
-													<AudioFile>$region_08.wav</AudioFile>
+													<AudioFile>concrete_08.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="1071442842"/>
+														<MediaID ID="192815187"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_08" ID="{EE098D35-2222-420C-A523-F484AAA6B3F8}" Platform="Linked"/>
+												<ActiveSource Name="concrete_08" ID="{057B3486-EA20-4FDE-913B-57AB2ABB75C0}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_09" ID="{DCAFE653-25B0-4AAE-AEA9-A9F370FF6948}" ShortID="820425878">
+										<Sound Name="concrete_09" ID="{AD1DB9C9-B154-4263-A2B5-12F321F0B5E9}" ShortID="835048906">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -790,19 +793,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_09" ID="{4038BD3D-E627-4C02-B016-1B81B882FFCC}">
+												<AudioFileSource Name="concrete_09" ID="{96531077-3822-469E-81BD-200E31B3D009}">
 													<Language>SFX</Language>
-													<AudioFile>$region_09.wav</AudioFile>
+													<AudioFile>concrete_09.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="577048927"/>
+														<MediaID ID="174597756"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_09" ID="{4038BD3D-E627-4C02-B016-1B81B882FFCC}" Platform="Linked"/>
+												<ActiveSource Name="concrete_09" ID="{96531077-3822-469E-81BD-200E31B3D009}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_10" ID="{B37FC73F-7AB4-421D-A063-E4AA95583F0C}" ShortID="88579453">
+										<Sound Name="concrete_10" ID="{BE6D438A-9A8F-4011-9529-5EEDC120D29B}" ShortID="535329420">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -812,19 +815,19 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_10" ID="{40B2C1BD-C464-415E-9E2E-0E160C76242D}">
+												<AudioFileSource Name="concrete_10" ID="{5E4042EB-FA52-4AF6-A53F-B8099359BEB6}">
 													<Language>SFX</Language>
-													<AudioFile>$region_10.wav</AudioFile>
+													<AudioFile>concrete_10.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="143011961"/>
+														<MediaID ID="885732358"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_10" ID="{40B2C1BD-C464-415E-9E2E-0E160C76242D}" Platform="Linked"/>
+												<ActiveSource Name="concrete_10" ID="{5E4042EB-FA52-4AF6-A53F-B8099359BEB6}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
-										<Sound Name="concrete_11" ID="{D7A8F8CC-87EA-4DA9-A07E-D478FA43AE08}" ShortID="738318291">
+										<Sound Name="concrete_11" ID="{C8FDAF5C-7285-4A23-B087-8947173B5C90}" ShortID="578876973">
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -834,16 +837,358 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="$region_11" ID="{1C27E2DD-5C2E-401A-A9C2-3B94867CE3C9}">
+												<AudioFileSource Name="concrete_11" ID="{5AF23128-CB06-43FB-B1BD-7EEE7A9E0EB3}">
 													<Language>SFX</Language>
-													<AudioFile>$region_11.wav</AudioFile>
+													<AudioFile>concrete_11.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="512074321"/>
+														<MediaID ID="216320159"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
 											<ActiveSourceList>
-												<ActiveSource Name="$region_11" ID="{1C27E2DD-5C2E-401A-A9C2-3B94867CE3C9}" Platform="Linked"/>
+												<ActiveSource Name="concrete_11" ID="{5AF23128-CB06-43FB-B1BD-7EEE7A9E0EB3}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="Metal" ID="{C1B6DEFB-F730-4ACC-BFFD-08F7E3A2CF16}" ShortID="135595578">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="Metal _01" ID="{FE0E70D8-B41A-4686-947B-69F7717B4788}" ShortID="612329950">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_01" ID="{EED9AE09-98E7-4FD0-8D7E-4A0D0336F201}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_01.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="353137992"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_01" ID="{EED9AE09-98E7-4FD0-8D7E-4A0D0336F201}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _02" ID="{C72C5DDF-C474-4099-B7E7-0FCACEEB1413}" ShortID="734332887">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_02" ID="{C1FF3D0B-B567-44E6-886B-9D2ED1ABE415}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_02.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="593068818"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_02" ID="{C1FF3D0B-B567-44E6-886B-9D2ED1ABE415}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _03" ID="{8E39DB02-2FFD-4833-8EB7-A6BC24E50762}" ShortID="843674755">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_03" ID="{FF4F763D-015D-4045-B0D6-D28782425AE9}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_03.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="60503740"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_03" ID="{FF4F763D-015D-4045-B0D6-D28782425AE9}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _04" ID="{140726ED-70A0-471F-A4DE-4EB115054EC5}" ShortID="191762863">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_04" ID="{5E2ABCB1-B237-40BE-BCA3-BF4F6AD0C623}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_04.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="333138392"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_04" ID="{5E2ABCB1-B237-40BE-BCA3-BF4F6AD0C623}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _05" ID="{7DB04E95-E781-401C-B4EC-FBCFDD835A60}" ShortID="583582401">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_05" ID="{16D1D585-8A7C-4E3E-8B12-B77CADA8F734}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_05.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="635612121"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_05" ID="{16D1D585-8A7C-4E3E-8B12-B77CADA8F734}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _06" ID="{9662AE75-2EE5-495A-A3B8-0798B6671B85}" ShortID="22978547">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_06" ID="{9215AA05-1E34-4500-8BDF-574137754D7D}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_06.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="754231539"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_06" ID="{9215AA05-1E34-4500-8BDF-574137754D7D}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _07" ID="{F53215C8-15BE-4D14-92CE-43FB83725B34}" ShortID="448038884">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_07" ID="{C78C85EC-89C3-4A33-BCAA-65D0206D3846}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_07.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="999699976"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_07" ID="{C78C85EC-89C3-4A33-BCAA-65D0206D3846}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _08" ID="{AEB7EE50-4EC2-4B56-8B3D-276D4DD15439}" ShortID="222507079">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_08" ID="{893AC40A-FD8B-4A05-8906-DCE9B318A2A7}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_08.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="110577572"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_08" ID="{893AC40A-FD8B-4A05-8906-DCE9B318A2A7}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _09" ID="{420022C4-30A0-4C2D-91D1-E6D1055F1DC3}" ShortID="1028734895">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_09" ID="{D8E81F34-B7C7-4DEE-9DFF-E4ECCBF0803F}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_09.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="354227983"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_09" ID="{D8E81F34-B7C7-4DEE-9DFF-E4ECCBF0803F}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _10" ID="{530F98DC-DC30-4347-92F2-FA80776DDAEC}" ShortID="578047457">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_10" ID="{8CB97B65-625A-463D-A894-212547E17F80}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_10.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="139540868"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_10" ID="{8CB97B65-625A-463D-A894-212547E17F80}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _11" ID="{9D49D9EE-0A00-4A1B-91E4-13E015F54B20}" ShortID="30352104">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_11" ID="{900253C9-DC56-4864-93C7-B5348C5EE346}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_11.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="229993499"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_11" ID="{900253C9-DC56-4864-93C7-B5348C5EE346}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _12" ID="{0A58019A-1826-41E3-9CB1-26FA9AA33989}" ShortID="808171165">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_12" ID="{656F20C6-FB4A-43F5-821B-13455C1C5CAC}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_12.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="785368874"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_12" ID="{656F20C6-FB4A-43F5-821B-13455C1C5CAC}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _13" ID="{6B295065-5D6C-40CF-930D-8CF4288EBB14}" ShortID="715950235">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_13" ID="{427C5CA1-4885-4C8B-9EBC-0A237CA87C8D}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_13.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="115001369"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_13" ID="{427C5CA1-4885-4C8B-9EBC-0A237CA87C8D}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _14" ID="{DDB9259A-0597-41ED-95F0-11BEB566A108}" ShortID="943316400">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_14" ID="{65FCB848-7737-4DA8-946E-0FF150C16106}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_14.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="435227251"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_14" ID="{65FCB848-7737-4DA8-946E-0FF150C16106}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Metal _15" ID="{5D52331D-CF1B-4670-83C2-FC513CDCFF83}" ShortID="375976042">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Metal_15" ID="{CE57F82A-9BD9-46D5-8E4D-EB271C49A7AF}">
+													<Language>SFX</Language>
+													<AudioFile>Metal_15.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="434401431"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Metal_15" ID="{CE57F82A-9BD9-46D5-8E4D-EB271C49A7AF}" Platform="Linked"/>
 											</ActiveSourceList>
 										</Sound>
 									</ChildrenList>
@@ -854,8 +1199,17 @@
 									<GroupingBehavior>
 										<ItemRef Name="Concrete" ID="{AA9B9920-0C77-44B6-8769-598943F3D73F}"/>
 									</GroupingBehavior>
+									<GroupingBehavior>
+										<ItemRef Name="Metal" ID="{C1B6DEFB-F730-4ACC-BFFD-08F7E3A2CF16}"/>
+									</GroupingBehavior>
 								</GroupingBehaviorList>
 								<GroupingList>
+									<Grouping>
+										<SwitchRef Name="Metal" ID="{DAF07205-EA54-4B52-9012-270A76DC255E}"/>
+										<ItemList>
+											<ItemRef Name="Metal" ID="{C1B6DEFB-F730-4ACC-BFFD-08F7E3A2CF16}"/>
+										</ItemList>
+									</Grouping>
 									<Grouping>
 										<SwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
 										<ItemList>

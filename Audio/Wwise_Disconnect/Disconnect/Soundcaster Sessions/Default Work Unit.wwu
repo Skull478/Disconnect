@@ -14,6 +14,19 @@
 					<CurrentStateList ShowAll="true"/>
 					<CurrentSwitchList ShowAll="true"/>
 				</SoundcasterSession>
+				<SoundcasterSession Name="Footsteps" ID="{3FC77A49-0B52-4CFB-A1E4-555356520242}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="PL_Footsteps" ID="{8729EA78-A896-4FB9-BB69-99B0EE0D227D}" WorkUnitID="{ABEDFCF9-2D17-41D8-AAC5-DBD6B099186F}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundcasterSessions>
