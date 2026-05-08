@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	470245327	Play_OBJ_Light_Bulb_Disfunction			\Default Work Unit\Play_OBJ_Light_Bulb_Disfunction	
+

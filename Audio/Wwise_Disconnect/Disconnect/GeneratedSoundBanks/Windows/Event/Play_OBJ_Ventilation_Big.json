@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2805917058",
+    "Type": "Event",
+    "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
+    "Language": "SFX",
+    "Hash": "{46CD1B87-76E4-9334-ED10-F280F2BDA61B}",
+    "ObjectPath": "Play_OBJ_Ventilation_Big",
+    "ShortName": "Play_OBJ_Ventilation_Big",
+    "Path": "Event/Play_OBJ_Ventilation_Big.bnk",
+    "Media": [
+     {
+      "Id": "288961223",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Ventilation_Big.wav",
+      "Path": "Media/288961223.wem",
+      "CachePath": "96/{96812935-3416-2268-00C7-44D307C73F38}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2805917058",
+      "Name": "Play_OBJ_Ventilation_Big",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Ventilation_Big",
+      "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
+      "MaxAttenuation": "2500",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "288961223"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{99B18C84-CBE6-DF24-2ACE-9532ED801A92}"
+ }
+}

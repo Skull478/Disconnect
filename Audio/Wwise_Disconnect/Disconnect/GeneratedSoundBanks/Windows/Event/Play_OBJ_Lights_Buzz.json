@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "599904717",
+    "Type": "Event",
+    "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
+    "Language": "SFX",
+    "Hash": "{F1A65253-4596-78B7-23E1-4179842ED4E4}",
+    "ObjectPath": "Play_OBJ_Lights_Buzz",
+    "ShortName": "Play_OBJ_Lights_Buzz",
+    "Path": "Event/Play_OBJ_Lights_Buzz.bnk",
+    "Media": [
+     {
+      "Id": "240557517",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Buzz_Light.wav",
+      "Path": "Media/240557517.wem",
+      "CachePath": "5E/{5E554EE4-2EB9-BF05-E52B-1B170D437B52}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "599904717",
+      "Name": "Play_OBJ_Lights_Buzz",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Lights_Buzz",
+      "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
+      "MaxAttenuation": "500",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "240557517"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2B06FF51-0D83-F410-A3AF-0C68AA0C9647}"
+ }
+}
