@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3203710575",
+    "Type": "Event",
+    "GUID": "{4D1956CD-486B-4804-84B4-6F66DAC3027F}",
+    "Language": "SFX",
+    "Hash": "{FCC1ED38-2D9B-B284-411D-2DE7E66F4058}",
+    "ObjectPath": "Play_UI_Energy_Button_Click",
+    "ShortName": "Play_UI_Energy_Button_Click",
+    "Path": "Event/Play_UI_Energy_Button_Click.bnk",
+    "Media": [
+     {
+      "Id": "381322251",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Energy_Button_Click.wav",
+      "Path": "Media/381322251.wem",
+      "CachePath": "54/{5414AE3E-8B16-A559-3196-EA6385687B41}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3203710575",
+      "Name": "Play_UI_Energy_Button_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Energy_Button_Click",
+      "GUID": "{4D1956CD-486B-4804-84B4-6F66DAC3027F}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9426042",
+      "DurationMax": "1.9426042",
+      "MediaRefs": [
+       {
+        "Id": "381322251"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3E13117F-8E70-D02C-0855-9823EF0F9BA6}"
+ }
+}

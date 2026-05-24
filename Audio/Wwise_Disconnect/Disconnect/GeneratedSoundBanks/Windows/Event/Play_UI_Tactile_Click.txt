@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	872771252	Play_UI_Tactile_Click			\UI\Clicks\Play_UI_Tactile_Click	
+

@@ -37,7 +37,7 @@
 						<Action Name="" ID="{979D1E4A-8845-4D78-8563-A1147A71516A}" ShortID="734337709">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="AMB_DevRoom" ID="{2ED74393-2FFA-490A-898A-7926CC0F7650}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+									<ObjectRef Name="AMB_Dev" ID="{914D8A94-6A36-4900-8E04-3F462E5A44FE}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

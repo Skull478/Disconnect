@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1878528480	Play_UI_Chirp_Click			\UI\Clicks\Play_UI_Chirp_Click	
+

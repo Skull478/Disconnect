@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2765392940	Play_UI_Arrow2			\UI\Arrows\Play_UI_Arrow2	
+

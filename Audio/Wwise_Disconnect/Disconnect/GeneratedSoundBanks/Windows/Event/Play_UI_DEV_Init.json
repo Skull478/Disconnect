@@ -8,20 +8,20 @@
    {
     "Id": "216775781",
     "Type": "Event",
-    "GUID": "{B7B2081C-0572-47C4-9765-960A620AA53F}",
+    "GUID": "{913A21D1-96F4-4EE2-A6A6-D3B3988220C3}",
     "Language": "SFX",
-    "Hash": "{487E8CB1-0DBD-D9F6-7750-AA32F269AFC1}",
+    "Hash": "{22DA1CDA-3FD7-B485-2B83-DE66BB907FF9}",
     "ObjectPath": "Play_UI_DEV_Init",
     "ShortName": "Play_UI_DEV_Init",
     "Path": "Event/Play_UI_DEV_Init.bnk",
     "Media": [
      {
-      "Id": "242524556",
+      "Id": "981391543",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
       "ShortName": "UI_DEV_Init.wav",
-      "Path": "Media/242524556.wem",
+      "Path": "Media/981391543.wem",
       "CachePath": "82/{822B64A1-D57E-8614-F86B-82251A51FA25}.wem"
      }
     ],
@@ -29,20 +29,20 @@
      {
       "Id": "216775781",
       "Name": "Play_UI_DEV_Init",
-      "ObjectPath": "\\Events\\UI\\Play_UI_DEV_Init",
-      "GUID": "{B7B2081C-0572-47C4-9765-960A620AA53F}",
+      "ObjectPath": "\\Events\\UI\\Validations\\Play_UI_DEV_Init",
+      "GUID": "{913A21D1-96F4-4EE2-A6A6-D3B3988220C3}",
       "DurationType": "OneShot",
       "DurationMin": "0.77347916",
       "DurationMax": "0.77347916",
       "MediaRefs": [
        {
-        "Id": "242524556"
+        "Id": "981391543"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{D816CCD0-E363-78F0-4140-0D188D328D39}"
+  "FileHash": "{F3433E3D-4EA5-0549-D368-D13F6742E682}"
  }
 }
