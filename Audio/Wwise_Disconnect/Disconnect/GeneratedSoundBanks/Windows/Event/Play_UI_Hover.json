@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{60666015-FB08-46A8-BB79-677FB3F826A8}",
     "Language": "SFX",
-    "Hash": "{0EC34BC1-273C-935B-097E-B64AF5CC331A}",
+    "Hash": "{60CFFE6E-DDDB-A7DA-0CD4-411EA152BE12}",
     "ObjectPath": "Play_UI_Hover",
     "ShortName": "Play_UI_Hover",
     "Path": "Event/Play_UI_Hover.bnk",
@@ -47,7 +47,7 @@
      {
       "Id": "1339559671",
       "Name": "Play_UI_Hover",
-      "ObjectPath": "\\Events\\UI\\Play_UI_Hover",
+      "ObjectPath": "\\Events\\UI\\Hovers\\Play_UI_Hover",
       "GUID": "{60666015-FB08-46A8-BB79-677FB3F826A8}",
       "DurationType": "OneShot",
       "DurationMin": "0.018348055",
@@ -67,6 +67,6 @@
     ]
    }
   ],
-  "FileHash": "{7473BB2B-0C75-1561-A77E-83FD6199440D}"
+  "FileHash": "{B9BAAB6F-6192-37E8-BA5A-A9988F2C4A5E}"
  }
 }

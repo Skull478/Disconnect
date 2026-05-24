@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2850053237",
+    "Type": "Event",
+    "GUID": "{4C30AF9B-0258-43E1-B6B5-E813D0A21767}",
+    "Language": "SFX",
+    "Hash": "{AAB4C09C-D71B-D3D3-444A-D9205FAE8DA7}",
+    "ObjectPath": "Play_Kiss_Click",
+    "ShortName": "Play_Kiss_Click",
+    "Path": "Event/Play_Kiss_Click.bnk",
+    "Media": [
+     {
+      "Id": "450262475",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Kiss_Click.wav",
+      "Path": "Media/450262475.wem",
+      "CachePath": "34/{34BC7511-00BD-A113-B1E6-EF6181AAD9BB}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2850053237",
+      "Name": "Play_Kiss_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_Kiss_Click",
+      "GUID": "{4C30AF9B-0258-43E1-B6B5-E813D0A21767}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "450262475"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{95CFA050-028F-02A6-A0E0-2855F10CE7C5}"
+ }
+}

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
     "Language": "SFX",
-    "Hash": "{F6FFA43A-576C-A71E-7F58-B31E917C0481}",
+    "Hash": "{4F73FF27-9A15-BC7C-45D5-4E2E3E7E683B}",
     "ObjectPath": "Play_OBJ_Ventilation_Medium",
     "ShortName": "Play_OBJ_Ventilation_Medium",
     "Path": "Event/Play_OBJ_Ventilation_Medium.bnk",
@@ -29,7 +29,7 @@
      {
       "Id": "2993175549",
       "Name": "Play_OBJ_Ventilation_Medium",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Ventilation_Medium",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Medium",
       "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
       "MaxAttenuation": "300",
       "DurationType": "Infinite",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{4D4223FA-713E-FB9B-62CE-1AF29424DEBF}"
+  "FileHash": "{BE899398-EEEC-F085-2C6A-5F67E60760C3}"
  }
 }

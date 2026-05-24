@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	324988396	Play_Computer_Click			\UI\Clicks\Play_Computer_Click	
+

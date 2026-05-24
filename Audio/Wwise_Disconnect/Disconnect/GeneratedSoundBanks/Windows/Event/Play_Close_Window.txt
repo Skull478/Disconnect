@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1180328765	Play_Close_Window			\UI\Cancel\Play_Close_Window	
+

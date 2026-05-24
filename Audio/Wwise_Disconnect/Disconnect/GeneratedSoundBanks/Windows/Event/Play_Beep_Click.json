@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3590013543",
+    "Type": "Event",
+    "GUID": "{A57255FE-B860-4952-BBC5-1E1B011D31FF}",
+    "Language": "SFX",
+    "Hash": "{CC1D5763-C46A-FAF0-17AD-1C84A3D24289}",
+    "ObjectPath": "Play_Beep_Click",
+    "ShortName": "Play_Beep_Click",
+    "Path": "Event/Play_Beep_Click.bnk",
+    "Media": [
+     {
+      "Id": "271914277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Beep_Click-001.wav",
+      "Path": "Media/271914277.wem",
+      "CachePath": "4E/{4E903C8E-68C5-CA2B-13B3-BC8CA6573F0B}.wem"
+     },
+     {
+      "Id": "684780767",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Beep_Click-002.wav",
+      "Path": "Media/684780767.wem",
+      "CachePath": "9C/{9C4A5DAE-E11F-CE3E-6852-F4E74289BE00}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3590013543",
+      "Name": "Play_Beep_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_Beep_Click",
+      "GUID": "{A57255FE-B860-4952-BBC5-1E1B011D31FF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.072",
+      "DurationMax": "0.094166666",
+      "MediaRefs": [
+       {
+        "Id": "271914277"
+       },
+       {
+        "Id": "684780767"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{15152C3E-83DF-FF05-FF38-9919F3EE453A}"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "295534892",
+    "Type": "Event",
+    "GUID": "{A47B1E65-E9A1-4ACA-AD1B-4B2028B6B77D}",
+    "Language": "SFX",
+    "Hash": "{503932FB-912C-E56B-8CD4-2C5028D646EE}",
+    "ObjectPath": "Play_Bop_Click",
+    "ShortName": "Play_Bop_Click",
+    "Path": "Event/Play_Bop_Click.bnk",
+    "Media": [
+     {
+      "Id": "165290215",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Boop_Click-001.wav",
+      "Path": "Media/165290215.wem",
+      "CachePath": "C6/{C6EF107D-5299-8FAC-6223-F5B340E0B3CE}.wem"
+     },
+     {
+      "Id": "227256411",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Boop_Click-002.wav",
+      "Path": "Media/227256411.wem",
+      "CachePath": "21/{21BA5D1F-9F31-665F-93A3-0BB6A9D39E72}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "295534892",
+      "Name": "Play_Bop_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_Bop_Click",
+      "GUID": "{A47B1E65-E9A1-4ACA-AD1B-4B2028B6B77D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.12166667",
+      "DurationMax": "0.13391666",
+      "MediaRefs": [
+       {
+        "Id": "165290215"
+       },
+       {
+        "Id": "227256411"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F4C2568E-6A7A-2F9F-EB42-0718CD206F46}"
+ }
+}

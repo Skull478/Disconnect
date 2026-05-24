@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2142802297",
+    "Type": "Event",
+    "GUID": "{7DE19231-2F46-4D02-B62D-4E46F4ABD66D}",
+    "Language": "SFX",
+    "Hash": "{D6F9ADD0-A55B-32B3-4E4F-BD66680602E1}",
+    "ObjectPath": "Play_Arrow",
+    "ShortName": "Play_Arrow",
+    "Path": "Event/Play_Arrow.bnk",
+    "Media": [
+     {
+      "Id": "834835945",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Arrow.wav",
+      "Path": "Media/834835945.wem",
+      "CachePath": "5F/{5F929ACB-BC87-D7FB-BF8E-5D3F83083136}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2142802297",
+      "Name": "Play_Arrow",
+      "ObjectPath": "\\Events\\UI\\Arrows\\Play_Arrow",
+      "GUID": "{7DE19231-2F46-4D02-B62D-4E46F4ABD66D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.205",
+      "DurationMax": "0.205",
+      "MediaRefs": [
+       {
+        "Id": "834835945"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{298575C7-9664-6438-A3DC-F4C61D208CEB}"
+ }
+}

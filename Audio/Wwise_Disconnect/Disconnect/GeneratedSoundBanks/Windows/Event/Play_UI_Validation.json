@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{12D527F8-A4CC-413C-9C43-8A88664EB97F}",
     "Language": "SFX",
-    "Hash": "{20C02733-C4C9-1EA3-FAD5-502E7EAC53C9}",
+    "Hash": "{A530A64F-4DE6-CAD3-5B21-256F7882FED2}",
     "ObjectPath": "Play_UI_Validation",
     "ShortName": "Play_UI_Validation",
     "Path": "Event/Play_UI_Validation.bnk",
@@ -47,7 +47,7 @@
      {
       "Id": "745563126",
       "Name": "Play_UI_Validation",
-      "ObjectPath": "\\Events\\UI\\Play_UI_Validation",
+      "ObjectPath": "\\Events\\UI\\Validations\\Play_UI_Validation",
       "GUID": "{12D527F8-A4CC-413C-9C43-8A88664EB97F}",
       "DurationType": "OneShot",
       "DurationMin": "0.48822916",
@@ -67,6 +67,6 @@
     ]
    }
   ],
-  "FileHash": "{6C6D00FC-5B03-69A1-0533-E6C595042413}"
+  "FileHash": "{74708B76-1D0F-88E2-23B8-DE779683B0A2}"
  }
 }

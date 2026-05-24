@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
     "Language": "SFX",
-    "Hash": "{936780A0-4926-34E2-292E-29E759DE2C6C}",
+    "Hash": "{EC2E7126-8D84-6912-8F7C-55228B58C5F4}",
     "ObjectPath": "Play_OBJ_GarageDoor_open",
     "ShortName": "Play_OBJ_GarageDoor_open",
     "Path": "Event/Play_OBJ_GarageDoor_open.bnk",
@@ -29,9 +29,8 @@
      {
       "Id": "825856370",
       "Name": "Play_OBJ_GarageDoor_open",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_GarageDoor_open",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_GarageDoor_open",
       "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "4.25",
       "DurationMax": "4.25",
@@ -44,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{4013852F-94A4-4580-8A07-73AE43127F07}"
+  "FileHash": "{15177E57-BB7D-F56B-6AD1-36F75C318E92}"
  }
 }

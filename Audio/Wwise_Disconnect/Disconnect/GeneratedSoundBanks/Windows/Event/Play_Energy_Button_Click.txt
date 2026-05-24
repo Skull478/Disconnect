@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2762546844	Play_Energy_Button_Click			\UI\Clicks\Play_Energy_Button_Click	
+

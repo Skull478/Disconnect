@@ -56,7 +56,7 @@
      {
       "Id": "2035846102",
       "Name": "Play_INT_Cable_Select",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_INT_Cable_Select",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cable_Select",
       "GUID": "{8E9320EF-1D17-4309-9582-89806EA11E91}",
       "DurationType": "OneShot",
       "DurationMin": "0.0674375",
@@ -79,6 +79,6 @@
     ]
    }
   ],
-  "FileHash": "{4C146E98-52A5-7281-61BF-63463545FDBB}"
+  "FileHash": "{91D1B161-ECF1-0E88-E018-E95C63AA5541}"
  }
 }
