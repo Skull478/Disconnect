@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="UI" ID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_UI_Validation" ID="{12D527F8-A4CC-413C-9C43-8A88664EB97F}">
+					<ChildrenList>
+						<Action Name="" ID="{66A3BF0F-F988-4CA3-839A-AC2A258AC03F}" ShortID="877548810">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Validation" ID="{7F5DC71F-CF11-47B6-B0E8-BF99283FF63E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Click" ID="{014CC4D8-9F8B-415C-808C-AA67D66102C7}">
+					<ChildrenList>
+						<Action Name="" ID="{8EAAA423-AF89-454F-B4B4-EFC244E47790}" ShortID="1027723649">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Click" ID="{0A855964-2DAD-4412-B88B-6178D659D967}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Hover" ID="{60666015-FB08-46A8-BB79-677FB3F826A8}">
+					<ChildrenList>
+						<Action Name="" ID="{F07DF4B4-0B33-4BA0-9163-865F2CB54506}" ShortID="252262659">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Hover" ID="{67745F06-C366-4DFB-9B6D-122BEACC1036}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
