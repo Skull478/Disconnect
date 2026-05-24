@@ -1,0 +1,108 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2713070938",
+    "Type": "Event",
+    "GUID": "{070F6CE0-C4AC-4AB1-89C6-5E79EE283C27}",
+    "Language": "SFX",
+    "Hash": "{81297B84-1BE2-8079-F32F-DAC7411490AB}",
+    "ObjectPath": "Play_UI_Hard_Button_Click",
+    "ShortName": "Play_UI_Hard_Button_Click",
+    "Path": "Event/Play_UI_Hard_Button_Click.bnk",
+    "Media": [
+     {
+      "Id": "311766916",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Hard_ButtonClick-006.wav",
+      "Path": "Media/311766916.wem",
+      "CachePath": "7D/{7DA875C7-5644-9A8A-84EF-19A06BBEB6E1}.wem"
+     },
+     {
+      "Id": "318830733",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Hard_ButtonClick-001.wav",
+      "Path": "Media/318830733.wem",
+      "CachePath": "F7/{F700A9E0-EA46-4346-97EE-CB0D8B0BD498}.wem"
+     },
+     {
+      "Id": "507725617",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Hard_ButtonClick-004.wav",
+      "Path": "Media/507725617.wem",
+      "CachePath": "15/{1524B0D5-4721-B0FE-0246-8B56489237D9}.wem"
+     },
+     {
+      "Id": "512548685",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Hard_ButtonClick-005.wav",
+      "Path": "Media/512548685.wem",
+      "CachePath": "AF/{AFD9FA2D-B526-8380-5258-2D6882A92FEF}.wem"
+     },
+     {
+      "Id": "558605936",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Hard_ButtonClick-002.wav",
+      "Path": "Media/558605936.wem",
+      "CachePath": "D7/{D7554F57-C3E2-D209-84F0-9769B8793AED}.wem"
+     },
+     {
+      "Id": "1073063572",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Hard_ButtonClick-003.wav",
+      "Path": "Media/1073063572.wem",
+      "CachePath": "C2/{C263B056-B3F8-FB16-2C98-0A2BA0AA8332}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2713070938",
+      "Name": "Play_UI_Hard_Button_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Hard_Button_Click",
+      "GUID": "{070F6CE0-C4AC-4AB1-89C6-5E79EE283C27}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "311766916"
+       },
+       {
+        "Id": "318830733"
+       },
+       {
+        "Id": "507725617"
+       },
+       {
+        "Id": "512548685"
+       },
+       {
+        "Id": "558605936"
+       },
+       {
+        "Id": "1073063572"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E4F92F42-12EB-9E19-95B6-6AB82B24AF07}"
+ }
+}

@@ -10,18 +10,27 @@
     "Type": "Event",
     "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
     "Language": "SFX",
-    "Hash": "{FFC3E03D-E5DE-D3EF-1188-984E86D3D713}",
+    "Hash": "{62299FD0-F171-413E-D1E6-5F0C4AB023C4}",
     "ObjectPath": "Play_AMB_DevRoom",
     "ShortName": "Play_AMB_DevRoom",
     "Path": "Event/Play_AMB_DevRoom.bnk",
     "Media": [
      {
-      "Id": "783387799",
+      "Id": "2652455",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Devroom_Tone.wav",
+      "Path": "Media/2652455.wem",
+      "CachePath": "FF/{FF193464-6DAE-EE40-B22E-9952C44554BA}.wem"
+     },
+     {
+      "Id": "1061594302",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
       "ShortName": "AMB_DevRoom.wav",
-      "Path": "Media/783387799.wem",
+      "Path": "Media/1061594302.wem",
       "CachePath": "AD/{ADA5FD87-77F7-6867-68B4-46A421CB9277}.wem"
      }
     ],
@@ -35,13 +44,16 @@
       "DurationType": "Infinite",
       "MediaRefs": [
        {
-        "Id": "783387799"
+        "Id": "2652455"
+       },
+       {
+        "Id": "1061594302"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{CFADD027-B0CA-00E0-2479-713C7FCE9184}"
+  "FileHash": "{B5BAA809-CECB-3996-0BF0-82F31396320A}"
  }
 }

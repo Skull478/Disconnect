@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1428125624	Play_UI_Kiss_Click			\UI\Clicks\Play_UI_Kiss_Click	
+

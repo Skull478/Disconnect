@@ -47,7 +47,7 @@
      {
       "Id": "3905095464",
       "Name": "Play_Back_Error",
-      "ObjectPath": "\\Events\\UI\\Back\\Play_Back_Error",
+      "ObjectPath": "\\Events\\UI\\Back-Close\\Play_Back_Error",
       "GUID": "{F496C008-03D8-4272-A7EB-394CACE6D7D5}",
       "DurationType": "OneShot",
       "DurationMin": "0.210875",
@@ -67,6 +67,6 @@
     ]
    }
   ],
-  "FileHash": "{5496DE12-4332-DFF3-42BC-A50C7BFDAC2A}"
+  "FileHash": "{31C12C2B-79C5-B8FF-EDC9-11C25EDB8C63}"
  }
 }

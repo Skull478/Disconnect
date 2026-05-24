@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2794383538	Play_UI_Soft_Click			\UI\Clicks\Play_UI_Soft_Click	
+

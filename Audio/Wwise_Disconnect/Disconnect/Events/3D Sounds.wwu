@@ -69,6 +69,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_OBJ_Lava_Spray" ID="{5203FFB7-F00E-4DC2-B863-072AD497218A}">
+					<ChildrenList>
+						<Action Name="" ID="{E81EB45C-2FA8-4CB1-A36A-B7918077B32A}" ShortID="1026171434">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Lava_Spray" ID="{5576FC57-C48D-4B9A-B0BE-B27A0836AA14}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

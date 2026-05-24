@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2385879834	Play_UI_Beep_Click			\UI\Clicks\Play_UI_Beep_Click	
+

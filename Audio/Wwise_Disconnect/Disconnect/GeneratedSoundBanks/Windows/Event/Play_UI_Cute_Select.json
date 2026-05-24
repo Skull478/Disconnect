@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "820610533",
+    "Type": "Event",
+    "GUID": "{47B68EDF-E017-4E02-9FAC-B28A58E0A299}",
+    "Language": "SFX",
+    "Hash": "{533AF497-688B-B4D1-A150-4A9B00C80BD4}",
+    "ObjectPath": "Play_UI_Cute_Select",
+    "ShortName": "Play_UI_Cute_Select",
+    "Path": "Event/Play_UI_Cute_Select.bnk",
+    "Media": [
+     {
+      "Id": "366313588",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute_Select.wav",
+      "Path": "Media/366313588.wem",
+      "CachePath": "4E/{4E94526D-1E2D-C8BE-1457-FA28FE9AF78C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "820610533",
+      "Name": "Play_UI_Cute_Select",
+      "ObjectPath": "\\Events\\UI\\Selections\\Play_UI_Cute_Select",
+      "GUID": "{47B68EDF-E017-4E02-9FAC-B28A58E0A299}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "366313588"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5BBFB129-BC43-BC03-C694-1E7D043FB437}"
+ }
+}

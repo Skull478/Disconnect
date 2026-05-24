@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
     "Language": "SFX",
-    "Hash": "{95C0070A-9CFA-5947-1A10-04487CF286CC}",
+    "Hash": "{480EF8A2-0E7A-040F-51B0-EBFD297B4630}",
     "ObjectPath": "Play_Glitches",
     "ShortName": "Play_Glitches",
     "Path": "Event/Play_Glitches.bnk",
@@ -150,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{EB6475FE-AE29-0A83-7623-54FD851882F5}"
+  "FileHash": "{529B1D38-1F11-6D95-A690-8878C73FAA1B}"
  }
 }
