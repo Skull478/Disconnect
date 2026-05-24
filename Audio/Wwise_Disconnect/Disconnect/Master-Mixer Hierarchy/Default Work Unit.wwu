@@ -30,6 +30,13 @@
 						</AuxBus>
 					</ChildrenList>
 				</Bus>
+				<Bus Name="Master Dev" ID="{15E92592-D138-4AF2-910C-714DB329E7F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{DF6F8EAD-6E4E-4586-84F1-C8ADA14C2F30}" WorkUnitID="{54DC8489-D751-47AB-AAE6-ACA44F73B20D}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
 			</ChildrenList>
 		</WorkUnit>
 	</Busses>
