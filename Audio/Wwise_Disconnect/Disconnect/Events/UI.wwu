@@ -36,6 +36,72 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_UI_DEV_WindowError" ID="{7B36276E-1AD1-4867-8BE4-B2E82D66B90E}">
+					<ChildrenList>
+						<Action Name="" ID="{1B287934-CC37-45A8-B866-A1EEEA9DAED6}" ShortID="578577388">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_WindowError" ID="{878B156C-587C-46AB-8DA7-31BDCF319B5F}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_FloorLevelSwitch" ID="{55379E85-7FF4-42E1-ABA1-56832206E154}">
+					<ChildrenList>
+						<Action Name="" ID="{A20B9090-35B9-48AB-8131-107F96361D3C}" ShortID="933271681">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_FloorLevelSwitch" ID="{72EBB873-097D-46F2-9FD6-971798B17976}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_WindowOpen" ID="{7D3B4DB1-BCBA-4665-9CF8-3BB1D3185454}">
+					<ChildrenList>
+						<Action Name="" ID="{72BC665A-A3FE-4DA6-9A1D-678F96EF31FF}" ShortID="638182106">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_WindowOpen" ID="{48EF06CC-6C72-4D98-94F4-3F27EAAED957}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_WindowClose" ID="{BFE1E50E-B617-4A67-AA48-C5A6C6935CE7}">
+					<ChildrenList>
+						<Action Name="" ID="{08825396-8767-4BB2-ADCC-FFBB8D65F2AC}" ShortID="807136538">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_WindowClose" ID="{F78F736D-9EB8-40E1-A305-C1D3919EF29A}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_Error" ID="{BFF11135-C5D6-4950-BAC2-1B50145353B6}">
+					<ChildrenList>
+						<Action Name="" ID="{A6B18F3D-26D9-4070-838F-099F2D156CCE}" ShortID="259571094">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_Error" ID="{4A7D7889-F541-49D7-9DFE-9D38E139ADD4}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_Init" ID="{B7B2081C-0572-47C4-9765-960A620AA53F}">
+					<ChildrenList>
+						<Action Name="" ID="{9C23E5CC-96D2-4F6C-B137-0307EE36E98A}" ShortID="148306449">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_Init" ID="{7AB36878-269A-4780-BDC5-49989D9AD568}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

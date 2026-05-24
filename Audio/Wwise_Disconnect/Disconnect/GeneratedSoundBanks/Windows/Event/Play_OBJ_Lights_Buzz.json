@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
     "Language": "SFX",
-    "Hash": "{F1A65253-4596-78B7-23E1-4179842ED4E4}",
+    "Hash": "{F13013AA-6B5F-82BD-8A78-FB27D1744DA0}",
     "ObjectPath": "Play_OBJ_Lights_Buzz",
     "ShortName": "Play_OBJ_Lights_Buzz",
     "Path": "Event/Play_OBJ_Lights_Buzz.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{2B06FF51-0D83-F410-A3AF-0C68AA0C9647}"
+  "FileHash": "{877825C8-C072-D771-1259-CE9BB189F0D6}"
  }
 }

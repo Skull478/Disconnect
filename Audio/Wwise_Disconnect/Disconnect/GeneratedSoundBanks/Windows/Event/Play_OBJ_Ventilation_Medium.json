@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
     "Language": "SFX",
-    "Hash": "{4F73FF27-9A15-BC7C-45D5-4E2E3E7E683B}",
+    "Hash": "{F6FFA43A-576C-A71E-7F58-B31E917C0481}",
     "ObjectPath": "Play_OBJ_Ventilation_Medium",
     "ShortName": "Play_OBJ_Ventilation_Medium",
     "Path": "Event/Play_OBJ_Ventilation_Medium.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{AB3B0B79-360C-B8A0-9C08-891EF8D81580}"
+  "FileHash": "{4D4223FA-713E-FB9B-62CE-1AF29424DEBF}"
  }
 }

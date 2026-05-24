@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{7B4716AE-9D2A-95EF-08A7-DA62F4614849}",
+    "Hash": "{99CEE94D-9192-223F-B3F5-1A540652E3E7}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -45,6 +45,12 @@
      ]
     },
     "Busses": [
+     {
+      "Id": "1063802714",
+      "Name": "Master Dev",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Dev",
+      "GUID": "{15E92592-D138-4AF2-910C-714DB329E7F3}"
+     },
      {
       "Id": "1138681361",
       "Name": "Player_Bus",
@@ -144,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{53328119-3951-D177-AFCA-A4E524BEC0F2}"
+  "FileHash": "{51AE7737-9B32-0A3F-20BE-61F4F5B24623}"
  }
 }
