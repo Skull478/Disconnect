@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{11459A28-005C-4390-A66F-94797B7C0D6D}",
     "Language": "SFX",
-    "Hash": "{234E468D-58E9-308B-829D-76D2B14C9745}",
+    "Hash": "{CFDEBC97-4E41-F352-3884-C7F8A5C5041B}",
     "ObjectPath": "Play_OBJ_Light_Bulb_Disfunction",
     "ShortName": "Play_OBJ_Light_Bulb_Disfunction",
     "Path": "Event/Play_OBJ_Light_Bulb_Disfunction.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{3D3AB54C-91E5-F6DB-124A-241C810E9515}"
+  "FileHash": "{1E8D5DA7-43C3-C2B9-26CC-BAF27E9F37DC}"
  }
 }

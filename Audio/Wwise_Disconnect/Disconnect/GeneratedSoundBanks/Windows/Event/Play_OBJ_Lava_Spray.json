@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
     "Language": "SFX",
-    "Hash": "{96F99942-833F-A896-DA71-B1553705C1F2}",
+    "Hash": "{C94B1B4F-4A83-CC64-AECD-90C1174168C8}",
     "ObjectPath": "Play_OBJ_Lava_Spray",
     "ShortName": "Play_OBJ_Lava_Spray",
     "Path": "Event/Play_OBJ_Lava_Spray.bnk",
@@ -31,6 +31,7 @@
       "Name": "Play_OBJ_Lava_Spray",
       "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Lava_Spray",
       "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
+      "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -41,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{4F33C506-0109-3F33-5B06-1FCEF17F30CF}"
+  "FileHash": "{69B472DA-7183-DB7F-8596-96812463657D}"
  }
 }
