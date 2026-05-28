@@ -69,7 +69,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_OBJ_Lava_Spray" ID="{5203FFB7-F00E-4DC2-B863-072AD497218A}">
+				<Event Name="Play_OBJ_Oil_Spray" ID="{5203FFB7-F00E-4DC2-B863-072AD497218A}">
 					<ChildrenList>
 						<Action Name="" ID="{E81EB45C-2FA8-4CB1-A36A-B7918077B32A}" ShortID="1026171434">
 							<ReferenceList>
