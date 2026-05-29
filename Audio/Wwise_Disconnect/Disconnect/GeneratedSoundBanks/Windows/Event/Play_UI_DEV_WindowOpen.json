@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
     "Language": "SFX",
-    "Hash": "{537E02B6-F77B-7AAC-1488-F0265FAB79A4}",
+    "Hash": "{951DFC6F-ABA2-03CF-2222-D3091425FBEE}",
     "ObjectPath": "Play_UI_DEV_WindowOpen",
     "ShortName": "Play_UI_DEV_WindowOpen",
     "Path": "Event/Play_UI_DEV_WindowOpen.bnk",
@@ -29,7 +29,7 @@
      {
       "Id": "2790472575",
       "Name": "Play_UI_DEV_WindowOpen",
-      "ObjectPath": "\\Events\\UI\\Validations\\Play_UI_DEV_WindowOpen",
+      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowOpen",
       "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
       "DurationType": "OneShot",
       "DurationMin": "0.111854166",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{82C0270E-3A14-DC59-8A42-59C27175B2CE}"
+  "FileHash": "{D6A25744-550A-59E6-C5C8-6AEAD4DA1BF4}"
  }
 }

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{45FDF208-4645-4BA8-9634-9B5C81D7731C}" SchemaVersion="123" RootDocumentID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}" ParentDocumentID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}">
+	<Events>
+		<WorkUnit Name="DEV" ID="{45FDF208-4645-4BA8-9634-9B5C81D7731C}" OwnerID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_UI_DEV_FloorLevelSwitch" ID="{E46BB745-7F8F-45BA-B66D-F29D3E0F85BC}">
+					<ChildrenList>
+						<Action Name="" ID="{95D9B33E-1E82-4ED0-9911-3652C2E15779}" ShortID="2587771">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_FloorLevelSwitch" ID="{1823D6A6-AC8A-46EA-9DDA-D594C867A875}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_WindowClose" ID="{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}">
+					<ChildrenList>
+						<Action Name="" ID="{EE12D0CD-41D7-43BB-BBFA-4695823D9AAA}" ShortID="380863283">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_Close_Window" ID="{6D3EB1E0-67B5-426B-AEBE-6CDDF6EBE781}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_Error" ID="{9B9E831B-861F-475C-AEA4-1075BC44A6D9}">
+					<ChildrenList>
+						<Action Name="" ID="{F6A683CE-6011-41B3-8F86-BCADEAF750AD}" ShortID="1010300638">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_Error" ID="{C52F2704-CE66-4475-9212-105B28A88868}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_WindowError" ID="{52F767AF-F197-46B3-A92A-2EF863A4DA31}">
+					<ChildrenList>
+						<Action Name="" ID="{AD99A550-5896-4801-9735-0EE035A8299D}" ShortID="699581484">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_WindowError" ID="{236D502F-70F5-4734-9102-D7D5E11F97A4}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_Init" ID="{913A21D1-96F4-4EE2-A6A6-D3B3988220C3}">
+					<ChildrenList>
+						<Action Name="" ID="{39006B09-63A8-4075-8862-E9743910D6E8}" ShortID="385544368">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_Init" ID="{84E0A0E2-6EC8-4C5F-B057-B37CB4F919B2}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_WindowOpen" ID="{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}">
+					<ChildrenList>
+						<Action Name="" ID="{67C55629-C69E-4A15-8F44-82BBC67BD59A}" ShortID="926930328">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_WindowOpen" ID="{D0D714AA-86F9-40D5-BE50-8DF3947F947C}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_TextWrite" ID="{704A42C6-41B1-4369-9D9F-EACE5140EF07}">
+					<ChildrenList>
+						<Action Name="" ID="{5281C973-267F-4722-9EF9-39EA3591D430}" ShortID="301092387">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_TextWrite" ID="{5FD79284-FB6C-4CA6-B39A-CD04040FCF9E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_TextCommit" ID="{59DA4F4B-473C-456F-8567-455E7F2302E4}">
+					<ChildrenList>
+						<Action Name="" ID="{91C01739-A60C-4769-9E95-BBB6E297A2DD}" ShortID="973261673">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_TextCommit" ID="{DC272F14-DA01-4E96-A8AB-D17AEAEF8F92}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

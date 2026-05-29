@@ -21,17 +21,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_UI_MainMenu_Init" ID="{27EFCA95-450E-4B28-BAF3-CEBE8A238353}">
-					<ChildrenList>
-						<Action Name="" ID="{C46897E3-8BC5-4F69-A4A6-7050A08DFABA}" ShortID="374619293">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="UI_MainMenu_Init" ID="{5C634786-EC27-4BEA-B5D5-F15458E58B4E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

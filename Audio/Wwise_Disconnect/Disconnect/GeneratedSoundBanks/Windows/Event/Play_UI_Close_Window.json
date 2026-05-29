@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{37B5F6C4-6BA5-4123-B703-F3178C55D480}",
     "Language": "SFX",
-    "Hash": "{07C98CE6-2BB5-CD22-1EF0-FCFCF9F22588}",
+    "Hash": "{646255D9-0204-EE9D-77B7-20ADEEC7E4EE}",
     "ObjectPath": "Play_UI_Close_Window",
     "ShortName": "Play_UI_Close_Window",
     "Path": "Event/Play_UI_Close_Window.bnk",
@@ -55,6 +55,6 @@
     ]
    }
   ],
-  "FileHash": "{4EE625FA-BB50-B40A-0C74-86661352B5C4}"
+  "FileHash": "{B054A940-3BDD-BB5C-EBAA-8FBF412CE3C7}"
  }
 }
