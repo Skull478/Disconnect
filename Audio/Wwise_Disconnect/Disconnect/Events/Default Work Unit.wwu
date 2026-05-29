@@ -21,6 +21,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_PL_Footsteps_DevSide" ID="{0F630EED-AC0C-4B70-AEB3-324AD1444F41}">
+					<ChildrenList>
+						<Action Name="" ID="{00829D19-F239-4F7F-A511-86AC4F1B1976}" ShortID="753591465">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PL_Footsteps_DevSide" ID="{9C85BEC8-2814-4EB7-B96A-2471F751EABB}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{99CEE94D-9192-223F-B3F5-1A540652E3E7}",
+    "Hash": "{A5752A99-897B-618F-4041-39DB40A87BC1}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -77,6 +77,14 @@
         }
        ]
       }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3620054395",
+      "Name": "Dev_Sidechain",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Dev_Sidechain",
+      "GUID": "{A073FD9C-F831-4A03-B944-98557D626CFC}"
      }
     ],
     "SwitchGroups": [
@@ -146,10 +154,43 @@
         "Value": "0"
        }
       ]
+     },
+     {
+      "Id": "4001580976",
+      "Name": "BLOCK",
+      "ObjectPath": "\\Virtual Acoustics\\Default Work Unit\\BLOCK",
+      "GUID": "{24C9E1A1-294F-49E2-AEB9-F543FB8583C1}",
+      "Properties": [
+       {
+        "Name": "AbsorptionLow",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "AbsorptionMidLow",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "AbsorptionMidHigh",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "AbsorptionHigh",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "Scattering",
+        "Type": "Real32",
+        "Value": "0"
+       }
+      ]
      }
     ]
    }
   ],
-  "FileHash": "{51AE7737-9B32-0A3F-20BE-61F4F5B24623}"
+  "FileHash": "{4D7E6E95-9D23-C275-CC29-484527DBC096}"
  }
 }

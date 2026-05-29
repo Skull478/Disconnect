@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{13DC1FC1-D68C-4E77-8190-47A54396A4D2}" SchemaVersion="123">
 	<Effects>
-		<WorkUnit Name="Default Work Unit" ID="{13DC1FC1-D68C-4E77-8190-47A54396A4D2}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{13DC1FC1-D68C-4E77-8190-47A54396A4D2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Dev_Sidechain_Gain" ID="{816C1092-84AE-4EE6-BA09-804C0BA8A2EE}" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3"/>
+				<Effect Name="Dev_Sidechain_Meter" ID="{567C547F-715E-435E-A3D7-60DB728151DF}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+					<PropertyList>
+						<Property Name="Max" Type="Real32" Value="-46.3"/>
+						<Property Name="Min" Type="Real32" Value="-45"/>
+					</PropertyList>
+					<PluginData>
+	<GameParameter Name="Dev_Sidechain" ID="{A073FD9C-F831-4A03-B944-98557D626CFC}"/>
+</PluginData>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
 	</Effects>
 </WwiseDocument>

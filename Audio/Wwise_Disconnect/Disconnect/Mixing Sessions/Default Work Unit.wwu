@@ -7,6 +7,7 @@
 					<ObjectList>
 						<ObjectRef Name="AMB_Main_Roomtone" ID="{0FE06B61-C1AA-4D4A-B068-F2F729E8E055}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 						<ObjectRef Name="AMB_Garage" ID="{B1BCFF33-C3E1-4540-AC81-A7EA5B44B3C6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 					</ObjectList>
 				</MixingSession>
 			</ChildrenList>
