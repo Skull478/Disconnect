@@ -10,20 +10,11 @@
     "Type": "Event",
     "GUID": "{063B0B4D-5701-4A75-9EBC-935B2C852237}",
     "Language": "SFX",
-    "Hash": "{BF22B6D5-07CE-CB00-EBA6-961F9B791F92}",
+    "Hash": "{46AEA0BE-B0C3-C6C6-F4B4-025D46FCD03D}",
     "ObjectPath": "Play_UI_Arrow_Down",
     "ShortName": "Play_UI_Arrow_Down",
     "Path": "Event/Play_UI_Arrow_Down.bnk",
     "Media": [
-     {
-      "Id": "132126685",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "ArrowDown-001.wav",
-      "Path": "Media/132126685.wem",
-      "CachePath": "78/{786D887D-355C-F63B-08BA-08BA771FE6F6}.wem"
-     },
      {
       "Id": "144279917",
       "Language": "SFX",
@@ -81,9 +72,6 @@
       "DurationMax": "0.21025",
       "MediaRefs": [
        {
-        "Id": "132126685"
-       },
-       {
         "Id": "144279917"
        },
        {
@@ -103,6 +91,6 @@
     ]
    }
   ],
-  "FileHash": "{27DB18F3-CA41-FCB5-C091-AD8B06A8138F}"
+  "FileHash": "{DE31D846-2ECB-CD2C-4400-E900FB5F537F}"
  }
 }

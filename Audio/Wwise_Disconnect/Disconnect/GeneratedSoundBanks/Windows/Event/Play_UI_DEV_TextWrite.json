@@ -1,0 +1,156 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3914376079",
+    "Type": "Event",
+    "GUID": "{704A42C6-41B1-4369-9D9F-EACE5140EF07}",
+    "Language": "SFX",
+    "Hash": "{499E46DE-2264-F112-F947-EE19FF9BD6AE}",
+    "ObjectPath": "Play_UI_DEV_TextWrite",
+    "ShortName": "Play_UI_DEV_TextWrite",
+    "Path": "Event/Play_UI_DEV_TextWrite.bnk",
+    "Media": [
+     {
+      "Id": "53575724",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-003.wav",
+      "Path": "Media/53575724.wem",
+      "CachePath": "0A/{0AE715C6-7DC7-5680-2DB6-66982ADAAA1B}.wem"
+     },
+     {
+      "Id": "54035501",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-007.wav",
+      "Path": "Media/54035501.wem",
+      "CachePath": "38/{386CA834-90E2-19B6-2F65-800492E8CA08}.wem"
+     },
+     {
+      "Id": "248637418",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-008.wav",
+      "Path": "Media/248637418.wem",
+      "CachePath": "64/{64D90CEE-E2CC-C25C-7BD7-F27ECE71AD62}.wem"
+     },
+     {
+      "Id": "567899763",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-002.wav",
+      "Path": "Media/567899763.wem",
+      "CachePath": "C5/{C575834B-FF31-85F1-C22A-0BCCA2337F70}.wem"
+     },
+     {
+      "Id": "569343422",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-005.wav",
+      "Path": "Media/569343422.wem",
+      "CachePath": "37/{37731072-914C-72CC-0807-FE2231A7B2E6}.wem"
+     },
+     {
+      "Id": "642890991",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-010.wav",
+      "Path": "Media/642890991.wem",
+      "CachePath": "8B/{8BB9D5F3-2A01-1E60-DFB2-BB62A2DE86F9}.wem"
+     },
+     {
+      "Id": "675282362",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-006.wav",
+      "Path": "Media/675282362.wem",
+      "CachePath": "19/{19675ED6-67E5-9E2E-CAB5-870BCA273E60}.wem"
+     },
+     {
+      "Id": "839174425",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-004.wav",
+      "Path": "Media/839174425.wem",
+      "CachePath": "D4/{D4C68530-51B8-1025-E76F-297B3666DF65}.wem"
+     },
+     {
+      "Id": "914227342",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-009.wav",
+      "Path": "Media/914227342.wem",
+      "CachePath": "5E/{5E81E438-3003-CE3C-BFF9-1B33AB668208}.wem"
+     },
+     {
+      "Id": "916849915",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-001.wav",
+      "Path": "Media/916849915.wem",
+      "CachePath": "AE/{AEB97506-C12B-E528-793B-9DE270CB8551}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3914376079",
+      "Name": "Play_UI_DEV_TextWrite",
+      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_TextWrite",
+      "GUID": "{704A42C6-41B1-4369-9D9F-EACE5140EF07}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "53575724"
+       },
+       {
+        "Id": "54035501"
+       },
+       {
+        "Id": "248637418"
+       },
+       {
+        "Id": "567899763"
+       },
+       {
+        "Id": "569343422"
+       },
+       {
+        "Id": "642890991"
+       },
+       {
+        "Id": "675282362"
+       },
+       {
+        "Id": "839174425"
+       },
+       {
+        "Id": "914227342"
+       },
+       {
+        "Id": "916849915"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{12AB7805-0840-5E6A-5C1C-B6F987ABD15C}"
+ }
+}
