@@ -21,6 +21,28 @@
 							<Position X="1" Y="0"/>
 						</Module>
 					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Dev_Sidechain" ID="{A073FD9C-F831-4A03-B944-98557D626CFC}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Metal" ID="{DAF07205-EA54-4B52-9012-270A76DC255E}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Dev_Ftstps" ID="{EC4070C9-D97A-42F5-BF89-626DA57B6A75}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_AMB_DevRoom" ID="{BE51FB01-B693-4207-8A80-B1B5E9CCA446}" WorkUnitID="{32D4E254-6A45-4117-85FF-38844D1C2629}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_PL_Footsteps" ID="{8729EA78-A896-4FB9-BB69-99B0EE0D227D}" WorkUnitID="{ABEDFCF9-2D17-41D8-AAC5-DBD6B099186F}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
 					<RTPCValueList ShowAll="true"/>
 					<CurrentStateList ShowAll="true"/>
 					<CurrentSwitchList ShowAll="true">

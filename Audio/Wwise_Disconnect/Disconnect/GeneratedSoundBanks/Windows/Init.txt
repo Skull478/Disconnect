@@ -1,5 +1,6 @@
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	2473969246	Metal			\Default Work Unit\Metal	
+	4001580976	BLOCK			\Default Work Unit\BLOCK	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
 	1063802714	Master Dev			\Default Work Unit\Master Dev	

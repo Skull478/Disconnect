@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "2683689542",
+    "Id": "188899575",
     "Type": "Event",
-    "GUID": "{8729EA78-A896-4FB9-BB69-99B0EE0D227D}",
+    "GUID": "{0F630EED-AC0C-4B70-AEB3-324AD1444F41}",
     "Language": "SFX",
-    "Hash": "{E7E157B1-1379-D73F-C723-6E013A1C9340}",
-    "ObjectPath": "Play_PL_Footsteps",
-    "ShortName": "Play_PL_Footsteps",
-    "Path": "Event/Play_PL_Footsteps.bnk",
+    "Hash": "{8E912F02-F27F-3C9E-500D-144EC0EA1606}",
+    "ObjectPath": "Play_PL_Footsteps_DevSide",
+    "ShortName": "Play_PL_Footsteps_DevSide",
+    "Path": "Event/Play_PL_Footsteps_DevSide.bnk",
     "Media": [
      {
       "Id": "60503740",
@@ -252,10 +252,11 @@
     ],
     "Events": [
      {
-      "Id": "2683689542",
-      "Name": "Play_PL_Footsteps",
-      "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Footsteps",
-      "GUID": "{8729EA78-A896-4FB9-BB69-99B0EE0D227D}",
+      "Id": "188899575",
+      "Name": "Play_PL_Footsteps_DevSide",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_PL_Footsteps_DevSide",
+      "GUID": "{0F630EED-AC0C-4B70-AEB3-324AD1444F41}",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.20136349",
       "DurationMax": "0.404",
@@ -362,6 +363,14 @@
       ]
      }
     ],
+    "GameParameters": [
+     {
+      "Id": "3620054395",
+      "Name": "Dev_Sidechain",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Dev_Sidechain",
+      "GUID": "{A073FD9C-F831-4A03-B944-98557D626CFC}"
+     }
+    ],
     "SwitchGroups": [
      {
       "Id": "3865314626",
@@ -398,6 +407,6 @@
     ]
    }
   ],
-  "FileHash": "{8F5DBE39-B907-9F39-E008-21F681F583B7}"
+  "FileHash": "{B4D346C3-BA7E-0190-5115-FAAACEA12119}"
  }
 }
