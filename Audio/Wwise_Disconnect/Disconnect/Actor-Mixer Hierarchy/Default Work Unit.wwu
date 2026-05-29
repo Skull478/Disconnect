@@ -4860,6 +4860,28 @@
 								<ActiveSource Name="UI_In_Menu" ID="{97190BC9-FCB0-4E0B-9071-8B90DAF12031}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<Sound Name="UI_MainMenu_Init" ID="{5C634786-EC27-4BEA-B5D5-F15458E58B4E}" ShortID="599250676">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="UI_MainMenu_Init" ID="{DC80E52E-ED2B-4C13-962C-DD8CC6F9F84C}">
+									<Language>SFX</Language>
+									<AudioFile>UI_MainMenu_Init.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="482638232"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="UI_MainMenu_Init" ID="{DC80E52E-ED2B-4C13-962C-DD8CC6F9F84C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 				</ActorMixer>
 				<ActorMixer Name="INTERACTIBLES" ID="{7D62E0E3-288D-4A7E-95FB-FB54B2E5F2E2}" ShortID="241559971">

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4D1956CD-486B-4804-84B4-6F66DAC3027F}",
     "Language": "SFX",
-    "Hash": "{B392BFFC-05ED-E96B-B881-E935F29AFFDB}",
+    "Hash": "{021E7C50-ED25-02A2-7AAC-21D2B9342F44}",
     "ObjectPath": "Play_UI_Energy_Button_Click",
     "ShortName": "Play_UI_Energy_Button_Click",
     "Path": "Event/Play_UI_Energy_Button_Click.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Energy_Button_Click.wav",
       "Path": "Media/381322251.wem",
-      "CachePath": "F8/{F8644260-A9B2-B105-BE86-4EC7F018D857}.wem"
+      "CachePath": "FA/{FAF5F9FF-1FA6-74FB-18C0-CA2A5981EAB0}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{F71620C1-83F3-AFFE-2E9F-56293F18399C}"
+  "FileHash": "{9055BCFF-11ED-2787-E2E4-34D2BBD74E38}"
  }
 }
