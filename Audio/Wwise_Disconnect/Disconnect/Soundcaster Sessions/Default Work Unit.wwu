@@ -29,7 +29,7 @@
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true"/>
 					<CurrentSwitchList ShowAll="true">
-						<CurrentSwitchRef Name="Metal" ID="{DAF07205-EA54-4B52-9012-270A76DC255E}"/>
+						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>
 				<SoundcasterSession Name="Dev_Ftstps" ID="{EC4070C9-D97A-42F5-BF89-626DA57B6A75}">
