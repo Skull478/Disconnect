@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "1408383225",
+    "Id": "3778230614",
     "Type": "Event",
-    "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
+    "GUID": "{58D1D864-42CA-4D37-B6F9-31A68746DF13}",
     "Language": "SFX",
-    "Hash": "{8622044A-3C5E-2832-7D9F-97E4A1D9589A}",
-    "ObjectPath": "Play_Glitches",
-    "ShortName": "Play_Glitches",
-    "Path": "Event/Play_Glitches.bnk",
+    "Hash": "{1B20CFF9-B2D7-A417-A409-3BD0832A7684}",
+    "ObjectPath": "Play_Glitch_Med",
+    "ShortName": "Play_Glitch_Med",
+    "Path": "Event/Play_Glitch_Med.bnk",
     "Media": [
      {
       "Id": "14481440",
@@ -108,10 +108,10 @@
     ],
     "Events": [
      {
-      "Id": "1408383225",
-      "Name": "Play_Glitches",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Glitches",
-      "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
+      "Id": "3778230614",
+      "Name": "Play_Glitch_Med",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Glitch_Med",
+      "GUID": "{58D1D864-42CA-4D37-B6F9-31A68746DF13}",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -150,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{A9ADFC60-1BFE-9CF8-581B-D69D42B9FBA8}"
+  "FileHash": "{7B42993C-4FB8-D344-A8C6-195C5FFF8FBF}"
  }
 }

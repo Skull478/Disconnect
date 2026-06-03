@@ -2413,7 +2413,7 @@
 								<ActiveSource Name="AMB_Ventilation_Medium" ID="{9CDB0196-4BE7-496D-B84F-CA2652FC7F32}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
-						<ActorMixer Name="OBJ_Glitches" ID="{C1860CC1-13EE-41A8-87A5-B4FBC3E44A39}" ShortID="283182103">
+						<ActorMixer Name="OBJ_Glitches_Large" ID="{C1860CC1-13EE-41A8-87A5-B4FBC3E44A39}" ShortID="283182103">
 							<PropertyList>
 								<Property Name="3DSpatialization" Type="int16" Value="2"/>
 								<Property Name="OverridePositioning" Type="bool" Value="True"/>
@@ -2442,15 +2442,7 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<Sound Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" ShortID="614309187">
-									<PropertyList>
-										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
-										<Property Name="Volume" Type="Real64">
-											<ValueList>
-												<Value>-8</Value>
-											</ValueList>
-										</Property>
-									</PropertyList>
+								<BlendContainer Name="OBJ_Glitches_Large" ID="{75FF3D11-392B-484C-B513-B001AA764CC4}" ShortID="280223342">
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -2460,264 +2452,294 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="OBJ_Glitch_Bed" ID="{766F1CF8-5D05-4B4E-BF06-68F2FF259435}">
-											<Language>SFX</Language>
-											<AudioFile>OBJ_Glitch_Bed.wav</AudioFile>
-											<MediaIDList>
-												<MediaID ID="900977261"/>
-											</MediaIDList>
-										</AudioFileSource>
+										<Sound Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" ShortID="614309187">
+											<PropertyList>
+												<Property Name="3DSpatialization" Type="int16" Value="2"/>
+												<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="OBJ_Glitch_Bed" ID="{766F1CF8-5D05-4B4E-BF06-68F2FF259435}">
+													<Language>SFX</Language>
+													<AudioFile>OBJ_Glitch_Bed.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="900977261"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="OBJ_Glitch_Bed" ID="{766F1CF8-5D05-4B4E-BF06-68F2FF259435}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<RandomSequenceContainer Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" ShortID="932863731">
+											<PropertyList>
+												<Property Name="3DSpatialization" Type="int16" Value="2"/>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{006B3878-EEA1-4686-92FA-4A5E3F2652C9}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="400"/>
+																	<Property Name="Min" Type="Real64" Value="-400"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
+												<Property Name="PlayMechanismSpecialTransitionsType" Type="int16" Value="3"/>
+												<Property Name="PlayMechanismSpecialTransitionsValue" Type="Real64" Value="4.5">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{B8A83067-98D1-4275-8BA3-FA464E6F5CD2}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="2"/>
+																	<Property Name="Min" Type="Real64" Value="-2"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="OBJ_Glitch_Rand_09" ID="{B605DE7B-10FC-4BAE-B217-14CDBC7F029B}" ShortID="433997407">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_09" ID="{A35F851C-20B2-4819-B36A-B73D8ED5C192}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_09.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="707808078"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_09" ID="{A35F851C-20B2-4819-B36A-B73D8ED5C192}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_08" ID="{FE9CF3AA-2B8D-4B1D-BD49-A02CE48E38E7}" ShortID="441147716">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_08" ID="{1B4150B5-0C64-4203-ABAB-E5A2AA322FBA}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_08.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="692390277"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_08" ID="{1B4150B5-0C64-4203-ABAB-E5A2AA322FBA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_07" ID="{9092F339-6C8A-4276-8965-6CC26A908AA3}" ShortID="118711628">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_07" ID="{C26712EE-C267-4DF5-A345-14D1FE7A8510}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_07.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="348628996"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_07" ID="{C26712EE-C267-4DF5-A345-14D1FE7A8510}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_01" ID="{5E05C99E-6122-48BA-893E-7560B635A6D5}" ShortID="665249858">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_01" ID="{8395CD07-D4BE-492B-A6B6-B71E960495DC}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_01.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="437561151"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_01" ID="{8395CD07-D4BE-492B-A6B6-B71E960495DC}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_06" ID="{AB0DAA2D-E68C-4DA2-9CC1-17F1AF7C9F4E}" ShortID="706823810">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_06" ID="{1B49984F-87BE-45CF-ADD1-7A4404E0571D}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_06.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="1004830685"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_06" ID="{1B49984F-87BE-45CF-ADD1-7A4404E0571D}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_04" ID="{600BADC1-7870-4C58-BC66-49D0C287AC96}" ShortID="993039387">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_04" ID="{01C5F593-5209-45FE-BB1D-77AFA9FA62AF}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_04.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="14481440"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_04" ID="{01C5F593-5209-45FE-BB1D-77AFA9FA62AF}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_02" ID="{A9F774DF-B1F7-4FC1-AA97-4862868D554F}" ShortID="97901723">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_02" ID="{38B99FDB-79F2-4D45-A89A-63654C1AA3F6}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_02.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="102191829"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_02" ID="{38B99FDB-79F2-4D45-A89A-63654C1AA3F6}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_05" ID="{40696E1A-EF66-465B-89C8-9EF2AE89CA87}" ShortID="940761273">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_05" ID="{131273C6-106F-40D3-B8F7-B98415A10082}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_05.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="789380263"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_05" ID="{131273C6-106F-40D3-B8F7-B98415A10082}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_03" ID="{64764ADF-5CD4-4FA8-8FB1-892422972B8B}" ShortID="807418789">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_03" ID="{752F9F04-36FB-4487-ACC5-3250CF45172C}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_03.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="857226571"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_03" ID="{752F9F04-36FB-4487-ACC5-3250CF45172C}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</RandomSequenceContainer>
 									</ChildrenList>
-									<ActiveSourceList>
-										<ActiveSource Name="OBJ_Glitch_Bed" ID="{766F1CF8-5D05-4B4E-BF06-68F2FF259435}" Platform="Linked"/>
-									</ActiveSourceList>
-								</Sound>
-								<RandomSequenceContainer Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" ShortID="932863731">
-									<PropertyList>
-										<Property Name="Pitch" Type="int32">
-											<ModifierList>
-												<ModifierInfo>
-													<Modifier Name="" ID="{006B3878-EEA1-4686-92FA-4A5E3F2652C9}">
-														<PropertyList>
-															<Property Name="Enabled" Type="bool" Value="True"/>
-															<Property Name="Max" Type="Real64" Value="400"/>
-															<Property Name="Min" Type="Real64" Value="-400"/>
-														</PropertyList>
-													</Modifier>
-												</ModifierInfo>
-											</ModifierList>
-										</Property>
-										<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
-										<Property Name="PlayMechanismSpecialTransitionsType" Type="int16" Value="3"/>
-										<Property Name="PlayMechanismSpecialTransitionsValue" Type="Real64" Value="4.5">
-											<ModifierList>
-												<ModifierInfo>
-													<Modifier Name="" ID="{B8A83067-98D1-4275-8BA3-FA464E6F5CD2}">
-														<PropertyList>
-															<Property Name="Enabled" Type="bool" Value="True"/>
-															<Property Name="Max" Type="Real64" Value="2"/>
-															<Property Name="Min" Type="Real64" Value="-2"/>
-														</PropertyList>
-													</Modifier>
-												</ModifierInfo>
-											</ModifierList>
-										</Property>
-										<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
-										<Property Name="Volume" Type="Real64">
-											<ValueList>
-												<Value>-8</Value>
-											</ValueList>
-										</Property>
-									</PropertyList>
-									<ReferenceList>
-										<Reference Name="Conversion">
-											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-										</Reference>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<Sound Name="OBJ_Glitch_Rand_09" ID="{B605DE7B-10FC-4BAE-B217-14CDBC7F029B}" ShortID="433997407">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_09" ID="{A35F851C-20B2-4819-B36A-B73D8ED5C192}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_09.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="707808078"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_09" ID="{A35F851C-20B2-4819-B36A-B73D8ED5C192}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_08" ID="{FE9CF3AA-2B8D-4B1D-BD49-A02CE48E38E7}" ShortID="441147716">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_08" ID="{1B4150B5-0C64-4203-ABAB-E5A2AA322FBA}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_08.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="692390277"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_08" ID="{1B4150B5-0C64-4203-ABAB-E5A2AA322FBA}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_07" ID="{9092F339-6C8A-4276-8965-6CC26A908AA3}" ShortID="118711628">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_07" ID="{C26712EE-C267-4DF5-A345-14D1FE7A8510}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_07.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="348628996"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_07" ID="{C26712EE-C267-4DF5-A345-14D1FE7A8510}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_01" ID="{5E05C99E-6122-48BA-893E-7560B635A6D5}" ShortID="665249858">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_01" ID="{8395CD07-D4BE-492B-A6B6-B71E960495DC}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_01.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="437561151"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_01" ID="{8395CD07-D4BE-492B-A6B6-B71E960495DC}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_06" ID="{AB0DAA2D-E68C-4DA2-9CC1-17F1AF7C9F4E}" ShortID="706823810">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_06" ID="{1B49984F-87BE-45CF-ADD1-7A4404E0571D}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_06.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="1004830685"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_06" ID="{1B49984F-87BE-45CF-ADD1-7A4404E0571D}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_04" ID="{600BADC1-7870-4C58-BC66-49D0C287AC96}" ShortID="993039387">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_04" ID="{01C5F593-5209-45FE-BB1D-77AFA9FA62AF}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_04.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="14481440"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_04" ID="{01C5F593-5209-45FE-BB1D-77AFA9FA62AF}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_02" ID="{A9F774DF-B1F7-4FC1-AA97-4862868D554F}" ShortID="97901723">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_02" ID="{38B99FDB-79F2-4D45-A89A-63654C1AA3F6}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_02.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="102191829"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_02" ID="{38B99FDB-79F2-4D45-A89A-63654C1AA3F6}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_05" ID="{40696E1A-EF66-465B-89C8-9EF2AE89CA87}" ShortID="940761273">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_05" ID="{131273C6-106F-40D3-B8F7-B98415A10082}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_05.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="789380263"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_05" ID="{131273C6-106F-40D3-B8F7-B98415A10082}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-										<Sound Name="OBJ_Glitch_Rand_03" ID="{64764ADF-5CD4-4FA8-8FB1-892422972B8B}" ShortID="807418789">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-												</Reference>
-											</ReferenceList>
-											<ChildrenList>
-												<AudioFileSource Name="OBJ_Glitch_Rand_03" ID="{752F9F04-36FB-4487-ACC5-3250CF45172C}">
-													<Language>SFX</Language>
-													<AudioFile>OBJ_Glitch_Rand_03.wav</AudioFile>
-													<MediaIDList>
-														<MediaID ID="857226571"/>
-													</MediaIDList>
-												</AudioFileSource>
-											</ChildrenList>
-											<ActiveSourceList>
-												<ActiveSource Name="OBJ_Glitch_Rand_03" ID="{752F9F04-36FB-4487-ACC5-3250CF45172C}" Platform="Linked"/>
-											</ActiveSourceList>
-										</Sound>
-									</ChildrenList>
-								</RandomSequenceContainer>
+								</BlendContainer>
 							</ChildrenList>
 						</ActorMixer>
 						<Sound Name="OBJ_Light_Bulb" ID="{F16E6F65-405B-4ECC-AD7E-A662CF2DF16F}" ShortID="226659563">
@@ -2851,6 +2873,688 @@
 								<ActiveSource Name="OBJ_Lava_Spray" ID="{9D4967BD-3C1E-45C0-9116-CF196664F0BD}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<ActorMixer Name="OBJ_Glitches_Med" ID="{D0E91B65-27FD-47D5-B892-E7B12BF6E7C6}" ShortID="644433399">
+							<PropertyList>
+								<Property Name="3DSpatialization" Type="int16" Value="2"/>
+								<Property Name="OverridePositioning" Type="bool" Value="True"/>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{FB829167-599B-462D-84D9-9DD6AAF49435}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>3</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Attenuation">
+									<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+								</Reference>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<BlendContainer Name="OBJ_Glitches_Med" ID="{72775D45-BE89-4C3C-9021-54B019A57731}" ShortID="570616623">
+									<PropertyList>
+										<Property Name="Highpass" Type="int16">
+											<ValueList>
+												<Value>26</Value>
+											</ValueList>
+										</Property>
+										<Property Name="Pitch" Type="int32">
+											<ValueList>
+												<Value>400</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<RandomSequenceContainer Name="Glitches_Sounds" ID="{E695CCD1-8668-4665-93DE-BB71FBD51C0D}" ShortID="547180513">
+											<PropertyList>
+												<Property Name="3DSpatialization" Type="int16" Value="2"/>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{D0484B00-8241-407D-B346-E55DE793E2E4}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="400"/>
+																	<Property Name="Min" Type="Real64" Value="-400"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
+												<Property Name="PlayMechanismSpecialTransitionsType" Type="int16" Value="3"/>
+												<Property Name="PlayMechanismSpecialTransitionsValue" Type="Real64" Value="4.5">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{C012A2A7-9E7E-4C76-B593-9CBF287C022F}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="2"/>
+																	<Property Name="Min" Type="Real64" Value="-2"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="OBJ_Glitch_Rand_09" ID="{AF5C17BE-3200-4163-971B-04A1435CD8E1}" ShortID="338288765">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_09" ID="{16B28D75-DA9A-4AC5-B7EE-1A29F1BE9F4F}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_09.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="707808078"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_09" ID="{16B28D75-DA9A-4AC5-B7EE-1A29F1BE9F4F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_08" ID="{E246B340-A089-4D32-ABE9-A1A6B960D8D9}" ShortID="846550776">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_08" ID="{33788159-9850-4559-A2FC-2E88F2EB34C4}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_08.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="692390277"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_08" ID="{33788159-9850-4559-A2FC-2E88F2EB34C4}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_07" ID="{2229A5A1-7C52-481B-81A4-C35DF3C68E07}" ShortID="316902207">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_07" ID="{2386BFF5-1459-4C7B-949C-FB25B820FF7F}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_07.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="348628996"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_07" ID="{2386BFF5-1459-4C7B-949C-FB25B820FF7F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_01" ID="{4F52FE1C-11F7-402F-AE36-CB124DE55630}" ShortID="474724174">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_01" ID="{44DB96AB-1E1F-40CC-8F2B-F228365564CA}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_01.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="437561151"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_01" ID="{44DB96AB-1E1F-40CC-8F2B-F228365564CA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_06" ID="{265F20D9-DDF0-4070-A7A2-F5842DF03AD0}" ShortID="416196835">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_06" ID="{CE559802-F7BF-42FA-A84E-01E8E80129C7}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_06.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="1004830685"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_06" ID="{CE559802-F7BF-42FA-A84E-01E8E80129C7}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_04" ID="{8F5DE239-2574-4C4C-A0D4-876B2B79AB56}" ShortID="190119583">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_04" ID="{C8E07047-74CC-43E1-A7FE-4F28F48712DA}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_04.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="14481440"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_04" ID="{C8E07047-74CC-43E1-A7FE-4F28F48712DA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_02" ID="{F0AE7D13-3097-4210-8B4E-D2DD46B989B1}" ShortID="277679295">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_02" ID="{4F411754-BA0F-41F5-8139-653C979F0673}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_02.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="102191829"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_02" ID="{4F411754-BA0F-41F5-8139-653C979F0673}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_05" ID="{B9B5C81C-2F04-400C-9DB9-193CE51562F7}" ShortID="233308057">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_05" ID="{F9D731D1-12EE-4489-BA20-95277040FD7B}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_05.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="789380263"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_05" ID="{F9D731D1-12EE-4489-BA20-95277040FD7B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_03" ID="{9422C512-F5A4-434D-B168-D0246ED78681}" ShortID="725009233">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_03" ID="{1448DF3D-738E-42BF-8C95-FFAAA73BBD06}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_03.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="857226571"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_03" ID="{1448DF3D-738E-42BF-8C95-FFAAA73BBD06}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</RandomSequenceContainer>
+										<Sound Name="BED_Glitches" ID="{D6B152CB-4EA8-44A5-A7DC-FC0D81A1FEEE}" ShortID="137795280">
+											<PropertyList>
+												<Property Name="3DSpatialization" Type="int16" Value="2"/>
+												<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="OBJ_Glitch_Bed" ID="{607DD04D-9FCC-4A3E-AA98-D3F85B66B99C}">
+													<Language>SFX</Language>
+													<AudioFile>OBJ_Glitch_Bed.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="900977261"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="OBJ_Glitch_Bed" ID="{607DD04D-9FCC-4A3E-AA98-D3F85B66B99C}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</BlendContainer>
+							</ChildrenList>
+						</ActorMixer>
+						<ActorMixer Name="OBJ_Glitches_Small" ID="{8884DB8A-2643-49DB-B0B0-88923506BF6E}" ShortID="867623431">
+							<PropertyList>
+								<Property Name="3DSpatialization" Type="int16" Value="2"/>
+								<Property Name="OverridePositioning" Type="bool" Value="True"/>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{62AEFF5A-AAE0-4A74-B9CA-155F1654EEE6}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>3</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Attenuation">
+									<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+								</Reference>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<BlendContainer Name="OBJ_Glitches_Small" ID="{445012F6-CBA7-49F3-9F1B-B0D3064EDDB4}" ShortID="924961823">
+									<PropertyList>
+										<Property Name="Highpass" Type="int16">
+											<ValueList>
+												<Value>40</Value>
+											</ValueList>
+										</Property>
+										<Property Name="Pitch" Type="int32">
+											<ValueList>
+												<Value>1650</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<RandomSequenceContainer Name="Glitches_Sounds" ID="{147482AC-3D69-4FCE-BC8B-C23CFD81C31B}" ShortID="244089651">
+											<PropertyList>
+												<Property Name="3DSpatialization" Type="int16" Value="2"/>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{4A4C824E-B856-4664-8C53-ECD5D055F977}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="400"/>
+																	<Property Name="Min" Type="Real64" Value="-400"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
+												<Property Name="PlayMechanismSpecialTransitionsType" Type="int16" Value="3"/>
+												<Property Name="PlayMechanismSpecialTransitionsValue" Type="Real64" Value="4.5">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{3F32A87D-135A-49B3-BBB6-3E514441CA91}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="2"/>
+																	<Property Name="Min" Type="Real64" Value="-2"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="OBJ_Glitch_Rand_09" ID="{BAA35720-5CB4-4C0A-996E-CBAE2BC1B7FB}" ShortID="578533185">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_09" ID="{4E9BD011-91BC-406F-94CA-D5317AAECB4C}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_09.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="707808078"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_09" ID="{4E9BD011-91BC-406F-94CA-D5317AAECB4C}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_08" ID="{59C5FA45-33A9-4952-8058-0C2310AE38F8}" ShortID="488633026">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_08" ID="{3EEE3A21-54AF-43A9-AA3F-4FE2C5884EBA}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_08.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="692390277"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_08" ID="{3EEE3A21-54AF-43A9-AA3F-4FE2C5884EBA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_07" ID="{59B8D6A5-7BFA-4AE4-A00D-7E21DBE2DF56}" ShortID="507859096">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_07" ID="{60BFFD94-28DC-4391-B3DB-80395FBBB686}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_07.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="348628996"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_07" ID="{60BFFD94-28DC-4391-B3DB-80395FBBB686}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_01" ID="{9478CB7E-63D0-40E2-BBC2-D964EE558BD5}" ShortID="185519765">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_01" ID="{8C4CF703-62AA-4BB6-94D2-4F2DE0AD75E1}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_01.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="437561151"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_01" ID="{8C4CF703-62AA-4BB6-94D2-4F2DE0AD75E1}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_06" ID="{9E0A2E78-A4A2-46A1-8A80-EBE48E24361D}" ShortID="556145358">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_06" ID="{5726F60E-4FD1-4BF6-AE1F-D84A4B2359EE}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_06.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="1004830685"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_06" ID="{5726F60E-4FD1-4BF6-AE1F-D84A4B2359EE}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_04" ID="{869C8B4B-CD26-44DD-AA58-FA3163ACC891}" ShortID="790381100">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_04" ID="{918BDD72-C366-413D-88D4-FDA7F1ED03BA}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_04.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="14481440"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_04" ID="{918BDD72-C366-413D-88D4-FDA7F1ED03BA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_02" ID="{AB125A79-3349-4080-A4F9-836B0B1331EB}" ShortID="824083569">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_02" ID="{26239360-948A-4697-BA2C-63C71141B86D}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_02.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="102191829"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_02" ID="{26239360-948A-4697-BA2C-63C71141B86D}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_05" ID="{B626FA67-32FF-4ED5-ADCB-27DB1AE48CB6}" ShortID="994530947">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_05" ID="{B9D17102-380A-43ED-B104-97D33EA7641D}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_05.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="789380263"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_05" ID="{B9D17102-380A-43ED-B104-97D33EA7641D}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="OBJ_Glitch_Rand_03" ID="{25D00046-654D-4327-B8CD-FDF5A3D73F53}" ShortID="673151677">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="OBJ_Glitch_Rand_03" ID="{13B3DF0F-0BE1-47EC-AC93-B76BFB8F45A9}">
+															<Language>SFX</Language>
+															<AudioFile>OBJ_Glitch_Rand_03.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="857226571"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="OBJ_Glitch_Rand_03" ID="{13B3DF0F-0BE1-47EC-AC93-B76BFB8F45A9}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</RandomSequenceContainer>
+										<Sound Name="BED_Glitches" ID="{E608FF42-0D1C-4BC2-9183-886400020F72}" ShortID="523659923">
+											<PropertyList>
+												<Property Name="3DSpatialization" Type="int16" Value="2"/>
+												<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="OBJ_Glitch_Bed" ID="{6508723B-514C-4C39-8A8F-F8031B17077C}">
+													<Language>SFX</Language>
+													<AudioFile>OBJ_Glitch_Bed.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="900977261"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="OBJ_Glitch_Bed" ID="{6508723B-514C-4C39-8A8F-F8031B17077C}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</BlendContainer>
+							</ChildrenList>
+						</ActorMixer>
 					</ChildrenList>
 				</ActorMixer>
 				<ActorMixer Name="UI" ID="{35C6E878-4FC9-4C37-B3C6-E951A106F1D3}" ShortID="565804179">
