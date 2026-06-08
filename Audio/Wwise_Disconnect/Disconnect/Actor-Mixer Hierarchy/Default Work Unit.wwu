@@ -2442,7 +2442,6 @@
 						</Sound>
 						<ActorMixer Name="OBJ_Glitches_Large" ID="{C1860CC1-13EE-41A8-87A5-B4FBC3E44A39}" ShortID="283182103">
 							<PropertyList>
-								<Property Name="3DSpatialization" Type="int16" Value="2"/>
 								<Property Name="OverridePositioning" Type="bool" Value="True"/>
 								<Property Name="Pitch" Type="int32">
 									<ModifierList>
