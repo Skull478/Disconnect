@@ -665,6 +665,11 @@
 						</Sound>
 						<BlendContainer Name="AMB_Dev" ID="{914D8A94-6A36-4900-8E04-3F462E5A44FE}" ShortID="862256206">
 							<PropertyList>
+								<Property Name="Highpass" Type="int16">
+									<ValueList>
+										<Value>29</Value>
+									</ValueList>
+								</Property>
 								<Property Name="OverrideEffect" Type="bool" Value="True"/>
 							</PropertyList>
 							<ReferenceList>
