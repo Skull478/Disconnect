@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1715916808",
+    "Type": "Event",
+    "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
+    "Language": "SFX",
+    "Hash": "{B67796BF-B2B0-038C-05B5-2C4D5FF89C42}",
+    "ObjectPath": "Play_Ending_Sound_Design",
+    "ShortName": "Play_Ending_Sound_Design",
+    "Path": "Event/Play_Ending_Sound_Design.bnk",
+    "Media": [
+     {
+      "Id": "827437005",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ending_Sound Design.wav",
+      "Path": "Media/827437005.wem",
+      "CachePath": "13/{13D466FF-8DE3-B57E-3AC4-1218D66D7A43}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1715916808",
+      "Name": "Play_Ending_Sound_Design",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Ending_Sound_Design",
+      "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
+      "MaxAttenuation": "100",
+      "DurationType": "OneShot",
+      "DurationMin": "46.88398",
+      "DurationMax": "46.88398",
+      "MediaRefs": [
+       {
+        "Id": "827437005"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7DA079A9-9EE8-A56E-BD2D-4D32CA80DEE5}"
+ }
+}
