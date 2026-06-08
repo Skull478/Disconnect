@@ -58,7 +58,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_UI_DEV_WindowOpen" ID="{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}">
+				<Event Name="Play_UI_DEV_WindowFullscreen" ID="{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}">
 					<ChildrenList>
 						<Action Name="" ID="{67C55629-C69E-4A15-8F44-82BBC67BD59A}" ShortID="926930328">
 							<ReferenceList>
@@ -86,6 +86,17 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="UI_DEV_TextCommit" ID="{DC272F14-DA01-4E96-A8AB-D17AEAEF8F92}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_WindowSmall" ID="{55FA88C9-53B9-482B-930B-7E371BEDDC9E}">
+					<ChildrenList>
+						<Action Name="" ID="{9810155C-E473-4863-99A3-0D31C7078C37}" ShortID="541883441">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_WindowClose" ID="{8EB51469-38CE-4C18-BD92-DFCF633F0515}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
