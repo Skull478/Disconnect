@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2492030258	Play_PL_Squeaks			\PlayerEvents\Play_PL_Squeaks	
+
