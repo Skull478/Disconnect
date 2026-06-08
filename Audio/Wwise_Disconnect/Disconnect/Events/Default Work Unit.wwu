@@ -142,6 +142,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_UI_Notification_Message" ID="{34299A31-63D9-43E4-A29A-48784FA9EF30}">
+					<ChildrenList>
+						<Action Name="" ID="{3CC47129-C6FA-4C58-BED5-3C4ECE8F99AE}" ShortID="936945145">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Numeric_Click" ID="{E2FFBF8C-4376-45D1-AAE8-66880C853C39}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

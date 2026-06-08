@@ -1,0 +1,96 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2033821614",
+    "Type": "Event",
+    "GUID": "{34299A31-63D9-43E4-A29A-48784FA9EF30}",
+    "Language": "SFX",
+    "Hash": "{DD727550-559A-A0CB-AA34-7CB49D1AD10B}",
+    "ObjectPath": "Play_UI_Notification_Message",
+    "ShortName": "Play_UI_Notification_Message",
+    "Path": "Event/Play_UI_Notification_Message.bnk",
+    "Media": [
+     {
+      "Id": "23604367",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Numeric_Button-004.wav",
+      "Path": "Media/23604367.wem",
+      "CachePath": "91/{918D59E4-CC17-9396-4846-B10B6DE9EE94}.wem"
+     },
+     {
+      "Id": "319254006",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Numeric_Button-002.wav",
+      "Path": "Media/319254006.wem",
+      "CachePath": "1F/{1F435FA0-450C-5B44-C52B-4E2E13DC165D}.wem"
+     },
+     {
+      "Id": "810064329",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Numeric_Button-001.wav",
+      "Path": "Media/810064329.wem",
+      "CachePath": "B5/{B5FB865F-74DA-374F-534F-2BB8492D1A72}.wem"
+     },
+     {
+      "Id": "932509751",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Numeric_Button-003.wav",
+      "Path": "Media/932509751.wem",
+      "CachePath": "D6/{D68667AF-C064-7989-9875-83BE517356C9}.wem"
+     },
+     {
+      "Id": "1068298483",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Numeric_Button-005.wav",
+      "Path": "Media/1068298483.wem",
+      "CachePath": "C5/{C58C12A8-03B8-7F0E-F4D9-3E5030BA850B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2033821614",
+      "Name": "Play_UI_Notification_Message",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_UI_Notification_Message",
+      "GUID": "{34299A31-63D9-43E4-A29A-48784FA9EF30}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "23604367"
+       },
+       {
+        "Id": "319254006"
+       },
+       {
+        "Id": "810064329"
+       },
+       {
+        "Id": "932509751"
+       },
+       {
+        "Id": "1068298483"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3E2EA528-2A3C-7866-D273-B9616578E21B}"
+ }
+}

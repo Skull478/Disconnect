@@ -1,3 +1,3 @@
 Event	ID	Name			Wwise Object Path	Notes
-	3695840428	Play_Cute_Return			\UI\Back\Play_Cute_Return	
+	3695840428	Play_Cute_Return			\UI\Back-Close\Play_Cute_Return	
 
