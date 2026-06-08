@@ -1,0 +1,204 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3625593048",
+    "Type": "Event",
+    "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
+    "Language": "SFX",
+    "Hash": "{55ED691F-0211-1573-A115-2ACF86365A48}",
+    "ObjectPath": "Play_Music_Sytem",
+    "ShortName": "Play_Music_Sytem",
+    "Path": "Event/Play_Music_Sytem.bnk",
+    "Media": [
+     {
+      "Id": "130817738",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC_Explo_Calme_Loop.wav",
+      "Path": "Media/130817738.wem",
+      "CachePath": "A2/{A2FBD2BE-51B5-2787-A6E2-548CCAB0522E}.wem"
+     },
+     {
+      "Id": "144635942",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC_Main_Explo_Loop_01.wav",
+      "Path": "Media/144635942.wem",
+      "CachePath": "A9/{A93A6091-835B-5AF8-80BA-BDD2E93B5524}.wem"
+     },
+     {
+      "Id": "329774271",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC_Main_Explo_Loop_02.wav",
+      "Path": "Media/329774271.wem",
+      "CachePath": "06/{060B9D1E-8405-795F-968C-D2C36A3ADB68}.wem"
+     },
+     {
+      "Id": "604148490",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC_Main_Explo_Loop_03.wav",
+      "Path": "Media/604148490.wem",
+      "CachePath": "90/{90AA2036-80E3-9486-D7B8-6F88ECDE497A}.wem"
+     },
+     {
+      "Id": "783952863",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC_Main_Stinger_01.wav",
+      "Path": "Media/783952863.wem",
+      "CachePath": "30/{30C9713D-7FF9-3147-42FA-F6E8C62BA8F5}.wem"
+     },
+     {
+      "Id": "902881118",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC_Virus.wav",
+      "Path": "Media/902881118.wem",
+      "CachePath": "88/{885517C3-8F2D-7136-AA1E-23C950ADD71B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3625593048",
+      "Name": "Play_Music_Sytem",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Music_Sytem",
+      "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "783952863"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082210",
+         "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "144635942"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082209",
+         "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "329774271"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082208",
+         "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "604148490"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "3783890923",
+         "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "130817738"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1088521970",
+         "GUID": "{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "902881118"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3814499265",
+      "Name": "Explo",
+      "ObjectPath": "\\States\\Default Work Unit\\Explo",
+      "GUID": "{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\None",
+        "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
+       },
+       {
+        "Id": "1088521970",
+        "Name": "State_Virus",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Virus",
+        "GUID": "{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"
+       },
+       {
+        "Id": "1652082208",
+        "Name": "State_Loop3",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop3",
+        "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
+       },
+       {
+        "Id": "1652082209",
+        "Name": "State_Loop2",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop2",
+        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+       },
+       {
+        "Id": "1652082210",
+        "Name": "State_Loop1",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop1",
+        "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+       },
+       {
+        "Id": "3783890923",
+        "Name": "State_Calme",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Calme",
+        "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{870A09C2-181F-4F6D-3D24-057B064BFA45}"
+ }
+}

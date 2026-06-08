@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{A5752A99-897B-618F-4041-39DB40A87BC1}",
+    "Hash": "{35994AAC-4C14-BA4F-3AD1-23A34B8D17F2}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -85,6 +85,52 @@
       "Name": "Dev_Sidechain",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Dev_Sidechain",
       "GUID": "{A073FD9C-F831-4A03-B944-98557D626CFC}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3814499265",
+      "Name": "Explo",
+      "ObjectPath": "\\States\\Default Work Unit\\Explo",
+      "GUID": "{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\None",
+        "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
+       },
+       {
+        "Id": "1088521970",
+        "Name": "State_Virus",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Virus",
+        "GUID": "{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"
+       },
+       {
+        "Id": "1652082208",
+        "Name": "State_Loop3",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop3",
+        "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
+       },
+       {
+        "Id": "1652082209",
+        "Name": "State_Loop2",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop2",
+        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+       },
+       {
+        "Id": "1652082210",
+        "Name": "State_Loop1",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop1",
+        "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+       },
+       {
+        "Id": "3783890923",
+        "Name": "State_Calme",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Calme",
+        "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+       }
+      ]
      }
     ],
     "SwitchGroups": [
@@ -191,6 +237,6 @@
     ]
    }
   ],
-  "FileHash": "{4D7E6E95-9D23-C275-CC29-484527DBC096}"
+  "FileHash": "{7AF577BE-6ED7-08B9-014D-9A8AC273FBD7}"
  }
 }

@@ -49,6 +49,21 @@
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>
+				<SoundcasterSession Name="Music_System" ID="{D91C3E06-37A9-460C-ABFD-801DE0E40DA5}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="State_Calme" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundcasterSessions>
