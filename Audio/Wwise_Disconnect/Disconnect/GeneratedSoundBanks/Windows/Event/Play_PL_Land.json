@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "472250406",
+    "Type": "Event",
+    "GUID": "{3D4F556B-1E95-4E18-AFE1-D0C16425A313}",
+    "Language": "SFX",
+    "Hash": "{4D0C96EE-35D4-00D4-C7DD-92CC35A8A5F0}",
+    "ObjectPath": "Play_PL_Land",
+    "ShortName": "Play_PL_Land",
+    "Path": "Event/Play_PL_Land.bnk",
+    "Media": [
+     {
+      "Id": "253892158",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PL_Land.wav",
+      "Path": "Media/253892158.wem",
+      "CachePath": "9A/{9ABB3B9F-C024-FABC-297D-C8904E73016C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "472250406",
+      "Name": "Play_PL_Land",
+      "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Land",
+      "GUID": "{3D4F556B-1E95-4E18-AFE1-D0C16425A313}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.0933123",
+      "DurationMax": "4.0933123",
+      "MediaRefs": [
+       {
+        "Id": "253892158"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B0BD87A1-74D7-F413-D275-3676757F5DB0}"
+ }
+}

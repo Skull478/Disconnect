@@ -25,6 +25,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_PL_Land" ID="{3D4F556B-1E95-4E18-AFE1-D0C16425A313}">
+					<ChildrenList>
+						<Action Name="" ID="{2DC32963-1AF1-4BF5-A617-6933831CAEB1}" ShortID="363737671">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PL_Land" ID="{84F29B45-FFA7-48AC-96D3-E5AFC498DC54}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_PL_Jump" ID="{71037470-F19F-46AA-A501-551A4117E222}">
+					<ChildrenList>
+						<Action Name="" ID="{355D8506-E5BA-4B24-B758-791F831FDEC9}" ShortID="585752970">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PL_Jump" ID="{260B5590-5E26-4DEA-A9AC-67C1DB3A59BC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_PL_Squeaks" ID="{08F66416-7ADE-450C-B01F-CF1555D3DA12}">
+					<ChildrenList>
+						<Action Name="" ID="{6B998EDD-8F3A-49FC-803E-2BB91376B605}" ShortID="192704324">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PL_Squeaks" ID="{B1FB26A2-CFE9-4589-A524-64C91D40E3E2}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
