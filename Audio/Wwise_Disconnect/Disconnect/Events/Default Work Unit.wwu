@@ -131,6 +131,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Ending_Sound_Design" ID="{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}">
+					<ChildrenList>
+						<Action Name="" ID="{5EA93E72-7929-4804-B2E3-23F6195478AC}" ShortID="626658042">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ending_Sound Design" ID="{726B46BC-24F1-43B1-B920-C726A25E86E6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Notification_Message" ID="{34299A31-63D9-43E4-A29A-48784FA9EF30}">
+					<ChildrenList>
+						<Action Name="" ID="{3CC47129-C6FA-4C58-BED5-3C4ECE8F99AE}" ShortID="936945145">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Numeric_Click" ID="{E2FFBF8C-4376-45D1-AAE8-66880C853C39}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

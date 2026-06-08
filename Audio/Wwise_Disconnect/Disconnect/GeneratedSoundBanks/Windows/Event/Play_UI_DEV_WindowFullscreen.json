@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "2790472575",
+    "Id": "3464346004",
     "Type": "Event",
     "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
     "Language": "SFX",
-    "Hash": "{951DFC6F-ABA2-03CF-2222-D3091425FBEE}",
-    "ObjectPath": "Play_UI_DEV_WindowOpen",
-    "ShortName": "Play_UI_DEV_WindowOpen",
-    "Path": "Event/Play_UI_DEV_WindowOpen.bnk",
+    "Hash": "{9593233B-E96E-E6FC-EA6D-71338A344226}",
+    "ObjectPath": "Play_UI_DEV_WindowFullscreen",
+    "ShortName": "Play_UI_DEV_WindowFullscreen",
+    "Path": "Event/Play_UI_DEV_WindowFullscreen.bnk",
     "Media": [
      {
       "Id": "753095778",
@@ -27,9 +27,9 @@
     ],
     "Events": [
      {
-      "Id": "2790472575",
-      "Name": "Play_UI_DEV_WindowOpen",
-      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowOpen",
+      "Id": "3464346004",
+      "Name": "Play_UI_DEV_WindowFullscreen",
+      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowFullscreen",
       "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
       "DurationType": "OneShot",
       "DurationMin": "0.111854166",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{D6A25744-550A-59E6-C5C8-6AEAD4DA1BF4}"
+  "FileHash": "{7F39F9FC-4CC1-FF48-B91A-BF020A30B23E}"
  }
 }
