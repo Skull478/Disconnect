@@ -162,6 +162,13 @@
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Arrows" ID="{CAD33D2D-F19F-4303-91BF-CBE0DE2D6195}" ShortID="863959547">
+					<PropertyList>
+						<Property Name="Inclusion" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ChildrenList>
 						<Event Name="Play_UI_Arrow_Down" ID="{063B0B4D-5701-4A75-9EBC-935B2C852237}">
 							<ChildrenList>
@@ -200,17 +207,6 @@
 				</Folder>
 				<Folder Name="Back-Close" ID="{C4C7B149-C124-403E-A78B-7DBB7C66E26F}" ShortID="388479337">
 					<ChildrenList>
-						<Event Name="Play_Back_Error" ID="{F496C008-03D8-4272-A7EB-394CACE6D7D5}">
-							<ChildrenList>
-								<Action Name="" ID="{DA78B4C7-97EB-447E-A2EE-9F98A6ABA487}" ShortID="97727815">
-									<ReferenceList>
-										<Reference Name="Target">
-											<ObjectRef Name="UI_Back_Error" ID="{B32A95A3-4EAB-40BD-B552-95EC6FC5B8EC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
-										</Reference>
-									</ReferenceList>
-								</Action>
-							</ChildrenList>
-						</Event>
 						<Event Name="Play_Cute_Return" ID="{90F308D9-4FBD-4321-9CA9-C31F8862A929}">
 							<ChildrenList>
 								<Action Name="" ID="{C37D6902-4FA9-42BD-BBAB-6AB95457297F}" ShortID="864690624">
@@ -302,22 +298,14 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
-				<Folder Name="Release" ID="{C1B0398E-6CDE-4435-816D-172871805EB3}" ShortID="812345756">
-					<ChildrenList>
-						<Event Name="Play_UI_Release_Pop" ID="{CF97E817-86AC-4B2C-8DF3-3D38D69E21F0}">
-							<ChildrenList>
-								<Action Name="" ID="{F714A627-9C2D-4D08-8568-D2F449FC4587}" ShortID="727071004">
-									<ReferenceList>
-										<Reference Name="Target">
-											<ObjectRef Name="Release_Pop" ID="{8C789C4D-9FEC-4B8E-99E3-859AA77632D6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
-										</Reference>
-									</ReferenceList>
-								</Action>
-							</ChildrenList>
-						</Event>
-					</ChildrenList>
-				</Folder>
 				<Folder Name="Validations" ID="{B1C3987B-D4A7-4824-9073-0C093D90885C}" ShortID="866250709">
+					<PropertyList>
+						<Property Name="Inclusion" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ChildrenList>
 						<Event Name="Play_UI_Validation" ID="{12D527F8-A4CC-413C-9C43-8A88664EB97F}">
 							<ChildrenList>

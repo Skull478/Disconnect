@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "993119454",
+    "Type": "Event",
+    "GUID": "{376B0EC4-FCB2-4D75-A2B5-0A9603FB12FA}",
+    "Language": "SFX",
+    "Hash": "{1DF9F458-7840-2233-C37D-AD3BD6889002}",
+    "ObjectPath": "Play_INT_Gen_Success",
+    "ShortName": "Play_INT_Gen_Success",
+    "Path": "Event/Play_INT_Gen_Success.bnk",
+    "Media": [
+     {
+      "Id": "335144125",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Gen_interact.wav",
+      "Path": "Media/335144125.wem",
+      "CachePath": "39/{397CB06E-297F-24E2-BCC4-62FDF6C2CC22}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "993119454",
+      "Name": "Play_INT_Gen_Success",
+      "ObjectPath": "\\Events\\PlayerEvents\\Play_INT_Gen_Success",
+      "GUID": "{376B0EC4-FCB2-4D75-A2B5-0A9603FB12FA}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.9166667",
+      "DurationMax": "0.9166667",
+      "MediaRefs": [
+       {
+        "Id": "335144125"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F2979923-5DB9-8561-129C-8D03CFCFE90F}"
+ }
+}

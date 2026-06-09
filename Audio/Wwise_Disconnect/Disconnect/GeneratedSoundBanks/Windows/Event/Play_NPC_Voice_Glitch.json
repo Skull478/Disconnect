@@ -1,0 +1,109 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1364213772",
+    "Type": "Event",
+    "GUID": "{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}",
+    "Language": "SFX",
+    "Hash": "{6B789F1A-09FB-B31D-8288-F95EAF17BE86}",
+    "ObjectPath": "Play_NPC_Voice_Glitch",
+    "ShortName": "Play_NPC_Voice_Glitch",
+    "Path": "Event/Play_NPC_Voice_Glitch.bnk",
+    "Media": [
+     {
+      "Id": "219679776",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "npc_voice_glitch_06.wav",
+      "Path": "Media/219679776.wem",
+      "CachePath": "40/{40723214-78D9-30A2-7867-C8A6718B9271}.wem"
+     },
+     {
+      "Id": "251369318",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "npc_voice_glitch_02.wav",
+      "Path": "Media/251369318.wem",
+      "CachePath": "89/{897F4C81-F26E-95C0-95A5-8509F8B82EDF}.wem"
+     },
+     {
+      "Id": "532942512",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "npc_voice_glitch_05.wav",
+      "Path": "Media/532942512.wem",
+      "CachePath": "CC/{CCF1A86E-AF91-CA3F-5917-5B2083EB9B6C}.wem"
+     },
+     {
+      "Id": "543999731",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "npc_voice_glitch_03.wav",
+      "Path": "Media/543999731.wem",
+      "CachePath": "47/{47889E64-CF6D-242C-D413-DE89B70063C2}.wem"
+     },
+     {
+      "Id": "582965704",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "npc_voice_glitch_04.wav",
+      "Path": "Media/582965704.wem",
+      "CachePath": "B6/{B6F00DDC-7996-1CC2-EB90-6925163ABF61}.wem"
+     },
+     {
+      "Id": "589863346",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "npc_voice_glitch_01.wav",
+      "Path": "Media/589863346.wem",
+      "CachePath": "71/{711CA511-9B4A-E599-618A-32CA35E6238A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1364213772",
+      "Name": "Play_NPC_Voice_Glitch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_NPC_Voice_Glitch",
+      "GUID": "{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.73969847",
+      "DurationMax": "1.3989949",
+      "MediaRefs": [
+       {
+        "Id": "219679776"
+       },
+       {
+        "Id": "251369318"
+       },
+       {
+        "Id": "532942512"
+       },
+       {
+        "Id": "543999731"
+       },
+       {
+        "Id": "582965704"
+       },
+       {
+        "Id": "589863346"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{18011FC9-5736-BA05-80AF-D5262982AED7}"
+ }
+}

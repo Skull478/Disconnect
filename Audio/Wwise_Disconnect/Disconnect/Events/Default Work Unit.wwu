@@ -164,6 +164,72 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_NPC_Voice_Glitch" ID="{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}">
+					<ChildrenList>
+						<Action Name="" ID="{4B057DE1-E699-4397-AE40-24E32950DFBA}" ShortID="851809526">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NPC_Voice_Glitch" ID="{5C7EF617-69A2-4B4E-8CDC-B858209163EC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Capsule" ID="{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}">
+					<ChildrenList>
+						<Action Name="" ID="{DCBA7940-51B3-46C0-8A8C-361EFC7EDA13}" ShortID="932688751">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_EnergyCells" ID="{08F3330D-F0FA-4A63-870A-9D9910D3396B}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Virus" ID="{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}">
+					<ChildrenList>
+						<Action Name="" ID="{A0E832E4-F5F1-44E1-878C-67AE7E99652B}" ShortID="359311617">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Virus" ID="{F0D099AA-05B7-487D-9714-AD8835D9FED7}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Cells_Load" ID="{826FA657-823C-4836-A09A-3478EAC33C00}">
+					<ChildrenList>
+						<Action Name="" ID="{1E3438EB-DACD-4949-B253-AF403A86D2FD}" ShortID="740209776">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Cells_Load" ID="{183E6900-B751-4AD5-8C40-8EE799DC159E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Cable_Plug" ID="{428BC1F4-C79B-477A-95AC-F8352C7A4090}">
+					<ChildrenList>
+						<Action Name="" ID="{9EC43A35-CBA4-4143-9388-6BB48F0BFF20}" ShortID="221297097">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Cable_Plug" ID="{30DEAA5E-E3E7-4F6D-8B3B-E78A7A983E53}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INTERACT_Cable_Tension" ID="{F8780E07-9950-45A2-A101-E388FC187CE4}">
+					<ChildrenList>
+						<Action Name="" ID="{45186BC4-5527-4F43-9916-22187D62B746}" ShortID="816396281">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INTERACT_Cable_Tension" ID="{5B3FF71B-53EF-4F19-BBFE-7B4F1C733D26}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

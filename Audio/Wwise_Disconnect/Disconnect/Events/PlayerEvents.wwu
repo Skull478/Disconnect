@@ -14,7 +14,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_INT_Gen_interact" ID="{376B0EC4-FCB2-4D75-A2B5-0A9603FB12FA}">
+				<Event Name="Play_INT_Gen_Success" ID="{376B0EC4-FCB2-4D75-A2B5-0A9603FB12FA}">
 					<ChildrenList>
 						<Action Name="" ID="{FDFD0646-19E4-40A9-B473-643555AD2817}" ShortID="409574464">
 							<ReferenceList>

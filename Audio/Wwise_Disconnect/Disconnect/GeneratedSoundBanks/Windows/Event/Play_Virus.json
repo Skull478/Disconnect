@@ -1,0 +1,175 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3256576569",
+    "Type": "Event",
+    "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
+    "Language": "SFX",
+    "Hash": "{CD42E579-FCC1-477A-DCBF-F28B24DFD512}",
+    "ObjectPath": "Play_Virus",
+    "ShortName": "Play_Virus",
+    "Path": "Event/Play_Virus.bnk",
+    "Media": [
+     {
+      "Id": "75453689",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_07.wav",
+      "Path": "Media/75453689.wem",
+      "CachePath": "6F/{6FF7B757-54AA-542E-37CD-CE801787DEA0}.wem"
+     },
+     {
+      "Id": "101878364",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_01.wav",
+      "Path": "Media/101878364.wem",
+      "CachePath": "53/{5301D312-7177-694A-ED52-393BECDA72E9}.wem"
+     },
+     {
+      "Id": "186083237",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_03.wav",
+      "Path": "Media/186083237.wem",
+      "CachePath": "9D/{9D55B9E4-B809-6E7E-2764-6AB745CA5B9C}.wem"
+     },
+     {
+      "Id": "252559364",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_08.wav",
+      "Path": "Media/252559364.wem",
+      "CachePath": "B2/{B2464437-719B-DDFC-B72E-1054DA2FBE9D}.wem"
+     },
+     {
+      "Id": "266732956",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_04.wav",
+      "Path": "Media/266732956.wem",
+      "CachePath": "40/{40954865-1B2C-F29E-AA1E-5EAEE20F0BDE}.wem"
+     },
+     {
+      "Id": "614963713",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_05.wav",
+      "Path": "Media/614963713.wem",
+      "CachePath": "3F/{3F68435E-1BDC-1018-0635-3E9A6EAC880A}.wem"
+     },
+     {
+      "Id": "702701239",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_10.wav",
+      "Path": "Media/702701239.wem",
+      "CachePath": "CE/{CEE60B24-F8E8-E8F7-C24A-3C9FBB024D74}.wem"
+     },
+     {
+      "Id": "826094413",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_06.wav",
+      "Path": "Media/826094413.wem",
+      "CachePath": "55/{55DCDF37-7D68-6F96-E250-29D1D29DF432}.wem"
+     },
+     {
+      "Id": "1029446104",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_02.wav",
+      "Path": "Media/1029446104.wem",
+      "CachePath": "D2/{D2993646-8A6C-61DA-13B3-CB5B21B0D491}.wem"
+     },
+     {
+      "Id": "1030932267",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Error_Virus_Plucks_09.wav",
+      "Path": "Media/1030932267.wem",
+      "CachePath": "D8/{D89CC6B6-9A79-8B70-1C75-7FDEE3593CB2}.wem"
+     }
+    ],
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "602546716",
+       "Name": "Room_Large",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Large",
+       "GUID": "{AD8EFAFC-7121-4D5F-BE4D-B13FBD6CEBAE}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "3256576569",
+      "Name": "Play_Virus",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Virus",
+      "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
+      "DurationType": "OneShot",
+      "DurationMin": "1",
+      "DurationMax": "1",
+      "MediaRefs": [
+       {
+        "Id": "75453689"
+       },
+       {
+        "Id": "101878364"
+       },
+       {
+        "Id": "186083237"
+       },
+       {
+        "Id": "252559364"
+       },
+       {
+        "Id": "266732956"
+       },
+       {
+        "Id": "614963713"
+       },
+       {
+        "Id": "702701239"
+       },
+       {
+        "Id": "826094413"
+       },
+       {
+        "Id": "1029446104"
+       },
+       {
+        "Id": "1030932267"
+       }
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "602546716"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{68198C99-1540-5C18-2DAC-A49A843A368C}"
+ }
+}

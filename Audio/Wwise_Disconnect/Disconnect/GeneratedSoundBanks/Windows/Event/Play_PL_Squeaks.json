@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{08F66416-7ADE-450C-B01F-CF1555D3DA12}",
     "Language": "SFX",
-    "Hash": "{75FFACEA-C19D-0697-331A-61588AC5E27A}",
+    "Hash": "{EE317BC7-7F27-44B3-3895-B1D334F95C45}",
     "ObjectPath": "Play_PL_Squeaks",
     "ShortName": "Play_PL_Squeaks",
     "Path": "Event/Play_PL_Squeaks.bnk",
@@ -70,6 +70,18 @@
       "CachePath": "2D/{2D9D272C-3F69-0AFA-32CB-6923B71C7F64}.wem"
      }
     ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "267949347",
+       "Name": "Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\PLAYER\\PL_Squeaks\\New Silence\\Silence",
+       "GUID": "{B8B76C7F-FF0D-4BB0-838C-39783A40CBC4}",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      }
+     ]
+    },
     "Events": [
      {
       "Id": "2492030258",
@@ -77,8 +89,8 @@
       "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Squeaks",
       "GUID": "{08F66416-7ADE-450C-B01F-CF1555D3DA12}",
       "DurationType": "OneShot",
-      "DurationMin": "0.36",
-      "DurationMax": "0.65370834",
+      "DurationMin": "0.23343113",
+      "DurationMax": "1",
       "MediaRefs": [
        {
         "Id": "17787399"
@@ -98,11 +110,18 @@
        {
         "Id": "953216799"
        }
-      ]
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "267949347"
+        }
+       ]
+      }
      }
     ]
    }
   ],
-  "FileHash": "{0B926CDA-0F58-A303-3046-DFF4087D216B}"
+  "FileHash": "{22AD7673-7077-AB43-0747-F53B4CC6991A}"
  }
 }

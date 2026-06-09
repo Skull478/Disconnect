@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "140116446",
+    "Type": "Event",
+    "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
+    "Language": "SFX",
+    "Hash": "{DFD7051B-A8E8-CD2B-42BC-C44717A38891}",
+    "ObjectPath": "Play_INT_Cable_Plug",
+    "ShortName": "Play_INT_Cable_Plug",
+    "Path": "Event/Play_INT_Cable_Plug.bnk",
+    "Media": [
+     {
+      "Id": "771899395",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Cable_Plug.wav",
+      "Path": "Media/771899395.wem",
+      "CachePath": "B4/{B49C5525-55DF-0B0D-6A4E-5F077FBB41A1}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "140116446",
+      "Name": "Play_INT_Cable_Plug",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_INT_Cable_Plug",
+      "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.24068147",
+      "DurationMax": "0.5481707",
+      "MediaRefs": [
+       {
+        "Id": "771899395"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A0F7FCEF-4AF4-37FB-BF7E-28D9EC3EFE97}"
+ }
+}

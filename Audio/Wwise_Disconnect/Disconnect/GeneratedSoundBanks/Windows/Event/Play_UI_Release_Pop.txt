@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3109969018	Play_UI_Release_Pop			\UI\Release\Play_UI_Release_Pop	
-
