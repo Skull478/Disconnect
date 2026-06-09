@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3625593048	Play_Music_Sytem			\Default Work Unit\Play_Music_Sytem	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3814499265	Explo			\Default Work Unit\Explo	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Explo			
+	1088521970	State_Virus	Explo			
+	1652082208	State_Loop3	Explo			
+	1652082209	State_Loop2	Explo			
+	1652082210	State_Loop1	Explo			
+	3783890923	State_Calme	Explo			
+

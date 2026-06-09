@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{71037470-F19F-46AA-A501-551A4117E222}",
     "Language": "SFX",
-    "Hash": "{437B6E06-D4A1-72B6-3C22-4BCBDFF9B05D}",
+    "Hash": "{B1C2C765-3D62-AE61-3420-974FC9BBCE0E}",
     "ObjectPath": "Play_PL_Jump",
     "ShortName": "Play_PL_Jump",
     "Path": "Event/Play_PL_Jump.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "PL_Jump.wav",
       "Path": "Media/953768280.wem",
-      "CachePath": "AD/{AD485F84-0EF7-1C36-265B-4F010067990E}.wem"
+      "CachePath": "D0/{D06CAEE0-9BCB-9244-BC7D-8EDEF00B20BD}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{F16AE23A-FCE2-FEC2-8989-E85FE3991419}"
+  "FileHash": "{4F2EA07F-0254-9D30-89B7-C9E7BF9DDB2A}"
  }
 }
