@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3EDA5FA8-3D1A-4C2B-A4DF-2F239477C7EC}",
     "Language": "SFX",
-    "Hash": "{A24C8528-77D6-BA42-4E7F-EBD397C885C2}",
+    "Hash": "{B14B873F-C8A9-8812-C8C5-B5FD1DC115EA}",
     "ObjectPath": "Play_UI_Tactile_Click",
     "ShortName": "Play_UI_Tactile_Click",
     "Path": "Event/Play_UI_Tactile_Click.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{570DEAE6-9BD6-E64A-55FC-199D00A84E40}"
+  "FileHash": "{CCF2D041-55E4-5141-EF83-C922ADED2F55}"
  }
 }

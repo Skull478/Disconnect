@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AE800DBA-797E-4164-9312-7A409FB159C5}",
     "Language": "SFX",
-    "Hash": "{93E6F109-0ACA-0F91-3453-99E48CC2051C}",
+    "Hash": "{14099E36-8F55-B2CD-693B-3C0D0182B973}",
     "ObjectPath": "Play_UI_Disabled_Click",
     "ShortName": "Play_UI_Disabled_Click",
     "Path": "Event/Play_UI_Disabled_Click.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{240F4289-7F1A-A598-3617-6DFF848EA423}"
+  "FileHash": "{36988FBB-003D-A8D5-1714-ACE7A95B943C}"
  }
 }

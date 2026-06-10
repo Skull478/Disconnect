@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{34299A31-63D9-43E4-A29A-48784FA9EF30}",
     "Language": "SFX",
-    "Hash": "{DD727550-559A-A0CB-AA34-7CB49D1AD10B}",
+    "Hash": "{DB187AF1-92C4-FEF1-9B29-3277E1D22411}",
     "ObjectPath": "Play_UI_Notification_Message",
     "ShortName": "Play_UI_Notification_Message",
     "Path": "Event/Play_UI_Notification_Message.bnk",
@@ -91,6 +91,6 @@
     ]
    }
   ],
-  "FileHash": "{3E2EA528-2A3C-7866-D273-B9616578E21B}"
+  "FileHash": "{26CDCE1F-AEE9-6914-A3F4-05D7760E67A0}"
  }
 }

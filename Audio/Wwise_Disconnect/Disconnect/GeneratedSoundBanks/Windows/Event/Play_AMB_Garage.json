@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}",
     "Language": "SFX",
-    "Hash": "{E8CB9B19-1371-74EB-CE0B-4BDB14FBB4F1}",
+    "Hash": "{3B9561DE-2B5C-1ABA-65C7-891CE01D2891}",
     "ObjectPath": "Play_AMB_Garage",
     "ShortName": "Play_AMB_Garage",
     "Path": "Event/Play_AMB_Garage.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{73845EBB-7965-805D-9FFA-76DBFAE1B58D}"
+  "FileHash": "{2154FD82-7B8C-4EDF-CD36-53F2B4EE562A}"
  }
 }

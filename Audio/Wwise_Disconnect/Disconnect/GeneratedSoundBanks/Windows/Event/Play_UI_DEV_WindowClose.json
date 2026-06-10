@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
     "Language": "SFX",
-    "Hash": "{93A5EDA6-CDBE-E4B7-D76C-7792115674C4}",
+    "Hash": "{E8C9E9E2-AD4A-5708-4E5A-2ECCE25E4CD8}",
     "ObjectPath": "Play_UI_DEV_WindowClose",
     "ShortName": "Play_UI_DEV_WindowClose",
     "Path": "Event/Play_UI_DEV_WindowClose.bnk",
@@ -40,6 +40,7 @@
       "Name": "Play_UI_DEV_WindowClose",
       "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowClose",
       "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.3213125",
       "DurationMax": "0.32395834",
@@ -55,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{8EBB5222-B73C-61A8-C98E-AECDBDA91544}"
+  "FileHash": "{A1E6EC92-4A96-CE5D-1175-B3BD7F5420A2}"
  }
 }

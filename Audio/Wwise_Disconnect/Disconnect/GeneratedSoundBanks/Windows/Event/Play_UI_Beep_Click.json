@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A57255FE-B860-4952-BBC5-1E1B011D31FF}",
     "Language": "SFX",
-    "Hash": "{96643258-0432-2F5A-EDF2-9FF29C9711BF}",
+    "Hash": "{A902D174-25AB-C39A-6EAB-D6CBAA272B33}",
     "ObjectPath": "Play_UI_Beep_Click",
     "ShortName": "Play_UI_Beep_Click",
     "Path": "Event/Play_UI_Beep_Click.bnk",
@@ -55,6 +55,6 @@
     ]
    }
   ],
-  "FileHash": "{E57E5A11-21CA-90BC-716A-9922E3FF9CB3}"
+  "FileHash": "{63C85749-398A-1333-9969-0B6D1FBBA4F6}"
  }
 }

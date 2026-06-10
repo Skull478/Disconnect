@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{376B0EC4-FCB2-4D75-A2B5-0A9603FB12FA}",
     "Language": "SFX",
-    "Hash": "{1DF9F458-7840-2233-C37D-AD3BD6889002}",
+    "Hash": "{56D186F4-CF9B-68FE-8806-2A02177DE553}",
     "ObjectPath": "Play_INT_Gen_Success",
     "ShortName": "Play_INT_Gen_Success",
     "Path": "Event/Play_INT_Gen_Success.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{F2979923-5DB9-8561-129C-8D03CFCFE90F}"
+  "FileHash": "{7E4428E2-C540-EE43-1EA5-EEE1A50A4C66}"
  }
 }

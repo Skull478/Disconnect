@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{27EFCA95-450E-4B28-BAF3-CEBE8A238353}",
     "Language": "SFX",
-    "Hash": "{51FE0AAC-4434-D4E1-8877-4AB5D6F17B13}",
+    "Hash": "{EF7EBB03-2BBC-99CD-5C8C-B10A34145F43}",
     "ObjectPath": "Play_UI_MainMenu_Init",
     "ShortName": "Play_UI_MainMenu_Init",
     "Path": "Event/Play_UI_MainMenu_Init.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{5AD6282D-A9C1-0451-5644-EB85B2CE5750}"
+  "FileHash": "{E84F62F3-8E76-7081-F8E4-EA209F9635CA}"
  }
 }

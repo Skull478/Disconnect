@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
     "Language": "SFX",
-    "Hash": "{533892F8-CAC8-A683-9A74-102747DBBE2F}",
+    "Hash": "{320F8C46-2E59-53A4-FBC6-5343D26D8B39}",
     "ObjectPath": "Play_OBJ_Oil_Spray",
     "ShortName": "Play_OBJ_Oil_Spray",
     "Path": "Event/Play_OBJ_Oil_Spray.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{FE69B1F5-3F21-F19E-04A6-7A328681CA43}"
+  "FileHash": "{CB086D3A-2BB9-4BE1-85CB-A536FC0E2073}"
  }
 }

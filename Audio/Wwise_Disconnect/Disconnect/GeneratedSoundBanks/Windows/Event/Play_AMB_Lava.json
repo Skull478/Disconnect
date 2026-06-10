@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3906149303",
+    "Type": "Event",
+    "GUID": "{13DFBB45-AD64-4A23-BCED-7A3E87C97BFA}",
+    "Language": "SFX",
+    "Hash": "{9C9D3520-FD57-DF84-AC82-B0D0A5832F15}",
+    "ObjectPath": "Play_AMB_Lava",
+    "ShortName": "Play_AMB_Lava",
+    "Path": "Event/Play_AMB_Lava.bnk",
+    "Media": [
+     {
+      "Id": "965403516",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Lava.wav",
+      "Path": "Media/965403516.wem",
+      "CachePath": "CD/{CD7CF911-7CBC-1601-22FB-212FA91964B2}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3906149303",
+      "Name": "Play_AMB_Lava",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_AMB_Lava",
+      "GUID": "{13DFBB45-AD64-4A23-BCED-7A3E87C97BFA}",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "965403516"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B986DEA3-22FA-A047-88F2-3430F561B35B}"
+ }
+}

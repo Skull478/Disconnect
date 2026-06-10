@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{21BB3D48-60F5-4ECB-8594-4E68607BE6D1}",
     "Language": "SFX",
-    "Hash": "{F27F3D44-29B7-BF45-6B00-3E1215E91F76}",
+    "Hash": "{A6D34559-54DA-9C4E-6E7A-D094AC74D709}",
     "ObjectPath": "Play_UI_Clock_Click",
     "ShortName": "Play_UI_Clock_Click",
     "Path": "Event/Play_UI_Clock_Click.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{A8BFCC4B-991E-510B-23AD-D6CC16BF6787}"
+  "FileHash": "{0525C668-3206-3521-0F80-F0235C2A8F81}"
  }
 }

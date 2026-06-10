@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{58D1D864-42CA-4D37-B6F9-31A68746DF13}",
     "Language": "SFX",
-    "Hash": "{1B20CFF9-B2D7-A417-A409-3BD0832A7684}",
+    "Hash": "{71B4EC43-144B-FAC8-9528-EB3D689BED15}",
     "ObjectPath": "Play_Glitch_Med",
     "ShortName": "Play_Glitch_Med",
     "Path": "Event/Play_Glitch_Med.bnk",
@@ -150,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{7B42993C-4FB8-D344-A8C6-195C5FFF8FBF}"
+  "FileHash": "{3ED45B19-666A-CA6A-D7EF-4E8427E82B52}"
  }
 }

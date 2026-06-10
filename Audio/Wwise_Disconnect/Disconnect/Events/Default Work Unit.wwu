@@ -230,6 +230,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_UI_DEV_ClearText" ID="{57E018EE-A82E-43FB-BF4E-DDD91DD5B622}">
+					<ChildrenList>
+						<Action Name="" ID="{EFE2C2D0-1A40-445D-9801-7D23F5577A83}" ShortID="641973064">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_ClearText" ID="{846CF490-B4D2-4952-A630-ED41DEFA00CF}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_Lava" ID="{13DFBB45-AD64-4A23-BCED-7A3E87C97BFA}">
+					<ChildrenList>
+						<Action Name="" ID="{EBD9A165-2D91-4B53-955B-274C23A212E2}" ShortID="151788181">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Lava" ID="{963FF6AB-2E31-4BE8-8C9A-ED51CF8D81CB}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

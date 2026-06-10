@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{070F6CE0-C4AC-4AB1-89C6-5E79EE283C27}",
     "Language": "SFX",
-    "Hash": "{81297B84-1BE2-8079-F32F-DAC7411490AB}",
+    "Hash": "{6988D976-0209-0086-2564-219EBCFCFB83}",
     "ObjectPath": "Play_UI_Hard_Button_Click",
     "ShortName": "Play_UI_Hard_Button_Click",
     "Path": "Event/Play_UI_Hard_Button_Click.bnk",
@@ -103,6 +103,6 @@
     ]
    }
   ],
-  "FileHash": "{E4F92F42-12EB-9E19-95B6-6AB82B24AF07}"
+  "FileHash": "{0DBA8168-B1DA-6ECE-CFF9-C4E1B922A8EB}"
  }
 }
