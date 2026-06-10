@@ -252,6 +252,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_OBJ_FireBarell" ID="{F133DD31-E286-4CFA-AACB-DDF2815BB761}">
+					<ChildrenList>
+						<Action Name="" ID="{537D6055-40BD-4539-9101-7B445F5A48D0}" ShortID="929149196">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_FireBarell" ID="{C59AEACD-EA76-4540-A451-7BB5DB70DF5A}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

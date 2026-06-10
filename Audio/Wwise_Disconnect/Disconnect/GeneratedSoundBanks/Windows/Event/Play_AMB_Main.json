@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{06C919E1-4ED1-4537-B3E0-60678D3B203F}",
     "Language": "SFX",
-    "Hash": "{0518B3F3-BCEF-CB35-F524-AA358564F1ED}",
+    "Hash": "{3B674F98-43C7-7032-6286-9877C72DBC97}",
     "ObjectPath": "Play_AMB_Main",
     "ShortName": "Play_AMB_Main",
     "Path": "Event/Play_AMB_Main.bnk",
@@ -294,6 +294,6 @@
     ]
    }
   ],
-  "FileHash": "{CD14658F-47FB-AF45-E56C-2AFF65DC6A40}"
+  "FileHash": "{7F3509F8-33F7-F6F1-9E61-0B72B6A844F0}"
  }
 }
