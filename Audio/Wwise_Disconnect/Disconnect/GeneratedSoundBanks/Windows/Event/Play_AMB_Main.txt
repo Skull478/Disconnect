@@ -2,6 +2,6 @@ Event	ID	Name			Wwise Object Path	Notes
 	1871703286	Play_AMB_Main			\AMB\Play_AMB_Main	
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
-	796839688	AMB_Main_Roomtone	C:\Users\simeo\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\3F\{3F5A8CA9-6660-E59D-B2C8-6169A9594D45}.wem	796839688.wem	\Actor-Mixer Hierarchy\Default Work Unit\AMBIANCE\AMB_Main_Roomtone	
-	830571104	AMB_Main_RandomSounds-021	C:\Users\simeo\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\A7\{A73AFA73-1A4F-93D1-7420-5BBF1292F0F4}.wem	830571104.wem	\Actor-Mixer Hierarchy\Default Work Unit\AMBIANCE\AMB_Main_RandomSounds\AMB_Main_RandomSounds-021	
+	796839688	AMB_Main_Roomtone	D:\Documents\GitReps\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\3F\{3F5A8CA9-6660-E59D-B2C8-6169A9594D45}.wem	796839688.wem	\Actor-Mixer Hierarchy\Default Work Unit\AMBIANCE\AMB_Main_Roomtone	
+	830571104	AMB_Main_RandomSounds-021	D:\Documents\GitReps\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\A7\{A73AFA73-1A4F-93D1-7420-5BBF1292F0F4}.wem	830571104.wem	\Actor-Mixer Hierarchy\Default Work Unit\AMBIANCE\AMB_Main_RandomSounds\AMB_Main_RandomSounds-021	
 

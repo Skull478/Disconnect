@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{402C189E-19CC-38D1-62C5-288EA2282E75}",
+    "Hash": "{5888DC5D-9916-B458-0B8A-9CAF97561D1C}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -199,6 +199,6 @@
     ]
    }
   ],
-  "FileHash": "{B097DE44-9DD7-06D4-9618-B5C058DA2AE8}"
+  "FileHash": "{85D64309-C31E-60AB-B54F-220AC6EC13AB}"
  }
 }

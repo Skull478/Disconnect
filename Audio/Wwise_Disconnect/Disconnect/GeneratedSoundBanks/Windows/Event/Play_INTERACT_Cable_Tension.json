@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
     "Language": "SFX",
-    "Hash": "{5A0529EE-F8B0-72E4-6A34-9DB304971368}",
+    "Hash": "{E943847A-262C-1C73-D0CA-1523F007813F}",
     "ObjectPath": "Play_INTERACT_Cable_Tension",
     "ShortName": "Play_INTERACT_Cable_Tension",
     "Path": "Event/Play_INTERACT_Cable_Tension.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "INTERACT_Cable_Tension.wav",
       "Path": "Media/992449721.wem",
-      "CachePath": "93/{93438228-D3E1-797B-2193-2489454C8BAA}.wem"
+      "CachePath": "D3/{D386B9E0-8382-4EE4-2EB6-9D91C3BE32B7}.wem"
      }
     ],
     "Events": [
@@ -41,6 +41,6 @@
     ]
    }
   ],
-  "FileHash": "{36284D85-B1AC-66CD-47EB-3D6E05F5D5FB}"
+  "FileHash": "{F7D9A489-138B-A085-F855-CBA859D33645}"
  }
 }

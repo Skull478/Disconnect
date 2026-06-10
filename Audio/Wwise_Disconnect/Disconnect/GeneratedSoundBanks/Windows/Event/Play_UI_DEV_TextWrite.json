@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{704A42C6-41B1-4369-9D9F-EACE5140EF07}",
     "Language": "SFX",
-    "Hash": "{28B8E6AC-9374-D260-33D2-A8EADC5F08BE}",
+    "Hash": "{2EBA7C32-FE8A-6874-22BC-0A15D9474B97}",
     "ObjectPath": "Play_UI_DEV_TextWrite",
     "ShortName": "Play_UI_DEV_TextWrite",
     "Path": "Event/Play_UI_DEV_TextWrite.bnk",
@@ -112,6 +112,7 @@
       "Name": "Play_UI_DEV_TextWrite",
       "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_TextWrite",
       "GUID": "{704A42C6-41B1-4369-9D9F-EACE5140EF07}",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -151,6 +152,6 @@
     ]
    }
   ],
-  "FileHash": "{2AD587C1-B2EF-5A89-098D-FCB15C6D3EB4}"
+  "FileHash": "{6632C519-7148-3AC8-22F5-227CF4C93F5A}"
  }
 }

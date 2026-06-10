@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{59DA4F4B-473C-456F-8567-455E7F2302E4}",
     "Language": "SFX",
-    "Hash": "{CA9F655C-59B8-6C7C-A2CF-A8F4446BC033}",
+    "Hash": "{80374C1D-25F0-C0E3-E979-C91F00F4805F}",
     "ObjectPath": "Play_UI_DEV_TextCommit",
     "ShortName": "Play_UI_DEV_TextCommit",
     "Path": "Event/Play_UI_DEV_TextCommit.bnk",
@@ -40,6 +40,7 @@
       "Name": "Play_UI_DEV_TextCommit",
       "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_TextCommit",
       "GUID": "{59DA4F4B-473C-456F-8567-455E7F2302E4}",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.18875",
       "DurationMax": "0.1933125",
@@ -55,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{50F7D29E-4D37-48DB-3016-C50D21A811C0}"
+  "FileHash": "{293E6ACF-6039-B19A-A800-A32DC24CE969}"
  }
 }

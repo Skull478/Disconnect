@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4D1956CD-486B-4804-84B4-6F66DAC3027F}",
     "Language": "SFX",
-    "Hash": "{021E7C50-ED25-02A2-7AAC-21D2B9342F44}",
+    "Hash": "{1A113CA5-61AF-1E22-5F4B-D1CB7B2F09B1}",
     "ObjectPath": "Play_UI_Energy_Button_Click",
     "ShortName": "Play_UI_Energy_Button_Click",
     "Path": "Event/Play_UI_Energy_Button_Click.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{9055BCFF-11ED-2787-E2E4-34D2BBD74E38}"
+  "FileHash": "{90713E10-F19C-9323-D7BD-F7CE3AC615CC}"
  }
 }

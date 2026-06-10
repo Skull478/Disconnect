@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
     "Language": "SFX",
-    "Hash": "{884B01C9-C3F6-9417-CFBE-F88B7A5B2655}",
+    "Hash": "{63541C05-AD9D-203A-34B3-2533218BD0E9}",
     "ObjectPath": "Play_UI_Click",
     "ShortName": "Play_UI_Click",
     "Path": "Event/Play_UI_Click.bnk",
@@ -91,6 +91,6 @@
     ]
    }
   ],
-  "FileHash": "{BCC382C4-2C55-30C5-1D5D-F7AF6E4B1F65}"
+  "FileHash": "{968A2CAB-87B0-20A4-3958-F34BE8450907}"
  }
 }

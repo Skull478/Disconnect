@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{47B68EDF-E017-4E02-9FAC-B28A58E0A299}",
     "Language": "SFX",
-    "Hash": "{533AF497-688B-B4D1-A150-4A9B00C80BD4}",
+    "Hash": "{E07F4DC4-1013-A630-31CD-F15E62569720}",
     "ObjectPath": "Play_UI_Cute_Select",
     "ShortName": "Play_UI_Cute_Select",
     "Path": "Event/Play_UI_Cute_Select.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{5BBFB129-BC43-BC03-C694-1E7D043FB437}"
+  "FileHash": "{1F7DE8B4-5410-733C-4CBE-A56547B54D2E}"
  }
 }

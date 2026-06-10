@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{8E9320EF-1D17-4309-9582-89806EA11E91}",
     "Language": "SFX",
-    "Hash": "{C4267C8C-A95B-D4EB-43EB-93D135E524FF}",
+    "Hash": "{849633A3-9674-E83F-274C-16AAE0AE11C1}",
     "ObjectPath": "Play_INT_Cable_Select",
     "ShortName": "Play_INT_Cable_Select",
     "Path": "Event/Play_INT_Cable_Select.bnk",
@@ -79,6 +79,6 @@
     ]
    }
   ],
-  "FileHash": "{91D1B161-ECF1-0E88-E018-E95C63AA5541}"
+  "FileHash": "{EA276AFD-F7FB-2058-72D7-CD729578B764}"
  }
 }

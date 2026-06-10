@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{70C03253-707E-4F6F-9915-76561457E609}",
     "Language": "SFX",
-    "Hash": "{0EBEC2D6-A7B3-7721-D422-12ED37174598}",
+    "Hash": "{45EA3515-EEBE-C043-848C-64F07B981828}",
     "ObjectPath": "Play_OBJ_Light_Bulb",
     "ShortName": "Play_OBJ_Light_Bulb",
     "Path": "Event/Play_OBJ_Light_Bulb.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{DECD5C19-24DC-9F65-ED26-A34172257926}"
+  "FileHash": "{FD81E999-CFE9-714E-35CA-3DADDA6BB646}"
  }
 }
