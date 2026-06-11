@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{92A5ED8A-BF8D-4CC9-B51D-1A443410398F}",
     "Language": "English(US)",
-    "Hash": "{782252D8-7E34-D840-E4E0-3E2D13CCF1F4}",
+    "Hash": "{47834BF7-DEB8-EB2D-C58C-841EA2B6DA59}",
     "ObjectPath": "Play_DX_Dev_YeahThatsRight",
     "ShortName": "Play_DX_Dev_YeahThatsRight",
     "Path": "Event/English(US)/Play_DX_Dev_YeahThatsRight.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{93DCF726-C5C2-4665-BB70-55E31A9282A5}"
+  "FileHash": "{E63AC970-9473-AAC7-0F37-C5AC47DC936E}"
  }
 }

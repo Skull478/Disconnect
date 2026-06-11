@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5E9D3413-8432-4D0D-8018-EA55882BB0E3}",
     "Language": "English(US)",
-    "Hash": "{1B3FC68D-3E39-8A1D-5798-22D48F162317}",
+    "Hash": "{83732030-C903-2653-7BF2-99D6831D3A66}",
     "ObjectPath": "Play_DX_Dev_ItsGameOver",
     "ShortName": "Play_DX_Dev_ItsGameOver",
     "Path": "Event/English(US)/Play_DX_Dev_ItsGameOver.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{82B8A5D5-ADDC-8D7F-BE32-541E2FF07BD6}"
+  "FileHash": "{76914A31-1E9F-A358-4B54-324627C9D4A5}"
  }
 }

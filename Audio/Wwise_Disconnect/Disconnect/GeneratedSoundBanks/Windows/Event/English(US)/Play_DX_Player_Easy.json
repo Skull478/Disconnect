@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{84079D85-E6C1-40FB-AC63-7E091ECB1921}",
     "Language": "English(US)",
-    "Hash": "{94A60AD7-9DE4-E038-9235-7C74B43CFE6C}",
+    "Hash": "{EDEEAB80-46D9-C063-4ADF-D97831D2AE54}",
     "ObjectPath": "Play_DX_Player_Easy",
     "ShortName": "Play_DX_Player_Easy",
     "Path": "Event/English(US)/Play_DX_Player_Easy.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{E32E6255-9351-ECE3-AFEA-4D8F72A0D072}"
+  "FileHash": "{2F4CF83B-724A-3565-9EE1-11FC92EDD861}"
  }
 }
