@@ -8,9 +8,9 @@
    {
     "Id": "857395023",
     "Type": "Event",
-    "GUID": "{889E9541-28C1-410E-8443-C2ABADEBA63E}",
+    "GUID": "{29C9E05B-B5C9-4D61-9EC5-4F003A3A802F}",
     "Language": "SFX",
-    "Hash": "{079E0191-246A-30F0-BFCB-26F6F6525673}",
+    "Hash": "{8E5E283B-5CFE-3A3C-4814-D8F4E8130F39}",
     "ObjectPath": "Play_PL_Falling_Loop",
     "ShortName": "Play_PL_Falling_Loop",
     "Path": "Event/Play_PL_Falling_Loop.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "PL_Falling_Loop.wav",
       "Path": "Media/837774835.wem",
-      "CachePath": "6F/{6F4A9737-376D-4B9A-AEB9-C0CFDBFADA89}.wem"
+      "CachePath": "E6/{E65B5F78-53BD-2665-A877-07BA7D17176F}.wem"
      }
     ],
     "Events": [
@@ -30,7 +30,7 @@
       "Id": "857395023",
       "Name": "Play_PL_Falling_Loop",
       "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Falling_Loop",
-      "GUID": "{889E9541-28C1-410E-8443-C2ABADEBA63E}",
+      "GUID": "{29C9E05B-B5C9-4D61-9EC5-4F003A3A802F}",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -39,36 +39,16 @@
       ]
      }
     ],
-    "StateGroups": [
+    "GameParameters": [
      {
-      "Id": "399052710",
-      "Name": "Falling",
-      "ObjectPath": "\\States\\Default Work Unit\\Falling",
-      "GUID": "{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}",
-      "States": [
-       {
-        "Id": "204889085",
-        "Name": "NotFalling",
-        "ObjectPath": "\\States\\Default Work Unit\\Falling\\NotFalling",
-        "GUID": "{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"
-       },
-       {
-        "Id": "399052710",
-        "Name": "Falling",
-        "ObjectPath": "\\States\\Default Work Unit\\Falling\\Falling",
-        "GUID": "{B3701C78-0753-4716-9453-EE8C139BA8A8}"
-       },
-       {
-        "Id": "748895195",
-        "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\Falling\\None",
-        "GUID": "{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"
-       }
-      ]
+      "Id": "3416015707",
+      "Name": "Player_Vertical_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Vertical_Speed",
+      "GUID": "{E5F85A72-79B9-412A-9CEE-7072611A9F32}"
      }
     ]
    }
   ],
-  "FileHash": "{51752EBD-5C71-B100-15DE-EBA6D0F87898}"
+  "FileHash": "{B88993A3-9E1A-3786-15DF-617BCE27C634}"
  }
 }
