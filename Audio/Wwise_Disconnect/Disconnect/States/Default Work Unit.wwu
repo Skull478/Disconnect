@@ -24,6 +24,7 @@
 				</StateGroup>
 				<StateGroup Name="Virus" ID="{64AB71EC-F880-49FA-9C96-DE50626C36A5}">
 					<ChildrenList>
+						<State Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 						<State Name="Yes" ID="{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"/>
 						<State Name="No" ID="{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"/>
 					</ChildrenList>

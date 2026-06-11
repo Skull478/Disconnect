@@ -1,13 +1,16 @@
 State Group	ID	Name			Wwise Object Path	Notes
 	399052710	Falling			\Default Work Unit\Falling	
+	3455673912	Virus			\Default Work Unit\Virus	
 	3814499265	Explo			\Default Work Unit\Explo	
 
 State	ID	Name	State Group			Notes
 	204889085	NotFalling	Falling			
 	399052710	Falling	Falling			
 	748895195	None	Falling			
+	748895195	None	Virus			
+	979470758	Yes	Virus			
+	1668749452	No	Virus			
 	748895195	None	Explo			
-	1088521970	State_Virus	Explo			
 	1652082208	State_Loop3	Explo			
 	1652082209	State_Loop2	Explo			
 	1652082210	State_Loop1	Explo			

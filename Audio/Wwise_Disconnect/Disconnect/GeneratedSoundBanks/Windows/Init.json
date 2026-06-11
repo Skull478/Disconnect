@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{F220E4E1-3171-4510-8336-0F94B88F6300}",
+    "Hash": "{38172D07-2614-BF4A-D478-3FDDEB0E8C7D}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -121,6 +121,32 @@
       ]
      },
      {
+      "Id": "3455673912",
+      "Name": "Virus",
+      "ObjectPath": "\\States\\Default Work Unit\\Virus",
+      "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\None",
+        "GUID": "{F4312414-22B8-4D36-BE47-64FCE218DB89}"
+       },
+       {
+        "Id": "979470758",
+        "Name": "Yes",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\Yes",
+        "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+       },
+       {
+        "Id": "1668749452",
+        "Name": "No",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\No",
+        "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+       }
+      ]
+     },
+     {
       "Id": "3814499265",
       "Name": "Explo",
       "ObjectPath": "\\States\\Default Work Unit\\Explo",
@@ -131,12 +157,6 @@
         "Name": "None",
         "ObjectPath": "\\States\\Default Work Unit\\Explo\\None",
         "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
-       },
-       {
-        "Id": "1088521970",
-        "Name": "State_Virus",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Virus",
-        "GUID": "{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"
        },
        {
         "Id": "1652082208",
@@ -269,6 +289,6 @@
     ]
    }
   ],
-  "FileHash": "{A7FDDBEC-6E43-3ADB-1F2D-1CA18444DA6F}"
+  "FileHash": "{78D39A3E-7234-A06A-6BC4-A6CC98CBD2AF}"
  }
 }

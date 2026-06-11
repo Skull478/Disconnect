@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{078C55B9-A725-E6D4-D5BE-7D7370CE2FC4}",
+    "Hash": "{03DBD025-1805-04B9-E5A3-7A9AEFEC3163}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -23,6 +23,15 @@
       "ShortName": "MUSIC_Explo_Calme_Loop.wav",
       "Path": "Media/130817738.wem",
       "CachePath": "A2/{A2FBD2BE-51B5-2787-A6E2-548CCAB0522E}.wem"
+     },
+     {
+      "Id": "136989348",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "music_transition.wav",
+      "Path": "Media/136989348.wem",
+      "CachePath": "92/{92568A07-371F-AF55-E300-01E980A6B4D8}.wem"
      },
      {
       "Id": "144635942",
@@ -79,6 +88,9 @@
       "DurationType": "Infinite",
       "MediaRefs": [
        {
+        "Id": "136989348"
+       },
+       {
         "Id": "783952863"
        }
       ],
@@ -90,9 +102,19 @@
          "Id": "1652082210",
          "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
         },
-        "MediaRefs": [
+        "Children": [
          {
-          "Id": "144635942"
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "0",
+           "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "144635942"
+           }
+          ]
          }
         ]
        },
@@ -103,9 +125,19 @@
          "Id": "1652082209",
          "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
         },
-        "MediaRefs": [
+        "Children": [
          {
-          "Id": "329774271"
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "0",
+           "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "329774271"
+           }
+          ]
          }
         ]
        },
@@ -116,9 +148,19 @@
          "Id": "1652082208",
          "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
         },
-        "MediaRefs": [
+        "Children": [
          {
-          "Id": "604148490"
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "0",
+           "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "604148490"
+           }
+          ]
          }
         ]
        },
@@ -129,9 +171,19 @@
          "Id": "3783890923",
          "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
         },
-        "MediaRefs": [
+        "Children": [
          {
-          "Id": "130817738"
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "0",
+           "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "130817738"
+           }
+          ]
          }
         ]
        },
@@ -139,12 +191,229 @@
         "SwitchValue": {
          "GroupType": "State",
          "GroupId": "3814499265",
-         "Id": "1088521970",
-         "GUID": "{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"
+         "Id": "1652082208",
+         "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
         },
-        "MediaRefs": [
+        "Children": [
          {
-          "Id": "902881118"
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "1668749452",
+           "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "604148490"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "748895195",
+         "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "1668749452",
+           "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "130817738"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "3783890923",
+         "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "1668749452",
+           "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "130817738"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082210",
+         "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "1668749452",
+           "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "144635942"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082209",
+         "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "1668749452",
+           "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "329774271"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "748895195",
+         "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "979470758",
+           "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "902881118"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "3783890923",
+         "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "979470758",
+           "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "902881118"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082210",
+         "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "979470758",
+           "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "902881118"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082209",
+         "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "979470758",
+           "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "902881118"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "1652082208",
+         "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "3455673912",
+           "Id": "979470758",
+           "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "902881118"
+           }
+          ]
          }
         ]
        }
@@ -152,6 +421,32 @@
      }
     ],
     "StateGroups": [
+     {
+      "Id": "3455673912",
+      "Name": "Virus",
+      "ObjectPath": "\\States\\Default Work Unit\\Virus",
+      "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\None",
+        "GUID": "{F4312414-22B8-4D36-BE47-64FCE218DB89}"
+       },
+       {
+        "Id": "979470758",
+        "Name": "Yes",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\Yes",
+        "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+       },
+       {
+        "Id": "1668749452",
+        "Name": "No",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\No",
+        "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+       }
+      ]
+     },
      {
       "Id": "3814499265",
       "Name": "Explo",
@@ -163,12 +458,6 @@
         "Name": "None",
         "ObjectPath": "\\States\\Default Work Unit\\Explo\\None",
         "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
-       },
-       {
-        "Id": "1088521970",
-        "Name": "State_Virus",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Virus",
-        "GUID": "{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"
        },
        {
         "Id": "1652082208",
@@ -199,6 +488,6 @@
     ]
    }
   ],
-  "FileHash": "{853A0C7D-9D10-D5FC-E7E8-EA739D56CB08}"
+  "FileHash": "{5C77776D-E9B7-28CA-3651-D81E0CC186A5}"
  }
 }
