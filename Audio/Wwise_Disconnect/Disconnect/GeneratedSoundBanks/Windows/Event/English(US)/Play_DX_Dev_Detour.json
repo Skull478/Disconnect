@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2723641622",
+    "Type": "Event",
+    "GUID": "{5DA11D22-9DFD-4E90-9BD8-1A3338905133}",
+    "Language": "English(US)",
+    "Hash": "{8919BC48-F47E-E677-48AE-2DC6A8DA5EA1}",
+    "ObjectPath": "Play_DX_Dev_Detour",
+    "ShortName": "Play_DX_Dev_Detour",
+    "Path": "Event/English(US)/Play_DX_Dev_Detour.bnk",
+    "Media": [
+     {
+      "Id": "539205859",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_Detour.wav",
+      "Path": "Media/English(US)/539205859.wem",
+      "CachePath": "CF/{CF2AF6B1-5482-D8E0-BCC1-618380CEE698}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2723641622",
+      "Name": "Play_DX_Dev_Detour",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_Detour",
+      "GUID": "{5DA11D22-9DFD-4E90-9BD8-1A3338905133}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.429458",
+      "DurationMax": "4.429458",
+      "MediaRefs": [
+       {
+        "Id": "539205859"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F7F5AB05-0002-5F57-DBD7-C0D7B13C40E3}"
+ }
+}

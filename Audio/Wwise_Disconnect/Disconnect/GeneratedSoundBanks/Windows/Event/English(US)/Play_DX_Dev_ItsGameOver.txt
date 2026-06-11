@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3393251197	Play_DX_Dev_ItsGameOver			\DX\Dev\Play_DX_Dev_ItsGameOver	
+
