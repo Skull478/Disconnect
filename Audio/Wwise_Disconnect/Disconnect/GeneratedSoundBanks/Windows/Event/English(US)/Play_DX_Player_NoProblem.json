@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1602408933",
+    "Type": "Event",
+    "GUID": "{8E8CF20D-FDC6-40B0-96C7-155A7B6352E9}",
+    "Language": "English(US)",
+    "Hash": "{32A0FC66-F15E-4F41-F35C-9B4383A479E2}",
+    "ObjectPath": "Play_DX_Player_NoProblem",
+    "ShortName": "Play_DX_Player_NoProblem",
+    "Path": "Event/English(US)/Play_DX_Player_NoProblem.bnk",
+    "Media": [
+     {
+      "Id": "560441628",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_NoProblem.wav",
+      "Path": "Media/English(US)/560441628.wem",
+      "CachePath": "55/{557B2BD9-799F-0F36-F3A4-EB9C72028678}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1602408933",
+      "Name": "Play_DX_Player_NoProblem",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_NoProblem",
+      "GUID": "{8E8CF20D-FDC6-40B0-96C7-155A7B6352E9}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.725125",
+      "DurationMax": "2.725125",
+      "MediaRefs": [
+       {
+        "Id": "560441628"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D8584548-09E2-E6C8-FD60-AB10007A189A}"
+ }
+}
