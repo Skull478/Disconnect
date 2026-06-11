@@ -110,7 +110,7 @@
      {
       "Id": "1167069257",
       "Name": "Play_Glitch_Large",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Glitch_Large",
+      "ObjectPath": "\\Events\\UI\\Play_Glitch_Large",
       "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
@@ -150,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{04482030-87C9-F350-CD62-183CF9542D3B}"
+  "FileHash": "{C2340124-0B8C-34D5-BF0F-F6FBBFB1F307}"
  }
 }

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	575850807	Play_DX_Player_Easy			\DX\Player\Play_DX_Player_Easy	
+

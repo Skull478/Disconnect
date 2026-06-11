@@ -29,7 +29,7 @@
      {
       "Id": "2606880513",
       "Name": "Play_OBJ_Capsule",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Capsule",
+      "ObjectPath": "\\Events\\Interactibles\\Play_OBJ_Capsule",
       "GUID": "{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}",
       "MaxAttenuation": "2000",
       "DurationType": "Infinite",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{54B2D5A9-29B3-A0A3-22D8-CD4A6BC184F5}"
+  "FileHash": "{CFB05668-5D47-0A7B-C73D-89BAD1563B2D}"
  }
 }

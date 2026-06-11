@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2606777870",
+    "Type": "Event",
+    "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
+    "Language": "English(US)",
+    "Hash": "{035F2554-3A4D-6538-DCC9-688C88103F2D}",
+    "ObjectPath": "Play_DX_Player_HowDoYouPlan",
+    "ShortName": "Play_DX_Player_HowDoYouPlan",
+    "Path": "Event/English(US)/Play_DX_Player_HowDoYouPlan.bnk",
+    "Media": [
+     {
+      "Id": "857498698",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_HowDoYouPlan.wav",
+      "Path": "Media/English(US)/857498698.wem",
+      "CachePath": "DC/{DC8A11B8-2282-11E1-9698-9DDE282741B0}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2606777870",
+      "Name": "Play_DX_Player_HowDoYouPlan",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_HowDoYouPlan",
+      "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.7326459",
+      "DurationMax": "1.7326459",
+      "MediaRefs": [
+       {
+        "Id": "857498698"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DF203FC6-C96A-DEBD-410E-EE9D5DBABE28}"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1684634071",
+    "Type": "Event",
+    "GUID": "{DBF7772D-55B9-4883-9542-2C3195653ACA}",
+    "Language": "English(US)",
+    "Hash": "{7D43F69E-55A5-141B-97BC-BED96CED159F}",
+    "ObjectPath": "Play_DX_Player_WeJust",
+    "ShortName": "Play_DX_Player_WeJust",
+    "Path": "Event/English(US)/Play_DX_Player_WeJust.bnk",
+    "Media": [
+     {
+      "Id": "845566072",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_WeJust.wav",
+      "Path": "Media/English(US)/845566072.wem",
+      "CachePath": "C6/{C644C48B-D2CB-D514-886B-BB8E4DF480B4}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1684634071",
+      "Name": "Play_DX_Player_WeJust",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_WeJust",
+      "GUID": "{DBF7772D-55B9-4883-9542-2C3195653ACA}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4960625",
+      "DurationMax": "1.4960625",
+      "MediaRefs": [
+       {
+        "Id": "845566072"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7261C6A5-01B2-A8FC-E0C7-630CE0B1B770}"
+ }
+}

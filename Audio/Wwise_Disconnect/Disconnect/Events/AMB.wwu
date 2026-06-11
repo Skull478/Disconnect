@@ -43,6 +43,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_AMB_Lava" ID="{13DFBB45-AD64-4A23-BCED-7A3E87C97BFA}">
+					<ChildrenList>
+						<Action Name="" ID="{EBD9A165-2D91-4B53-955B-274C23A212E2}" ShortID="151788181">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Lava" ID="{963FF6AB-2E31-4BE8-8C9A-ED51CF8D81CB}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_Wind" ID="{DB23AB19-C7FE-415D-804A-D1F5341EB335}">
+					<ChildrenList>
+						<Action Name="" ID="{C93A7261-CF2D-4CDC-BA38-4D47D72EF716}" ShortID="841009566">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Wind_Layer_Loop" ID="{6DE5FF34-9BB5-498A-B612-503A40F89F15}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_ViewPoint" ID="{AF9A314F-D8A4-4C81-91A6-35E147AB26B1}">
+					<ChildrenList>
+						<Action Name="" ID="{386A00AD-0C06-4E72-A11B-41602B1421BB}" ShortID="302405955">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_ViewPoint" ID="{E5D00B49-637B-428C-BE4A-B75C76DEADDC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
