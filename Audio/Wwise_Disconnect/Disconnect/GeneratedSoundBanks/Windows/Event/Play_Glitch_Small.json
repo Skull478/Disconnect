@@ -110,7 +110,7 @@
      {
       "Id": "4124926673",
       "Name": "Play_Glitch_Small",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Glitch_Small",
+      "ObjectPath": "\\Events\\UI\\Play_Glitch_Small",
       "GUID": "{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
@@ -150,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{1FDB36E4-C7D4-DF68-C6B7-E71424FE3D0A}"
+  "FileHash": "{C349C5A3-9E91-CA1B-B02C-3C952486977B}"
  }
 }

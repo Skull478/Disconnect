@@ -29,7 +29,7 @@
      {
       "Id": "840421735",
       "Name": "Play_UI_DEV_ClearText",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_UI_DEV_ClearText",
+      "ObjectPath": "\\Events\\UI\\Play_UI_DEV_ClearText",
       "GUID": "{57E018EE-A82E-43FB-BF4E-DDD91DD5B622}",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{F2DE0C04-6C6F-9C66-41B9-8C821B7570F3}"
+  "FileHash": "{C5DD5092-BD9E-7D88-657C-509BEB3D9E08}"
  }
 }

@@ -10,7 +10,22 @@
 						<State Name="State_Loop2" ID="{0F819ECE-F7A3-461E-AC51-002DE761CA60}"/>
 						<State Name="State_Loop3" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
 						<State Name="State_Calme" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
-						<State Name="State_Virus" ID="{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
+						<State Name="Falling" ID="{B3701C78-0753-4716-9453-EE8C139BA8A8}"/>
+						<State Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Virus" ID="{64AB71EC-F880-49FA-9C96-DE50626C36A5}">
+					<ChildrenList>
+						<State Name="Yes" ID="{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"/>
+						<State Name="No" ID="{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"/>
 					</ChildrenList>
 				</StateGroup>
 			</ChildrenList>

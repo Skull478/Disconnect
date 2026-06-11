@@ -29,7 +29,7 @@
      {
       "Id": "747584381",
       "Name": "Play_INTERACT_Cable_Tension",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_INTERACT_Cable_Tension",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INTERACT_Cable_Tension",
       "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -41,6 +41,6 @@
     ]
    }
   ],
-  "FileHash": "{F7D9A489-138B-A085-F855-CBA859D33645}"
+  "FileHash": "{BFE2CF6C-5C73-8BBC-9B2F-525149541DB2}"
  }
 }

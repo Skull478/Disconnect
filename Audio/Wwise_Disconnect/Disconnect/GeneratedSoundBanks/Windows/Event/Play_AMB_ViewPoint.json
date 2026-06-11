@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "935721880",
+    "Type": "Event",
+    "GUID": "{AF9A314F-D8A4-4C81-91A6-35E147AB26B1}",
+    "Language": "SFX",
+    "Hash": "{E986FD55-A20F-8AF6-1D1B-F12F98D6B22D}",
+    "ObjectPath": "Play_AMB_ViewPoint",
+    "ShortName": "Play_AMB_ViewPoint",
+    "Path": "Event/Play_AMB_ViewPoint.bnk",
+    "Media": [
+     {
+      "Id": "17983511",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_ViewPoint.wav",
+      "Path": "Media/17983511.wem",
+      "CachePath": "C7/{C761EC70-9B97-AF36-9C7A-00620F3638EE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "935721880",
+      "Name": "Play_AMB_ViewPoint",
+      "ObjectPath": "\\Events\\AMB\\Play_AMB_ViewPoint",
+      "GUID": "{AF9A314F-D8A4-4C81-91A6-35E147AB26B1}",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "17983511"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CBC3DA28-A38D-31AD-31AB-302FCF7FBDB8}"
+ }
+}
