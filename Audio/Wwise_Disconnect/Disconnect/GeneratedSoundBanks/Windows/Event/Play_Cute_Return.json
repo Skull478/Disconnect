@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3695840428",
+    "Type": "Event",
+    "GUID": "{90F308D9-4FBD-4321-9CA9-C31F8862A929}",
+    "Language": "SFX",
+    "Hash": "{C64BC65C-D587-D0B8-CAA6-1A7652847B97}",
+    "ObjectPath": "Play_Cute_Return",
+    "ShortName": "Play_Cute_Return",
+    "Path": "Event/Play_Cute_Return.bnk",
+    "Media": [
+     {
+      "Id": "480815122",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute_Return-002.wav",
+      "Path": "Media/480815122.wem",
+      "CachePath": "B9/{B9D676FB-A9CC-8B33-61E9-1685FCE33737}.wem"
+     },
+     {
+      "Id": "549302198",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute_Return-001.wav",
+      "Path": "Media/549302198.wem",
+      "CachePath": "D7/{D7C4DF54-A696-77E3-D4E9-889BF554376F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3695840428",
+      "Name": "Play_Cute_Return",
+      "ObjectPath": "\\Events\\UI\\Back-Close\\Play_Cute_Return",
+      "GUID": "{90F308D9-4FBD-4321-9CA9-C31F8862A929}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.18875",
+      "DurationMax": "0.1933125",
+      "MediaRefs": [
+       {
+        "Id": "480815122"
+       },
+       {
+        "Id": "549302198"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C39CC2CA-332E-790E-3363-3B0836A66991}"
+ }
+}

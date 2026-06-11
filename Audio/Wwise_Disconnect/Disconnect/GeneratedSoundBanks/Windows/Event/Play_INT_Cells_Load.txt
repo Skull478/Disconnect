@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1490736234	Play_INT_Cells_Load			\Default Work Unit\Play_INT_Cells_Load	
+

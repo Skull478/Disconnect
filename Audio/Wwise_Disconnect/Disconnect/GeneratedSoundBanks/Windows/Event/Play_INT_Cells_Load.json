@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1490736234",
+    "Type": "Event",
+    "GUID": "{826FA657-823C-4836-A09A-3478EAC33C00}",
+    "Language": "SFX",
+    "Hash": "{6485D3C3-25AC-5EDD-038D-D71952569FA8}",
+    "ObjectPath": "Play_INT_Cells_Load",
+    "ShortName": "Play_INT_Cells_Load",
+    "Path": "Event/Play_INT_Cells_Load.bnk",
+    "Media": [
+     {
+      "Id": "976340235",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INTERACT_Cells_Load.wav",
+      "Path": "Media/976340235.wem",
+      "CachePath": "28/{28A3F0C6-065D-61F6-FD1F-45E03287BAB3}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1490736234",
+      "Name": "Play_INT_Cells_Load",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cells_Load",
+      "GUID": "{826FA657-823C-4836-A09A-3478EAC33C00}",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.57",
+      "DurationMax": "1.57",
+      "MediaRefs": [
+       {
+        "Id": "976340235"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{31060454-754B-A066-6FCF-ADC095EB7241}"
+ }
+}

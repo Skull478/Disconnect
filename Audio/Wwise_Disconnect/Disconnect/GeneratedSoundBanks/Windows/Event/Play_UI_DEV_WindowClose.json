@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "687545429",
+    "Type": "Event",
+    "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
+    "Language": "SFX",
+    "Hash": "{E8C9E9E2-AD4A-5708-4E5A-2ECCE25E4CD8}",
+    "ObjectPath": "Play_UI_DEV_WindowClose",
+    "ShortName": "Play_UI_DEV_WindowClose",
+    "Path": "Event/Play_UI_DEV_WindowClose.bnk",
+    "Media": [
+     {
+      "Id": "140162549",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute-close-001.wav",
+      "Path": "Media/140162549.wem",
+      "CachePath": "0E/{0E93D9EA-70A2-0359-70BD-A21D351042A3}.wem"
+     },
+     {
+      "Id": "1040533746",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute-close-002.wav",
+      "Path": "Media/1040533746.wem",
+      "CachePath": "04/{04717B4E-CADC-092E-C5FD-1D7051AA2119}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "687545429",
+      "Name": "Play_UI_DEV_WindowClose",
+      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowClose",
+      "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.3213125",
+      "DurationMax": "0.32395834",
+      "MediaRefs": [
+       {
+        "Id": "140162549"
+       },
+       {
+        "Id": "1040533746"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A1E6EC92-4A96-CE5D-1175-B3BD7F5420A2}"
+ }
+}

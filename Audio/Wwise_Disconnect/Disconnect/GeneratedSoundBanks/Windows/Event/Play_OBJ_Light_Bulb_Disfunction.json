@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "470245327",
+    "Type": "Event",
+    "GUID": "{11459A28-005C-4390-A66F-94797B7C0D6D}",
+    "Language": "SFX",
+    "Hash": "{71FFBFD0-0637-8D88-0AD9-5CBB9DC9BB79}",
+    "ObjectPath": "Play_OBJ_Light_Bulb_Disfunction",
+    "ShortName": "Play_OBJ_Light_Bulb_Disfunction",
+    "Path": "Event/Play_OBJ_Light_Bulb_Disfunction.bnk",
+    "Media": [
+     {
+      "Id": "252620128",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Light_Bulb_Disfunction.wav",
+      "Path": "Media/252620128.wem",
+      "CachePath": "5A/{5AB3EE75-8BF2-7385-E322-7F8AFB7FDF60}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "470245327",
+      "Name": "Play_OBJ_Light_Bulb_Disfunction",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Light_Bulb_Disfunction",
+      "GUID": "{11459A28-005C-4390-A66F-94797B7C0D6D}",
+      "MaxAttenuation": "500",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "252620128"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E084CFE8-F6E3-CA23-5B10-E864F0887E41}"
+ }
+}

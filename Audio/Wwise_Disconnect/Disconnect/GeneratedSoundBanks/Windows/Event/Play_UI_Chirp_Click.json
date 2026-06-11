@@ -1,0 +1,84 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1878528480",
+    "Type": "Event",
+    "GUID": "{DB64B3AB-A64F-417E-865A-BB8BF7F4EA34}",
+    "Language": "SFX",
+    "Hash": "{8DAE61A6-494D-E18A-29DC-2399DE955E06}",
+    "ObjectPath": "Play_UI_Chirp_Click",
+    "ShortName": "Play_UI_Chirp_Click",
+    "Path": "Event/Play_UI_Chirp_Click.bnk",
+    "Media": [
+     {
+      "Id": "407193926",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Chirp_Click-004.wav",
+      "Path": "Media/407193926.wem",
+      "CachePath": "61/{61CA634D-4076-942A-0816-3F2B7131B2A7}.wem"
+     },
+     {
+      "Id": "458892962",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Chirp_Click-003.wav",
+      "Path": "Media/458892962.wem",
+      "CachePath": "A9/{A9092734-A44D-43A9-4AD5-3109C5B16444}.wem"
+     },
+     {
+      "Id": "540390415",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Chirp_Click-002.wav",
+      "Path": "Media/540390415.wem",
+      "CachePath": "67/{6746F0DF-B355-6901-42E1-F736E3BA9410}.wem"
+     },
+     {
+      "Id": "985149162",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Chirp_Click-001.wav",
+      "Path": "Media/985149162.wem",
+      "CachePath": "92/{92A1996E-11A8-B5EF-B66B-BAB53395655A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1878528480",
+      "Name": "Play_UI_Chirp_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Chirp_Click",
+      "GUID": "{DB64B3AB-A64F-417E-865A-BB8BF7F4EA34}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "407193926"
+       },
+       {
+        "Id": "458892962"
+       },
+       {
+        "Id": "540390415"
+       },
+       {
+        "Id": "985149162"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A8112263-E6EA-CE85-B3FE-C7D43D2A66DC}"
+ }
+}

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3957396827	Play_AMB_DevRoom			\AMB\Play_AMB_DevRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1024193305	Dev_Sidechain_Meter	Wwise Meter			
+

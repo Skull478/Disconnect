@@ -9,6 +9,33 @@
 							<ObjectRef Name="System" ID="{DF6F8EAD-6E4E-4586-84F1-C8ADA14C2F30}" WorkUnitID="{54DC8489-D751-47AB-AAE6-ACA44F73B20D}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Player_Bus" ID="{629C5111-3670-43D6-A27A-6027C6EB3D95}"/>
+						<AuxBus Name="REV_Garage" ID="{4809821F-5F41-4F99-8175-61D9A6567B87}">
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{91900699-3931-46ED-89FF-0E3DDF9C7497}" ShortID="905754381">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Room_Medium" ID="{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Master Dev" ID="{15E92592-D138-4AF2-910C-714DB329E7F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{DF6F8EAD-6E4E-4586-84F1-C8ADA14C2F30}" WorkUnitID="{54DC8489-D751-47AB-AAE6-ACA44F73B20D}"/>
+						</Reference>
+					</ReferenceList>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>

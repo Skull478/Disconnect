@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	599904717	Play_OBJ_Lights_Buzz			\3D Sounds\Play_OBJ_Lights_Buzz	
+

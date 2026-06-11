@@ -1,0 +1,46 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "747584381",
+    "Type": "Event",
+    "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
+    "Language": "SFX",
+    "Hash": "{E943847A-262C-1C73-D0CA-1523F007813F}",
+    "ObjectPath": "Play_INTERACT_Cable_Tension",
+    "ShortName": "Play_INTERACT_Cable_Tension",
+    "Path": "Event/Play_INTERACT_Cable_Tension.bnk",
+    "Media": [
+     {
+      "Id": "992449721",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INTERACT_Cable_Tension.wav",
+      "Path": "Media/992449721.wem",
+      "CachePath": "D3/{D386B9E0-8382-4EE4-2EB6-9D91C3BE32B7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "747584381",
+      "Name": "Play_INTERACT_Cable_Tension",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INTERACT_Cable_Tension",
+      "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "992449721"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BFE2CF6C-5C73-8BBC-9B2F-525149541DB2}"
+ }
+}

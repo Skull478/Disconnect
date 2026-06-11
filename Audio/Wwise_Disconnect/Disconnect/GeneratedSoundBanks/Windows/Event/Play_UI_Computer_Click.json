@@ -1,0 +1,96 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2579707293",
+    "Type": "Event",
+    "GUID": "{416BAE2A-108B-4324-9536-0AEBBBE5266F}",
+    "Language": "SFX",
+    "Hash": "{95408E1E-F2A3-1433-3006-5024706264FB}",
+    "ObjectPath": "Play_UI_Computer_Click",
+    "ShortName": "Play_UI_Computer_Click",
+    "Path": "Event/Play_UI_Computer_Click.bnk",
+    "Media": [
+     {
+      "Id": "441591869",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Complex_UI_2-004.wav",
+      "Path": "Media/441591869.wem",
+      "CachePath": "21/{215A3745-4818-3A4D-B8C2-247C765B8EE0}.wem"
+     },
+     {
+      "Id": "656552228",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Complex_UI_2-003.wav",
+      "Path": "Media/656552228.wem",
+      "CachePath": "C5/{C5EBAF00-CEE8-0DF7-FC63-1BD066BD90C1}.wem"
+     },
+     {
+      "Id": "774278194",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Complex_UI_2-001.wav",
+      "Path": "Media/774278194.wem",
+      "CachePath": "A6/{A6010AEC-5571-5DC6-C497-8FE5341E4339}.wem"
+     },
+     {
+      "Id": "823731061",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Complex_UI_2-005.wav",
+      "Path": "Media/823731061.wem",
+      "CachePath": "22/{2212E746-0DF6-BC3E-AAAA-23257D7EB5CA}.wem"
+     },
+     {
+      "Id": "917908598",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Complex_UI_2-002.wav",
+      "Path": "Media/917908598.wem",
+      "CachePath": "C7/{C7D8B538-3BD3-177C-EE8D-A8C1545B9DEE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2579707293",
+      "Name": "Play_UI_Computer_Click",
+      "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Computer_Click",
+      "GUID": "{416BAE2A-108B-4324-9536-0AEBBBE5266F}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.106",
+      "DurationMax": "0.106",
+      "MediaRefs": [
+       {
+        "Id": "441591869"
+       },
+       {
+        "Id": "656552228"
+       },
+       {
+        "Id": "774278194"
+       },
+       {
+        "Id": "823731061"
+       },
+       {
+        "Id": "917908598"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8C488EBF-4924-C35B-AC0D-F02773EE5BE4}"
+ }
+}

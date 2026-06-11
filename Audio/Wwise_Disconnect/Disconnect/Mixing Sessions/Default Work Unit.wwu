@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{7E322EAA-AFFC-4025-9B17-C30BC24E25A6}" SchemaVersion="123">
 	<MixingSessions>
-		<WorkUnit Name="Default Work Unit" ID="{7E322EAA-AFFC-4025-9B17-C30BC24E25A6}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{7E322EAA-AFFC-4025-9B17-C30BC24E25A6}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="New Mixing Session" ID="{C2F1369C-02A2-4163-858C-6C90C9B2DD17}">
+					<ObjectList>
+						<ObjectRef Name="AMB_Main_Roomtone" ID="{0FE06B61-C1AA-4D4A-B068-F2F729E8E055}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="AMB_Garage" ID="{B1BCFF33-C3E1-4540-AC81-A7EA5B44B3C6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+					</ObjectList>
+				</MixingSession>
+				<MixingSession Name="Mixage_Bus" ID="{5A8B915C-B594-4B79-8775-96033E4A7154}">
+					<ObjectList>
+						<ObjectRef Name="3D_SOUNDS" ID="{3DD2B6ED-1AC5-4CF9-B5A1-502B8694AAE0}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="AMBIANCE" ID="{C233C8DB-A0CB-46C1-AD46-92374D1BC6D2}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="INTERACTIBLES" ID="{7D62E0E3-288D-4A7E-95FB-FB54B2E5F2E2}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="PLAYER" ID="{ED1C9650-E277-4F70-AA21-8B38A86F466E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="UI" ID="{35C6E878-4FC9-4C37-B3C6-E951A106F1D3}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+						<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
 	</MixingSessions>
 </WwiseDocument>

@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	188899575	Play_PL_Footsteps_DevSide			\Default Work Unit\Play_PL_Footsteps_DevSide	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	660835419	Plastic	Material			
+	841620460	Concrete	Material			
+	1181096339	Wet	Material			
+	2473969246	Metal	Material			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3620054395	Dev_Sidechain			\Default Work Unit\Dev_Sidechain	
+

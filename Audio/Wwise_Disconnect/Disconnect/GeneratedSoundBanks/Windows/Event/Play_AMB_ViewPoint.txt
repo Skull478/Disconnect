@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	935721880	Play_AMB_ViewPoint			\AMB\Play_AMB_ViewPoint	
+

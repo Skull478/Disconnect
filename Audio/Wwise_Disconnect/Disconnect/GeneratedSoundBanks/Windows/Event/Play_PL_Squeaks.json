@@ -1,0 +1,127 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2492030258",
+    "Type": "Event",
+    "GUID": "{08F66416-7ADE-450C-B01F-CF1555D3DA12}",
+    "Language": "SFX",
+    "Hash": "{082E66FC-4438-CBF7-C65A-68C56733C904}",
+    "ObjectPath": "Play_PL_Squeaks",
+    "ShortName": "Play_PL_Squeaks",
+    "Path": "Event/Play_PL_Squeaks.bnk",
+    "Media": [
+     {
+      "Id": "17787399",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Squeaks_04.wav",
+      "Path": "Media/17787399.wem",
+      "CachePath": "84/{84D2A357-0DC2-49A7-4A31-2E19533E2E2C}.wem"
+     },
+     {
+      "Id": "50565454",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Squeaks_06.wav",
+      "Path": "Media/50565454.wem",
+      "CachePath": "31/{31DE899D-5917-4691-A7EB-C10D47401442}.wem"
+     },
+     {
+      "Id": "279253582",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Squeaks_01.wav",
+      "Path": "Media/279253582.wem",
+      "CachePath": "7C/{7C7C6160-442B-9FDA-86B5-ECD34313E5DF}.wem"
+     },
+     {
+      "Id": "731732321",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Squeaks_02.wav",
+      "Path": "Media/731732321.wem",
+      "CachePath": "2C/{2C49FADD-E7E1-56B4-B5C2-56B48EE10593}.wem"
+     },
+     {
+      "Id": "792517394",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Squeaks_03.wav",
+      "Path": "Media/792517394.wem",
+      "CachePath": "B5/{B5411844-C2FF-3C12-FABE-7DE5A4533BCA}.wem"
+     },
+     {
+      "Id": "953216799",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Squeaks_05.wav",
+      "Path": "Media/953216799.wem",
+      "CachePath": "2D/{2D9D272C-3F69-0AFA-32CB-6923B71C7F64}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "267949347",
+       "Name": "Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\PLAYER\\PL_Squeaks\\New Silence\\Silence",
+       "GUID": "{B8B76C7F-FF0D-4BB0-838C-39783A40CBC4}",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "2492030258",
+      "Name": "Play_PL_Squeaks",
+      "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Squeaks",
+      "GUID": "{08F66416-7ADE-450C-B01F-CF1555D3DA12}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.23343113",
+      "DurationMax": "1",
+      "MediaRefs": [
+       {
+        "Id": "17787399"
+       },
+       {
+        "Id": "50565454"
+       },
+       {
+        "Id": "279253582"
+       },
+       {
+        "Id": "731732321"
+       },
+       {
+        "Id": "792517394"
+       },
+       {
+        "Id": "953216799"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "267949347"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{915EB5E8-35D0-5A7D-C81C-E4E308702300}"
+ }
+}

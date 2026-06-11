@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" SchemaVersion="123">
 	<States>
-		<WorkUnit Name="Default Work Unit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Explo" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}">
+					<ChildrenList>
+						<State Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
+						<State Name="State_Loop1" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<State Name="State_Loop2" ID="{0F819ECE-F7A3-461E-AC51-002DE761CA60}"/>
+						<State Name="State_Loop3" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
+						<State Name="State_Calme" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
+						<State Name="State_Virus" ID="{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
+						<State Name="Falling" ID="{B3701C78-0753-4716-9453-EE8C139BA8A8}"/>
+						<State Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</States>
 </WwiseDocument>

@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2606880513",
+    "Type": "Event",
+    "GUID": "{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}",
+    "Language": "SFX",
+    "Hash": "{83D960B3-C91D-D829-BBBA-F3986F493056}",
+    "ObjectPath": "Play_OBJ_Capsule",
+    "ShortName": "Play_OBJ_Capsule",
+    "Path": "Event/Play_OBJ_Capsule.bnk",
+    "Media": [
+     {
+      "Id": "1025956607",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_EnergyCells.wav",
+      "Path": "Media/1025956607.wem",
+      "CachePath": "F8/{F884D088-9163-8BAF-79BA-2EADE57C971A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2606880513",
+      "Name": "Play_OBJ_Capsule",
+      "ObjectPath": "\\Events\\Interactibles\\Play_OBJ_Capsule",
+      "GUID": "{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "1025956607"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CFB05668-5D47-0A7B-C73D-89BAD1563B2D}"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3540377276",
+    "Type": "Bus",
+    "GUID": "{4809821F-5F41-4F99-8175-61D9A6567B87}",
+    "Language": "SFX",
+    "Hash": "{3EEAB363-495A-13CA-FFA2-6F5F576D3655}",
+    "ObjectPath": "REV_Garage",
+    "ShortName": "REV_Garage",
+    "Path": "Bus/REV_Garage.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "1990128658",
+       "Name": "Room_Medium",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Medium",
+       "GUID": "{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "3540377276",
+      "Name": "REV_Garage",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Garage",
+      "GUID": "{4809821F-5F41-4F99-8175-61D9A6567B87}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1990128658"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{698D9B84-303C-CD5C-DDC6-A1FF85CCFC5E}"
+ }
+}

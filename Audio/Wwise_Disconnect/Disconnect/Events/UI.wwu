@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="UI" ID="{5129B60C-04B6-46D5-919A-3AD0CFAE58B0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Clicks" ID="{2D54F320-EE82-45A6-93EC-0FC16B66BA4D}" ShortID="214772381">
+					<ChildrenList>
+						<Event Name="Play_UI_Click" ID="{014CC4D8-9F8B-415C-808C-AA67D66102C7}">
+							<ChildrenList>
+								<Action Name="" ID="{8EAAA423-AF89-454F-B4B4-EFC244E47790}" ShortID="1027723649">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Click" ID="{0A855964-2DAD-4412-B88B-6178D659D967}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Bop_Click" ID="{A47B1E65-E9A1-4ACA-AD1B-4B2028B6B77D}">
+							<ChildrenList>
+								<Action Name="" ID="{896A28B2-7ED3-476F-BB88-D2C30701E539}" ShortID="343151853">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Bop_Click" ID="{26F2381C-322E-440F-AA98-7AC67BB7EE5B}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Energy_Button_Click" ID="{4D1956CD-486B-4804-84B4-6F66DAC3027F}">
+							<ChildrenList>
+								<Action Name="" ID="{5A49C190-9A56-4C75-B3DF-9193A4B768FB}" ShortID="906604492">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Energy_Button_Click" ID="{03906C4C-45F1-4AD1-BBF6-3D995F00C712}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Chirp_Click" ID="{DB64B3AB-A64F-417E-865A-BB8BF7F4EA34}">
+							<ChildrenList>
+								<Action Name="" ID="{417C02E1-1BDA-423F-8338-C33D587E47F9}" ShortID="164315463">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Chirp_Click" ID="{CD76F421-78BE-4029-BA05-8B87D9EC8B6A}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Computer_Click" ID="{416BAE2A-108B-4324-9536-0AEBBBE5266F}">
+							<ChildrenList>
+								<Action Name="" ID="{FD3BAA82-8055-441A-B36B-FE85268F6EE5}" ShortID="727140643">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Computer_Click" ID="{3500C20A-87E4-4F24-9EF5-1C936FA5FA1B}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Beep_Click" ID="{A57255FE-B860-4952-BBC5-1E1B011D31FF}">
+							<ChildrenList>
+								<Action Name="" ID="{DDF7D353-B339-40D4-A114-24BCD47F03AD}" ShortID="467571728">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Beep_Click" ID="{1B0ED114-0116-4F8D-BB17-B2D6E15624C8}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Clock_Click" ID="{21BB3D48-60F5-4ECB-8594-4E68607BE6D1}">
+							<ChildrenList>
+								<Action Name="" ID="{7F4AD835-E3E4-41CB-9796-A75CAD71E712}" ShortID="1033523147">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Clock_Click" ID="{9D6CFF2E-216D-4CFA-AB65-4BE430BF9824}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Complex_Click" ID="{3BB0D046-7D45-4AD5-9735-83AD60C93BFB}">
+							<ChildrenList>
+								<Action Name="" ID="{B35C37B0-C2D3-4965-8DA4-6683A1D815D9}" ShortID="709607566">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Complex_Click" ID="{9CB4BC28-BE43-403E-B1E5-6C3FBEE9176F}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Numeric_Click" ID="{75485D9A-BE23-4D7A-BF77-109E8FE261E2}">
+							<ChildrenList>
+								<Action Name="" ID="{293F1189-67E9-41E5-8B88-5F4283F333E7}" ShortID="173914279">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Numeric_Click" ID="{E2FFBF8C-4376-45D1-AAE8-66880C853C39}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Soft_Click" ID="{6C5DAF3D-446D-44BC-8540-680CA75E508B}">
+							<ChildrenList>
+								<Action Name="" ID="{E023FE54-35BD-42D8-8AC6-0A27F4BD7206}" ShortID="574641469">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Soft_Click" ID="{3538AE00-7A15-4B81-ADA3-DD4F201EA985}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Kiss_Click" ID="{4C30AF9B-0258-43E1-B6B5-E813D0A21767}">
+							<ChildrenList>
+								<Action Name="" ID="{E5F6603D-365D-4945-A637-414F512BA3DC}" ShortID="1021297152">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Kiss_Click" ID="{FF36582C-9112-477D-B62F-2D2A0B6C3D11}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Soft_Plastic_Click" ID="{A1524453-EB93-4B2F-BEC9-D063BABDE0CD}">
+							<ChildrenList>
+								<Action Name="" ID="{0592F170-3994-48E6-ACD7-B2F1138156A7}" ShortID="1054940303">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Soft_Plastic_Click" ID="{D93876A4-02D8-4F9F-9F77-4367AEA4223E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Tactile_Click" ID="{3EDA5FA8-3D1A-4C2B-A4DF-2F239477C7EC}">
+							<ChildrenList>
+								<Action Name="" ID="{53C0FC57-FAFA-419A-97F1-32C0A12C507A}" ShortID="370652268">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Tactile_Click" ID="{6134F430-FA44-4A47-8797-03EC7BA46705}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Hard_Button_Click" ID="{070F6CE0-C4AC-4AB1-89C6-5E79EE283C27}">
+							<ChildrenList>
+								<Action Name="" ID="{3C2245DE-26CA-4971-9BE5-AB3DE84A30C2}" ShortID="820785868">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Hard_Button_Click" ID="{610F3B4E-A39C-453B-B6B2-808E5E71ED0D}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Arrows" ID="{CAD33D2D-F19F-4303-91BF-CBE0DE2D6195}" ShortID="863959547">
+					<PropertyList>
+						<Property Name="Inclusion" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_UI_Arrow_Down" ID="{063B0B4D-5701-4A75-9EBC-935B2C852237}">
+							<ChildrenList>
+								<Action Name="" ID="{E56B56FE-E622-41EB-860F-3C71274269AE}" ShortID="1045480983">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_DEV_FloorLevelSwitch" ID="{1823D6A6-AC8A-46EA-9DDA-D594C867A875}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Arrow" ID="{7DE19231-2F46-4D02-B62D-4E46F4ABD66D}">
+							<ChildrenList>
+								<Action Name="" ID="{BC15E94D-4A11-4C2F-A4E6-6CB8EB89A8D7}" ShortID="988844666">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Arrow" ID="{6EF870E7-CCAF-43D1-999A-B6AA39CD6E49}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Arrow2" ID="{7214B2A0-2E3B-4F31-B111-718D27AD1E52}">
+							<ChildrenList>
+								<Action Name="" ID="{AA35EB80-0C9D-478D-A582-4A9B2C799430}" ShortID="193341483">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Arrow2" ID="{18A8A0E2-FF11-4499-81FD-1DBB35174057}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Back-Close" ID="{C4C7B149-C124-403E-A78B-7DBB7C66E26F}" ShortID="388479337">
+					<ChildrenList>
+						<Event Name="Play_Cute_Return" ID="{90F308D9-4FBD-4321-9CA9-C31F8862A929}">
+							<ChildrenList>
+								<Action Name="" ID="{C37D6902-4FA9-42BD-BBAB-6AB95457297F}" ShortID="864690624">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Cute_Return" ID="{D9273284-47EA-4DF8-A8CC-9AA71E6B261F}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Cancel_Close" ID="{E4665F96-FB1C-4C2F-A5BE-0891691064AF}">
+							<ChildrenList>
+								<Action Name="" ID="{ED5552C0-2398-4E86-B04B-EFF8C77D19A5}" ShortID="498247394">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Cancel_Close" ID="{C739A618-86CB-497D-B0D4-A68C9B3B9B32}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Close_Window" ID="{37B5F6C4-6BA5-4123-B703-F3178C55D480}">
+							<ChildrenList>
+								<Action Name="" ID="{C21D8FFF-A2CB-4D23-9149-0E61ADD715C7}" ShortID="940108920">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_DEV_Close_Window" ID="{6D3EB1E0-67B5-426B-AEBE-6CDDF6EBE781}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Cancel" ID="{11CF5978-C992-4BC8-AFE9-CB79D03B611A}" ShortID="772586211">
+					<ChildrenList>
+						<Event Name="Play_UI_Disabled_Click" ID="{AE800DBA-797E-4164-9312-7A409FB159C5}">
+							<ChildrenList>
+								<Action Name="" ID="{50CD04CD-5FA5-4D98-B3C9-B52ECD83C516}" ShortID="806719645">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Disabled_Click" ID="{63F32ED7-7780-4D08-8044-BB1E988DE518}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Hovers" ID="{F7C121B4-B63D-492B-86A7-6479BBE54839}" ShortID="299306828">
+					<ChildrenList>
+						<Event Name="Play_UI_Hover" ID="{60666015-FB08-46A8-BB79-677FB3F826A8}">
+							<ChildrenList>
+								<Action Name="" ID="{F07DF4B4-0B33-4BA0-9163-865F2CB54506}" ShortID="252262659">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Hover" ID="{67745F06-C366-4DFB-9B6D-122BEACC1036}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Selections" ID="{19BDC3D1-9531-4D65-B77E-85DE4FE730D3}" ShortID="795000940">
+					<ChildrenList>
+						<Event Name="Play_UI_Cute_Select" ID="{47B68EDF-E017-4E02-9FAC-B28A58E0A299}">
+							<ChildrenList>
+								<Action Name="" ID="{17D22F25-3BC6-43E1-92AE-97023089C91A}" ShortID="215090745">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Cute_Select" ID="{EAE683F0-403B-49D9-8059-9308E102636C}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Big_Select" ID="{5DAF8517-A464-4ADB-90C8-F778DDDD435D}">
+							<ChildrenList>
+								<Action Name="" ID="{C033908E-1BFC-4112-8DF0-F3C5220694A9}" ShortID="984562550">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Big_Select" ID="{11E1A01B-ECD0-48BE-ADA5-95B689176A4A}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Validations" ID="{B1C3987B-D4A7-4824-9073-0C093D90885C}" ShortID="866250709">
+					<PropertyList>
+						<Property Name="Inclusion" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_UI_Validation" ID="{12D527F8-A4CC-413C-9C43-8A88664EB97F}">
+							<ChildrenList>
+								<Action Name="" ID="{66A3BF0F-F988-4CA3-839A-AC2A258AC03F}" ShortID="877548810">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Validation" ID="{7F5DC71F-CF11-47B6-B0E8-BF99283FF63E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Selection_Validate" ID="{D33DF5FB-691F-4227-A5ED-E651F88A16BF}">
+							<ChildrenList>
+								<Action Name="" ID="{932C29F7-E398-4DA3-9906-F8536BFE7AA6}" ShortID="507758937">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Selection_Validate" ID="{60CC4AC4-C0F7-45C8-A08A-0BEFF48DC80D}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Select_Simple" ID="{4B96484F-D94A-42C9-907E-D6B0DAB30A9B}">
+							<ChildrenList>
+								<Action Name="" ID="{933B6635-B175-4F01-8719-55C1FE2100FE}" ShortID="620889112">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Select_Simple" ID="{D1BAD02C-91F3-4850-B0C5-DCA8A99122C7}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<WorkUnit Name="DEV" ID="{45FDF208-4645-4BA8-9634-9B5C81D7731C}" PersistMode="Reference"/>
+				<Event Name="Play_UI_MainMenu_Init" ID="{27EFCA95-450E-4B28-BAF3-CEBE8A238353}">
+					<ChildrenList>
+						<Action Name="" ID="{C46897E3-8BC5-4F69-A4A6-7050A08DFABA}" ShortID="374619293">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_MainMenu_Init" ID="{5C634786-EC27-4BEA-B5D5-F15458E58B4E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Glitch_Med" ID="{58D1D864-42CA-4D37-B6F9-31A68746DF13}">
+					<ChildrenList>
+						<Action Name="" ID="{A33890D4-7826-48EB-BD3A-091BC5DE8761}" ShortID="304707294">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F8627677-81D1-4087-9AA9-189937F9A536}" ShortID="920715225">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{2B1AA5B7-116C-4623-A1A0-9E1B734E358D}" ShortID="81474961">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Glitches_Med" ID="{72775D45-BE89-4C3C-9021-54B019A57731}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Glitch_Large" ID="{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}">
+					<ChildrenList>
+						<Action Name="" ID="{0922B26D-0F40-46E9-8834-0EDEFFB3DAAC}" ShortID="222959591">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{9F559E49-3D03-435F-B738-FE700501522B}" ShortID="401617403">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D672B695-DAB3-444A-8605-8F54A4BD0305}" ShortID="152857465">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Glitches_Large" ID="{75FF3D11-392B-484C-B513-B001AA764CC4}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Glitch_Small" ID="{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}">
+					<ChildrenList>
+						<Action Name="" ID="{7DE2D78C-85A8-4744-9738-925911FB5553}" ShortID="334521434">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{EFC85F94-F838-4A5A-9DD5-511D614C9350}" ShortID="764394111">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{395605BF-9996-4011-BE81-4743FEAC0BEB}" ShortID="118568473">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Glitches_Small" ID="{445012F6-CBA7-49F3-9F1B-B0D3064EDDB4}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Notification_Message" ID="{34299A31-63D9-43E4-A29A-48784FA9EF30}">
+					<ChildrenList>
+						<Action Name="" ID="{3CC47129-C6FA-4C58-BED5-3C4ECE8F99AE}" ShortID="936945145">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Numeric_Click" ID="{E2FFBF8C-4376-45D1-AAE8-66880C853C39}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_ClearText" ID="{57E018EE-A82E-43FB-BF4E-DDD91DD5B622}">
+					<ChildrenList>
+						<Action Name="" ID="{EFE2C2D0-1A40-445D-9801-7D23F5577A83}" ShortID="641973064">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_ClearText" ID="{846CF490-B4D2-4952-A630-ED41DEFA00CF}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Virus" ID="{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}">
+					<ChildrenList>
+						<Action Name="" ID="{A0E832E4-F5F1-44E1-878C-67AE7E99652B}" ShortID="359311617">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Virus" ID="{F0D099AA-05B7-487D-9714-AD8835D9FED7}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

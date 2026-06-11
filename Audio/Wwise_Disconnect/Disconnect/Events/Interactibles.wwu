@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C17206E6-9400-4F80-B86B-4A5D01D0C9DC}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Interactibles" ID="{C17206E6-9400-4F80-B86B-4A5D01D0C9DC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_INT_Cable_Select" ID="{8E9320EF-1D17-4309-9582-89806EA11E91}">
+					<ChildrenList>
+						<Action Name="" ID="{36C3111D-CD6D-46C6-857C-AE2C22414C1B}" ShortID="645203648">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Cable_Select" ID="{E9CEB39C-37BF-4D8E-988C-0F4E8169E6F5}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Capsule" ID="{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}">
+					<ChildrenList>
+						<Action Name="" ID="{DCBA7940-51B3-46C0-8A8C-361EFC7EDA13}" ShortID="932688751">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_EnergyCells" ID="{08F3330D-F0FA-4A63-870A-9D9910D3396B}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INTERACT_Cable_Tension" ID="{F8780E07-9950-45A2-A101-E388FC187CE4}">
+					<ChildrenList>
+						<Action Name="" ID="{45186BC4-5527-4F43-9916-22187D62B746}" ShortID="816396281">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INTERACT_Cable_Tension" ID="{5B3FF71B-53EF-4F19-BBFE-7B4F1C733D26}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Cells_Load" ID="{826FA657-823C-4836-A09A-3478EAC33C00}">
+					<ChildrenList>
+						<Action Name="" ID="{1E3438EB-DACD-4949-B253-AF403A86D2FD}" ShortID="740209776">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Cells_Load" ID="{183E6900-B751-4AD5-8C40-8EE799DC159E}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Cable_Plug" ID="{428BC1F4-C79B-477A-95AC-F8352C7A4090}">
+					<ChildrenList>
+						<Action Name="" ID="{9EC43A35-CBA4-4143-9388-6BB48F0BFF20}" ShortID="221297097">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Cable_Plug" ID="{30DEAA5E-E3E7-4F6D-8B3B-E78A7A983E53}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
