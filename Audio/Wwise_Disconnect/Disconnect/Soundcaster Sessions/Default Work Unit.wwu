@@ -33,12 +33,12 @@
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>
 							<GameParameterRef Name="Player_Vertical_Speed" ID="{E5F85A72-79B9-412A-9CEE-7072611A9F32}"/>
-							<Value>7.26548061394969E-312</Value>
+							<Value>0</Value>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="State_Loop1" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
-						<CurrentStateRef Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
@@ -97,11 +97,16 @@
 				<SoundcasterSession Name="Falling" ID="{2A7509D0-D209-48EE-9936-D9D458ACD13B}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="PL_Falling_System" ID="{F47F9AE0-FAAB-46AF-A0B9-5D166844C988}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="PL_Falling_Loop" ID="{9D6E5354-3F5E-404B-9EBC-111445BD1FBC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 							<Position X="0" Y="0"/>
 						</Module>
 					</ModuleList>
-					<RTPCValueList ShowAll="true"/>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Player_Vertical_Speed" ID="{E5F85A72-79B9-412A-9CEE-7072611A9F32}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
 					</CurrentStateList>
