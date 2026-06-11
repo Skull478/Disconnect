@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{8F5D160F-EBA2-A32B-14C0-6590345609DF}",
+    "Hash": "{AA02305E-CAE3-BEE2-9DC7-52F4AE902A66}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -80,6 +80,12 @@
      }
     ],
     "GameParameters": [
+     {
+      "Id": "3416015707",
+      "Name": "Player_Vertical_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Vertical_Speed",
+      "GUID": "{E5F85A72-79B9-412A-9CEE-7072611A9F32}"
+     },
      {
       "Id": "3620054395",
       "Name": "Dev_Sidechain",
@@ -263,6 +269,6 @@
     ]
    }
   ],
-  "FileHash": "{5ED291CD-A1B5-E93B-A87C-541C7E180D1F}"
+  "FileHash": "{111440A1-5DD2-E649-067B-48046B29D8B2}"
  }
 }
