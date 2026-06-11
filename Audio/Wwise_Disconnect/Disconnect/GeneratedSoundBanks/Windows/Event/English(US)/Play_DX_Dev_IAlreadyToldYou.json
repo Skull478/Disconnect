@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3554903930",
+    "Type": "Event",
+    "GUID": "{D942A7B1-5B0F-4682-B3E7-1848C7AEA648}",
+    "Language": "English(US)",
+    "Hash": "{37B8ECF9-D5FE-4ACA-42BE-975041AC6DAE}",
+    "ObjectPath": "Play_DX_Dev_IAlreadyToldYou",
+    "ShortName": "Play_DX_Dev_IAlreadyToldYou",
+    "Path": "Event/English(US)/Play_DX_Dev_IAlreadyToldYou.bnk",
+    "Media": [
+     {
+      "Id": "565141998",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_IAlreadyToldYou.wav",
+      "Path": "Media/English(US)/565141998.wem",
+      "CachePath": "FE/{FE203E31-7FC9-F0AB-F3B0-4133448D073B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3554903930",
+      "Name": "Play_DX_Dev_IAlreadyToldYou",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_IAlreadyToldYou",
+      "GUID": "{D942A7B1-5B0F-4682-B3E7-1848C7AEA648}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.514917",
+      "DurationMax": "4.514917",
+      "MediaRefs": [
+       {
+        "Id": "565141998"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F0DA0D6D-BA6E-7877-B931-BBCBD3A179BA}"
+ }
+}

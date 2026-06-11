@@ -254,7 +254,7 @@
      {
       "Id": "188899575",
       "Name": "Play_PL_Footsteps_DevSide",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_PL_Footsteps_DevSide",
+      "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Footsteps_DevSide",
       "GUID": "{0F630EED-AC0C-4B70-AEB3-324AD1444F41}",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
@@ -407,6 +407,6 @@
     ]
    }
   ],
-  "FileHash": "{1E988E19-0A10-0BD2-8E26-020CB131493B}"
+  "FileHash": "{BCA6C91D-6BF2-7F34-994F-7E89962DFEDB}"
  }
 }

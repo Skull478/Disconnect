@@ -110,7 +110,7 @@
      {
       "Id": "3778230614",
       "Name": "Play_Glitch_Med",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Glitch_Med",
+      "ObjectPath": "\\Events\\UI\\Play_Glitch_Med",
       "GUID": "{58D1D864-42CA-4D37-B6F9-31A68746DF13}",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
@@ -150,6 +150,6 @@
     ]
    }
   ],
-  "FileHash": "{3ED45B19-666A-CA6A-D7EF-4E8427E82B52}"
+  "FileHash": "{5E60D5C6-93D6-432F-9F5D-A4EA0A12D1A7}"
  }
 }

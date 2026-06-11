@@ -29,7 +29,7 @@
      {
       "Id": "1490736234",
       "Name": "Play_INT_Cells_Load",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_INT_Cells_Load",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cells_Load",
       "GUID": "{826FA657-823C-4836-A09A-3478EAC33C00}",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{743DFA4D-E75D-D7E2-8513-E351C2C0F813}"
+  "FileHash": "{31060454-754B-A066-6FCF-ADC095EB7241}"
  }
 }

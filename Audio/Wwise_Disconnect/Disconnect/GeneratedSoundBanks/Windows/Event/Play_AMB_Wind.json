@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2255457607",
+    "Type": "Event",
+    "GUID": "{DB23AB19-C7FE-415D-804A-D1F5341EB335}",
+    "Language": "SFX",
+    "Hash": "{60FBF99B-5C65-306E-DD1A-E764A1E180A9}",
+    "ObjectPath": "Play_AMB_Wind",
+    "ShortName": "Play_AMB_Wind",
+    "Path": "Event/Play_AMB_Wind.bnk",
+    "Media": [
+     {
+      "Id": "784748303",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Wind_Layer_Loop.wav",
+      "Path": "Media/784748303.wem",
+      "CachePath": "DB/{DBD02908-82AF-8DF8-2327-21016874D562}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2255457607",
+      "Name": "Play_AMB_Wind",
+      "ObjectPath": "\\Events\\AMB\\Play_AMB_Wind",
+      "GUID": "{DB23AB19-C7FE-415D-804A-D1F5341EB335}",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "784748303"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{19E6F9CF-D1E4-AA91-D0F8-09F22EBA6C28}"
+ }
+}

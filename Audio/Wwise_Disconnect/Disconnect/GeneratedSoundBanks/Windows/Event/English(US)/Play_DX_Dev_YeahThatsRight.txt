@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1138018436	Play_DX_Dev_YeahThatsRight			\DX\Dev\Play_DX_Dev_YeahThatsRight	
+

@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "519535500",
+    "Type": "Event",
+    "GUID": "{A16F9680-1DF8-4D24-9BA8-8B670EE23AC7}",
+    "Language": "English(US)",
+    "Hash": "{463249A1-C210-EB7E-4D9F-7BC410591B1B}",
+    "ObjectPath": "Play_DX_Player_WhatIfIFall",
+    "ShortName": "Play_DX_Player_WhatIfIFall",
+    "Path": "Event/English(US)/Play_DX_Player_WhatIfIFall.bnk",
+    "Media": [
+     {
+      "Id": "152619256",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_WhatIfIFall.wav",
+      "Path": "Media/English(US)/152619256.wem",
+      "CachePath": "43/{431261FF-9379-B1E2-7F61-C76D694B1C4D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "519535500",
+      "Name": "Play_DX_Player_WhatIfIFall",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_WhatIfIFall",
+      "GUID": "{A16F9680-1DF8-4D24-9BA8-8B670EE23AC7}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.9201667",
+      "DurationMax": "0.9201667",
+      "MediaRefs": [
+       {
+        "Id": "152619256"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4C37F908-3FEC-A791-98B8-07EB1C3E7034}"
+ }
+}

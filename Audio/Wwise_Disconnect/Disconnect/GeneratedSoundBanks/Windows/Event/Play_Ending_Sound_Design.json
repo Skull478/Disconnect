@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
     "Language": "SFX",
-    "Hash": "{7FC314BC-C434-EA11-2105-CFF8D59CF386}",
+    "Hash": "{31A950D7-5055-67EE-7A8D-53028D3E6DB0}",
     "ObjectPath": "Play_Ending_Sound_Design",
     "ShortName": "Play_Ending_Sound_Design",
     "Path": "Event/Play_Ending_Sound_Design.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{C01210B4-18FD-99E8-C156-F2AFB44F0106}"
+  "FileHash": "{B792FDD5-584B-197A-73A5-1A617D11771B}"
  }
 }
