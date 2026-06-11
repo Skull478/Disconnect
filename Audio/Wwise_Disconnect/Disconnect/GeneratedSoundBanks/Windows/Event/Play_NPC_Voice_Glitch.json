@@ -74,7 +74,7 @@
      {
       "Id": "1364213772",
       "Name": "Play_NPC_Voice_Glitch",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_NPC_Voice_Glitch",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_NPC_Voice_Glitch",
       "GUID": "{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
@@ -104,6 +104,6 @@
     ]
    }
   ],
-  "FileHash": "{A85E2854-0C9E-95D2-7E5A-C68035E8A641}"
+  "FileHash": "{0BCD9052-4C95-25CC-A3D3-E42AC9891F4C}"
  }
 }

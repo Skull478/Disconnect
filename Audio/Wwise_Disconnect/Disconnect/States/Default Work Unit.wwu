@@ -13,6 +13,16 @@
 						<State Name="State_Virus" ID="{05B6B32F-1DB4-4681-9BA4-AD7A27FD24AC}"/>
 					</ChildrenList>
 				</StateGroup>
+				<StateGroup Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
+						<State Name="Falling" ID="{B3701C78-0753-4716-9453-EE8C139BA8A8}"/>
+						<State Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+					</ChildrenList>
+				</StateGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</States>

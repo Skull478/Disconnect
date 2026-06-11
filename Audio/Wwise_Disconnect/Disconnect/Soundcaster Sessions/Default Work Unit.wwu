@@ -6,13 +6,43 @@
 				<SoundcasterSession Name="AMBIANCE_TESTS" ID="{ED803D40-47F6-4248-A934-6A0F2386A6D9}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="Play_AMB_Main" ID="{06C919E1-4ED1-4537-B3E0-60678D3B203F}" WorkUnitID="{32D4E254-6A45-4117-85FF-38844D1C2629}"/>
+							<ObjectRef Name="AMB_Main_Roomtone" ID="{0FE06B61-C1AA-4D4A-B068-F2F729E8E055}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 							<Position X="0" Y="0"/>
 						</Module>
+						<Module>
+							<ObjectRef Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="AMB_Dev" ID="{914D8A94-6A36-4900-8E04-3F462E5A44FE}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="AMB_Lava" ID="{963FF6AB-2E31-4BE8-8C9A-ED51CF8D81CB}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="AMB_Wind_Layer_Loop" ID="{6DE5FF34-9BB5-498A-B612-503A40F89F15}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="AMB_ViewPoint" ID="{E5D00B49-637B-428C-BE4A-B75C76DEADDC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<Position X="5" Y="0"/>
+						</Module>
 					</ModuleList>
-					<RTPCValueList ShowAll="true"/>
-					<CurrentStateList ShowAll="true"/>
-					<CurrentSwitchList ShowAll="true"/>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Player_Vertical_Speed" ID="{E5F85A72-79B9-412A-9CEE-7072611A9F32}"/>
+							<Value>7.26548061394969E-312</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="State_Loop1" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<CurrentStateRef Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
+					</CurrentSwitchList>
 				</SoundcasterSession>
 				<SoundcasterSession Name="Footsteps" ID="{3FC77A49-0B52-4CFB-A1E4-555356520242}">
 					<ModuleList>
@@ -63,6 +93,19 @@
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
 					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Falling" ID="{2A7509D0-D209-48EE-9936-D9D458ACD13B}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="PL_Falling_System" ID="{F47F9AE0-FAAB-46AF-A0B9-5D166844C988}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
 				</SoundcasterSession>
 			</ChildrenList>
 		</WorkUnit>

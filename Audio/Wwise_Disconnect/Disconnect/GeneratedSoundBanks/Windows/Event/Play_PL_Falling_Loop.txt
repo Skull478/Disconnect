@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	857395023	Play_PL_Falling_Loop			\PlayerEvents\Play_PL_Falling_Loop	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	399052710	Falling			\Default Work Unit\Falling	
+
+State	ID	Name	State Group			Notes
+	204889085	NotFalling	Falling			
+	399052710	Falling	Falling			
+	748895195	None	Falling			
+

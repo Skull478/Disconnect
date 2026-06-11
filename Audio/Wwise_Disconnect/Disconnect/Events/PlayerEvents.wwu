@@ -58,6 +58,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_PL_Footsteps_DevSide" ID="{0F630EED-AC0C-4B70-AEB3-324AD1444F41}">
+					<ChildrenList>
+						<Action Name="" ID="{00829D19-F239-4F7F-A511-86AC4F1B1976}" ShortID="753591465">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PL_Footsteps_DevSide" ID="{9C85BEC8-2814-4EB7-B96A-2471F751EABB}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_PL_Falling_Loop" ID="{889E9541-28C1-410E-8443-C2ABADEBA63E}">
+					<ChildrenList>
+						<Action Name="" ID="{7C1FC6BE-C9ED-49A7-BB0F-35FC43CF4606}" ShortID="929052251">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PL_Falling_Loop" ID="{9D6E5354-3F5E-404B-9EBC-111445BD1FBC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
