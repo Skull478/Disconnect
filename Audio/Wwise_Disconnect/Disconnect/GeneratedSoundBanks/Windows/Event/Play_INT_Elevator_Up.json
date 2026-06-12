@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "680647614",
+    "Type": "Event",
+    "GUID": "{7D1EE9FC-B76E-4FDF-ABD9-411B30073722}",
+    "Language": "SFX",
+    "Hash": "{D995D0C9-0D12-B3E9-EF7E-5D4E18F5F2CA}",
+    "ObjectPath": "Play_INT_Elevator_Up",
+    "ShortName": "Play_INT_Elevator_Up",
+    "Path": "Event/Play_INT_Elevator_Up.bnk",
+    "Media": [
+     {
+      "Id": "25031971",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "elevator.wav",
+      "Path": "Media/25031971.wem",
+      "CachePath": "29/{2928F59D-381A-DA22-D9EF-1516D6DBCB82}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "680647614",
+      "Name": "Play_INT_Elevator_Up",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_Elevator_Up",
+      "GUID": "{7D1EE9FC-B76E-4FDF-ABD9-411B30073722}",
+      "Color": "23",
+      "DurationType": "OneShot",
+      "DurationMin": "7.5480046",
+      "DurationMax": "7.5480046",
+      "MediaRefs": [
+       {
+        "Id": "25031971"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D6B8D519-F7C7-74FA-879B-867D385A4353}"
+ }
+}

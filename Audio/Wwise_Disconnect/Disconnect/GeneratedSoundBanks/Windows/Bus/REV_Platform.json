@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2712805294",
+    "Type": "Bus",
+    "GUID": "{D367577F-4F35-45FC-B9AC-8E4064150A39}",
+    "Language": "SFX",
+    "Hash": "{396078F2-D576-9657-12A8-96DACD71F119}",
+    "ObjectPath": "REV_Platform",
+    "ShortName": "REV_Platform",
+    "Path": "Bus/REV_Platform.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "48620415",
+       "Name": "Have_U_Ever_Been_Outside",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Exteriors\\Have_U_Ever_Been_Outside",
+       "GUID": "{FE29AE8D-FD86-4652-A95D-68D32F5760EC}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "2712805294",
+      "Name": "REV_Platform",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Platform",
+      "GUID": "{D367577F-4F35-45FC-B9AC-8E4064150A39}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "48620415"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{526A063E-154C-BF2E-5471-EC016E916F16}"
+ }
+}

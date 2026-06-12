@@ -28,14 +28,41 @@
 								</ObjectList>
 							</ObjectLists>
 						</AuxBus>
+						<AuxBus Name="REV_Lava" ID="{8E098BE2-E1FD-4EB0-B48C-B58A5E7685FA}">
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{8D15A7A1-6180-4C05-934A-9998F7F7FE48}" ShortID="836968919">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Aluminium_Tank" ID="{0D20C91A-F750-47E0-AE32-00E5F2AA1272}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+						<AuxBus Name="REV_Platform" ID="{D367577F-4F35-45FC-B9AC-8E4064150A39}">
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{BF7DC742-C882-4D13-B1AB-1A33CBA81F75}" ShortID="728011413">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Have_U_Ever_Been_Outside" ID="{FE29AE8D-FD86-4652-A95D-68D32F5760EC}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
 					</ChildrenList>
-				</Bus>
-				<Bus Name="Master Dev" ID="{15E92592-D138-4AF2-910C-714DB329E7F3}">
-					<ReferenceList>
-						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
-							<ObjectRef Name="System" ID="{DF6F8EAD-6E4E-4586-84F1-C8ADA14C2F30}" WorkUnitID="{54DC8489-D751-47AB-AAE6-ACA44F73B20D}"/>
-						</Reference>
-					</ReferenceList>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>

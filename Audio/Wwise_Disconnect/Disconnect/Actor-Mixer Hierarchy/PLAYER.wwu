@@ -9,6 +9,7 @@
 			<ChildrenList>
 				<ActorMixer Name="PlayerMovement" ID="{ED1C9650-E277-4F70-AA21-8B38A86F466E}" ShortID="202124870">
 					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 					</PropertyList>
 					<ReferenceList>
@@ -1091,6 +1092,19 @@
 						</SwitchContainer>
 						<Sound Name="PL_Land" ID="{84F29B45-FFA7-48AC-96D3-E5AFC498DC54}" ShortID="240606267">
 							<PropertyList>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{726B2EE8-E2FC-4F56-8862-C57B2600EE44}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="350"/>
+													<Property Name="Min" Type="Real64" Value="-350"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
 										<Value>-6</Value>
@@ -1332,44 +1346,6 @@
 								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
-						<SwitchContainer Name="PL_Falling_System" ID="{F47F9AE0-FAAB-46AF-A0B9-5D166844C988}" ShortID="311643598">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
-								</Reference>
-								<Reference Name="DefaultSwitchOrState">
-									<ObjectRef Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}" WorkUnitID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
-								</Reference>
-								<Reference Name="SwitchGroupOrStateGroup">
-									<ObjectRef Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}" WorkUnitID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}"/>
-								</Reference>
-							</ReferenceList>
-							<StateInfo>
-								<StateGroupList>
-									<StateGroupInfo>
-										<StateGroupRef Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}"/>
-									</StateGroupInfo>
-								</StateGroupList>
-								<CustomStateList>
-									<CustomState>
-										<StateRef Name="Falling" ID="{B3701C78-0753-4716-9453-EE8C139BA8A8}"/>
-										<CustomState Name="" ID="{3DEE363D-2DE4-4A1B-9830-1382A0CA78F4}" ShortID="373786669"/>
-									</CustomState>
-									<CustomState>
-										<StateRef Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
-										<CustomState Name="" ID="{317F7C22-844D-4D8F-BBCE-B7188DB49777}" ShortID="594575890">
-											<PropertyList>
-												<Property Name="Volume" Type="Real64" Value="-108"/>
-											</PropertyList>
-										</CustomState>
-									</CustomState>
-								</CustomStateList>
-							</StateInfo>
-							<GroupingInfo/>
-						</SwitchContainer>
 						<Sound Name="PL_Falling_Loop" ID="{9D6E5354-3F5E-404B-9EBC-111445BD1FBC}" ShortID="477092798">
 							<PropertyList>
 								<Property Name="EnableAttenuation" Type="bool" Value="False"/>
@@ -1432,8 +1408,14 @@
 																		<SegmentShape>Log1</SegmentShape>
 																	</Point>
 																	<Point>
+																		<XPos>299.46903</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>0</Flags>
+																		<SegmentShape>Log2</SegmentShape>
+																	</Point>
+																	<Point>
 																		<XPos>1200</XPos>
-																		<YPos>0</YPos>
+																		<YPos>-4.54692</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>

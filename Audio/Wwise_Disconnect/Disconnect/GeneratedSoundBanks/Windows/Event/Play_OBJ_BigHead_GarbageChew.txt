@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1294503653	Play_OBJ_BigHead_GarbageChew			\AMB\3dSounds\Play_OBJ_BigHead_GarbageChew	
+

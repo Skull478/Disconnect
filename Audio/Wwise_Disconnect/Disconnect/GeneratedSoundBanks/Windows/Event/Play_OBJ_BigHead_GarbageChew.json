@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1294503653",
+    "Type": "Event",
+    "GUID": "{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}",
+    "Language": "SFX",
+    "Hash": "{5ACDAE6E-B4AA-6726-6F27-CD1FF93BA5C9}",
+    "ObjectPath": "Play_OBJ_BigHead_GarbageChew",
+    "ShortName": "Play_OBJ_BigHead_GarbageChew",
+    "Path": "Event/Play_OBJ_BigHead_GarbageChew.bnk",
+    "Media": [
+     {
+      "Id": "285638156",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_BigHead_GarbageChew.wav",
+      "Path": "Media/285638156.wem",
+      "CachePath": "80/{8094C667-C4E1-FCA8-5958-C7F84119B758}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1294503653",
+      "Name": "Play_OBJ_BigHead_GarbageChew",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_BigHead_GarbageChew",
+      "GUID": "{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}",
+      "Color": "17",
+      "MaxAttenuation": "7000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "285638156"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3EA5AB0B-7D40-5104-5D13-90D9BD4E7D63}"
+ }
+}

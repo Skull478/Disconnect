@@ -343,123 +343,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_Glitch_Med" ID="{58D1D864-42CA-4D37-B6F9-31A68746DF13}">
-					<ChildrenList>
-						<Action Name="" ID="{A33890D4-7826-48EB-BD3A-091BC5DE8761}" ShortID="304707294">
-							<PropertyList>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{F8627677-81D1-4087-9AA9-189937F9A536}" ShortID="920715225">
-							<PropertyList>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{2B1AA5B7-116C-4623-A1A0-9E1B734E358D}" ShortID="81474961">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="OBJ_Glitches_Med" ID="{72775D45-BE89-4C3C-9021-54B019A57731}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="Play_Glitch_Large" ID="{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}">
-					<ChildrenList>
-						<Action Name="" ID="{0922B26D-0F40-46E9-8834-0EDEFFB3DAAC}" ShortID="222959591">
-							<PropertyList>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{9F559E49-3D03-435F-B738-FE700501522B}" ShortID="401617403">
-							<PropertyList>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{D672B695-DAB3-444A-8605-8F54A4BD0305}" ShortID="152857465">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="OBJ_Glitches_Large" ID="{75FF3D11-392B-484C-B513-B001AA764CC4}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="Play_Glitch_Small" ID="{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}">
-					<ChildrenList>
-						<Action Name="" ID="{7DE2D78C-85A8-4744-9738-925911FB5553}" ShortID="334521434">
-							<PropertyList>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{EFC85F94-F838-4A5A-9DD5-511D614C9350}" ShortID="764394111">
-							<PropertyList>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{395605BF-9996-4011-BE81-4743FEAC0BEB}" ShortID="118568473">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="OBJ_Glitches_Small" ID="{445012F6-CBA7-49F3-9F1B-B0D3064EDDB4}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Play_UI_Notification_Message" ID="{34299A31-63D9-43E4-A29A-48784FA9EF30}">
 					<ChildrenList>
 						<Action Name="" ID="{3CC47129-C6FA-4C58-BED5-3C4ECE8F99AE}" ShortID="936945145">
@@ -502,6 +385,39 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="UI_Slider" ID="{CF5BFD7A-097E-4F57-B48F-4F5BB3608F27}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Feedback_Open_Garage_DevSide" ID="{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}">
+					<ChildrenList>
+						<Action Name="" ID="{E097CA94-2DC4-48FE-9E22-AA4BFA0252C7}" ShortID="987738196">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Feedback_Open_Garage_DevSide" ID="{B8856938-E41E-4369-8B49-50392EF0ED84}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Feedback_Cable_Validate_DevSide" ID="{016A4548-D135-4A61-A2AE-6108B66C62E7}">
+					<ChildrenList>
+						<Action Name="" ID="{D4BA034C-FD4B-4D35-8248-0719024567BC}" ShortID="518137281">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Feedback_Cable_Validate_DevSide" ID="{23BAFF4B-FE6C-4842-BDF2-51AD7D2D1F23}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Feedback_CellLoads_DevSide" ID="{F9C067BE-21FE-4B56-992A-B0FB8DD1AAF2}">
+					<ChildrenList>
+						<Action Name="" ID="{8DF3F200-A660-4C22-B242-B0AB77EF40F8}" ShortID="302352597">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Feedback_CellLoads_DevSide" ID="{465E49C8-D15D-477A-B23A-A7830E465C3D}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

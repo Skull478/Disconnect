@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "747584381",
+    "Id": "586500476",
     "Type": "Event",
-    "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
+    "GUID": "{2B045812-A43F-4F04-AC82-FB641A756B62}",
     "Language": "SFX",
-    "Hash": "{E943847A-262C-1C73-D0CA-1523F007813F}",
-    "ObjectPath": "Play_INTERACT_Cable_Tension",
-    "ShortName": "Play_INTERACT_Cable_Tension",
-    "Path": "Event/Play_INTERACT_Cable_Tension.bnk",
+    "Hash": "{46AB0F50-42F8-55BF-092D-1AF89BF205F7}",
+    "ObjectPath": "Play_OBJ_Cable_Tension",
+    "ShortName": "Play_OBJ_Cable_Tension",
+    "Path": "Event/Play_OBJ_Cable_Tension.bnk",
     "Media": [
      {
       "Id": "992449721",
@@ -27,11 +27,12 @@
     ],
     "Events": [
      {
-      "Id": "747584381",
-      "Name": "Play_INTERACT_Cable_Tension",
-      "ObjectPath": "\\Events\\Interactibles\\Play_INTERACT_Cable_Tension",
-      "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
-      "Color": "23",
+      "Id": "586500476",
+      "Name": "Play_OBJ_Cable_Tension",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Cable_Tension",
+      "GUID": "{2B045812-A43F-4F04-AC82-FB641A756B62}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{86CA892C-0DA2-DCB9-2A78-897AFA5551A5}"
+  "FileHash": "{2D8985FE-23A2-5149-5C33-A621E7C5F9A0}"
  }
 }

@@ -4,6 +4,10 @@
 		<WorkUnit Name="Default Work Unit" ID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="Ending_Sound Design" ID="{726B46BC-24F1-43B1-B920-C726A25E86E6}" ShortID="137802490">
+					<PropertyList>
+						<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
 							<Custom>

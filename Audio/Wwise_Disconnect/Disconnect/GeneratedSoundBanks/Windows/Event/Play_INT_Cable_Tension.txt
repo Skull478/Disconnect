@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1932926608	Play_INT_Cable_Tension			\Interactibles\Play_INT_Cable_Tension	
+
