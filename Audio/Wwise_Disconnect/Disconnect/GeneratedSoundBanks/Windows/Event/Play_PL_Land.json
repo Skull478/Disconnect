@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3D4F556B-1E95-4E18-AFE1-D0C16425A313}",
     "Language": "SFX",
-    "Hash": "{488DFA81-7426-E17C-BAA6-2225DE0BE636}",
+    "Hash": "{DE994E3C-8E9D-5DAF-9382-89725DAC935F}",
     "ObjectPath": "Play_PL_Land",
     "ShortName": "Play_PL_Land",
     "Path": "Event/Play_PL_Land.bnk",
@@ -34,8 +34,8 @@
       "Color": "2",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
-      "DurationMin": "4.0933123",
-      "DurationMax": "4.0933123",
+      "DurationMin": "3.3440633",
+      "DurationMax": "5.0104337",
       "MediaRefs": [
        {
         "Id": "253892158"
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{EF6D9912-91E7-A54D-5163-C9B337D87125}"
+  "FileHash": "{C97ADA40-1AAC-3AA9-6BC2-8BE508EEDC8E}"
  }
 }
