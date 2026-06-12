@@ -102,10 +102,22 @@
 					<ChildrenList>
 						<RandomSequenceContainer Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" ShortID="914202232">
 							<PropertyList>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{93EFC581-7186-4F28-B48B-31CA9A746C79}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
 								<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
 								<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
 								<Property Name="PlayMechanismSpecialTransitionsValue" Type="Real64" Value="4"/>
 								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>3</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -670,6 +682,13 @@
 									</ValueList>
 								</Property>
 								<Property Name="OverrideEffect" Type="bool" Value="True"/>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{66141053-3780-405A-B287-A058CA7BDB5A}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">

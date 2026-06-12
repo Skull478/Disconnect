@@ -37,8 +37,9 @@
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="State_Loop1" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<CurrentStateRef Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
+						<CurrentStateRef Name="No" ID="{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
