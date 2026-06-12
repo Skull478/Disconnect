@@ -2403,6 +2403,84 @@
 								</Sound>
 							</ChildrenList>
 						</ActorMixer>
+						<ActorMixer Name="Feedbacks_DevSide" ID="{93E8B840-20FB-40F0-8AFA-927C7D29D5DD}" ShortID="570809676">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="UI_Feedback_Cable_Validate_DevSide" ID="{23BAFF4B-FE6C-4842-BDF2-51AD7D2D1F23}" ShortID="489497526">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="UI_Feedback_Cable_Validate_DevSide" ID="{F8CCF061-C495-4E6E-AB3E-6B14C3453AAB}">
+											<Language>SFX</Language>
+											<AudioFile>UI_Feedback_Cable_Validate_DevSide.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="73192573"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="UI_Feedback_Cable_Validate_DevSide" ID="{F8CCF061-C495-4E6E-AB3E-6B14C3453AAB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="UI_Feedback_CellLoads_DevSide" ID="{465E49C8-D15D-477A-B23A-A7830E465C3D}" ShortID="744488799">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="UI_Feedback_CellLoads_DevSide" ID="{DCC22824-1558-43B9-8CA4-A950C5497EFF}">
+											<Language>SFX</Language>
+											<AudioFile>UI_Feedback_CellLoads_DevSide.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="779173282"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="UI_Feedback_CellLoads_DevSide" ID="{DCC22824-1558-43B9-8CA4-A950C5497EFF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="UI_Feedback_Open_Garage_DevSide" ID="{B8856938-E41E-4369-8B49-50392EF0ED84}" ShortID="123943515">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="UI_Feedback_Open_Garage_DevSide" ID="{AC2B875E-3B5B-42FB-8804-0E597511F289}">
+											<Language>SFX</Language>
+											<AudioFile>UI_Feedback_Open_Garage_DevSide.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="645561023"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="UI_Feedback_Open_Garage_DevSide" ID="{AC2B875E-3B5B-42FB-8804-0E597511F289}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</ActorMixer>
 					</ChildrenList>
 				</ActorMixer>
 			</ChildrenList>
