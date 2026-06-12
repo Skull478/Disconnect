@@ -504,6 +504,31 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_UI_Slider" ID="{CD177585-A1E2-45CB-A638-54089A946B52}">
+					<ChildrenList>
+						<Action Name="" ID="{AE3B7588-7470-41D2-9DAB-02D197601782}" ShortID="80276056">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Slider" ID="{CF5BFD7A-097E-4F57-B48F-4F5BB3608F27}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_UI_Slider" ID="{CC817328-E795-43AD-9688-05BEEA8F6B68}">
+					<ChildrenList>
+						<Action Name="" ID="{A1DB693B-EAEF-497B-987C-07427B9D4031}" ShortID="142761302">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Slider" ID="{CF5BFD7A-097E-4F57-B48F-4F5BB3608F27}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2007211132	Play_UI_Slider			\UI\Play_UI_Slider	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	641105734	Player_Slider_Speed			\Default Work Unit\Player_Slider_Speed	
+

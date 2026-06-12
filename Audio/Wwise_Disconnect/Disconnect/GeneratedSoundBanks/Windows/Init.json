@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{38172D07-2614-BF4A-D478-3FDDEB0E8C7D}",
+    "Hash": "{42C45287-ECF9-028E-5EB6-D4150386E261}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -80,6 +80,12 @@
      }
     ],
     "GameParameters": [
+     {
+      "Id": "641105734",
+      "Name": "Player_Slider_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Slider_Speed",
+      "GUID": "{1439B294-7B58-411C-9BE2-F261BB4ED79C}"
+     },
      {
       "Id": "3416015707",
       "Name": "Player_Vertical_Speed",
@@ -289,6 +295,6 @@
     ]
    }
   ],
-  "FileHash": "{78D39A3E-7234-A06A-6BC4-A6CC98CBD2AF}"
+  "FileHash": "{62E071E4-DA28-78AD-4066-A2C881BEA964}"
  }
 }

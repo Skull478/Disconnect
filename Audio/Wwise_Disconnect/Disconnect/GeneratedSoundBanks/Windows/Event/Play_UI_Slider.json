@@ -1,0 +1,102 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2007211132",
+    "Type": "Event",
+    "GUID": "{CD177585-A1E2-45CB-A638-54089A946B52}",
+    "Language": "SFX",
+    "Hash": "{C0A8B493-E846-600F-863E-73CE198B270B}",
+    "ObjectPath": "Play_UI_Slider",
+    "ShortName": "Play_UI_Slider",
+    "Path": "Event/Play_UI_Slider.bnk",
+    "Media": [
+     {
+      "Id": "8638280",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Slider-003.wav",
+      "Path": "Media/8638280.wem",
+      "CachePath": "A5/{A5B52EF9-AF64-B85F-297C-358048CC612F}.wem"
+     },
+     {
+      "Id": "119602796",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Slider-001.wav",
+      "Path": "Media/119602796.wem",
+      "CachePath": "E5/{E5B3DBDF-E999-FADF-3DDA-C788189405DC}.wem"
+     },
+     {
+      "Id": "669484310",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Slider-004.wav",
+      "Path": "Media/669484310.wem",
+      "CachePath": "C0/{C0847EB5-83EA-BE7F-B001-3D65F504B712}.wem"
+     },
+     {
+      "Id": "725246024",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Slider-002.wav",
+      "Path": "Media/725246024.wem",
+      "CachePath": "7A/{7A843E30-7541-1F2E-35F4-A0CCB5F4CE33}.wem"
+     },
+     {
+      "Id": "974355337",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Slider-005.wav",
+      "Path": "Media/974355337.wem",
+      "CachePath": "FA/{FAA64B69-3D89-6876-E262-2D88CE5565A9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2007211132",
+      "Name": "Play_UI_Slider",
+      "ObjectPath": "\\Events\\UI\\Play_UI_Slider",
+      "GUID": "{CD177585-A1E2-45CB-A638-54089A946B52}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "8638280"
+       },
+       {
+        "Id": "119602796"
+       },
+       {
+        "Id": "669484310"
+       },
+       {
+        "Id": "725246024"
+       },
+       {
+        "Id": "974355337"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "641105734",
+      "Name": "Player_Slider_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Slider_Speed",
+      "GUID": "{1439B294-7B58-411C-9BE2-F261BB4ED79C}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4000EF95-AE6C-901A-6AA3-5815A535B770}"
+ }
+}
