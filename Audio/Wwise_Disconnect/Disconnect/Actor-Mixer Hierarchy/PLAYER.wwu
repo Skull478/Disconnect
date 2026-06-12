@@ -1408,8 +1408,14 @@
 																		<SegmentShape>Log1</SegmentShape>
 																	</Point>
 																	<Point>
+																		<XPos>299.46903</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>0</Flags>
+																		<SegmentShape>Log2</SegmentShape>
+																	</Point>
+																	<Point>
 																		<XPos>1200</XPos>
-																		<YPos>-4.22116</YPos>
+																		<YPos>-4.54692</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>

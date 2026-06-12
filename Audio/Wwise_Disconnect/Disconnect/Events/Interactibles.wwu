@@ -49,6 +49,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{70ED3F57-50B3-41C7-B225-FE80731BB79A}" ShortID="741047851">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_EnergyCells" ID="{08F3330D-F0FA-4A63-870A-9D9910D3396B}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="Play_INT_Cable_Plug" ID="{428BC1F4-C79B-477A-95AC-F8352C7A4090}">
