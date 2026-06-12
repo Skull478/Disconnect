@@ -21,15 +21,18 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	4001580976	BLOCK			\Default Work Unit\BLOCK	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
-	1063802714	Master Dev			\Default Work Unit\Master Dev	
 	1138681361	Player_Bus			\Default Work Unit\Master Audio Bus\Player_Bus	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2712805294	REV_Platform			\Default Work Unit\Master Audio Bus\REV_Platform	
 	3540377276	REV_Garage			\Default Work Unit\Master Audio Bus\REV_Garage	
+	4156775105	REV_Lava			\Default Work Unit\Master Audio Bus\REV_Lava	
 
 Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
 	1990128658	Room_Medium	Wwise RoomVerb			
+	3290519051	Aluminium_Tank	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			
