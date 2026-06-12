@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	4156775105	REV_Lava			\Default Work Unit\Master Audio Bus\REV_Lava	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3290519051	Aluminium_Tank	Wwise RoomVerb			
+

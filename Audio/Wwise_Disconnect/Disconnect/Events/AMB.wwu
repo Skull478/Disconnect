@@ -192,6 +192,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_BigHead_GarbageChew" ID="{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}">
+							<ChildrenList>
+								<Action Name="" ID="{D7DD1591-2A89-478D-BDA6-AA6583AC4220}" ShortID="305449599">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_BigHead_GarbageChew" ID="{223878EA-5E4C-4E48-984B-3B7DFB451DE8}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

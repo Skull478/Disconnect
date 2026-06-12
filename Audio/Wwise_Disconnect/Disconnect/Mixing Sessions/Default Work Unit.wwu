@@ -5,9 +5,8 @@
 			<ChildrenList>
 				<MixingSession Name="New Mixing Session" ID="{C2F1369C-02A2-4163-858C-6C90C9B2DD17}">
 					<ObjectList>
-						<ObjectRef Name="AMB_Main_Roomtone" ID="{0FE06B61-C1AA-4D4A-B068-F2F729E8E055}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-						<ObjectRef Name="AMB_Garage" ID="{B1BCFF33-C3E1-4540-AC81-A7EA5B44B3C6}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
-						<ObjectRef Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+						<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+						<ObjectRef Name="PlayerMovement" ID="{ED1C9650-E277-4F70-AA21-8B38A86F466E}" WorkUnitID="{8E885F43-56BE-4E6F-BFA9-F97D67751EF4}"/>
 					</ObjectList>
 				</MixingSession>
 				<MixingSession Name="Mixage_Bus" ID="{5A8B915C-B594-4B79-8775-96033E4A7154}">
