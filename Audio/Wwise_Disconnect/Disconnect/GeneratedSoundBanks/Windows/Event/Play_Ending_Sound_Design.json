@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
     "Language": "SFX",
-    "Hash": "{31A950D7-5055-67EE-7A8D-53028D3E6DB0}",
+    "Hash": "{6AC3EF29-C4AD-2BF4-8E1E-57AFE9A48E4C}",
     "ObjectPath": "Play_Ending_Sound_Design",
     "ShortName": "Play_Ending_Sound_Design",
     "Path": "Event/Play_Ending_Sound_Design.bnk",
@@ -31,7 +31,6 @@
       "Name": "Play_Ending_Sound_Design",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Ending_Sound_Design",
       "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
-      "MaxAttenuation": "100",
       "DurationType": "OneShot",
       "DurationMin": "46.88398",
       "DurationMax": "46.88398",
@@ -44,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{B792FDD5-584B-197A-73A5-1A617D11771B}"
+  "FileHash": "{450B1B89-50BC-AC69-BFD2-387AB8D07D63}"
  }
 }

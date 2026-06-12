@@ -29,7 +29,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_INTERACT_Cable_Tension" ID="{F8780E07-9950-45A2-A101-E388FC187CE4}">
+				<Event Name="Play_INT_Cable_Tension" ID="{F8780E07-9950-45A2-A101-E388FC187CE4}">
 					<ChildrenList>
 						<Action Name="" ID="{45186BC4-5527-4F43-9916-22187D62B746}" ShortID="816396281">
 							<ReferenceList>

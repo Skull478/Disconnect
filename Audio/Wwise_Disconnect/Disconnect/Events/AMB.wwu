@@ -203,8 +203,30 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_Cable_Tension" ID="{2B045812-A43F-4F04-AC82-FB641A756B62}">
+							<ChildrenList>
+								<Action Name="" ID="{8ACF0290-1C69-4CDF-BA9E-B5269EB4E0CA}" ShortID="38175920">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_Cable_Tension" ID="{AE52525D-A623-43C6-907D-64D388B785DE}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
+				<Event Name="Play_AMB_Glitch" ID="{313219A7-C7CC-414A-9937-CB6754630EE6}">
+					<ChildrenList>
+						<Action Name="" ID="{8BB89B17-E352-424F-AE36-FCF281C9CF14}" ShortID="497770812">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Glitch" ID="{B7C4E080-9500-415A-AA58-3AC229ED3E09}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

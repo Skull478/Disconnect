@@ -232,6 +232,7 @@
 						</Sound>
 						<Sound Name="INTERACT_Cable_Tension" ID="{5B3FF71B-53EF-4F19-BBFE-7B4F1C733D26}" ShortID="456233423">
 							<PropertyList>
+								<Property Name="3DSpatialization" Type="int16" Value="2"/>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 							</PropertyList>
 							<ReferenceList>
