@@ -83,8 +83,12 @@
 				<SoundcasterSession Name="Music_System" ID="{D91C3E06-37A9-460C-ABFD-801DE0E40DA5}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+							<ObjectRef Name="Play_Music_Sytem" ID="{6072C88A-D967-459E-84FF-E22468898EE3}" WorkUnitID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}"/>
 							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_Music_Sytem" ID="{6373029C-208F-448D-AB89-6393FEB8BB26}" WorkUnitID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}"/>
+							<Position X="1" Y="0"/>
 						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true"/>
