@@ -390,6 +390,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_UI_Feedback_Open_Garage_DevSide" ID="{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}">
+					<ChildrenList>
+						<Action Name="" ID="{E097CA94-2DC4-48FE-9E22-AA4BFA0252C7}" ShortID="987738196">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Feedback_Open_Garage_DevSide" ID="{B8856938-E41E-4369-8B49-50392EF0ED84}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Feedback_Cable_Validate_DevSide" ID="{016A4548-D135-4A61-A2AE-6108B66C62E7}">
+					<ChildrenList>
+						<Action Name="" ID="{D4BA034C-FD4B-4D35-8248-0719024567BC}" ShortID="518137281">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Feedback_Cable_Validate_DevSide" ID="{23BAFF4B-FE6C-4842-BDF2-51AD7D2D1F23}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_Feedback_CellLoads_DevSide" ID="{F9C067BE-21FE-4B56-992A-B0FB8DD1AAF2}">
+					<ChildrenList>
+						<Action Name="" ID="{8DF3F200-A660-4C22-B242-B0AB77EF40F8}" ShortID="302352597">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Feedback_CellLoads_DevSide" ID="{465E49C8-D15D-477A-B23A-A7830E465C3D}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
