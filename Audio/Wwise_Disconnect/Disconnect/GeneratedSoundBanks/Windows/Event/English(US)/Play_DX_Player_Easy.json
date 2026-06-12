@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_Easy",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_Easy",
       "GUID": "{84079D85-E6C1-40FB-AC63-7E091ECB1921}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "0.4585",
       "DurationMax": "0.4585",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{2F4CF83B-724A-3565-9EE1-11FC92EDD861}"
+  "FileHash": "{31D3A17B-9DA4-F9AA-B362-7755653EEFFA}"
  }
 }

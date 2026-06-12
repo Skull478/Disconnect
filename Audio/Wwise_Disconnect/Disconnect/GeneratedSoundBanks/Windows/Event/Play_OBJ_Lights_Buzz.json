@@ -29,8 +29,9 @@
      {
       "Id": "599904717",
       "Name": "Play_OBJ_Lights_Buzz",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Lights_Buzz",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Lights_Buzz",
       "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
+      "Color": "17",
       "MaxAttenuation": "500",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{0EA93F1E-AA29-9879-A8E1-732C3AECB511}"
+  "FileHash": "{D89D10C6-2946-40FC-1A7E-FD0920B8CD55}"
  }
 }

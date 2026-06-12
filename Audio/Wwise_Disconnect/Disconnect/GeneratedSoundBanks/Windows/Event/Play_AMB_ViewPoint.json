@@ -31,6 +31,7 @@
       "Name": "Play_AMB_ViewPoint",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_ViewPoint",
       "GUID": "{AF9A314F-D8A4-4C81-91A6-35E147AB26B1}",
+      "Color": "17",
       "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{CBC3DA28-A38D-31AD-31AB-302FCF7FBDB8}"
+  "FileHash": "{7CEFEC1F-9E0F-4610-FBE5-FD1DEE2E6F76}"
  }
 }

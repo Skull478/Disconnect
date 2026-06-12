@@ -31,6 +31,7 @@
       "Name": "Play_DX_Dev_ItsGameOver",
       "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_ItsGameOver",
       "GUID": "{5E9D3413-8432-4D0D-8018-EA55882BB0E3}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "0.756875",
       "DurationMax": "0.756875",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{76914A31-1E9F-A358-4B54-324627C9D4A5}"
+  "FileHash": "{9AF74E0D-ADFE-04C3-9EB9-5CA17792B711}"
  }
 }

@@ -67,6 +67,7 @@
       "Name": "Play_UI_Slider",
       "ObjectPath": "\\Events\\UI\\Play_UI_Slider",
       "GUID": "{CD177585-A1E2-45CB-A638-54089A946B52}",
+      "Color": "21",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -97,6 +98,6 @@
     ]
    }
   ],
-  "FileHash": "{4000EF95-AE6C-901A-6AA3-5815A535B770}"
+  "FileHash": "{6C504E31-602D-15D9-90A9-7FF1AFAF6897}"
  }
 }

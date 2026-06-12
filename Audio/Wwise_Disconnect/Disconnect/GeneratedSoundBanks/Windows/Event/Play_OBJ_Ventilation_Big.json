@@ -29,8 +29,9 @@
      {
       "Id": "2805917058",
       "Name": "Play_OBJ_Ventilation_Big",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Big",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Ventilation_Big",
       "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
+      "Color": "17",
       "MaxAttenuation": "2500",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{1A1A2DAD-C80A-EF21-B24F-F544B525C3E7}"
+  "FileHash": "{8B4A05C4-058A-B357-1DDB-9FC735B538DB}"
  }
 }

@@ -67,6 +67,7 @@
       "Name": "Play_UI_Notification_Message",
       "ObjectPath": "\\Events\\UI\\Play_UI_Notification_Message",
       "GUID": "{34299A31-63D9-43E4-A29A-48784FA9EF30}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -91,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{2AB4EE50-27D0-C9BA-90B9-D01AA7FD38B2}"
+  "FileHash": "{BC86BC8A-522C-F6A1-1E52-6494BBA4F7EE}"
  }
 }

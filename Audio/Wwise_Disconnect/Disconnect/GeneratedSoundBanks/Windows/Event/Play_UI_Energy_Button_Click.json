@@ -31,6 +31,7 @@
       "Name": "Play_UI_Energy_Button_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Energy_Button_Click",
       "GUID": "{4D1956CD-486B-4804-84B4-6F66DAC3027F}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.1907284",
       "DurationMax": "0.1907284",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{90713E10-F19C-9323-D7BD-F7CE3AC615CC}"
+  "FileHash": "{ADC64B0A-AEFA-6247-8D7D-1508800FE85B}"
  }
 }

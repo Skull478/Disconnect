@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_WhatNow",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_WhatNow",
       "GUID": "{BEB2E7C7-AEE0-4A1F-887B-22699AC6DD19}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "4.305917",
       "DurationMax": "4.305917",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{0B923E51-C8F2-1241-E61C-29BACDFCFC56}"
+  "FileHash": "{E038702E-B511-5300-2FDA-6D412951BF33}"
  }
 }

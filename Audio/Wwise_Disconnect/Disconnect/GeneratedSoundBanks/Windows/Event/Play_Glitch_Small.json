@@ -112,6 +112,7 @@
       "Name": "Play_Glitch_Small",
       "ObjectPath": "\\Events\\UI\\Play_Glitch_Small",
       "GUID": "{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}",
+      "Color": "21",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -150,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{C349C5A3-9E91-CA1B-B02C-3C952486977B}"
+  "FileHash": "{1156218F-7CBF-5A81-0BC0-50A1F109618E}"
  }
 }

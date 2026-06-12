@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_HowDoYouPlan",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_HowDoYouPlan",
       "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "1.7326459",
       "DurationMax": "1.7326459",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{13F20573-FA7C-F701-B8B4-1910F9F0B9C3}"
+  "FileHash": "{14BA76BF-5C5A-35C4-29FF-78F7E8A7CEB3}"
  }
 }

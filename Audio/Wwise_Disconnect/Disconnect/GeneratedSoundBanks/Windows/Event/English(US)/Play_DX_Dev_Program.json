@@ -31,6 +31,7 @@
       "Name": "Play_DX_Dev_Program",
       "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_Program",
       "GUID": "{FECFD77F-3C4D-48DD-9256-408993A36365}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "6.9688125",
       "DurationMax": "6.9688125",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E608EB50-C9EC-48B1-AA7B-B2799EA8A7F3}"
+  "FileHash": "{103A60BB-0F24-D362-FC5F-1355D0FBA0D1}"
  }
 }

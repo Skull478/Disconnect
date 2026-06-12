@@ -31,6 +31,7 @@
       "Name": "Play_INTERACT_Cable_Tension",
       "ObjectPath": "\\Events\\Interactibles\\Play_INTERACT_Cable_Tension",
       "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
+      "Color": "23",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -41,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{BFE2CF6C-5C73-8BBC-9B2F-525149541DB2}"
+  "FileHash": "{86CA892C-0DA2-DCB9-2A78-897AFA5551A5}"
  }
 }

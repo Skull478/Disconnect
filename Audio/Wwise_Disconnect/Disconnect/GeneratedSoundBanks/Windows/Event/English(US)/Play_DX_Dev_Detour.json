@@ -31,6 +31,7 @@
       "Name": "Play_DX_Dev_Detour",
       "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_Detour",
       "GUID": "{5DA11D22-9DFD-4E90-9BD8-1A3338905133}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "4.429458",
       "DurationMax": "4.429458",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E51A670B-2586-D9B8-6284-2DD518B26837}"
+  "FileHash": "{66427997-CEC5-3854-CDC5-BCFB43448DB0}"
  }
 }

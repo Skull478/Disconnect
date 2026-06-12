@@ -58,6 +58,7 @@
       "Name": "Play_INT_Cable_Select",
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cable_Select",
       "GUID": "{8E9320EF-1D17-4309-9582-89806EA11E91}",
+      "Color": "23",
       "DurationType": "OneShot",
       "DurationMin": "0.0674375",
       "DurationMax": "0.105333336",
@@ -79,6 +80,6 @@
     ]
    }
   ],
-  "FileHash": "{EA276AFD-F7FB-2058-72D7-CD729578B764}"
+  "FileHash": "{17C14C29-A729-FACD-0BA0-1B1790732B37}"
  }
 }

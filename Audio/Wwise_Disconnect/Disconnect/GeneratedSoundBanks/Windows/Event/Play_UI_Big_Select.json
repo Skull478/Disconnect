@@ -49,6 +49,7 @@
       "Name": "Play_UI_Big_Select",
       "ObjectPath": "\\Events\\UI\\Selections\\Play_UI_Big_Select",
       "GUID": "{5DAF8517-A464-4ADB-90C8-F778DDDD435D}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.12552084",
       "DurationMax": "0.1593125",
@@ -67,6 +68,6 @@
     ]
    }
   ],
-  "FileHash": "{6615ECB8-8AFF-63B8-7D56-01A11EF21340}"
+  "FileHash": "{7D81DE14-B5A9-59E9-A1A1-2F9039EF0043}"
  }
 }

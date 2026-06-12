@@ -74,8 +74,9 @@
      {
       "Id": "1364213772",
       "Name": "Play_NPC_Voice_Glitch",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_NPC_Voice_Glitch",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_NPC_Voice_Glitch",
       "GUID": "{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}",
+      "Color": "17",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.73969847",
@@ -104,6 +105,6 @@
     ]
    }
   ],
-  "FileHash": "{0BCD9052-4C95-25CC-A3D3-E42AC9891F4C}"
+  "FileHash": "{36908D8D-3025-911A-988E-CE7368B79481}"
  }
 }

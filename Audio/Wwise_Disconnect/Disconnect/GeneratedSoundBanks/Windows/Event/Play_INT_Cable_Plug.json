@@ -31,6 +31,7 @@
       "Name": "Play_INT_Cable_Plug",
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cable_Plug",
       "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
+      "Color": "23",
       "DurationType": "OneShot",
       "DurationMin": "0.24068147",
       "DurationMax": "0.5481707",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{8F31F049-FC9C-267E-435D-EBC91FFA59E7}"
+  "FileHash": "{0BD1ED74-A427-7E48-E073-BBEF47ED4444}"
  }
 }

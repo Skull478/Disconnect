@@ -31,6 +31,7 @@
       "Name": "Play_UI_Soft_Plastic_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Soft_Plastic_Click",
       "GUID": "{A1524453-EB93-4B2F-BEC9-D063BABDE0CD}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.047916666",
       "DurationMax": "0.047916666",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{28B22610-93D5-CAE5-AD07-CA94A7446880}"
+  "FileHash": "{04C8FBA2-0AD2-6F2A-FFBC-44E40E3283A4}"
  }
 }

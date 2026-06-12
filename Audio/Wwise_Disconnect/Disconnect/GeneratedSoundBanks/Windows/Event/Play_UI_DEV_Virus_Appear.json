@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "3256576569",
+    "Id": "3073794590",
     "Type": "Event",
     "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
     "Language": "SFX",
-    "Hash": "{6BDC002B-40FF-E6AB-E3A2-489F8436DA00}",
-    "ObjectPath": "Play_Virus",
-    "ShortName": "Play_Virus",
-    "Path": "Event/Play_Virus.bnk",
+    "Hash": "{415EA12E-887D-56B5-55D9-87B892F35867}",
+    "ObjectPath": "Play_UI_DEV_Virus_Appear",
+    "ShortName": "Play_UI_DEV_Virus_Appear",
+    "Path": "Event/Play_UI_DEV_Virus_Appear.bnk",
     "Media": [
      {
       "Id": "75453689",
@@ -120,10 +120,12 @@
     },
     "Events": [
      {
-      "Id": "3256576569",
-      "Name": "Play_Virus",
-      "ObjectPath": "\\Events\\UI\\Play_Virus",
+      "Id": "3073794590",
+      "Name": "Play_UI_DEV_Virus_Appear",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Virus_Appear",
       "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
+      "Color": "12",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "1",
       "DurationMax": "1",
@@ -170,6 +172,6 @@
     ]
    }
   ],
-  "FileHash": "{4F5C40ED-D2CC-5EF8-E730-6170A4A31A4B}"
+  "FileHash": "{4A0EAC04-994F-8562-682B-9135163866B9}"
  }
 }

@@ -67,6 +67,7 @@
       "Name": "Play_UI_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Click",
       "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.26133335",
       "DurationMax": "0.33225",
@@ -91,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{968A2CAB-87B0-20A4-3958-F34BE8450907}"
+  "FileHash": "{80D04E58-AED5-E80D-E61D-57EBC5A45D6F}"
  }
 }

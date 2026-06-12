@@ -31,6 +31,7 @@
       "Name": "Play_UI_Tactile_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Tactile_Click",
       "GUID": "{3EDA5FA8-3D1A-4C2B-A4DF-2F239477C7EC}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.34689584",
       "DurationMax": "0.34689584",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{CCF2D041-55E4-5141-EF83-C922ADED2F55}"
+  "FileHash": "{775E5905-E63E-11C0-A7E6-684789F2A783}"
  }
 }

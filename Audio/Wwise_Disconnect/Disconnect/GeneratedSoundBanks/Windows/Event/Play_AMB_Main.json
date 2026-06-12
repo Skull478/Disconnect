@@ -220,6 +220,7 @@
       "Name": "Play_AMB_Main",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_Main",
       "GUID": "{06C919E1-4ED1-4537-B3E0-60678D3B203F}",
+      "Color": "17",
       "MaxAttenuation": "100",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -294,6 +295,6 @@
     ]
    }
   ],
-  "FileHash": "{7F3509F8-33F7-F6F1-9E61-0B72B6A844F0}"
+  "FileHash": "{80D73AD2-3BF3-9A0C-6DAF-F27F564CF47C}"
  }
 }

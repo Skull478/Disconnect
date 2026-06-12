@@ -31,6 +31,7 @@
       "Name": "Play_AMB_Lava",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_Lava",
       "GUID": "{13DFBB45-AD64-4A23-BCED-7A3E87C97BFA}",
+      "Color": "17",
       "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{D3C8AFC9-356F-D27E-C0C8-861AF1917FEC}"
+  "FileHash": "{EC9A38F7-8107-3DC8-95F7-41116FF8341F}"
  }
 }

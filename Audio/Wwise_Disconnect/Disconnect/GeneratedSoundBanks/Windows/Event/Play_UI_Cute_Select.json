@@ -31,6 +31,7 @@
       "Name": "Play_UI_Cute_Select",
       "ObjectPath": "\\Events\\UI\\Selections\\Play_UI_Cute_Select",
       "GUID": "{47B68EDF-E017-4E02-9FAC-B28A58E0A299}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{1F7DE8B4-5410-733C-4CBE-A56547B54D2E}"
+  "FileHash": "{B00F1202-D2F9-A248-7D82-AB8C33D284B9}"
  }
 }

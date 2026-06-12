@@ -29,8 +29,9 @@
      {
       "Id": "1912820114",
       "Name": "Play_OBJ_Oil_Spray",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Oil_Spray",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Oil_Spray",
       "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
+      "Color": "17",
       "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{CB086D3A-2BB9-4BE1-85CB-A536FC0E2073}"
+  "FileHash": "{5B48AC62-DD58-3D0D-ADB5-D85F99765FB1}"
  }
 }

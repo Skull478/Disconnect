@@ -1,6 +1,6 @@
 Event	ID	Name			Wwise Object Path	Notes
-	2492030258	Play_PL_Squeaks			\PlayerEvents\Play_PL_Squeaks	
+	2492030258	Play_PL_Squeaks			\Player\Play_PL_Squeaks	
 
 Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
-	267949347	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\PLAYER\PL_Squeaks\New Silence\Silence	
+	267949347	Silence	Wwise Silence		\Actor-Mixer Hierarchy\PLAYER\PlayerMovement\PL_Squeaks\New Silence\Silence	
 

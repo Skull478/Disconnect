@@ -52,6 +52,7 @@
       "Name": "Play_AMB_DevRoom",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_DevRoom",
       "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
+      "Color": "17",
       "MaxAttenuation": "100",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -73,6 +74,6 @@
     ]
    }
   ],
-  "FileHash": "{C9543FD2-3D50-7C29-2788-927DC6D3F4F5}"
+  "FileHash": "{C11E5AFB-34FF-C397-E2CD-2365219BF99E}"
  }
 }

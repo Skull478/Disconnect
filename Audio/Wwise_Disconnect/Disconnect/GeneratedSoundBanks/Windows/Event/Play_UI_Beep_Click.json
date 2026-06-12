@@ -40,6 +40,7 @@
       "Name": "Play_UI_Beep_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Beep_Click",
       "GUID": "{A57255FE-B860-4952-BBC5-1E1B011D31FF}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.072",
       "DurationMax": "0.094166666",
@@ -55,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{63C85749-398A-1333-9969-0B6D1FBBA4F6}"
+  "FileHash": "{52314DCC-8824-CE66-CFEB-FD37E6FAA58D}"
  }
 }

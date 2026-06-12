@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
     "Language": "SFX",
-    "Hash": "{E8C9E9E2-AD4A-5708-4E5A-2ECCE25E4CD8}",
+    "Hash": "{72930932-2D50-E206-0212-841495808DF5}",
     "ObjectPath": "Play_UI_DEV_WindowClose",
     "ShortName": "Play_UI_DEV_WindowClose",
     "Path": "Event/Play_UI_DEV_WindowClose.bnk",
@@ -38,8 +38,9 @@
      {
       "Id": "687545429",
       "Name": "Play_UI_DEV_WindowClose",
-      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowClose",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_WindowClose",
       "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
+      "Color": "12",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.3213125",
@@ -56,6 +57,6 @@
     ]
    }
   ],
-  "FileHash": "{A1E6EC92-4A96-CE5D-1175-B3BD7F5420A2}"
+  "FileHash": "{A71DB4B5-119A-2B59-C77C-7BF47F948E3B}"
  }
 }

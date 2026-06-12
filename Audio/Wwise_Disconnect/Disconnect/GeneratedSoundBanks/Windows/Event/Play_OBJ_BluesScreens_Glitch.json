@@ -515,8 +515,9 @@
      {
       "Id": "4167602566",
       "Name": "Play_OBJ_BluesScreens_Glitch",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_BluesScreens_Glitch",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_BluesScreens_Glitch",
       "GUID": "{871D45C5-B9DE-4C63-B878-AD5BDDDF64E4}",
+      "Color": "17",
       "MaxAttenuation": "500",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -690,6 +691,6 @@
     ]
    }
   ],
-  "FileHash": "{F5E5792B-5922-E04B-1553-BA49FCD85628}"
+  "FileHash": "{B934E418-394D-DFCB-3FC7-6427E9AEA6DE}"
  }
 }

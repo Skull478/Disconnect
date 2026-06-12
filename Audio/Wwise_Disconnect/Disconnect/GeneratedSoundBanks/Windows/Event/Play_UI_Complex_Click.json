@@ -67,6 +67,7 @@
       "Name": "Play_UI_Complex_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Complex_Click",
       "GUID": "{3BB0D046-7D45-4AD5-9735-83AD60C93BFB}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -91,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{7C8DE6C1-6652-B4C2-31ED-2BB8F311942C}"
+  "FileHash": "{7E0E48F7-1DB1-D48C-CEFF-AE8A0F8D69EF}"
  }
 }

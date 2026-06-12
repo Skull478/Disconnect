@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{9B9E831B-861F-475C-AEA4-1075BC44A6D9}",
     "Language": "SFX",
-    "Hash": "{51B80B26-FECC-4831-F773-8C3985A8839C}",
+    "Hash": "{D5DA6252-2D48-CA06-1A98-E654EC63A623}",
     "ObjectPath": "Play_UI_DEV_Error",
     "ShortName": "Play_UI_DEV_Error",
     "Path": "Event/Play_UI_DEV_Error.bnk",
@@ -38,8 +38,9 @@
      {
       "Id": "3762827687",
       "Name": "Play_UI_DEV_Error",
-      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_Error",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Error",
       "GUID": "{9B9E831B-861F-475C-AEA4-1075BC44A6D9}",
+      "Color": "12",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.51545835",
@@ -56,6 +57,6 @@
     ]
    }
   ],
-  "FileHash": "{6DE9C295-D785-9C38-AD46-6A3AD94D27BB}"
+  "FileHash": "{C2C1815F-CC5E-9D96-E943-7364510F9771}"
  }
 }

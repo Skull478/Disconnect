@@ -31,6 +31,7 @@
       "Name": "Play_UI_Clock_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Clock_Click",
       "GUID": "{21BB3D48-60F5-4ECB-8594-4E68607BE6D1}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{0525C668-3206-3521-0F80-F0235C2A8F81}"
+  "FileHash": "{2E6390C2-D7E9-2470-E991-943A6DDB36BA}"
  }
 }

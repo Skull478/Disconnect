@@ -31,6 +31,7 @@
       "Name": "Play_DX_Dev_MMORPG",
       "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MMORPG",
       "GUID": "{DBB55DB8-4D81-499F-89D2-F915EA7876CE}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "4.5840626",
       "DurationMax": "4.5840626",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{FFF60A88-F151-62CA-F0F3-A2379DB2CC2F}"
+  "FileHash": "{CCCDEB72-C780-ED82-0BB0-A46E3F007AF9}"
  }
 }

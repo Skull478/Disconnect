@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_OhYeah",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_OhYeah",
       "GUID": "{73D13535-E0DC-4FA9-94DF-4CE67A2A0CDD}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "5.345333",
       "DurationMax": "5.345333",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{26664C0B-DD44-9662-5910-767A88DD3611}"
+  "FileHash": "{2F9F03D1-A704-6679-87B3-C265A0A1C65D}"
  }
 }

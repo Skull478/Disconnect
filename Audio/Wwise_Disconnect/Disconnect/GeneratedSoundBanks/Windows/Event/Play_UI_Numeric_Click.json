@@ -67,6 +67,7 @@
       "Name": "Play_UI_Numeric_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Numeric_Click",
       "GUID": "{75485D9A-BE23-4D7A-BF77-109E8FE261E2}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -91,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{0E062B78-F7C0-5024-E238-5F9DAB4187BB}"
+  "FileHash": "{EBA82175-9196-A733-FA97-F1A48DE3CAD9}"
  }
 }

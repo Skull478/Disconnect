@@ -31,6 +31,7 @@
       "Name": "Play_UI_MainMenu_Init",
       "ObjectPath": "\\Events\\UI\\Play_UI_MainMenu_Init",
       "GUID": "{27EFCA95-450E-4B28-BAF3-CEBE8A238353}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "2.5150626",
       "DurationMax": "2.5150626",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E84F62F3-8E76-7081-F8E4-EA209F9635CA}"
+  "FileHash": "{ADA340EF-DD7C-E7F5-2B18-B0567B4C2DDD}"
  }
 }

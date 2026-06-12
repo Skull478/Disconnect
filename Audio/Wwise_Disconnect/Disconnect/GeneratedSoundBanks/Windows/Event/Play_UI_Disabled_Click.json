@@ -31,6 +31,7 @@
       "Name": "Play_UI_Disabled_Click",
       "ObjectPath": "\\Events\\UI\\Cancel\\Play_UI_Disabled_Click",
       "GUID": "{AE800DBA-797E-4164-9312-7A409FB159C5}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.15122917",
       "DurationMax": "0.15122917",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{36988FBB-003D-A8D5-1714-ACE7A95B943C}"
+  "FileHash": "{9BFF26E3-0EBB-AC1F-1724-76813245A005}"
  }
 }

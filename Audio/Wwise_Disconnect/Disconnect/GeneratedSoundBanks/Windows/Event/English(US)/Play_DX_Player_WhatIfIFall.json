@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_WhatIfIFall",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_WhatIfIFall",
       "GUID": "{A16F9680-1DF8-4D24-9BA8-8B670EE23AC7}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "0.9201667",
       "DurationMax": "0.9201667",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{59C43E96-2A25-4870-9844-27CE4BB14E99}"
+  "FileHash": "{CB9FBB4B-FD8C-E104-2A3A-C7B6E2C7B056}"
  }
 }

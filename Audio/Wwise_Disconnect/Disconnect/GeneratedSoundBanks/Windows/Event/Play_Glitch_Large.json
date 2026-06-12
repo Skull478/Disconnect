@@ -112,6 +112,7 @@
       "Name": "Play_Glitch_Large",
       "ObjectPath": "\\Events\\UI\\Play_Glitch_Large",
       "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
+      "Color": "21",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -150,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{C2340124-0B8C-34D5-BF0F-F6FBBFB1F307}"
+  "FileHash": "{880717E8-2C58-4DCE-C282-C91A04605E75}"
  }
 }

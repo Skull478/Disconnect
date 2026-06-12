@@ -1,3 +1,3 @@
 Event	ID	Name			Wwise Object Path	Notes
-	3914376079	Play_UI_DEV_TextWrite			\UI\DEV\Play_UI_DEV_TextWrite	
+	3914376079	Play_UI_DEV_TextWrite			\DEV\Play_UI_DEV_TextWrite	
 

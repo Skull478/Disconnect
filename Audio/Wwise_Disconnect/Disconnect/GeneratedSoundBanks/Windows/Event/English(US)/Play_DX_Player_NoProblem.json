@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_NoProblem",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_NoProblem",
       "GUID": "{8E8CF20D-FDC6-40B0-96C7-155A7B6352E9}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "2.725125",
       "DurationMax": "2.725125",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{8BFC9E8D-76BB-F608-1C9F-992DF4C0E21E}"
+  "FileHash": "{30ED93CB-4E6D-FF45-BFA1-67AF2A09DC66}"
  }
 }

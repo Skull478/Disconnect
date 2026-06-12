@@ -31,6 +31,7 @@
       "Name": "Play_UI_Kiss_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Kiss_Click",
       "GUID": "{4C30AF9B-0258-43E1-B6B5-E813D0A21767}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{9A985A8A-A95B-377C-8E7E-7018495B4A07}"
+  "FileHash": "{2D56977E-8685-816B-1DEC-2EE5589C1551}"
  }
 }

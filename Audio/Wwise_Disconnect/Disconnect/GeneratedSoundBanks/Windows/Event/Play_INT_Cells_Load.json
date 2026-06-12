@@ -31,6 +31,7 @@
       "Name": "Play_INT_Cells_Load",
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cells_Load",
       "GUID": "{826FA657-823C-4836-A09A-3478EAC33C00}",
+      "Color": "23",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "1.57",
@@ -44,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{31060454-754B-A066-6FCF-ADC095EB7241}"
+  "FileHash": "{5C0F8D5A-7143-C5F7-2681-271DC36AF6A6}"
  }
 }

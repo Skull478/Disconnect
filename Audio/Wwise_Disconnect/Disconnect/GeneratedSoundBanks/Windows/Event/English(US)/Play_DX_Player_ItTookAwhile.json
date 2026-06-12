@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_ItTookAwhile",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_ItTookAwhile",
       "GUID": "{4E8814C7-7C3A-4C2F-BE47-C863A9C3640D}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "2.8780832",
       "DurationMax": "2.8780832",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{0F7F1E46-2776-6BAC-FA42-2D22C87C54EC}"
+  "FileHash": "{B7C7499E-EE33-F800-3C8A-574577EF20DB}"
  }
 }

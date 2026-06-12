@@ -58,6 +58,7 @@
       "Name": "Play_UI_Chirp_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Chirp_Click",
       "GUID": "{DB64B3AB-A64F-417E-865A-BB8BF7F4EA34}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -79,6 +80,6 @@
     ]
    }
   ],
-  "FileHash": "{A8112263-E6EA-CE85-B3FE-C7D43D2A66DC}"
+  "FileHash": "{7A6EE72F-CB86-8232-3EEE-0A5FC2A10FAA}"
  }
 }

@@ -2,6 +2,10 @@
 <WwiseDocument Type="WorkUnit" ID="{8EABD214-B603-4D01-9CDB-C4534391111B}" SchemaVersion="123">
 	<AudioObjects>
 		<WorkUnit Name="DX" ID="{8EABD214-B603-4D01-9CDB-C4534391111B}" PersistMode="Standalone">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="24"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
 			<ChildrenList>
 				<ActorMixer Name="Dev" ID="{E57A794B-08A6-47BC-8FD7-1F961A8622BB}" ShortID="1028771921">
 					<PropertyList>

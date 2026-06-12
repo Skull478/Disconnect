@@ -31,6 +31,7 @@
       "Name": "Play_AMB_Garage",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_Garage",
       "GUID": "{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}",
+      "Color": "17",
       "MaxAttenuation": "100",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{2154FD82-7B8C-4EDF-CD36-53F2B4EE562A}"
+  "FileHash": "{45B89AAF-D6E3-313C-9049-B2050DADD686}"
  }
 }

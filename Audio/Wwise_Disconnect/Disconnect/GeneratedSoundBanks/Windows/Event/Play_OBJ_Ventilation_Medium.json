@@ -29,8 +29,9 @@
      {
       "Id": "2993175549",
       "Name": "Play_OBJ_Ventilation_Medium",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Medium",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Ventilation_Medium",
       "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
+      "Color": "17",
       "MaxAttenuation": "300",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{6F2ADA90-5DD0-0053-4F1C-EBA110CEE053}"
+  "FileHash": "{B6D8B358-76CB-52A3-1C0C-74CBFDAAD626}"
  }
 }

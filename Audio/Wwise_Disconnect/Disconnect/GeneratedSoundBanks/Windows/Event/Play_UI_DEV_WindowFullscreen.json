@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
     "Language": "SFX",
-    "Hash": "{6CDD36E3-C164-E91C-A5AB-69938DC1E1A4}",
+    "Hash": "{4933DDA8-56E9-D542-70EA-501EB5742CEE}",
     "ObjectPath": "Play_UI_DEV_WindowFullscreen",
     "ShortName": "Play_UI_DEV_WindowFullscreen",
     "Path": "Event/Play_UI_DEV_WindowFullscreen.bnk",
@@ -29,8 +29,9 @@
      {
       "Id": "3464346004",
       "Name": "Play_UI_DEV_WindowFullscreen",
-      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowFullscreen",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_WindowFullscreen",
       "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
+      "Color": "12",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.111854166",
@@ -44,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{1B91A355-3F4F-50DC-7759-28A2DC686F1A}"
+  "FileHash": "{3CF20246-61D1-A5FE-0785-815915C05CB8}"
  }
 }

@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_Wait",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_Wait",
       "GUID": "{6D4A675A-B271-479D-A2B2-32281DD60671}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "3.8608959",
       "DurationMax": "3.8608959",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{2CAEEF52-65EC-FB17-708F-A7894893AD9D}"
+  "FileHash": "{2FBDD658-2B98-C888-F6C5-F3D4C7FC0BBF}"
  }
 }

@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_WeJust",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_WeJust",
       "GUID": "{DBF7772D-55B9-4883-9542-2C3195653ACA}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "1.4960625",
       "DurationMax": "1.4960625",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{C27CE81B-7037-B905-7EAF-8D9B568AA9B2}"
+  "FileHash": "{F4A252B3-6AA7-77AC-A117-21F3B4BAE695}"
  }
 }

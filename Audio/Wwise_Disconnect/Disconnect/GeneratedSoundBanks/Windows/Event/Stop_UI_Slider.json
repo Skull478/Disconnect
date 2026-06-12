@@ -20,6 +20,7 @@
       "Name": "Stop_UI_Slider",
       "ObjectPath": "\\Events\\UI\\Stop_UI_Slider",
       "GUID": "{CC817328-E795-43AD-9688-05BEEA8F6B68}",
+      "Color": "21",
       "MaxAttenuation": "0",
       "DurationType": "OneShot",
       "DurationMin": "0",
@@ -28,6 +29,6 @@
     ]
    }
   ],
-  "FileHash": "{607BB32F-2281-7DD4-AF32-024A128B1D66}"
+  "FileHash": "{9B3438D2-86DB-F325-1527-6327591899E2}"
  }
 }

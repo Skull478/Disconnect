@@ -31,6 +31,7 @@
       "Name": "Play_AMB_Wind",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_Wind",
       "GUID": "{DB23AB19-C7FE-415D-804A-D1F5341EB335}",
+      "Color": "17",
       "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{19E6F9CF-D1E4-AA91-D0F8-09F22EBA6C28}"
+  "FileHash": "{A7AEAA8F-244A-4755-0D03-C00A1542AE96}"
  }
 }

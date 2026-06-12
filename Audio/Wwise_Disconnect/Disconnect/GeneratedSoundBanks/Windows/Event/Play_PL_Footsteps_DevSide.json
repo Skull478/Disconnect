@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0F630EED-AC0C-4B70-AEB3-324AD1444F41}",
     "Language": "SFX",
-    "Hash": "{5585848A-560A-93D4-4E0F-FE15CC39DF91}",
+    "Hash": "{9D3FDDBF-3482-A0D7-E8AF-07D399451083}",
     "ObjectPath": "Play_PL_Footsteps_DevSide",
     "ShortName": "Play_PL_Footsteps_DevSide",
     "Path": "Event/Play_PL_Footsteps_DevSide.bnk",
@@ -254,8 +254,9 @@
      {
       "Id": "188899575",
       "Name": "Play_PL_Footsteps_DevSide",
-      "ObjectPath": "\\Events\\PlayerEvents\\Play_PL_Footsteps_DevSide",
+      "ObjectPath": "\\Events\\Player\\Play_PL_Footsteps_DevSide",
       "GUID": "{0F630EED-AC0C-4B70-AEB3-324AD1444F41}",
+      "Color": "2",
       "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.20136349",
@@ -407,6 +408,6 @@
     ]
    }
   ],
-  "FileHash": "{BCA6C91D-6BF2-7F34-994F-7E89962DFEDB}"
+  "FileHash": "{CAAABBFF-5265-46B9-B843-FF2848D56C6F}"
  }
 }

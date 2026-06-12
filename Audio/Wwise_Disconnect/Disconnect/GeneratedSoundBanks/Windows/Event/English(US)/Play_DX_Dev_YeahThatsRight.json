@@ -31,6 +31,7 @@
       "Name": "Play_DX_Dev_YeahThatsRight",
       "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_YeahThatsRight",
       "GUID": "{92A5ED8A-BF8D-4CC9-B51D-1A443410398F}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "1.0329791",
       "DurationMax": "1.0329791",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E63AC970-9473-AAC7-0F37-C5AC47DC936E}"
+  "FileHash": "{0D65FA74-9FE4-31D7-3276-8B9CC3BA8B74}"
  }
 }

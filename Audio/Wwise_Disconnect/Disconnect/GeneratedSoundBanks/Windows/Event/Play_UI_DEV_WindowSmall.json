@@ -29,8 +29,9 @@
      {
       "Id": "4162286280",
       "Name": "Play_UI_DEV_WindowSmall",
-      "ObjectPath": "\\Events\\UI\\DEV\\Play_UI_DEV_WindowSmall",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_WindowSmall",
       "GUID": "{55FA88C9-53B9-482B-930B-7E371BEDDC9E}",
+      "Color": "12",
       "DurationType": "OneShot",
       "DurationMin": "0.19370833",
       "DurationMax": "0.19370833",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{FA27513C-5464-29BB-E0F6-868AEF54E88D}"
+  "FileHash": "{448DC2FD-DC3E-F7ED-74D5-FE88E1275291}"
  }
 }

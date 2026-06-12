@@ -67,6 +67,7 @@
       "Name": "Play_UI_Cancel_Close",
       "ObjectPath": "\\Events\\UI\\Back-Close\\Play_UI_Cancel_Close",
       "GUID": "{E4665F96-FB1C-4C2F-A5BE-0891691064AF}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.269625",
       "DurationMax": "0.38677084",
@@ -91,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{EF26E245-9BAB-1C34-61EA-ED80BAC5260D}"
+  "FileHash": "{78FDE674-9E95-86DA-4B3A-F941B9E3BBCC}"
  }
 }

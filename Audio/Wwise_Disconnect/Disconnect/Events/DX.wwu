@@ -2,6 +2,10 @@
 <WwiseDocument Type="WorkUnit" ID="{DF317F26-2C20-444E-B9E1-13EC3352097E}" SchemaVersion="123">
 	<Events>
 		<WorkUnit Name="DX" ID="{DF317F26-2C20-444E-B9E1-13EC3352097E}" PersistMode="Standalone">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="24"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
 			<ChildrenList>
 				<Folder Name="Dev" ID="{3B06F507-1F7F-4943-A860-B2B0660D1C5F}" ShortID="403766847">
 					<ChildrenList>

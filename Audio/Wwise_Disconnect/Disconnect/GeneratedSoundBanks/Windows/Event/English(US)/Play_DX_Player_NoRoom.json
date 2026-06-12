@@ -31,6 +31,7 @@
       "Name": "Play_DX_Player_NoRoom",
       "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_NoRoom",
       "GUID": "{7A84AD0C-EA35-45D9-A461-B7E6BFF8E93B}",
+      "Color": "24",
       "DurationType": "OneShot",
       "DurationMin": "1.6402292",
       "DurationMax": "1.6402292",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{D2A18939-6771-ED2C-61E9-D33C2C533390}"
+  "FileHash": "{F7B525D7-BD4C-68F4-9B3A-B86F90EEBB14}"
  }
 }

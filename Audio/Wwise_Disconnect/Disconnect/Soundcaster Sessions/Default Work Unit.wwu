@@ -6,27 +6,27 @@
 				<SoundcasterSession Name="AMBIANCE_TESTS" ID="{ED803D40-47F6-4248-A934-6A0F2386A6D9}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="AMB_Main_Roomtone" ID="{0FE06B61-C1AA-4D4A-B068-F2F729E8E055}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="AMB_Main_Roomtone" ID="{0FE06B61-C1AA-4D4A-B068-F2F729E8E055}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
 							<Position X="0" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="AMB_Main_RandomSounds" ID="{7F57C86A-0092-4BAB-89CB-F55B526C3353}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
 							<Position X="1" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="AMB_Dev" ID="{914D8A94-6A36-4900-8E04-3F462E5A44FE}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="AMB_Dev" ID="{914D8A94-6A36-4900-8E04-3F462E5A44FE}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
 							<Position X="2" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="AMB_Lava" ID="{963FF6AB-2E31-4BE8-8C9A-ED51CF8D81CB}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="AMB_Lava" ID="{963FF6AB-2E31-4BE8-8C9A-ED51CF8D81CB}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
 							<Position X="3" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="AMB_Wind_Layer_Loop" ID="{6DE5FF34-9BB5-498A-B612-503A40F89F15}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="AMB_Wind_Layer_Loop" ID="{6DE5FF34-9BB5-498A-B612-503A40F89F15}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
 							<Position X="4" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="AMB_ViewPoint" ID="{E5D00B49-637B-428C-BE4A-B75C76DEADDC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="AMB_ViewPoint" ID="{E5D00B49-637B-428C-BE4A-B75C76DEADDC}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
 							<Position X="5" Y="0"/>
 						</Module>
 					</ModuleList>
@@ -97,7 +97,7 @@
 				<SoundcasterSession Name="Falling" ID="{2A7509D0-D209-48EE-9936-D9D458ACD13B}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="PL_Falling_Loop" ID="{9D6E5354-3F5E-404B-9EBC-111445BD1FBC}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+							<ObjectRef Name="PL_Falling_Loop" ID="{9D6E5354-3F5E-404B-9EBC-111445BD1FBC}" WorkUnitID="{8E885F43-56BE-4E6F-BFA9-F97D67751EF4}"/>
 							<Position X="0" Y="0"/>
 						</Module>
 					</ModuleList>

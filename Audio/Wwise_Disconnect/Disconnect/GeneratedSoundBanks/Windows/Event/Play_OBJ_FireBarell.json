@@ -29,8 +29,9 @@
      {
       "Id": "3267711328",
       "Name": "Play_OBJ_FireBarell",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_FireBarell",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_FireBarell",
       "GUID": "{F133DD31-E286-4CFA-AACB-DDF2815BB761}",
+      "Color": "17",
       "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{633D571A-B791-3129-B758-4AE80E950BBE}"
+  "FileHash": "{92B60BF0-5538-9FC7-9BF0-228C61164AFD}"
  }
 }

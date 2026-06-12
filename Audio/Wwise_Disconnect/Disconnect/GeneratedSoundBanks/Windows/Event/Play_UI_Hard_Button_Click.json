@@ -76,6 +76,7 @@
       "Name": "Play_UI_Hard_Button_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Hard_Button_Click",
       "GUID": "{070F6CE0-C4AC-4AB1-89C6-5E79EE283C27}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -103,6 +104,6 @@
     ]
    }
   ],
-  "FileHash": "{0DBA8168-B1DA-6ECE-CFF9-C4E1B922A8EB}"
+  "FileHash": "{F05F23FA-0DEE-6326-DE2A-BE034D26E927}"
  }
 }
