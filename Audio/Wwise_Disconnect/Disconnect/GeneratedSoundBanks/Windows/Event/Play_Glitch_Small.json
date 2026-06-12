@@ -110,9 +110,9 @@
      {
       "Id": "4124926673",
       "Name": "Play_Glitch_Small",
-      "ObjectPath": "\\Events\\UI\\Play_Glitch_Small",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_Glitch_Small",
       "GUID": "{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}",
-      "Color": "21",
+      "Color": "17",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -151,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{1156218F-7CBF-5A81-0BC0-50A1F109618E}"
+  "FileHash": "{326E59B9-0FA3-454B-8EF9-16C68923F64F}"
  }
 }

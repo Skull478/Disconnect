@@ -37,9 +37,9 @@
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
+						<CurrentStateRef Name="State_Loop3" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
-						<CurrentStateRef Name="No" ID="{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"/>
+						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
@@ -83,8 +83,12 @@
 				<SoundcasterSession Name="Music_System" ID="{D91C3E06-37A9-460C-ABFD-801DE0E40DA5}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+							<ObjectRef Name="Play_Music_Sytem" ID="{6072C88A-D967-459E-84FF-E22468898EE3}" WorkUnitID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}"/>
 							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_Music_Sytem" ID="{6373029C-208F-448D-AB89-6393FEB8BB26}" WorkUnitID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}"/>
+							<Position X="1" Y="0"/>
 						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true"/>

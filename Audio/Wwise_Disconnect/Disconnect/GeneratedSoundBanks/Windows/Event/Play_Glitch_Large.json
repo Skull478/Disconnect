@@ -110,9 +110,9 @@
      {
       "Id": "1167069257",
       "Name": "Play_Glitch_Large",
-      "ObjectPath": "\\Events\\UI\\Play_Glitch_Large",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_Glitch_Large",
       "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
-      "Color": "21",
+      "Color": "17",
       "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -151,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{880717E8-2C58-4DCE-C282-C91A04605E75}"
+  "FileHash": "{1CBE8D5C-DB59-66DA-3FF9-CD2A6072C7EA}"
  }
 }

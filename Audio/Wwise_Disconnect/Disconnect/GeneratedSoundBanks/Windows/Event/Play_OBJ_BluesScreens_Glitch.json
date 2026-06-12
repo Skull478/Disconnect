@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{871D45C5-B9DE-4C63-B878-AD5BDDDF64E4}",
     "Language": "SFX",
-    "Hash": "{2B11C893-AACD-4810-0C85-8B392DC4FE91}",
+    "Hash": "{BF645E04-E460-14CC-1C78-48EA8887939C}",
     "ObjectPath": "Play_OBJ_BluesScreens_Glitch",
     "ShortName": "Play_OBJ_BluesScreens_Glitch",
     "Path": "Event/Play_OBJ_BluesScreens_Glitch.bnk",
@@ -518,7 +518,7 @@
       "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_BluesScreens_Glitch",
       "GUID": "{871D45C5-B9DE-4C63-B878-AD5BDDDF64E4}",
       "Color": "17",
-      "MaxAttenuation": "500",
+      "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -691,6 +691,6 @@
     ]
    }
   ],
-  "FileHash": "{B934E418-394D-DFCB-3FC7-6427E9AEA6DE}"
+  "FileHash": "{F7D437EC-9851-89D7-4F85-B03F42ED82C8}"
  }
 }
