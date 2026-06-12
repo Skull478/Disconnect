@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}",
     "Language": "SFX",
-    "Hash": "{F7F9FCC5-DC1F-D002-2A67-040D8B049786}",
+    "Hash": "{5ACDAE6E-B4AA-6726-6F27-CD1FF93BA5C9}",
     "ObjectPath": "Play_OBJ_BigHead_GarbageChew",
     "ShortName": "Play_OBJ_BigHead_GarbageChew",
     "Path": "Event/Play_OBJ_BigHead_GarbageChew.bnk",
@@ -32,7 +32,7 @@
       "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_BigHead_GarbageChew",
       "GUID": "{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}",
       "Color": "17",
-      "MaxAttenuation": "2500",
+      "MaxAttenuation": "7000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{5FACEAF2-59B9-EE92-7DEA-3E8795079864}"
+  "FileHash": "{3EA5AB0B-7D40-5104-5D13-90D9BD4E7D63}"
  }
 }

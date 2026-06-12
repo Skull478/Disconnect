@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	680647614	Play_INT_Elevator_Up			\Interactibles\Play_INT_Elevator_Up	
+

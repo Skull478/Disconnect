@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F133DD31-E286-4CFA-AACB-DDF2815BB761}",
     "Language": "SFX",
-    "Hash": "{A6AF8B4C-B00F-FBD2-D690-4A6F0EDD89A2}",
+    "Hash": "{58125B16-E46E-744E-CF12-B0D8B06533D2}",
     "ObjectPath": "Play_OBJ_FireBarell",
     "ShortName": "Play_OBJ_FireBarell",
     "Path": "Event/Play_OBJ_FireBarell.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{92B60BF0-5538-9FC7-9BF0-228C61164AFD}"
+  "FileHash": "{ABCFB785-B11E-B395-7F61-906F22A33D60}"
  }
 }

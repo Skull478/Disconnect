@@ -2553,6 +2553,11 @@
 						<Sound Name="OBJ_FireBarell" ID="{C59AEACD-EA76-4540-A451-7BB5DB70DF5A}" ShortID="218107532">
 							<PropertyList>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -2578,6 +2583,7 @@
 						<RandomSequenceContainer Name="OBJ_BluesScreens_Glitch" ID="{8FED3693-99D5-491E-8026-7972E0B8075D}" ShortID="1036807262">
 							<PropertyList>
 								<Property Name="3DSpatialization" Type="int16" Value="2"/>
+								<Property Name="AttenuationDistanceScaling" Type="Real32" Value="2"/>
 								<Property Name="OverridePositioning" Type="bool" Value="True"/>
 								<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
 								<Property Name="PlayMechanismSpecialTransitions" Type="bool" Value="True"/>
@@ -3986,10 +3992,11 @@
 								<Property Name="3DSpatialization" Type="int16" Value="2"/>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="OverridePositioning" Type="bool" Value="True"/>
+								<Property Name="SpeakerPanning3DSpatializationMix" Type="int32" Value="85"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
-									<ObjectRef Name="Attenuation_Ventilation_Big" ID="{B0E544D1-60DD-4799-BF55-59B91E45D360}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+									<ObjectRef Name="Attenuation_BigHead" ID="{A1D7B182-7520-49BC-92E7-E46C845618C5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
 								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
