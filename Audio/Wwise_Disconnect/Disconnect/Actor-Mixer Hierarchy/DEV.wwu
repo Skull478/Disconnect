@@ -1147,6 +1147,130 @@
 										<ActiveSource Name="UI_Feedback_Elevator_Up_DevSide" ID="{97E16E9A-52A8-479A-B754-24D49B5A1946}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<RandomSequenceContainer Name="Error_RedCross_Elevator" ID="{30498E87-99F3-4B11-A489-92B5348EF17D}" ShortID="691184329">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="UI_Dev_Error2-001" ID="{CD35FBA7-DFB2-47CE-9230-521D7D6D9E87}" ShortID="412561153">
+											<PropertyList>
+												<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Global" ID="{186101D0-1FFD-4226-8403-EB14B411FE5D}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="UI_Dev_Error2-001" ID="{A32ED3EE-7CA8-460E-9C84-EC95BB1DF5AC}">
+													<Language>SFX</Language>
+													<AudioFile>UI_Dev_Error2-001.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="586187273"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="UI_Dev_Error2-001" ID="{A32ED3EE-7CA8-460E-9C84-EC95BB1DF5AC}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="UI_Dev_Error2-002" ID="{91AC3921-97C9-41AC-AAF5-85FCEB9C0632}" ShortID="340151222">
+											<PropertyList>
+												<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Global" ID="{186101D0-1FFD-4226-8403-EB14B411FE5D}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="UI_Dev_Error2-002" ID="{58BCC357-9F2F-4F42-9865-F7397CE774E1}">
+													<Language>SFX</Language>
+													<AudioFile>UI_Dev_Error2-002.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="609506690"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="UI_Dev_Error2-002" ID="{58BCC357-9F2F-4F42-9865-F7397CE774E1}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="UI_Dev_Error2-003" ID="{AA10D113-3796-4422-9C72-54B15789D58F}" ShortID="178093372">
+											<PropertyList>
+												<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Global" ID="{186101D0-1FFD-4226-8403-EB14B411FE5D}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="UI_Dev_Error2-003" ID="{70B65A54-28D5-4DB9-B42D-F5A071F52BB3}">
+													<Language>SFX</Language>
+													<AudioFile>UI_Dev_Error2-003.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="5996716"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="UI_Dev_Error2-003" ID="{70B65A54-28D5-4DB9-B42D-F5A071F52BB3}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="UI_Dev_Error2-004" ID="{14EF4980-51AC-4B7A-93B0-D7CCC124D981}" ShortID="685950736">
+											<PropertyList>
+												<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Attenuation">
+													<ObjectRef Name="Attenuation_Global" ID="{186101D0-1FFD-4226-8403-EB14B411FE5D}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+												</Reference>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="UI_Dev_Error2-004" ID="{EDDD29B4-4489-402A-AC6E-80DDF57C9FF6}">
+													<Language>SFX</Language>
+													<AudioFile>UI_Dev_Error2-004.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="579448203"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="UI_Dev_Error2-004" ID="{EDDD29B4-4489-402A-AC6E-80DDF57C9FF6}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
 							</ChildrenList>
 						</ActorMixer>
 						<Sound Name="UI_DEV_Enigme_Success" ID="{0F2AA6D8-53F5-48EC-9BB5-255BFE3DC528}" ShortID="612869669">
@@ -1169,6 +1293,50 @@
 							</ChildrenList>
 							<ActiveSourceList>
 								<ActiveSource Name="UI_DEV_Enigme_Success" ID="{5DEDE859-9362-4D12-8641-97963934ADCE}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="UI_DEV_Enigme_Appear" ID="{83B7CD6D-3F03-460D-A366-B2739549D1F6}" ShortID="263609440">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="UI_DEV_Enigme_Appear" ID="{530B8B4A-3016-4309-BCC8-D31C5197849F}">
+									<Language>SFX</Language>
+									<AudioFile>UI_DEV_Enigme_Appear.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="576003004"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="UI_DEV_Enigme_Appear" ID="{530B8B4A-3016-4309-BCC8-D31C5197849F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="UI_DEV_Enigme_Failure" ID="{0D33B702-5209-43C1-B779-7B2A31793D0D}" ShortID="325093867">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="UI_DEV_Enigme_Failure" ID="{D101B0D0-80FE-4C94-BD33-544EA2800FB7}">
+									<Language>SFX</Language>
+									<AudioFile>UI_DEV_Enigme_Failure.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="940083988"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="UI_DEV_Enigme_Failure" ID="{D101B0D0-80FE-4C94-BD33-544EA2800FB7}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>

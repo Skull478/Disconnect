@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "981157086",
+    "Type": "Event",
+    "GUID": "{63B3105F-F29D-41B2-B9EA-EEA1AF97BDE9}",
+    "Language": "SFX",
+    "Hash": "{35F6EB18-97AC-3C98-AAB8-0DBF0A5F46B5}",
+    "ObjectPath": "Play_INTERACT_Wheel_Release",
+    "ShortName": "Play_INTERACT_Wheel_Release",
+    "Path": "Event/Play_INTERACT_Wheel_Release.bnk",
+    "Media": [
+     {
+      "Id": "510712280",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INTERACT_Wheel_Release.wav",
+      "Path": "Media/510712280.wem",
+      "CachePath": "4C/{4C6E3A02-3C57-C245-7799-14F1423BAB0B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "981157086",
+      "Name": "Play_INTERACT_Wheel_Release",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INTERACT_Wheel_Release",
+      "GUID": "{63B3105F-F29D-41B2-B9EA-EEA1AF97BDE9}",
+      "Color": "23",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2",
+      "DurationMax": "1.2",
+      "MediaRefs": [
+       {
+        "Id": "510712280"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A69AF62F-3E33-07A6-40D1-5FC638AD8410}"
+ }
+}

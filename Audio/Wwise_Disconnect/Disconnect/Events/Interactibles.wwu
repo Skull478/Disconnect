@@ -83,6 +83,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_INTERACT_Wheel_Release" ID="{63B3105F-F29D-41B2-B9EA-EEA1AF97BDE9}">
+					<ChildrenList>
+						<Action Name="" ID="{62802F53-DE65-4795-998A-43DA7E277D11}" ShortID="359409300">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INTERACT_Wheel_Release" ID="{9113A190-1743-43EF-951F-0712FB7527F2}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INTERACT_Wheel_Loop" ID="{CE4C73AC-CD8B-4AFA-9C40-9CEF1B2F6CFC}">
+					<ChildrenList>
+						<Action Name="" ID="{B5A61DEB-57F0-488C-8632-59BCA62F3D04}" ShortID="27164864">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INTERACT_Wheel_Loop" ID="{8A8F6913-5223-4FE8-ACBB-E590D5B116D4}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

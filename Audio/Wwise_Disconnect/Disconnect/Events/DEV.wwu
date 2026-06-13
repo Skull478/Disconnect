@@ -186,6 +186,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Error_RedCross_Elevator" ID="{1EC454FB-8581-4B81-8AB3-E4804CF55E5B}">
+					<ChildrenList>
+						<Action Name="" ID="{BB605630-CD33-48BD-AF0D-1A80F78CDEA1}" ShortID="525570327">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Error_RedCross_Elevator" ID="{30498E87-99F3-4B11-A489-92B5348EF17D}" WorkUnitID="{32634CB0-11B6-4F76-AA94-C8579F70E1F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_UI_DEV_Enigme_Failure" ID="{C3BBAF59-B285-47E6-A9D6-E5E231ACA1CB}">
+					<ChildrenList>
+						<Action Name="" ID="{B26722A4-1D3D-45C3-8A52-B0FD9C7ECC46}" ShortID="1016932842">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_DEV_Enigme_Failure" ID="{0D33B702-5209-43C1-B779-7B2A31793D0D}" WorkUnitID="{32634CB0-11B6-4F76-AA94-C8579F70E1F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
