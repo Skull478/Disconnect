@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{063B0B4D-5701-4A75-9EBC-935B2C852237}",
     "Language": "SFX",
-    "Hash": "{73FC5022-9440-7A77-F6E5-BF8090D3CC93}",
+    "Hash": "{B7DC1001-85EA-B00F-9EEB-8877753AE3EB}",
     "ObjectPath": "Play_UI_Arrow_Down",
     "ShortName": "Play_UI_Arrow_Down",
     "Path": "Event/Play_UI_Arrow_Down.bnk",
@@ -68,7 +68,6 @@
       "ObjectPath": "\\Events\\UI\\Arrows\\Play_UI_Arrow_Down",
       "GUID": "{063B0B4D-5701-4A75-9EBC-935B2C852237}",
       "Color": "21",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.18197916",
       "DurationMax": "0.21025",
@@ -93,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{40E56251-9F62-FAEE-DD4E-FE9994B3E136}"
+  "FileHash": "{7B1290F3-0062-4139-63D3-FB0725935DC5}"
  }
 }

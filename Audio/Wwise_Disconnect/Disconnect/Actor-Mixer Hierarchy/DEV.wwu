@@ -9,7 +9,7 @@
 			<ChildrenList>
 				<ActorMixer Name="Dev" ID="{717A680B-A910-4DA9-9AAF-F64B181BE3B3}" ShortID="899577440">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="EnableAttenuation" Type="bool" Value="False"/>
 						<Property Name="OverridePositioning" Type="bool" Value="True"/>
 					</PropertyList>
 					<ReferenceList>

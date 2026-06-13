@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E46BB745-7F8F-45BA-B66D-F29D3E0F85BC}",
     "Language": "SFX",
-    "Hash": "{6B890E37-06D6-C7FD-8FC2-6AFD0B50A9C3}",
+    "Hash": "{D74FFD8C-60F9-E48B-2572-2DB7B6CBC92D}",
     "ObjectPath": "Play_UI_DEV_FloorLevelSwitch",
     "ShortName": "Play_UI_DEV_FloorLevelSwitch",
     "Path": "Event/Play_UI_DEV_FloorLevelSwitch.bnk",
@@ -68,7 +68,6 @@
       "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_FloorLevelSwitch",
       "GUID": "{E46BB745-7F8F-45BA-B66D-F29D3E0F85BC}",
       "Color": "12",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.18197916",
       "DurationMax": "0.21025",
@@ -93,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{FF31AB11-3719-BF15-6EE7-33EF0B506D8C}"
+  "FileHash": "{BC85423D-EF29-82FF-1855-75C88C05FB24}"
  }
 }

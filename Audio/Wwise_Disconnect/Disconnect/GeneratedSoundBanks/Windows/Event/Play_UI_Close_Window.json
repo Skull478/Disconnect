@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{37B5F6C4-6BA5-4123-B703-F3178C55D480}",
     "Language": "SFX",
-    "Hash": "{F35D86BB-920F-8628-8EAF-783B46CA1D85}",
+    "Hash": "{DEF18347-27EA-4995-4506-B3A38C3FCA5E}",
     "ObjectPath": "Play_UI_Close_Window",
     "ShortName": "Play_UI_Close_Window",
     "Path": "Event/Play_UI_Close_Window.bnk",
@@ -41,7 +41,6 @@
       "ObjectPath": "\\Events\\UI\\Back-Close\\Play_UI_Close_Window",
       "GUID": "{37B5F6C4-6BA5-4123-B703-F3178C55D480}",
       "Color": "21",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.3213125",
       "DurationMax": "0.32395834",
@@ -57,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{74F6B558-AD42-5A20-8475-6CE8BE821B6B}"
+  "FileHash": "{1727EA45-E054-1CCA-7B3F-6E5C24574910}"
  }
 }

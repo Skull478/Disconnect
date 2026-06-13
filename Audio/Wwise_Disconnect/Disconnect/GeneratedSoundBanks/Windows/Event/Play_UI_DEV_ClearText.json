@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{57E018EE-A82E-43FB-BF4E-DDD91DD5B622}",
     "Language": "SFX",
-    "Hash": "{ED0E6B2C-B573-E9EB-6614-642C8398C40B}",
+    "Hash": "{013C24DE-8B25-23D2-7783-E85EE97E0FA7}",
     "ObjectPath": "Play_UI_DEV_ClearText",
     "ShortName": "Play_UI_DEV_ClearText",
     "Path": "Event/Play_UI_DEV_ClearText.bnk",
@@ -32,7 +32,6 @@
       "ObjectPath": "\\Events\\UI\\Play_UI_DEV_ClearText",
       "GUID": "{57E018EE-A82E-43FB-BF4E-DDD91DD5B622}",
       "Color": "21",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.1628869",
       "DurationMax": "0.1628869",
@@ -45,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{9582E84E-84F3-77C0-0DCA-B510A829D495}"
+  "FileHash": "{A71DCABE-7C56-461E-239A-8C7B0ACF78F8}"
  }
 }

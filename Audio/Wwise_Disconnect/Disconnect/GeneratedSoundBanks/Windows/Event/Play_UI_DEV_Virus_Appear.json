@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
     "Language": "SFX",
-    "Hash": "{415EA12E-887D-56B5-55D9-87B892F35867}",
+    "Hash": "{1DD79CB7-95D7-C1A6-B99F-55B9C4BD9D9F}",
     "ObjectPath": "Play_UI_DEV_Virus_Appear",
     "ShortName": "Play_UI_DEV_Virus_Appear",
     "Path": "Event/Play_UI_DEV_Virus_Appear.bnk",
@@ -125,7 +125,6 @@
       "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Virus_Appear",
       "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
       "Color": "12",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "1",
       "DurationMax": "1",
@@ -172,6 +171,6 @@
     ]
    }
   ],
-  "FileHash": "{4A0EAC04-994F-8562-682B-9135163866B9}"
+  "FileHash": "{95786D85-EA87-13D4-B110-90744DB8CC94}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CFB40BAC-6363-489F-B25F-9F1C96192E04}",
     "Language": "SFX",
-    "Hash": "{79877E23-F8FC-F225-AACC-A4BDE169625C}",
+    "Hash": "{92D882F8-1D37-AD6A-8F4B-A3DAF16BE0E2}",
     "ObjectPath": "Play_UI_Dev_Virus_Alarm",
     "ShortName": "Play_UI_Dev_Virus_Alarm",
     "Path": "Event/Play_UI_Dev_Virus_Alarm.bnk",
@@ -32,7 +32,6 @@
       "ObjectPath": "\\Events\\DEV\\Play_UI_Dev_Virus_Alarm",
       "GUID": "{CFB40BAC-6363-489F-B25F-9F1C96192E04}",
       "Color": "12",
-      "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -43,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{F937FB93-4A96-1D2E-93D5-FD3292B86705}"
+  "FileHash": "{3ACB189C-9621-0BB7-F4FE-C8D4BD444F7C}"
  }
 }

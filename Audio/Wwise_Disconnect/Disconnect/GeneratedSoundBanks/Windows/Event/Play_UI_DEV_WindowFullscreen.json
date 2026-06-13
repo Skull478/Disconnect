@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
     "Language": "SFX",
-    "Hash": "{4933DDA8-56E9-D542-70EA-501EB5742CEE}",
+    "Hash": "{A82D6ADA-B421-0483-40A7-375E7C29198C}",
     "ObjectPath": "Play_UI_DEV_WindowFullscreen",
     "ShortName": "Play_UI_DEV_WindowFullscreen",
     "Path": "Event/Play_UI_DEV_WindowFullscreen.bnk",
@@ -32,7 +32,6 @@
       "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_WindowFullscreen",
       "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
       "Color": "12",
-      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.111854166",
       "DurationMax": "0.111854166",
@@ -45,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{3CF20246-61D1-A5FE-0785-815915C05CB8}"
+  "FileHash": "{1048B814-9802-AF22-FF0B-99B70F61A5DB}"
  }
 }
