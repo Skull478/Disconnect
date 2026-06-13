@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2253070117	Play_UI_Feedback_CellLoads_DevSide			\UI\Play_UI_Feedback_CellLoads_DevSide	
+

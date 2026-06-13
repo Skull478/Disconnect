@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	90564940	Play_UI_Feedback_Cable_Validate_DevSide			\UI\Play_UI_Feedback_Cable_Validate_DevSide	
+
