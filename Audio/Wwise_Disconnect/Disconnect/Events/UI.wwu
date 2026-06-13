@@ -390,6 +390,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_UI_Win" ID="{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}">
+					<ChildrenList>
+						<Action Name="" ID="{65BF8EAF-F9F7-4AFE-8199-A74AD6F555BE}" ShortID="55522920">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Win" ID="{7BB3C925-D1BB-41FE-98F6-81E483ADBC57}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
