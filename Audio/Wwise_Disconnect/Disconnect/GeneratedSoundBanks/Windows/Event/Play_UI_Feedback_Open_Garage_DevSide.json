@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}",
     "Language": "SFX",
-    "Hash": "{725907B7-A216-895D-C6B7-13F93E04E4CA}",
+    "Hash": "{48238EED-2BC5-1BE4-3AED-250D3DF71842}",
     "ObjectPath": "Play_UI_Feedback_Open_Garage_DevSide",
     "ShortName": "Play_UI_Feedback_Open_Garage_DevSide",
     "Path": "Event/Play_UI_Feedback_Open_Garage_DevSide.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{3543AE28-7E01-DFD1-6C81-37CB6934D47E}"
+  "FileHash": "{A7379CFF-3B62-B30D-B0EB-1921053589A9}"
  }
 }

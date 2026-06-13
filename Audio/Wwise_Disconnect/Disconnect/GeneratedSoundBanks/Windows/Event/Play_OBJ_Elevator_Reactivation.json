@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BEED9A83-8410-43E4-BE52-94062CD2AE04}",
     "Language": "SFX",
-    "Hash": "{9737AB14-2BE9-6FFD-E44E-6D0E7A35FFE8}",
+    "Hash": "{3443AF9E-CFB8-0806-ADC4-0243435B7F09}",
     "ObjectPath": "Play_OBJ_Elevator_Reactivation",
     "ShortName": "Play_OBJ_Elevator_Reactivation",
     "Path": "Event/Play_OBJ_Elevator_Reactivation.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Elevator_Reactivation.wav",
       "Path": "Media/883248029.wem",
-      "CachePath": "BA/{BA2EDA50-D043-80F2-01F5-D3FE52C46AB6}.wem"
+      "CachePath": "50/{50D29043-AC6E-3EF5-3353-1AD9248D6B14}.wem"
      }
     ],
     "Events": [
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{696E822D-696E-301C-79DC-D4964FA25C78}"
+  "FileHash": "{43B23C64-1EF8-36C9-A56C-C27F82C427A2}"
  }
 }
