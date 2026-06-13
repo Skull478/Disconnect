@@ -331,6 +331,52 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_Pipes_Ambience" ID="{29EB3506-E2D1-402D-A134-5F7C27950E0B}">
+							<ChildrenList>
+								<Action Name="" ID="{DB005542-D625-4E04-9BBD-07BF9242D6A7}" ShortID="276558674">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_Pipes_Ambience" ID="{422419A5-13DA-4E78-89BA-D6F3CE8FCF93}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{FA999493-33D3-4D1A-9E47-F2A6ED74DD6D}" ShortID="277273310">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="36"/>
+										<Property Name="SeekPercent" Type="Real64" Value="100"/>
+										<Property Name="SeekTime" Type="Real64">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{62A9FC6C-5CD3-4D10-9182-F3676CD40EBA}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="9"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="SeekType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_Pipes_Ambience" ID="{422419A5-13DA-4E78-89BA-D6F3CE8FCF93}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_OBJ_Elevator_Reactivation" ID="{BEED9A83-8410-43E4-BE52-94062CD2AE04}">
+							<ChildrenList>
+								<Action Name="" ID="{E9F49FE8-2197-435A-AA5B-E3A7499C0492}" ShortID="918497285">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_Elevator_Reactivation" ID="{41794469-07CE-4471-8752-19D85A108E2C}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Event Name="Play_AMB_Glitch" ID="{313219A7-C7CC-414A-9937-CB6754630EE6}">
