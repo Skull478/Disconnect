@@ -331,6 +331,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_Elevator_Reactivation" ID="{ABB66089-E99C-404E-978A-07BFCD2927EC}">
+							<ChildrenList>
+								<Action Name="" ID="{9E1FC26B-9409-4B23-876D-F97B042BFD4E}" ShortID="629036513">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_Elevator_Reactivation" ID="{41794469-07CE-4471-8752-19D85A108E2C}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Event Name="Play_AMB_Glitch" ID="{313219A7-C7CC-414A-9937-CB6754630EE6}">
