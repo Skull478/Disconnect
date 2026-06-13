@@ -92,6 +92,17 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{2DE885A4-547C-43B2-B592-D05806DC68A5}" ShortID="217863842">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INTERACT_Wheel_Loop" ID="{8A8F6913-5223-4FE8-ACBB-E590D5B116D4}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="Play_INTERACT_Wheel_Loop" ID="{CE4C73AC-CD8B-4AFA-9C40-9CEF1B2F6CFC}">

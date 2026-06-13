@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A64AAE01-21CC-442A-A79C-B34DB70BFF43}",
     "Language": "English(US)",
-    "Hash": "{9BC6A0D4-1489-D145-5A64-D97339D12472}",
+    "Hash": "{37B3B665-BB3D-A241-55F5-5CC25C9532F8}",
     "ObjectPath": "Play_DX_Dev_Rundown",
     "ShortName": "Play_DX_Dev_Rundown",
     "Path": "Event/English(US)/Play_DX_Dev_Rundown.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{114532E0-2213-32DF-03C1-AA32EF783C35}"
+  "FileHash": "{F95A3156-F9B5-48BF-EA95-E47D63245889}"
  }
 }

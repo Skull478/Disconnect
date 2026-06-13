@@ -9,6 +9,17 @@
 			<ChildrenList>
 				<ActorMixer Name="Dev" ID="{E57A794B-08A6-47BC-8FD7-1F961A8622BB}" ShortID="1028771921">
 					<PropertyList>
+						<Property Name="IgnoreParentMaxSoundInstance" Type="bool" Value="True"/>
+						<Property Name="MaxSoundPerInstance" Type="int16">
+							<ValueList>
+								<Value>1</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UseMaxSoundPerInstance" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
 								<Value>-8</Value>
@@ -228,6 +239,17 @@
 				</ActorMixer>
 				<ActorMixer Name="Player" ID="{E4508999-095C-42B1-8855-2C33DFD88262}" ShortID="443731367">
 					<PropertyList>
+						<Property Name="IgnoreParentMaxSoundInstance" Type="bool" Value="True"/>
+						<Property Name="MaxSoundPerInstance" Type="int16">
+							<ValueList>
+								<Value>1</Value>
+							</ValueList>
+						</Property>
+						<Property Name="UseMaxSoundPerInstance" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
 								<Value>-4</Value>

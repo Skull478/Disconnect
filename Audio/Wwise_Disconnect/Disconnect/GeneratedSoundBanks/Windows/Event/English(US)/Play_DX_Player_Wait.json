@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6D4A675A-B271-479D-A2B2-32281DD60671}",
     "Language": "English(US)",
-    "Hash": "{07426A82-25A9-6F20-D843-E3244A76102F}",
+    "Hash": "{5872C471-8CED-C96F-BD57-5F13501EECD7}",
     "ObjectPath": "Play_DX_Player_Wait",
     "ShortName": "Play_DX_Player_Wait",
     "Path": "Event/English(US)/Play_DX_Player_Wait.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{2FBDD658-2B98-C888-F6C5-F3D4C7FC0BBF}"
+  "FileHash": "{8A9BD1D7-3A70-827C-CC57-1596257E276B}"
  }
 }

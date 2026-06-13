@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DBF7772D-55B9-4883-9542-2C3195653ACA}",
     "Language": "English(US)",
-    "Hash": "{81CD4414-C50C-4790-E6B2-D88A2919C885}",
+    "Hash": "{D1B65D7C-89BE-2E70-3ED9-031143C15A04}",
     "ObjectPath": "Play_DX_Player_WeJust",
     "ShortName": "Play_DX_Player_WeJust",
     "Path": "Event/English(US)/Play_DX_Player_WeJust.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{F4A252B3-6AA7-77AC-A117-21F3B4BAE695}"
+  "FileHash": "{FC2B3F80-221B-3B95-5B33-A27FD35E42CF}"
  }
 }

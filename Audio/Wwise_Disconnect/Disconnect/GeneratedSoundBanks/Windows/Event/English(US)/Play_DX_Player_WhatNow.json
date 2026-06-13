@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BEB2E7C7-AEE0-4A1F-887B-22699AC6DD19}",
     "Language": "English(US)",
-    "Hash": "{AA731AC5-D6A4-B24E-FC61-C1A213454470}",
+    "Hash": "{03CF4AAA-6096-7B15-1235-B8047F6AFD66}",
     "ObjectPath": "Play_DX_Player_WhatNow",
     "ShortName": "Play_DX_Player_WhatNow",
     "Path": "Event/English(US)/Play_DX_Player_WhatNow.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E038702E-B511-5300-2FDA-6D412951BF33}"
+  "FileHash": "{64311CB0-FAD1-636F-80E4-C08B501E6543}"
  }
 }

@@ -2344,6 +2344,7 @@
 						</ActorMixer>
 						<RandomSequenceContainer Name="NPC_Voice_Glitch" ID="{5C7EF617-69A2-4B4E-8CDC-B858209163EC}" ShortID="427744035">
 							<PropertyList>
+								<Property Name="OverridePositioning" Type="bool" Value="True"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
 										<Value>-5</Value>

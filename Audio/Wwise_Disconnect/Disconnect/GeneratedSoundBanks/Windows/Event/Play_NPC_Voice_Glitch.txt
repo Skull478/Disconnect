@@ -1,3 +1,3 @@
 Event	ID	Name			Wwise Object Path	Notes
-	1364213772	Play_NPC_Voice_Glitch			\Default Work Unit\Play_NPC_Voice_Glitch	
+	1364213772	Play_NPC_Voice_Glitch			\AMB\3dSounds\Play_NPC_Voice_Glitch	
 
