@@ -4070,6 +4070,11 @@
 							</ReferenceList>
 							<ChildrenList>
 								<AudioFileSource Name="OBJ_Elevator_Reactivation" ID="{ABB7D8F1-97B9-40CE-B9C9-6E750B6DEEFF}">
+									<PropertyList>
+										<Property Name="FadeOutDuration" Type="Real64" Value="2.16205204736915"/>
+										<Property Name="LoopBegin" Type="Real64" Value="0"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
 									<Language>SFX</Language>
 									<AudioFile>OBJ_Elevator_Reactivation.wav</AudioFile>
 									<MediaIDList>
