@@ -2524,7 +2524,7 @@
 							<PropertyList>
 								<Property Name="Highpass" Type="int16">
 									<ValueList>
-										<Value>23</Value>
+										<Value>34</Value>
 									</ValueList>
 								</Property>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>

@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "4070300190",
+    "Id": "489010183",
     "Type": "Event",
     "GUID": "{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}",
     "Language": "SFX",
-    "Hash": "{48238EED-2BC5-1BE4-3AED-250D3DF71842}",
-    "ObjectPath": "Play_UI_Feedback_Open_Garage_DevSide",
-    "ShortName": "Play_UI_Feedback_Open_Garage_DevSide",
-    "Path": "Event/Play_UI_Feedback_Open_Garage_DevSide.bnk",
+    "Hash": "{F47F123A-D17C-4415-769B-D363EE65434F}",
+    "ObjectPath": "Play_UI_DEV_Feedback_Open_Garage",
+    "ShortName": "Play_UI_DEV_Feedback_Open_Garage",
+    "Path": "Event/Play_UI_DEV_Feedback_Open_Garage.bnk",
     "Media": [
      {
       "Id": "645561023",
@@ -27,11 +27,11 @@
     ],
     "Events": [
      {
-      "Id": "4070300190",
-      "Name": "Play_UI_Feedback_Open_Garage_DevSide",
-      "ObjectPath": "\\Events\\UI\\Play_UI_Feedback_Open_Garage_DevSide",
+      "Id": "489010183",
+      "Name": "Play_UI_DEV_Feedback_Open_Garage",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Feedback_Open_Garage",
       "GUID": "{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}",
-      "Color": "21",
+      "Color": "12",
       "DurationType": "OneShot",
       "DurationMin": "1.2",
       "DurationMax": "1.2",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A7379CFF-3B62-B30D-B0EB-1921053589A9}"
+  "FileHash": "{6B3DCC58-8A33-A7F8-1548-0BFFE5CEB731}"
  }
 }

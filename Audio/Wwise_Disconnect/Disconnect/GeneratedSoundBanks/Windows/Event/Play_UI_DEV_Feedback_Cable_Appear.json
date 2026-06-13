@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "90564940",
+    "Id": "1738284892",
     "Type": "Event",
     "GUID": "{016A4548-D135-4A61-A2AE-6108B66C62E7}",
     "Language": "SFX",
-    "Hash": "{58C2EE78-E44E-023D-87B1-9FDF426C1154}",
-    "ObjectPath": "Play_UI_Feedback_Cable_Validate_DevSide",
-    "ShortName": "Play_UI_Feedback_Cable_Validate_DevSide",
-    "Path": "Event/Play_UI_Feedback_Cable_Validate_DevSide.bnk",
+    "Hash": "{EF77008B-F00A-B58F-30BD-DC2EAD70A6BC}",
+    "ObjectPath": "Play_UI_DEV_Feedback_Cable_Appear",
+    "ShortName": "Play_UI_DEV_Feedback_Cable_Appear",
+    "Path": "Event/Play_UI_DEV_Feedback_Cable_Appear.bnk",
     "Media": [
      {
       "Id": "73192573",
@@ -27,11 +27,11 @@
     ],
     "Events": [
      {
-      "Id": "90564940",
-      "Name": "Play_UI_Feedback_Cable_Validate_DevSide",
-      "ObjectPath": "\\Events\\UI\\Play_UI_Feedback_Cable_Validate_DevSide",
+      "Id": "1738284892",
+      "Name": "Play_UI_DEV_Feedback_Cable_Appear",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Feedback_Cable_Appear",
       "GUID": "{016A4548-D135-4A61-A2AE-6108B66C62E7}",
-      "Color": "21",
+      "Color": "12",
       "DurationType": "OneShot",
       "DurationMin": "1",
       "DurationMax": "1",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{3195748F-BA74-54CA-58F2-207D0F24F15C}"
+  "FileHash": "{756073ED-999A-825E-303A-62AFAE0E51A3}"
  }
 }

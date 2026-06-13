@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{29C9E05B-B5C9-4D61-9EC5-4F003A3A802F}",
     "Language": "SFX",
-    "Hash": "{747EC179-5055-D95B-40F7-23FDCFA66D19}",
+    "Hash": "{7CEAF1CE-A7E0-1947-4B3C-E7E2CBFE9C23}",
     "ObjectPath": "Play_PL_Falling_Loop",
     "ShortName": "Play_PL_Falling_Loop",
     "Path": "Event/Play_PL_Falling_Loop.bnk",
@@ -51,6 +51,6 @@
     ]
    }
   ],
-  "FileHash": "{CC307BDF-262A-448D-14ED-6DD47F207E17}"
+  "FileHash": "{A1EE4FCC-B60A-ECC7-2F97-8285FAB06FCD}"
  }
 }

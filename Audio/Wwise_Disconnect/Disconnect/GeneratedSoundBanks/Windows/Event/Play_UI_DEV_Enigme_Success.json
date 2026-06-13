@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1993936572",
+    "Type": "Event",
+    "GUID": "{96B04696-E4BF-4850-BD81-2AC1203724DD}",
+    "Language": "SFX",
+    "Hash": "{05888D7E-F216-A310-A0C5-E66237868346}",
+    "ObjectPath": "Play_UI_DEV_Enigme_Success",
+    "ShortName": "Play_UI_DEV_Enigme_Success",
+    "Path": "Event/Play_UI_DEV_Enigme_Success.bnk",
+    "Media": [
+     {
+      "Id": "569408506",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_DEV_Enigme_Success.wav",
+      "Path": "Media/569408506.wem",
+      "CachePath": "96/{960ECDD4-DA39-911E-6A63-06E36A0DF700}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1993936572",
+      "Name": "Play_UI_DEV_Enigme_Success",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Enigme_Success",
+      "GUID": "{96B04696-E4BF-4850-BD81-2AC1203724DD}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "1",
+      "DurationMax": "1",
+      "MediaRefs": [
+       {
+        "Id": "569408506"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4C959BA3-7177-745B-FC0F-9D40A6F6C252}"
+ }
+}

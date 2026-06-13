@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}",
     "Language": "SFX",
-    "Hash": "{5E918344-BF88-9661-C169-5D50CEB2BEDA}",
+    "Hash": "{CF2820C0-F940-41AE-24CB-E752F754250A}",
     "ObjectPath": "Play_OBJ_Capsule",
     "ShortName": "Play_OBJ_Capsule",
     "Path": "Event/Play_OBJ_Capsule.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{B34AA4A5-4E55-91ED-4C9A-95F8EE7A9693}"
+  "FileHash": "{6CD49B6F-99B1-67F6-8E75-012517118F66}"
  }
 }
