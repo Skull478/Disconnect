@@ -15,3 +15,6 @@ State	ID	Name	State Group			Notes
 	1652082210	State_Loop1	Explo			
 	3783890923	State_Calme	Explo			
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1571361561	Tension			\Default Work Unit\Tension	
+

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{29EB3506-E2D1-402D-A134-5F7C27950E0B}",
     "Language": "SFX",
-    "Hash": "{F48872B7-AD7C-ECEE-A0D1-50F4CAEC974B}",
+    "Hash": "{BA7DE49E-FBC6-CB25-8A70-965BB6BD77DF}",
     "ObjectPath": "Play_OBJ_Pipes_Ambience",
     "ShortName": "Play_OBJ_Pipes_Ambience",
     "Path": "Event/Play_OBJ_Pipes_Ambience.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{462A859B-589E-3A45-5ED7-7BF52618B04E}"
+  "FileHash": "{12AAC90F-FA29-5195-4912-08C6D7FE6D51}"
  }
 }

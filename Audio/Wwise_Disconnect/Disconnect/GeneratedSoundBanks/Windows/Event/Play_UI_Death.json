@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2060677415",
+    "Type": "Event",
+    "GUID": "{58B3E7FC-F4A0-45E9-B926-05AD99C4C21F}",
+    "Language": "SFX",
+    "Hash": "{6B88C094-2204-EE67-F811-63EB000050C3}",
+    "ObjectPath": "Play_UI_Death",
+    "ShortName": "Play_UI_Death",
+    "Path": "Event/Play_UI_Death.bnk",
+    "Media": [
+     {
+      "Id": "541356741",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Death.wav",
+      "Path": "Media/541356741.wem",
+      "CachePath": "76/{76B425DF-92E0-BA00-909E-1A8F143634E9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2060677415",
+      "Name": "Play_UI_Death",
+      "ObjectPath": "\\Events\\UI\\Jingles\\Play_UI_Death",
+      "GUID": "{58B3E7FC-F4A0-45E9-B926-05AD99C4C21F}",
+      "Color": "21",
+      "DurationType": "OneShot",
+      "DurationMin": "3.9529166",
+      "DurationMax": "3.9529166",
+      "MediaRefs": [
+       {
+        "Id": "541356741"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E50EBF0B-589E-07BF-DBC3-D9DDE3F7ACB2}"
+ }
+}

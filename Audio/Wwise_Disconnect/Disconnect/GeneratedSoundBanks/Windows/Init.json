@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{DE35F260-FDB1-5CBB-E9E4-4F4304E8B40A}",
+    "Hash": "{E40A29CC-5213-B2A4-F692-16D2FC4DDDCC}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -121,6 +121,12 @@
       "Name": "Player_Slider_Speed",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Slider_Speed",
       "GUID": "{1439B294-7B58-411C-9BE2-F261BB4ED79C}"
+     },
+     {
+      "Id": "1571361561",
+      "Name": "Tension",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Tension",
+      "GUID": "{921F5E22-F4B2-423D-B662-50E002C062B9}"
      },
      {
       "Id": "3416015707",
@@ -331,6 +337,6 @@
     ]
    }
   ],
-  "FileHash": "{D1D81584-4EF5-6627-1A48-622EB2F7724D}"
+  "FileHash": "{5513352A-2ED5-A033-6AA2-59EDAF5FA208}"
  }
 }

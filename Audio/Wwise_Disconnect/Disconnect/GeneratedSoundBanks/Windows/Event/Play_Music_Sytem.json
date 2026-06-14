@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{E57E3B66-DA91-76FC-8B40-71A1F1FC5F9C}",
+    "Hash": "{0EC8CB2B-D1E8-19DC-7DA5-01359C96EF36}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -43,6 +43,15 @@
       "CachePath": "A9/{A93A6091-835B-5AF8-80BA-BDD2E93B5524}.wem"
      },
      {
+      "Id": "279218113",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Harmonics_C_122Bpm.wav",
+      "Path": "Media/279218113.wem",
+      "CachePath": "85/{85E5E0FC-7CFB-4457-275F-881373FFC4C9}.wem"
+     },
+     {
       "Id": "329774271",
       "Language": "SFX",
       "Streaming": "false",
@@ -52,6 +61,24 @@
       "CachePath": "06/{060B9D1E-8405-795F-968C-D2C36A3ADB68}.wem"
      },
      {
+      "Id": "472772508",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Violin_C_122Bpm.wav",
+      "Path": "Media/472772508.wem",
+      "CachePath": "36/{364B0D1E-EA69-C1B3-3778-DCE210F9DFB8}.wem"
+     },
+     {
+      "Id": "582357972",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Choir_C_122Bpm.wav",
+      "Path": "Media/582357972.wem",
+      "CachePath": "5C/{5CAB733B-C801-2D3A-3682-CA7098008E61}.wem"
+     },
+     {
       "Id": "604148490",
       "Language": "SFX",
       "Streaming": "false",
@@ -59,6 +86,33 @@
       "ShortName": "MUSIC_Main_Explo_Loop_03.wav",
       "Path": "Media/604148490.wem",
       "CachePath": "90/{90AA2036-80E3-9486-D7B8-6F88ECDE497A}.wem"
+     },
+     {
+      "Id": "615081911",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Cello__122Bpm.wav",
+      "Path": "Media/615081911.wem",
+      "CachePath": "4B/{4B91AB1F-6603-AA1E-BC8E-8C4388A3797F}.wem"
+     },
+     {
+      "Id": "634665153",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Cymbals_C_122Bpm.wav",
+      "Path": "Media/634665153.wem",
+      "CachePath": "D5/{D53190F3-2CEA-04E7-0A31-B56B6B8BCF93}.wem"
+     },
+     {
+      "Id": "698458781",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Cellodrone_C_122Bpm.wav",
+      "Path": "Media/698458781.wem",
+      "CachePath": "31/{31448FAB-9893-940E-C288-71A0902FE1E0}.wem"
      },
      {
       "Id": "783952863",
@@ -77,6 +131,15 @@
       "ShortName": "MUSIC_Virus.wav",
       "Path": "Media/902881118.wem",
       "CachePath": "88/{885517C3-8F2D-7136-AA1E-23C950ADD71B}.wem"
+     },
+     {
+      "Id": "990557896",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_SpawnGarage_Cimb_C_122Bpm.wav",
+      "Path": "Media/990557896.wem",
+      "CachePath": "E0/{E06D9F84-83DA-16AE-B972-AB0EA0607B4C}.wem"
      }
     ],
     "Events": [
@@ -181,7 +244,25 @@
           },
           "MediaRefs": [
            {
-            "Id": "130817738"
+            "Id": "279218113"
+           },
+           {
+            "Id": "472772508"
+           },
+           {
+            "Id": "582357972"
+           },
+           {
+            "Id": "615081911"
+           },
+           {
+            "Id": "634665153"
+           },
+           {
+            "Id": "698458781"
+           },
+           {
+            "Id": "990557896"
            }
           ]
          }
@@ -250,7 +331,25 @@
           },
           "MediaRefs": [
            {
-            "Id": "130817738"
+            "Id": "279218113"
+           },
+           {
+            "Id": "472772508"
+           },
+           {
+            "Id": "582357972"
+           },
+           {
+            "Id": "615081911"
+           },
+           {
+            "Id": "634665153"
+           },
+           {
+            "Id": "698458781"
+           },
+           {
+            "Id": "990557896"
            }
           ]
          }
@@ -420,6 +519,14 @@
       ]
      }
     ],
+    "GameParameters": [
+     {
+      "Id": "1571361561",
+      "Name": "Tension",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Tension",
+      "GUID": "{921F5E22-F4B2-423D-B662-50E002C062B9}"
+     }
+    ],
     "StateGroups": [
      {
       "Id": "3455673912",
@@ -488,6 +595,6 @@
     ]
    }
   ],
-  "FileHash": "{95501B2D-07EB-531B-6D57-22F410BD5DC1}"
+  "FileHash": "{153CFC92-390D-7AD9-ECE1-442313743AB0}"
  }
 }

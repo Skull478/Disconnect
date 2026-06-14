@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "652343131",
+    "Type": "Event",
+    "GUID": "{370F0544-328F-4990-81DE-CC836AF3F20D}",
+    "Language": "SFX",
+    "Hash": "{854DA15B-C564-F25C-37CF-2EC39EADD55E}",
+    "ObjectPath": "Play_UI_Reappear",
+    "ShortName": "Play_UI_Reappear",
+    "Path": "Event/Play_UI_Reappear.bnk",
+    "Media": [
+     {
+      "Id": "498335011",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Reappear.wav",
+      "Path": "Media/498335011.wem",
+      "CachePath": "C0/{C01E22C3-E2C7-E279-0C80-A20A9F887866}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "652343131",
+      "Name": "Play_UI_Reappear",
+      "ObjectPath": "\\Events\\UI\\Jingles\\Play_UI_Reappear",
+      "GUID": "{370F0544-328F-4990-81DE-CC836AF3F20D}",
+      "Color": "21",
+      "DurationType": "OneShot",
+      "DurationMin": "9.527416",
+      "DurationMax": "9.527416",
+      "MediaRefs": [
+       {
+        "Id": "498335011"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{88BBFA9F-2E07-E3A3-6FEF-D23A6064A8E3}"
+ }
+}
