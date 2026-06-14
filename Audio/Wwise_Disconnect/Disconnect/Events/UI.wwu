@@ -390,17 +390,43 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_UI_Win" ID="{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}">
+				<Folder Name="Jingles" ID="{4751D6D5-664B-409B-86BE-7E190C0FDD08}" ShortID="579879283">
 					<ChildrenList>
-						<Action Name="" ID="{65BF8EAF-F9F7-4AFE-8199-A74AD6F555BE}" ShortID="55522920">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="UI_Win" ID="{7BB3C925-D1BB-41FE-98F6-81E483ADBC57}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Event Name="Play_UI_Win" ID="{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}">
+							<ChildrenList>
+								<Action Name="" ID="{65BF8EAF-F9F7-4AFE-8199-A74AD6F555BE}" ShortID="55522920">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Win" ID="{7BB3C925-D1BB-41FE-98F6-81E483ADBC57}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Death" ID="{58B3E7FC-F4A0-45E9-B926-05AD99C4C21F}">
+							<ChildrenList>
+								<Action Name="" ID="{337ACE0F-EAA1-481F-9A62-1D2E39535908}" ShortID="26293528">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Death" ID="{EF9ECE01-4879-47E5-92AA-A2D85F6FFD34}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_UI_Reappear" ID="{370F0544-328F-4990-81DE-CC836AF3F20D}">
+							<ChildrenList>
+								<Action Name="" ID="{FAF43C05-9E36-436C-92A2-112EBC480651}" ShortID="969246247">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI_Reappear" ID="{0C4A3FA8-ACD9-4F14-96E8-8183A8E39D66}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
-				</Event>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
