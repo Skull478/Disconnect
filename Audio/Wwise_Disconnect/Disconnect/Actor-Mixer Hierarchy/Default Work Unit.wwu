@@ -931,6 +931,28 @@
 								<ActiveSource Name="AMB_ViewPoint" ID="{4649CF81-8016-4D89-A5F6-808930B230DB}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<Sound Name="AMB_Rooftop" ID="{33B61234-8CEF-4B88-B800-83D220042B36}" ShortID="503648429">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="AMB_rooftop" ID="{B18FE5C4-FA7F-4962-9B61-13C6092FEFF7}">
+									<Language>SFX</Language>
+									<AudioFile>AMB_rooftop.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="662477450"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="AMB_rooftop" ID="{B18FE5C4-FA7F-4962-9B61-13C6092FEFF7}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 				</ActorMixer>
 				<ActorMixer Name="PLAYER" ID="{ED1C9650-E277-4F70-AA21-8B38A86F466E}" ShortID="202124870">
@@ -5385,6 +5407,59 @@
 								</ObjectList>
 							</ObjectLists>
 						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="OBJ_Big_FIre" ID="{D1CA6C9C-C350-4D24-A716-596F1E167C4E}" ShortID="236387464">
+							<PropertyList>
+								<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
+								<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+								<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="OBJ_Big_Fire" ID="{618930FE-4A3C-4007-8976-3222539ACB5C}" ShortID="164862853">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Attenuation_Global" ID="{186101D0-1FFD-4226-8403-EB14B411FE5D}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+										</Reference>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="OBJ_big_fire_01" ID="{88FBF827-B499-4F8A-A1C6-DD3F2F5C0097}">
+											<Language>SFX</Language>
+											<AudioFile>OBJ_big_fire_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="135708219"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="OBJ_big_fire_01" ID="{88FBF827-B499-4F8A-A1C6-DD3F2F5C0097}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists>
+								<ObjectList Name="Playlist">
+									<Reference>
+										<ObjectRef Name="OBJ_Big_Fire" ID="{618930FE-4A3C-4007-8976-3222539ACB5C}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</RandomSequenceContainer>
 					</ChildrenList>
 				</ActorMixer>
 				<ActorMixer Name="UI" ID="{35C6E878-4FC9-4C37-B3C6-E951A106F1D3}" ShortID="565804179">
@@ -8815,6 +8890,306 @@
 								<ActiveSource Name="INTERACT_Wheel_Release" ID="{CD0E99BD-6681-4218-9E64-54E8BEA34170}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<RandomSequenceContainer Name="INT_Battery_Grab" ID="{687455CD-25AC-4D43-ADF0-A8EA281560FF}" ShortID="322959143">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="INTERACT_battery_grab_01" ID="{24957DD3-3A60-4A36-B9C3-7DB112B64377}" ShortID="554763547">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_grab_01" ID="{F70DFF34-3B48-44B4-80D8-0159408D12B9}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_grab_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="447929519"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_grab_01" ID="{F70DFF34-3B48-44B4-80D8-0159408D12B9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_grab_02" ID="{034B3BF6-4EE2-4014-B862-43D5BA6748EA}" ShortID="362431746">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_grab_02" ID="{08411250-2D90-46B3-BD21-F1D6D6656607}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_grab_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="579880100"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_grab_02" ID="{08411250-2D90-46B3-BD21-F1D6D6656607}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_grab_03" ID="{AC5D8437-18E7-4274-A309-1B16D1786E79}" ShortID="626974548">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_grab_03" ID="{33B805BB-BA04-4FD5-8407-0F41A7E26034}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_grab_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="460155040"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_grab_03" ID="{33B805BB-BA04-4FD5-8407-0F41A7E26034}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_grab_04" ID="{3EE6EEAB-DEEB-41CA-AC87-5210607B43B4}" ShortID="751507729">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_grab_04" ID="{CC631D13-7A50-4671-8ED1-D189A70AEA66}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_grab_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1061201454"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_grab_04" ID="{CC631D13-7A50-4671-8ED1-D189A70AEA66}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_grab_05" ID="{5545C62B-18A9-4ECE-B2C4-65DC921ADE2E}" ShortID="874105196">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_grab_05" ID="{0EF11F5D-AFF6-40AF-8FD4-FE2EE2C038A6}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_grab_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="325288908"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_grab_05" ID="{0EF11F5D-AFF6-40AF-8FD4-FE2EE2C038A6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="INT_Battery_Fall" ID="{5275731A-D2A3-4B47-B7DE-73D4F981EBA6}" ShortID="486924289">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="INTERACT_battery_fall_01" ID="{6D87BFA4-8F51-4F90-8839-49FB0A60A78C}" ShortID="195759021">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_fall_01" ID="{708A9170-0710-4207-A074-CA98B481B5C8}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_fall_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="23539854"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_fall_01" ID="{708A9170-0710-4207-A074-CA98B481B5C8}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_fall_02" ID="{28EB9A08-CD63-46C9-A1A9-1DB65D246B26}" ShortID="953193908">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_fall_02" ID="{91304695-ABC0-41CB-AAF6-77132F96550D}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_fall_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1011316941"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_fall_02" ID="{91304695-ABC0-41CB-AAF6-77132F96550D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_fall_03" ID="{84F86F32-39F5-4A71-BB5B-AB06B6F8DC4F}" ShortID="463179214">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_fall_03" ID="{745947FE-0C3D-4B38-BB09-79EFB7B98C84}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_fall_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="170994947"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_fall_03" ID="{745947FE-0C3D-4B38-BB09-79EFB7B98C84}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_fall_04" ID="{DB294BDB-F7A0-42A9-84A2-7021EF2B482F}" ShortID="739143081">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_fall_04" ID="{1D85B424-90EB-408C-A4EF-F51EFBF101D0}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_fall_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="497517262"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_fall_04" ID="{1D85B424-90EB-408C-A4EF-F51EFBF101D0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_fall_05" ID="{9846C5EE-3E7A-4C64-97AF-200CA8DCC48E}" ShortID="787773716">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_fall_05" ID="{8A1A6069-A100-4CB1-9A4D-70E794B8B5E6}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_fall_05.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="790019594"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_fall_05" ID="{8A1A6069-A100-4CB1-9A4D-70E794B8B5E6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="INTERACT_battery_fall_06" ID="{8AD75E5D-C4BC-4046-8298-2F50E36265E7}" ShortID="340833515">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_battery_fall_06" ID="{A7FB6C24-54A7-4ED1-8009-2967DB943BDA}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_battery_fall_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="763188227"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_battery_fall_06" ID="{A7FB6C24-54A7-4ED1-8009-2967DB943BDA}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="INT_Lever" ID="{9F94A0CF-7DD6-4A97-A467-A1D949E2E5CE}" ShortID="519452681">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="INTERACT_big_lever_01" ID="{1210CFCD-41B0-4A0A-8EA7-F3355536285A}" ShortID="371945226">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="INTERACT_big_lever_01" ID="{C9A3B2D0-1A8C-42F9-BD7E-18F2F43FEEC1}">
+											<Language>SFX</Language>
+											<AudioFile>INTERACT_big_lever_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="285069915"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="INTERACT_big_lever_01" ID="{C9A3B2D0-1A8C-42F9-BD7E-18F2F43FEEC1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
 					</ChildrenList>
 				</ActorMixer>
 				<Sound Name="Ending_Sound Design" ID="{726B46BC-24F1-43B1-B920-C726A25E86E6}" ShortID="137802490">

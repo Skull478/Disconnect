@@ -58,6 +58,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_INT_Battery_Grab" ID="{20F5EB6F-1A02-4878-A978-3E34EB4A831A}">
+					<ChildrenList>
+						<Action Name="" ID="{F0BE530F-C755-4300-BAB7-6516FAD11CA1}" ShortID="798087947">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Battery_Grab" ID="{687455CD-25AC-4D43-ADF0-A8EA281560FF}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Battery_Falls" ID="{AF784D68-6768-4382-A349-86971383B896}">
+					<ChildrenList>
+						<Action Name="" ID="{02C6B075-89C8-4120-8025-3EDB6F9EC8BE}" ShortID="258805204">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Battery_Fall" ID="{5275731A-D2A3-4B47-B7DE-73D4F981EBA6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Lever" ID="{042BA958-8356-412E-A130-DB8CE095CFF7}">
+					<ChildrenList>
+						<Action Name="" ID="{A9050C7B-CEA3-4978-801B-77BC8CB2A5C4}" ShortID="121423334">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Lever" ID="{9F94A0CF-7DD6-4A97-A467-A1D949E2E5CE}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
