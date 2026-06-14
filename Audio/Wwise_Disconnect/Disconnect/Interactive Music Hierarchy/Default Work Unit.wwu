@@ -992,7 +992,7 @@
 							<ChildrenList>
 								<MusicSegment Name="MUSIC_Explo_Calme_Loop" ID="{94422FC2-3DAB-400A-96C8-34B670111A4F}" ShortID="155512144">
 									<PropertyList>
-										<Property Name="EndPosition" Type="Real64" Value="48000"/>
+										<Property Name="EndPosition" Type="Real64" Value="62950.8333333333"/>
 									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
@@ -1003,14 +1003,23 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<MusicTrack Name="MUSIC_Explo_Calme_Loop" ID="{DB13F683-8342-4C6D-BC3E-FDCEBDFC52E3}" ShortID="1062537556">
+										<MusicTrack Name="Main_SpawnGarage_Cello__122Bpm" ID="{7B17039D-815F-4053-AD71-B379FCD05322}" ShortID="550723945">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{71D570A0-C0BE-4787-84F2-88CEC7349124}"/>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="OutputBus">
 													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
 												</Reference>
 												<Reference Name="TransitionRoot">
 													<Custom>
-														<MusicTransition Name="Root" ID="{71B23941-3594-4F31-B9D6-4DC1CD2A2534}">
+														<MusicTransition Name="Root" ID="{885D0919-EAA4-48D4-8865-B8CEAC365E74}">
 															<PropertyList>
 																<Property Name="IsFolder" Type="bool" Value="True"/>
 															</PropertyList>
@@ -1020,11 +1029,11 @@
 												</Reference>
 											</ReferenceList>
 											<ChildrenList>
-												<AudioFileSource Name="MUSIC_Explo_Calme_Loop" ID="{8AFC0E2A-C162-4C80-A5D4-0168DC245810}">
+												<AudioFileSource Name="Main_SpawnGarage_Cello__122Bpm" ID="{D2B1B46E-8411-4971-9ED6-3ABA9D63995B}">
 													<Language>SFX</Language>
-													<AudioFile>MUSIC_Explo_Calme_Loop.wav</AudioFile>
+													<AudioFile>Main_SpawnGarage_Cello__122Bpm.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="130817738"/>
+														<MediaID ID="615081911"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -1032,18 +1041,377 @@
 												<ObjectList Name="Sequences">
 													<Reference>
 														<Local>
-															<MusicTrackSequence Name="" ID="{B8586735-9344-42C4-BA76-72C37D98208C}">
+															<MusicTrackSequence Name="" ID="{35D9445E-5153-4FDA-A5CE-3903A2DC7853}">
 																<ObjectLists>
 																	<ObjectList Name="Clips">
 																		<Reference>
 																			<Local>
-																				<MusicClip Name="MUSIC_Explo_Calme_Loop" ID="{432EBA1B-F54C-45F3-B06B-3C6574A798AC}">
+																				<MusicClip Name="Main_SpawnGarage_Cello__122Bpm" ID="{5A65F98A-6953-4F59-94F0-83B3A16D8B78}">
 																					<PropertyList>
-																						<Property Name="EndTrimOffset" Type="Real64" Value="48000"/>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
 																						<Property Name="FadeInMode" Type="int16" Value="0"/>
 																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
 																					</PropertyList>
-																					<AudioSourceRef Name="MUSIC_Explo_Calme_Loop" ID="{8AFC0E2A-C162-4C80-A5D4-0168DC245810}"/>
+																					<AudioSourceRef Name="Main_SpawnGarage_Cello__122Bpm" ID="{D2B1B46E-8411-4971-9ED6-3ABA9D63995B}"/>
+																				</MusicClip>
+																			</Local>
+																		</Reference>
+																	</ObjectList>
+																</ObjectLists>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="Main_SpawnGarage_Cellodrone_C_122Bpm" ID="{94194057-D8C8-406A-9045-AA567F177B63}" ShortID="300743775">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{CD1318D9-DCE4-4A7F-8A7D-28F28C4B1DB6}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Main_SpawnGarage_Cellodrone_C_122Bpm" ID="{96FB2EB3-D3EE-4BC5-B099-26CEBB7E5811}">
+													<Language>SFX</Language>
+													<AudioFile>Main_SpawnGarage_Cellodrone_C_122Bpm.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="698458781"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="RTPC">
+													<Reference>
+														<Local>
+															<RTPC Name="" ID="{3CB45426-AFE4-48BD-8BBF-D230DACB13AA}" ShortID="610222780">
+																<PropertyList>
+																	<Property Name="PropertyName" Type="string" Value="Volume"/>
+																</PropertyList>
+																<ReferenceList>
+																	<Reference Name="ControlInput">
+																		<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+																	</Reference>
+																	<Reference Name="Curve">
+																		<Custom>
+																			<Curve Name="" ID="{B803A5F9-8C18-4A73-8C6B-ADD6CC3FB583}">
+																				<PropertyList>
+																					<Property Name="Flags" Type="int32" Value="3"/>
+																				</PropertyList>
+																				<PointList>
+																					<Point>
+																						<XPos>0</XPos>
+																						<YPos>-200</YPos>
+																						<Flags>5</Flags>
+																					</Point>
+																					<Point>
+																						<XPos>40</XPos>
+																						<YPos>-10</YPos>
+																						<Flags>0</Flags>
+																					</Point>
+																					<Point>
+																						<XPos>60</XPos>
+																						<YPos>0</YPos>
+																						<Flags>0</Flags>
+																					</Point>
+																					<Point>
+																						<XPos>100</XPos>
+																						<YPos>0</YPos>
+																						<Flags>37</Flags>
+																					</Point>
+																				</PointList>
+																			</Curve>
+																		</Custom>
+																	</Reference>
+																</ReferenceList>
+															</RTPC>
+														</Local>
+													</Reference>
+												</ObjectList>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{C9CC2B4C-6F74-40AF-94C4-A052CF8D7B1F}">
+																<ObjectLists>
+																	<ObjectList Name="Clips">
+																		<Reference>
+																			<Local>
+																				<MusicClip Name="Main_SpawnGarage_Cellodrone_C_122Bpm" ID="{E84A7C22-2EF9-490F-8000-3A0636C9DD71}">
+																					<PropertyList>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
+																						<Property Name="FadeInMode" Type="int16" Value="0"/>
+																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																					</PropertyList>
+																					<AudioSourceRef Name="Main_SpawnGarage_Cellodrone_C_122Bpm" ID="{96FB2EB3-D3EE-4BC5-B099-26CEBB7E5811}"/>
+																				</MusicClip>
+																			</Local>
+																		</Reference>
+																	</ObjectList>
+																</ObjectLists>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="Main_SpawnGarage_Choir_C_122Bpm" ID="{C2704794-3D0A-4449-9BEA-5C0669E01ABA}" ShortID="672692354">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{18E163BA-486B-46AF-A9BE-2BE6E8283D5C}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Main_SpawnGarage_Choir_C_122Bpm" ID="{EF3F6AC2-53B2-4B9B-9B4D-3D6223AE6CBF}">
+													<Language>SFX</Language>
+													<AudioFile>Main_SpawnGarage_Choir_C_122Bpm.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="582357972"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{923B6D54-1F8B-4D76-AAE4-648A5E71E604}">
+																<ObjectLists>
+																	<ObjectList Name="Clips">
+																		<Reference>
+																			<Local>
+																				<MusicClip Name="Main_SpawnGarage_Choir_C_122Bpm" ID="{D50EC18B-31BC-4137-844B-D7B786AD33FE}">
+																					<PropertyList>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
+																						<Property Name="FadeInMode" Type="int16" Value="0"/>
+																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																					</PropertyList>
+																					<AudioSourceRef Name="Main_SpawnGarage_Choir_C_122Bpm" ID="{EF3F6AC2-53B2-4B9B-9B4D-3D6223AE6CBF}"/>
+																				</MusicClip>
+																			</Local>
+																		</Reference>
+																	</ObjectList>
+																</ObjectLists>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="Main_SpawnGarage_Cimb_C_122Bpm" ID="{D3FCEF29-A9B5-44C8-B078-F77A22FD21BC}" ShortID="685858296">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{73B3DB69-34C7-44D8-BDFB-1CD560147263}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Main_SpawnGarage_Cimb_C_122Bpm" ID="{EEA9C489-FD5B-4969-9DD2-740619F8AAA2}">
+													<Language>SFX</Language>
+													<AudioFile>Main_SpawnGarage_Cimb_C_122Bpm.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="990557896"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{97A22767-0BFF-4CBD-B600-F8799F246547}">
+																<ObjectLists>
+																	<ObjectList Name="Clips">
+																		<Reference>
+																			<Local>
+																				<MusicClip Name="Main_SpawnGarage_Cimb_C_122Bpm" ID="{34F89406-D422-4A9C-96D4-71309DB533EF}">
+																					<PropertyList>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
+																						<Property Name="FadeInMode" Type="int16" Value="0"/>
+																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																					</PropertyList>
+																					<AudioSourceRef Name="Main_SpawnGarage_Cimb_C_122Bpm" ID="{EEA9C489-FD5B-4969-9DD2-740619F8AAA2}"/>
+																				</MusicClip>
+																			</Local>
+																		</Reference>
+																	</ObjectList>
+																</ObjectLists>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="Main_SpawnGarage_Cymbals_C_122Bpm" ID="{7EED48B8-A200-4D1C-A82A-DC225A212E66}" ShortID="948981913">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{6CDFDF7E-C458-4009-8F5E-B9DBA6BAAC5B}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Main_SpawnGarage_Cymbals_C_122Bpm" ID="{9CB4F008-9C17-44FB-B8EF-2BC5B23AC36E}">
+													<Language>SFX</Language>
+													<AudioFile>Main_SpawnGarage_Cymbals_C_122Bpm.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="634665153"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{C4CDF678-4CEE-4D86-A31F-196F23CA41B6}">
+																<ObjectLists>
+																	<ObjectList Name="Clips">
+																		<Reference>
+																			<Local>
+																				<MusicClip Name="Main_SpawnGarage_Cymbals_C_122Bpm" ID="{16EA9FF5-1459-457A-8ABC-77B17525AE58}">
+																					<PropertyList>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
+																						<Property Name="FadeInMode" Type="int16" Value="0"/>
+																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																					</PropertyList>
+																					<AudioSourceRef Name="Main_SpawnGarage_Cymbals_C_122Bpm" ID="{9CB4F008-9C17-44FB-B8EF-2BC5B23AC36E}"/>
+																				</MusicClip>
+																			</Local>
+																		</Reference>
+																	</ObjectList>
+																</ObjectLists>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="Main_SpawnGarage_Harmonics_C_122Bpm" ID="{4BA259F5-587B-4920-BC6A-7E4F6A8AF657}" ShortID="695080232">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{79B14649-3E32-4928-AFAB-3577EA8810EE}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Main_SpawnGarage_Harmonics_C_122Bpm" ID="{94F13C06-CB0C-4DB5-8256-33B457681570}">
+													<Language>SFX</Language>
+													<AudioFile>Main_SpawnGarage_Harmonics_C_122Bpm.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="279218113"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{30AD2C1A-7E8F-4A9A-B27D-A96B81B51425}">
+																<ObjectLists>
+																	<ObjectList Name="Clips">
+																		<Reference>
+																			<Local>
+																				<MusicClip Name="Main_SpawnGarage_Harmonics_C_122Bpm" ID="{60FD6296-4B84-4306-BEA2-1A7B9331BA09}">
+																					<PropertyList>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
+																						<Property Name="FadeInMode" Type="int16" Value="0"/>
+																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																					</PropertyList>
+																					<AudioSourceRef Name="Main_SpawnGarage_Harmonics_C_122Bpm" ID="{94F13C06-CB0C-4DB5-8256-33B457681570}"/>
+																				</MusicClip>
+																			</Local>
+																		</Reference>
+																	</ObjectList>
+																</ObjectLists>
+															</MusicTrackSequence>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicTrack>
+										<MusicTrack Name="Main_SpawnGarage_Violin_C_122Bpm" ID="{A6FF850B-3CB4-4DB0-96CC-C3B5EB48D37D}" ShortID="681597310">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+												</Reference>
+												<Reference Name="TransitionRoot">
+													<Custom>
+														<MusicTransition Name="Root" ID="{8D135BF8-961D-4061-B4F3-E7FA438A88AD}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Main_SpawnGarage_Violin_C_122Bpm" ID="{CCD6E8B1-AF13-491F-98DE-DD37E7FAE124}">
+													<Language>SFX</Language>
+													<AudioFile>Main_SpawnGarage_Violin_C_122Bpm.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="472772508"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Sequences">
+													<Reference>
+														<Local>
+															<MusicTrackSequence Name="" ID="{30DE80E3-1CC2-4C7C-9480-644CC129CA72}">
+																<ObjectLists>
+																	<ObjectList Name="Clips">
+																		<Reference>
+																			<Local>
+																				<MusicClip Name="Main_SpawnGarage_Violin_C_122Bpm" ID="{E0437DD6-9821-4FFE-9C34-16F58BB3C7C2}">
+																					<PropertyList>
+																						<Property Name="EndTrimOffset" Type="Real64" Value="62950.8333333333"/>
+																						<Property Name="FadeInMode" Type="int16" Value="0"/>
+																						<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																					</PropertyList>
+																					<AudioSourceRef Name="Main_SpawnGarage_Violin_C_122Bpm" ID="{CCD6E8B1-AF13-491F-98DE-DD37E7FAE124}"/>
 																				</MusicClip>
 																			</Local>
 																		</Reference>

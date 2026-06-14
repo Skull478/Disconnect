@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}",
     "Language": "SFX",
-    "Hash": "{B647A859-384F-5E1B-FFCE-B51AE085B4E5}",
+    "Hash": "{CB1F885F-9187-41A9-8EAA-9076AF08FFE9}",
     "ObjectPath": "Play_UI_Win",
     "ShortName": "Play_UI_Win",
     "Path": "Event/Play_UI_Win.bnk",
@@ -22,14 +22,14 @@
       "Location": "Loose",
       "ShortName": "UI_Win.wav",
       "Path": "Media/125024011.wem",
-      "CachePath": "5C/{5C4DED24-A598-45C7-8DDD-31DEDABB5766}.wem"
+      "CachePath": "9A/{9A6E8DEE-4B5C-26BC-566D-841E6AEA64D9}.wem"
      }
     ],
     "Events": [
      {
       "Id": "2823495579",
       "Name": "Play_UI_Win",
-      "ObjectPath": "\\Events\\UI\\Play_UI_Win",
+      "ObjectPath": "\\Events\\UI\\Jingles\\Play_UI_Win",
       "GUID": "{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}",
       "Color": "21",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{700B13EE-CB1D-CD30-C6FB-FA180FDFC67A}"
+  "FileHash": "{3A51EBAD-C9C5-997A-01A9-5B4B4F64FCB6}"
  }
 }

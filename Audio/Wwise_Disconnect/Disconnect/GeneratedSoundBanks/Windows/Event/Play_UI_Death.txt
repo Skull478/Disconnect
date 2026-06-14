@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2060677415	Play_UI_Death			\UI\Jingles\Play_UI_Death	
+
