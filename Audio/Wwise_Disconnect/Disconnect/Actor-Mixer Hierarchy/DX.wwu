@@ -235,6 +235,156 @@
 								<ActiveSource Name="DX_Dev_YeahThatsRight" ID="{EE28344A-FE1F-4976-970A-BEA5E1564FDF}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<Sound Name="DX_Dev_MajorAnomaly" ID="{974742A2-7E7F-4DA1-87EE-6E4AF65086E5}" ShortID="817768697">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Dev_MajorAnomaly" ID="{C0A82CD1-3603-4E8F-811B-D10F809A0950}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Dev_MajorAnomaly.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="514346891"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Dev_MajorAnomaly" ID="{C0A82CD1-3603-4E8F-811B-D10F809A0950}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Dev_MostOfThem" ID="{33DE33DD-6B98-48A5-88F1-DDF99B5D2566}" ShortID="710305838">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Dev_MostOfThem" ID="{4978EC36-81E7-4793-820E-26F8C0DBF0A1}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Dev_MostOfThem.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="605717201"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Dev_MostOfThem" ID="{4978EC36-81E7-4793-820E-26F8C0DBF0A1}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Dev_MakeUp" ID="{D455F236-3123-436F-9D2C-7FC6C132834D}" ShortID="510451570">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Dev_MakeUp" ID="{3FDEB508-EF01-4BED-88E4-DDFAB6824211}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Dev_MakeUp.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1006204174"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Dev_MakeUp" ID="{3FDEB508-EF01-4BED-88E4-DDFAB6824211}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Dev_RechargeIt" ID="{EBA90D2F-BF76-4FB9-89E9-73E478C5FB83}" ShortID="572704981">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Dev_RechargeIt" ID="{7320A873-C197-478D-89D7-08DB6B54CD51}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Dev_RechargeIt.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1005856658"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Dev_RechargeIt" ID="{7320A873-C197-478D-89D7-08DB6B54CD51}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Dev_CertainBatteries" ID="{E8F7505A-9C84-4E3A-8313-C24354C85D34}" ShortID="997696047">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Dev_CertainBatteries" ID="{A089F459-D9D0-40B1-9469-8920743EE753}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Dev_CertainBatteries.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="931046720"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Dev_CertainBatteries" ID="{A089F459-D9D0-40B1-9469-8920743EE753}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Dev_Sockets" ID="{9A86EB79-0A45-44C6-A283-067EC6DA9C65}" ShortID="503189360">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Dev_Sockets" ID="{4751746A-90C3-40F8-9A85-55C4DE23C062}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Dev_Sockets.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="101989619"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Dev_Sockets" ID="{4751746A-90C3-40F8-9A85-55C4DE23C062}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 				</ActorMixer>
 				<ActorMixer Name="Player" ID="{E4508999-095C-42B1-8855-2C33DFD88262}" ShortID="443731367">
@@ -538,6 +688,156 @@
 							</ChildrenList>
 							<ActiveSourceList>
 								<ActiveSource Name="DX_Player_WhatNow" ID="{41511E25-2E6E-4168-BD12-084DAAB4B58B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Player_Right" ID="{2C26FAA6-8B0D-4244-845C-9FBA7E267053}" ShortID="177314259">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Player_Right" ID="{C76659BA-BE10-45EC-902F-0BD0A6D19DAF}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Player_Right.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1049402328"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Player_Right" ID="{C76659BA-BE10-45EC-902F-0BD0A6D19DAF}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Player_UseCameras" ID="{C1DFB846-DAF5-4A17-B66B-47E9B07194B3}" ShortID="611311603">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Player_UseCameras" ID="{81F3699A-8E7A-4733-ACE5-CE9558B66899}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Player_UseCameras.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="757500154"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Player_UseCameras" ID="{81F3699A-8E7A-4733-ACE5-CE9558B66899}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Player_FindTheLift" ID="{3274C3CF-C6CC-44B1-BC99-4F507AFBC76D}" ShortID="171714574">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Player_FindTheLift" ID="{CDB6B6A4-8F8D-4D30-80FF-D589F1CF8FF0}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Player_FindTheLift.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="33470701"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Player_FindTheLift" ID="{CDB6B6A4-8F8D-4D30-80FF-D589F1CF8FF0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Player_How" ID="{958286F8-2815-4BD4-B864-25B890513F67}" ShortID="502905915">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Player_How" ID="{CBBAF080-55CF-48E2-B7DA-676B824E846C}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Player_How.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="596812032"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Player_How" ID="{CBBAF080-55CF-48E2-B7DA-676B824E846C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Player_AndThen" ID="{98BC6D11-6539-45EB-AD49-1F45A298E417}" ShortID="370703590">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Player_AndThen" ID="{9E63CD02-892C-4C0C-9F7F-B1858E67A55A}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Player_AndThen.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="841116121"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Player_AndThen" ID="{9E63CD02-892C-4C0C-9F7F-B1858E67A55A}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="DX_Player_Okay2" ID="{F206E86A-A42E-4F71-8B1E-44EB2725A9F0}" ShortID="661290030">
+							<PropertyList>
+								<Property Name="IsVoice" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="DX_Player_Okay2" ID="{7F716918-A93E-449A-8877-17E76F144DD8}">
+									<Language>English(US)</Language>
+									<AudioFile>DX_Player_Okay2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="651161238"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="DX_Player_Okay2" ID="{7F716918-A93E-449A-8877-17E76F144DD8}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>

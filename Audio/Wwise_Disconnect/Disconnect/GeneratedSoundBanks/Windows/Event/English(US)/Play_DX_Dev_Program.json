@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{FECFD77F-3C4D-48DD-9256-408993A36365}",
     "Language": "English(US)",
-    "Hash": "{8423B834-A288-0FF6-9AF4-8688A7CC4D7C}",
+    "Hash": "{5D5440A3-57AE-5721-0B98-07648BAB8F32}",
     "ObjectPath": "Play_DX_Dev_Program",
     "ShortName": "Play_DX_Dev_Program",
     "Path": "Event/English(US)/Play_DX_Dev_Program.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_Program.wav",
       "Path": "Media/English(US)/22258447.wem",
-      "CachePath": "AA/{AA0ACFB8-6588-34F1-513D-6DDAAC87017C}.wem"
+      "CachePath": "5B/{5B200023-C999-4733-ACB1-024AF4CEB733}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A88EEC3D-2E47-D3C0-5971-0B8B60684CF2}"
+  "FileHash": "{A9A233FA-F8B4-BDE1-5B01-FF27C166D4A6}"
  }
 }

@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1118502978",
+    "Type": "Event",
+    "GUID": "{94D07256-00F4-4062-B29B-EA8F85656D8C}",
+    "Language": "English(US)",
+    "Hash": "{1C316351-A55B-2799-0D27-A1D02FFA8625}",
+    "ObjectPath": "Play_DX_Player_FindTheLift",
+    "ShortName": "Play_DX_Player_FindTheLift",
+    "Path": "Event/English(US)/Play_DX_Player_FindTheLift.bnk",
+    "Media": [
+     {
+      "Id": "33470701",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_FindTheLift.wav",
+      "Path": "Media/English(US)/33470701.wem",
+      "CachePath": "B3/{B3C5A812-A216-A3BB-37CD-1B98253F83E3}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1118502978",
+      "Name": "Play_DX_Player_FindTheLift",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Player_FindTheLift",
+      "GUID": "{94D07256-00F4-4062-B29B-EA8F85656D8C}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "3.1935833",
+      "DurationMax": "3.1935833",
+      "MediaRefs": [
+       {
+        "Id": "33470701"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5DD3B7A7-47FE-0ECA-8393-56A69CE8B8BA}"
+ }
+}

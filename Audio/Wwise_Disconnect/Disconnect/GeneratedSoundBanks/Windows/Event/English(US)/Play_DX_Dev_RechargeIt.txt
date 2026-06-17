@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1075454357	Play_DX_Dev_RechargeIt			\DX\Player\Play_DX_Dev_RechargeIt	
+
