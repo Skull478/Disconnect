@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D9D48089-46CD-4527-90A7-098E48D3A2AA}",
     "Language": "English(US)",
-    "Hash": "{BE443AFB-69E2-2AAE-F102-32E14A0E9387}",
+    "Hash": "{81C26BFB-9B74-A1DA-8EA8-32C160E965E5}",
     "ObjectPath": "Play_DX_Dev_Sockets",
     "ShortName": "Play_DX_Dev_Sockets",
     "Path": "Event/English(US)/Play_DX_Dev_Sockets.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{EB506CED-97E6-7DEC-3D14-D1A770385C23}"
+  "FileHash": "{9A802369-933D-716D-354D-D64BEBE9F51F}"
  }
 }

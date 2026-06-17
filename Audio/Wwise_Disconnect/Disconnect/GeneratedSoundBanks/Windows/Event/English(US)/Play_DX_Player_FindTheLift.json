@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{94D07256-00F4-4062-B29B-EA8F85656D8C}",
     "Language": "English(US)",
-    "Hash": "{1C316351-A55B-2799-0D27-A1D02FFA8625}",
+    "Hash": "{D0C9BE0A-6A8A-C3E0-BF47-CA681BACDA28}",
     "ObjectPath": "Play_DX_Player_FindTheLift",
     "ShortName": "Play_DX_Player_FindTheLift",
     "Path": "Event/English(US)/Play_DX_Player_FindTheLift.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_FindTheLift.wav",
       "Path": "Media/English(US)/33470701.wem",
-      "CachePath": "B3/{B3C5A812-A216-A3BB-37CD-1B98253F83E3}.wem"
+      "CachePath": "28/{28F31835-79D1-3D89-CEF1-D4C0F0AA3030}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{C5CE4DA7-CED3-5A5A-9EEB-AFE2DD53B8C3}"
+  "FileHash": "{B7700DAE-BB94-7C01-B04D-9E266F983363}"
  }
 }

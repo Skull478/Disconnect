@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{842BFA6D-0496-4319-A290-F4E1FE58BEDF}",
     "Language": "English(US)",
-    "Hash": "{8C801B6C-8258-B680-881B-E2CA5FAA45B9}",
+    "Hash": "{E01F72B9-2DC5-3271-7D9D-BC0E39806C07}",
     "ObjectPath": "Play_DX_Dev_Destination",
     "ShortName": "Play_DX_Dev_Destination",
     "Path": "Event/English(US)/Play_DX_Dev_Destination.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{37CD0B86-AD44-7780-013C-90EDCF7FA132}"
+  "FileHash": "{3CAC8B08-F2BE-C657-2981-69A30A2B9A83}"
  }
 }

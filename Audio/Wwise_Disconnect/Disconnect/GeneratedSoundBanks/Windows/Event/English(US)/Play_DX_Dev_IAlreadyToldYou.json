@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D942A7B1-5B0F-4682-B3E7-1848C7AEA648}",
     "Language": "English(US)",
-    "Hash": "{AB1F9A63-C86E-B4D7-9E0C-10CAE6CB16C2}",
+    "Hash": "{D18DAB0E-B47C-5BD1-677F-B1B719D64C08}",
     "ObjectPath": "Play_DX_Dev_IAlreadyToldYou",
     "ShortName": "Play_DX_Dev_IAlreadyToldYou",
     "Path": "Event/English(US)/Play_DX_Dev_IAlreadyToldYou.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{6E8A59B7-584A-0303-FB59-8F55413D6AA2}"
+  "FileHash": "{960774C7-808B-20C2-17AA-BA2AD2B73D48}"
  }
 }

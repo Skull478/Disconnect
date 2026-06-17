@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DBB55DB8-4D81-499F-89D2-F915EA7876CE}",
     "Language": "English(US)",
-    "Hash": "{E6A29100-C83F-6773-6CDE-2DCF97AA9A5B}",
+    "Hash": "{F4E1ABFD-0BCF-886C-630F-47077C653B0A}",
     "ObjectPath": "Play_DX_Dev_MMORPG",
     "ShortName": "Play_DX_Dev_MMORPG",
     "Path": "Event/English(US)/Play_DX_Dev_MMORPG.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{5B5CB1E7-7CE5-AA26-DD45-13640F4CF749}"
+  "FileHash": "{46D3918B-1577-D474-F700-739AB97C1696}"
  }
 }

@@ -93,12 +93,28 @@
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>
+							<GameParameterRef Name="Player_Slider_Speed" ID="{1439B294-7B58-411C-9BE2-F261BB4ED79C}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
 							<GameParameterRef Name="Player_Vertical_Speed" ID="{E5F85A72-79B9-412A-9CEE-7072611A9F32}"/>
-							<Value>3.50426608598622E-312</Value>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="DX_Sidechain" ID="{5A41B6E0-1816-4478-9E4E-F8E4E19B93E9}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Dev_Sidechain" ID="{A073FD9C-F831-4A03-B944-98557D626CFC}"/>
+							<Value>0</Value>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="State_Loop1" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<CurrentStateRef Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>

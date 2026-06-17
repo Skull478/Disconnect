@@ -62,6 +62,20 @@
 								</ObjectList>
 							</ObjectLists>
 						</AuxBus>
+						<Bus Name="DX" ID="{D6E40F23-42FF-4F8D-B4AE-19C2F6B45613}">
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="DXDuck" ID="{792D6266-C552-48A5-9251-E360B9FFE495}"/>
+									<DuckingParam>
+										<Volume>-15</Volume>
+										<FadeInTime>1</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="DXDuck" ID="{792D6266-C552-48A5-9251-E360B9FFE495}"/>
 					</ChildrenList>
 				</Bus>
 			</ChildrenList>
