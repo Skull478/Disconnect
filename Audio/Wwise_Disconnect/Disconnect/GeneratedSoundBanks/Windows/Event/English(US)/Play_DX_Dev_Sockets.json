@@ -29,7 +29,7 @@
      {
       "Id": "3014491713",
       "Name": "Play_DX_Dev_Sockets",
-      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Dev_Sockets",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_Sockets",
       "GUID": "{D9D48089-46CD-4527-90A7-098E48D3A2AA}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{4EE33D5C-A3F1-2547-FC4B-BEB0D963D04C}"
+  "FileHash": "{EB506CED-97E6-7DEC-3D14-D1A770385C23}"
  }
 }

@@ -29,7 +29,7 @@
      {
       "Id": "1118502978",
       "Name": "Play_DX_Player_FindTheLift",
-      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Player_FindTheLift",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_FindTheLift",
       "GUID": "{94D07256-00F4-4062-B29B-EA8F85656D8C}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{5DD3B7A7-47FE-0ECA-8393-56A69CE8B8BA}"
+  "FileHash": "{C5CE4DA7-CED3-5A5A-9EEB-AFE2DD53B8C3}"
  }
 }

@@ -29,7 +29,7 @@
      {
       "Id": "3760487721",
       "Name": "Play_DX_Player_AndThen",
-      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Player_AndThen",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_AndThen",
       "GUID": "{ABC88271-F04E-488E-ACBB-08087FA44C02}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A27EE5C3-CB75-8143-BF13-AF4FC8AFD75A}"
+  "FileHash": "{B0AF3139-8513-0EDA-3AD7-EFE8EB53D4EE}"
  }
 }

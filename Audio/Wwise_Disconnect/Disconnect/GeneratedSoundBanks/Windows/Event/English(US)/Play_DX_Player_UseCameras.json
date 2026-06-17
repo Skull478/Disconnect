@@ -29,7 +29,7 @@
      {
       "Id": "3953465090",
       "Name": "Play_DX_Player_UseCameras",
-      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Player_UseCameras",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_UseCameras",
       "GUID": "{E6A6E40B-37EF-495F-9473-78B589C238F1}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{71B04F03-517C-0B20-E7EC-6A26642487D4}"
+  "FileHash": "{71971B50-8B30-65D9-95AC-B8E0E89EC7C9}"
  }
 }

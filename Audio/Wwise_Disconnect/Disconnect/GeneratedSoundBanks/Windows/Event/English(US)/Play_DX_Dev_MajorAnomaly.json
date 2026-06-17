@@ -29,7 +29,7 @@
      {
       "Id": "4118508819",
       "Name": "Play_DX_Dev_MajorAnomaly",
-      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Dev_MajorAnomaly",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MajorAnomaly",
       "GUID": "{A475E70F-F76B-4E13-B339-CD4BC83D4D18}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{8B4EC9C7-306F-BBA7-A48B-3655B4AAA47D}"
+  "FileHash": "{FB6B5A5A-7D4C-04A0-7B07-AB11DD5BBCC3}"
  }
 }

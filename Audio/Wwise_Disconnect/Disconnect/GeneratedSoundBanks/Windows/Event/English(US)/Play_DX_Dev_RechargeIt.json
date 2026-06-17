@@ -29,7 +29,7 @@
      {
       "Id": "1075454357",
       "Name": "Play_DX_Dev_RechargeIt",
-      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Dev_RechargeIt",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_RechargeIt",
       "GUID": "{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B05E0005-D417-555B-83DB-AC00B35B5084}"
+  "FileHash": "{3EA60F05-07F4-FCE6-364C-409DE1C30DF3}"
  }
 }

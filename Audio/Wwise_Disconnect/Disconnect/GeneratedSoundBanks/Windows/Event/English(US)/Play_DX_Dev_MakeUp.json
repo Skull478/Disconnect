@@ -29,7 +29,7 @@
      {
       "Id": "392199404",
       "Name": "Play_DX_Dev_MakeUp",
-      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Dev_MakeUp",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MakeUp",
       "GUID": "{09FC6C75-E392-4A7A-9B36-FD72DB924A60}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{13528BB0-0A0B-C731-2C87-05B1E1526F83}"
+  "FileHash": "{AD705657-8F9F-C921-31FA-2CDA1305D639}"
  }
 }

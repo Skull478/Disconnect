@@ -97,67 +97,67 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Player_UseCameras" ID="{E6A6E40B-37EF-495F-9473-78B589C238F1}">
+						<Event Name="Play_DX_Dev_CertainBatteries" ID="{D692D923-7418-4ABD-AB69-093D9C5461FA}">
 							<ChildrenList>
-								<Action Name="" ID="{7D7A1F72-7529-4A75-9114-BFEA46B8C844}" ShortID="1052070326">
+								<Action Name="" ID="{3AAA178A-2365-43E0-BA3C-0C1B5491F15E}" ShortID="850808273">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Player_UseCameras" ID="{C1DFB846-DAF5-4A17-B66B-47E9B07194B3}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Dev_CertainBatteries" ID="{E8F7505A-9C84-4E3A-8313-C24354C85D34}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Player_FindTheLift" ID="{94D07256-00F4-4062-B29B-EA8F85656D8C}">
+						<Event Name="Play_DX_Dev_MajorAnomaly" ID="{A475E70F-F76B-4E13-B339-CD4BC83D4D18}">
 							<ChildrenList>
-								<Action Name="" ID="{FE7D3914-D596-47C2-B752-8B4D7B4FF92C}" ShortID="646552411">
+								<Action Name="" ID="{F7C5FEB7-F609-4EEA-AFA1-1948105B8BED}" ShortID="305098149">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Player_FindTheLift" ID="{3274C3CF-C6CC-44B1-BC99-4F507AFBC76D}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Dev_MajorAnomaly" ID="{974742A2-7E7F-4DA1-87EE-6E4AF65086E5}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Player_AndThen" ID="{ABC88271-F04E-488E-ACBB-08087FA44C02}">
+						<Event Name="Play_DX_Dev_MakeUp" ID="{09FC6C75-E392-4A7A-9B36-FD72DB924A60}">
 							<ChildrenList>
-								<Action Name="" ID="{1149777C-D34F-446E-82EF-4632C6ACDCD0}" ShortID="583034666">
+								<Action Name="" ID="{C89876C4-0E4B-4E7C-A2AD-3B40A033728B}" ShortID="7560782">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Player_AndThen" ID="{98BC6D11-6539-45EB-AD49-1F45A298E417}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Dev_MakeUp" ID="{D455F236-3123-436F-9D2C-7FC6C132834D}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Player_Okay2" ID="{918D1176-BD74-4018-8444-A1255E8B4B1E}">
+						<Event Name="Play_DX_Dev_MostOfThem" ID="{DE90EA35-57BA-4EC8-A165-E91932ECAE9F}">
 							<ChildrenList>
-								<Action Name="" ID="{CA9932D3-BC13-442D-94A4-92FAE63B2432}" ShortID="702509119">
+								<Action Name="" ID="{0D3847D1-9580-4E12-9217-391CA3B09872}" ShortID="268404909">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Player_Okay2" ID="{F206E86A-A42E-4F71-8B1E-44EB2725A9F0}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Dev_MostOfThem" ID="{33DE33DD-6B98-48A5-88F1-DDF99B5D2566}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Player_Right" ID="{AC2368B3-7CAE-457F-BE35-6D879DF59C65}">
+						<Event Name="Play_DX_Dev_RechargeIt" ID="{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}">
 							<ChildrenList>
-								<Action Name="" ID="{1DA4F32D-C350-45B2-8ECC-C4659B383706}" ShortID="613407260">
+								<Action Name="" ID="{D5ED0A21-EE4D-40B9-A9E0-2C80B62BBFE9}" ShortID="681641012">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Player_Right" ID="{2C26FAA6-8B0D-4244-845C-9FBA7E267053}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Dev_RechargeIt" ID="{EBA90D2F-BF76-4FB9-89E9-73E478C5FB83}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Player_How" ID="{00A5630F-8D92-414D-A331-082942F7D4BC}">
+						<Event Name="Play_DX_Dev_Sockets" ID="{D9D48089-46CD-4527-90A7-098E48D3A2AA}">
 							<ChildrenList>
-								<Action Name="" ID="{762ACBCB-FFB5-4C99-A514-F3647CCE8311}" ShortID="1035226735">
+								<Action Name="" ID="{16E05207-1D71-4B3C-BA87-DDB33CC742AD}" ShortID="206709393">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Player_How" ID="{958286F8-2815-4BD4-B864-25B890513F67}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Dev_Sockets" ID="{9A86EB79-0A45-44C6-A283-067EC6DA9C65}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -288,67 +288,67 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Dev_MostOfThem" ID="{DE90EA35-57BA-4EC8-A165-E91932ECAE9F}">
+						<Event Name="Play_DX_Player_UseCameras" ID="{E6A6E40B-37EF-495F-9473-78B589C238F1}">
 							<ChildrenList>
-								<Action Name="" ID="{0D3847D1-9580-4E12-9217-391CA3B09872}" ShortID="268404909">
+								<Action Name="" ID="{7D7A1F72-7529-4A75-9114-BFEA46B8C844}" ShortID="1052070326">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Dev_MostOfThem" ID="{33DE33DD-6B98-48A5-88F1-DDF99B5D2566}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Player_UseCameras" ID="{C1DFB846-DAF5-4A17-B66B-47E9B07194B3}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Dev_MakeUp" ID="{09FC6C75-E392-4A7A-9B36-FD72DB924A60}">
+						<Event Name="Play_DX_Player_Right" ID="{AC2368B3-7CAE-457F-BE35-6D879DF59C65}">
 							<ChildrenList>
-								<Action Name="" ID="{C89876C4-0E4B-4E7C-A2AD-3B40A033728B}" ShortID="7560782">
+								<Action Name="" ID="{1DA4F32D-C350-45B2-8ECC-C4659B383706}" ShortID="613407260">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Dev_MakeUp" ID="{D455F236-3123-436F-9D2C-7FC6C132834D}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Player_Right" ID="{2C26FAA6-8B0D-4244-845C-9FBA7E267053}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Dev_MajorAnomaly" ID="{A475E70F-F76B-4E13-B339-CD4BC83D4D18}">
+						<Event Name="Play_DX_Player_AndThen" ID="{ABC88271-F04E-488E-ACBB-08087FA44C02}">
 							<ChildrenList>
-								<Action Name="" ID="{F7C5FEB7-F609-4EEA-AFA1-1948105B8BED}" ShortID="305098149">
+								<Action Name="" ID="{1149777C-D34F-446E-82EF-4632C6ACDCD0}" ShortID="583034666">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Dev_MajorAnomaly" ID="{974742A2-7E7F-4DA1-87EE-6E4AF65086E5}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Player_AndThen" ID="{98BC6D11-6539-45EB-AD49-1F45A298E417}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Dev_CertainBatteries" ID="{D692D923-7418-4ABD-AB69-093D9C5461FA}">
+						<Event Name="Play_DX_Player_Okay2" ID="{918D1176-BD74-4018-8444-A1255E8B4B1E}">
 							<ChildrenList>
-								<Action Name="" ID="{3AAA178A-2365-43E0-BA3C-0C1B5491F15E}" ShortID="850808273">
+								<Action Name="" ID="{CA9932D3-BC13-442D-94A4-92FAE63B2432}" ShortID="702509119">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Dev_CertainBatteries" ID="{E8F7505A-9C84-4E3A-8313-C24354C85D34}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Player_Okay2" ID="{F206E86A-A42E-4F71-8B1E-44EB2725A9F0}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Dev_RechargeIt" ID="{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}">
+						<Event Name="Play_DX_Player_How" ID="{00A5630F-8D92-414D-A331-082942F7D4BC}">
 							<ChildrenList>
-								<Action Name="" ID="{D5ED0A21-EE4D-40B9-A9E0-2C80B62BBFE9}" ShortID="681641012">
+								<Action Name="" ID="{762ACBCB-FFB5-4C99-A514-F3647CCE8311}" ShortID="1035226735">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Dev_RechargeIt" ID="{EBA90D2F-BF76-4FB9-89E9-73E478C5FB83}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Player_How" ID="{958286F8-2815-4BD4-B864-25B890513F67}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_DX_Dev_Sockets" ID="{D9D48089-46CD-4527-90A7-098E48D3A2AA}">
+						<Event Name="Play_DX_Player_FindTheLift" ID="{94D07256-00F4-4062-B29B-EA8F85656D8C}">
 							<ChildrenList>
-								<Action Name="" ID="{16E05207-1D71-4B3C-BA87-DDB33CC742AD}" ShortID="206709393">
+								<Action Name="" ID="{FE7D3914-D596-47C2-B752-8B4D7B4FF92C}" ShortID="646552411">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="DX_Dev_Sockets" ID="{9A86EB79-0A45-44C6-A283-067EC6DA9C65}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
+											<ObjectRef Name="DX_Player_FindTheLift" ID="{3274C3CF-C6CC-44B1-BC99-4F507AFBC76D}" WorkUnitID="{8EABD214-B603-4D01-9CDB-C4534391111B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

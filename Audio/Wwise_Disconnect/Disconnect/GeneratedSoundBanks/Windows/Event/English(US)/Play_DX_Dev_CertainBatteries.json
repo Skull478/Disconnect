@@ -29,7 +29,7 @@
      {
       "Id": "352642504",
       "Name": "Play_DX_Dev_CertainBatteries",
-      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Dev_CertainBatteries",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_CertainBatteries",
       "GUID": "{D692D923-7418-4ABD-AB69-093D9C5461FA}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B791F476-4B4F-626D-9622-7E065874FAB8}"
+  "FileHash": "{D01851B2-ABDF-C29B-8038-02776062DDAF}"
  }
 }

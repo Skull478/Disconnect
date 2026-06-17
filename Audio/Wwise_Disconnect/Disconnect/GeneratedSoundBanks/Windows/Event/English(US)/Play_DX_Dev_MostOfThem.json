@@ -29,7 +29,7 @@
      {
       "Id": "895307117",
       "Name": "Play_DX_Dev_MostOfThem",
-      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Dev_MostOfThem",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MostOfThem",
       "GUID": "{DE90EA35-57BA-4EC8-A165-E91932ECAE9F}",
       "Color": "24",
       "DurationType": "OneShot",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E63A710E-2DE6-C14A-2FE9-B8504A583AE2}"
+  "FileHash": "{AFDFBD5D-AC33-B5BC-FCFC-06E489E15794}"
  }
 }
