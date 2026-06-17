@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4E8814C7-7C3A-4C2F-BE47-C863A9C3640D}",
     "Language": "English(US)",
-    "Hash": "{DCDBCE26-91D9-BDC9-3E4C-997209086173}",
+    "Hash": "{32F47586-15E7-BEB3-75B9-9EE6396F8425}",
     "ObjectPath": "Play_DX_Player_ItTookAwhile",
     "ShortName": "Play_DX_Player_ItTookAwhile",
     "Path": "Event/English(US)/Play_DX_Player_ItTookAwhile.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_ItTookAwhile.wav",
       "Path": "Media/English(US)/555992198.wem",
-      "CachePath": "A7/{A7FB274F-7902-14A6-CC56-71B75CAB8A9B}.wem"
+      "CachePath": "CD/{CD7901D6-F646-1F26-DA24-47C0A5EE108C}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{41B889CD-C4D5-3927-98CA-E3B0DCE50912}"
+  "FileHash": "{35F363F2-DB6A-3942-ACF5-566231AC9154}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7A84AD0C-EA35-45D9-A461-B7E6BFF8E93B}",
     "Language": "English(US)",
-    "Hash": "{7BEFE208-7F07-FFD0-5072-129532695E2B}",
+    "Hash": "{484BAEC9-9B82-1610-1B65-A34632D13B7D}",
     "ObjectPath": "Play_DX_Player_NoRoom",
     "ShortName": "Play_DX_Player_NoRoom",
     "Path": "Event/English(US)/Play_DX_Player_NoRoom.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_NoRoom.wav",
       "Path": "Media/English(US)/362385146.wem",
-      "CachePath": "63/{63E01034-FE74-BA22-C5AD-10D5D7BF609B}.wem"
+      "CachePath": "01/{01451E82-93F9-E335-456E-35180897F2D1}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{BE2C394B-138B-519C-8C6D-8456E1680965}"
+  "FileHash": "{04BD74F9-2A40-A9B7-225C-AE9696C5E595}"
  }
 }

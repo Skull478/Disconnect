@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "392199404",
+    "Type": "Event",
+    "GUID": "{09FC6C75-E392-4A7A-9B36-FD72DB924A60}",
+    "Language": "English(US)",
+    "Hash": "{87D75E5C-62B1-47DE-A6B0-79A60EFD4EF2}",
+    "ObjectPath": "Play_DX_Dev_MakeUp",
+    "ShortName": "Play_DX_Dev_MakeUp",
+    "Path": "Event/English(US)/Play_DX_Dev_MakeUp.bnk",
+    "Media": [
+     {
+      "Id": "1006204174",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_MakeUp.wav",
+      "Path": "Media/English(US)/1006204174.wem",
+      "CachePath": "45/{4528EFC5-B359-762E-ADB0-5073D6BC0A2A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "392199404",
+      "Name": "Play_DX_Dev_MakeUp",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MakeUp",
+      "GUID": "{09FC6C75-E392-4A7A-9B36-FD72DB924A60}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "1.42725",
+      "DurationMax": "1.42725",
+      "MediaRefs": [
+       {
+        "Id": "1006204174"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{AD705657-8F9F-C921-31FA-2CDA1305D639}"
+ }
+}

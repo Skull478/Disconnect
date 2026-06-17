@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
     "Language": "English(US)",
-    "Hash": "{23242B76-6925-9B0D-7AE2-156723456E12}",
+    "Hash": "{E004D17F-AD6A-2614-0D94-CAA2C786C9B1}",
     "ObjectPath": "Play_DX_Player_HowDoYouPlan",
     "ShortName": "Play_DX_Player_HowDoYouPlan",
     "Path": "Event/English(US)/Play_DX_Player_HowDoYouPlan.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_HowDoYouPlan.wav",
       "Path": "Media/English(US)/857498698.wem",
-      "CachePath": "DC/{DC8A11B8-2282-11E1-9698-9DDE282741B0}.wem"
+      "CachePath": "A5/{A540FFA2-5CC5-BAE8-FF02-31726A9A2486}.wem"
      }
     ],
     "Events": [
@@ -33,8 +33,8 @@
       "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
       "Color": "24",
       "DurationType": "OneShot",
-      "DurationMin": "1.7326459",
-      "DurationMax": "1.7326459",
+      "DurationMin": "1.732625",
+      "DurationMax": "1.732625",
       "MediaRefs": [
        {
         "Id": "857498698"
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{4A83FEB0-74CC-97FD-C76B-C753ACA9C1EF}"
+  "FileHash": "{7176FCB9-8788-2BA1-741B-D2A47BDC9450}"
  }
 }

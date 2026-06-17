@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "895307117",
+    "Type": "Event",
+    "GUID": "{DE90EA35-57BA-4EC8-A165-E91932ECAE9F}",
+    "Language": "English(US)",
+    "Hash": "{6E5B51A7-DEF5-3842-1FB8-BFEEFB1C4DC0}",
+    "ObjectPath": "Play_DX_Dev_MostOfThem",
+    "ShortName": "Play_DX_Dev_MostOfThem",
+    "Path": "Event/English(US)/Play_DX_Dev_MostOfThem.bnk",
+    "Media": [
+     {
+      "Id": "605717201",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_MostOfThem.wav",
+      "Path": "Media/English(US)/605717201.wem",
+      "CachePath": "52/{52F63B54-17E5-5D88-D584-521E0EB27F3B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "895307117",
+      "Name": "Play_DX_Dev_MostOfThem",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MostOfThem",
+      "GUID": "{DE90EA35-57BA-4EC8-A165-E91932ECAE9F}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "4.156354",
+      "DurationMax": "4.156354",
+      "MediaRefs": [
+       {
+        "Id": "605717201"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{AFDFBD5D-AC33-B5BC-FCFC-06E489E15794}"
+ }
+}

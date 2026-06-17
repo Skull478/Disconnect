@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3953465090",
+    "Type": "Event",
+    "GUID": "{E6A6E40B-37EF-495F-9473-78B589C238F1}",
+    "Language": "English(US)",
+    "Hash": "{0C782273-4230-FE90-E61C-4623C5139323}",
+    "ObjectPath": "Play_DX_Player_UseCameras",
+    "ShortName": "Play_DX_Player_UseCameras",
+    "Path": "Event/English(US)/Play_DX_Player_UseCameras.bnk",
+    "Media": [
+     {
+      "Id": "757500154",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_UseCameras.wav",
+      "Path": "Media/English(US)/757500154.wem",
+      "CachePath": "E0/{E07E576A-4472-F815-7BE8-71DCCB7581B7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3953465090",
+      "Name": "Play_DX_Player_UseCameras",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_UseCameras",
+      "GUID": "{E6A6E40B-37EF-495F-9473-78B589C238F1}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "2.1653125",
+      "DurationMax": "2.1653125",
+      "MediaRefs": [
+       {
+        "Id": "757500154"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{71971B50-8B30-65D9-95AC-B8E0E89EC7C9}"
+ }
+}

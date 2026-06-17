@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4118508819",
+    "Type": "Event",
+    "GUID": "{A475E70F-F76B-4E13-B339-CD4BC83D4D18}",
+    "Language": "English(US)",
+    "Hash": "{748B61DA-1B4D-E623-CC43-1876F575EFE9}",
+    "ObjectPath": "Play_DX_Dev_MajorAnomaly",
+    "ShortName": "Play_DX_Dev_MajorAnomaly",
+    "Path": "Event/English(US)/Play_DX_Dev_MajorAnomaly.bnk",
+    "Media": [
+     {
+      "Id": "514346891",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_MajorAnomaly.wav",
+      "Path": "Media/English(US)/514346891.wem",
+      "CachePath": "D6/{D6AFE327-FFA0-24A7-AFD2-2D99821CEB9F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4118508819",
+      "Name": "Play_DX_Dev_MajorAnomaly",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MajorAnomaly",
+      "GUID": "{A475E70F-F76B-4E13-B339-CD4BC83D4D18}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "8.44",
+      "DurationMax": "8.44",
+      "MediaRefs": [
+       {
+        "Id": "514346891"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{FB6B5A5A-7D4C-04A0-7B07-AB11DD5BBCC3}"
+ }
+}
