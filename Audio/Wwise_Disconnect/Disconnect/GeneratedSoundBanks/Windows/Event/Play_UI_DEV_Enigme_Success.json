@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{96B04696-E4BF-4850-BD81-2AC1203724DD}",
     "Language": "SFX",
-    "Hash": "{05888D7E-F216-A310-A0C5-E66237868346}",
+    "Hash": "{A3C5025F-1D0C-8F2E-069F-0E769F7D6BDF}",
     "ObjectPath": "Play_UI_DEV_Enigme_Success",
     "ShortName": "Play_UI_DEV_Enigme_Success",
     "Path": "Event/Play_UI_DEV_Enigme_Success.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{4C959BA3-7177-745B-FC0F-9D40A6F6C252}"
+  "FileHash": "{29114050-A70D-A5F6-5401-1070709CE56B}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F133DD31-E286-4CFA-AACB-DDF2815BB761}",
     "Language": "SFX",
-    "Hash": "{E614BB3D-E16C-DC81-D5E1-5153B301D14A}",
+    "Hash": "{3CB2ADC5-3609-1643-FFB0-FC45ACD352C3}",
     "ObjectPath": "Play_OBJ_FireBarell",
     "ShortName": "Play_OBJ_FireBarell",
     "Path": "Event/Play_OBJ_FireBarell.bnk",
@@ -32,7 +32,7 @@
       "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_FireBarell",
       "GUID": "{F133DD31-E286-4CFA-AACB-DDF2815BB761}",
       "Color": "17",
-      "MaxAttenuation": "1000",
+      "MaxAttenuation": "600",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{CD6032D5-8E30-FDC0-61D5-F5AAD6684095}"
+  "FileHash": "{E1FFE344-329D-E6BC-9516-158D68D77507}"
  }
 }

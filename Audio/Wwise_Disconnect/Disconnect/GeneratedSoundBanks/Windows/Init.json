@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{1D2A1ABC-494D-EBEE-4437-C24EFB61DE56}",
+    "Hash": "{8205BFFB-A74F-1A80-55C1-BB3F7D362437}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -139,12 +139,6 @@
       "Name": "Tension",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Tension",
       "GUID": "{921F5E22-F4B2-423D-B662-50E002C062B9}"
-     },
-     {
-      "Id": "2663241300",
-      "Name": "DX_Sidechain",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\DX_Sidechain",
-      "GUID": "{5A41B6E0-1816-4478-9E4E-F8E4E19B93E9}"
      },
      {
       "Id": "3416015707",
@@ -355,6 +349,6 @@
     ]
    }
   ],
-  "FileHash": "{60D4F217-F174-1852-C349-C9A6F9E6B7B1}"
+  "FileHash": "{E31485D0-BD51-89FE-AE07-2AA9EC264816}"
  }
 }

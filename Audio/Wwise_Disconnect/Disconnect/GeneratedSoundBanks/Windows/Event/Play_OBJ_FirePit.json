@@ -1,0 +1,50 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2246982135",
+    "Type": "Event",
+    "GUID": "{65A10771-1B3B-48FC-A03B-32EF0A36B24B}",
+    "Language": "SFX",
+    "Hash": "{36FD6317-67A4-C23B-D217-AEE65EBE659D}",
+    "ObjectPath": "Play_OBJ_FirePit",
+    "ShortName": "Play_OBJ_FirePit",
+    "Path": "Event/Play_OBJ_FirePit.bnk",
+    "Media": [
+     {
+      "Id": "648322357",
+      "Language": "SFX",
+      "Streaming": "true",
+      "Location": "Loose",
+      "ShortName": "OBJ_FirePit.wav",
+      "Path": "Media/648322357.wem",
+      "CachePath": "57/{571308CD-47E2-2535-6D34-2A731CF9FF46}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2246982135",
+      "Name": "Play_OBJ_FirePit",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_FirePit",
+      "GUID": "{65A10771-1B3B-48FC-A03B-32EF0A36B24B}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "7.5",
+      "DurationMax": "7.5",
+      "MediaRefs": [
+       {
+        "Id": "648322357"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{ED8C69E5-3E12-5687-1048-CDB12D777FEA}"
+ }
+}

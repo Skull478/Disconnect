@@ -100,7 +100,7 @@
 						<Action Name="" ID="{9810155C-E473-4863-99A3-0D31C7078C37}" ShortID="541883441">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="UI_DEV_WindowClose" ID="{8EB51469-38CE-4C18-BD92-DFCF633F0515}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
+									<ObjectRef Name="UI_DEV_WindowClose" ID="{8EB51469-38CE-4C18-BD92-DFCF633F0515}" WorkUnitID="{32634CB0-11B6-4F76-AA94-C8579F70E1F1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

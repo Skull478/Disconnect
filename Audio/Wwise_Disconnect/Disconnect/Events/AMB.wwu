@@ -391,6 +391,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_FirePit" ID="{65A10771-1B3B-48FC-A03B-32EF0A36B24B}">
+							<ChildrenList>
+								<Action Name="" ID="{DEC9595F-B9FE-4676-B6A7-C9A3DAB405CB}" ShortID="289980698">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_FirePit" ID="{3A41AF41-C7CE-4DAF-B05E-41D870BD79F0}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Event Name="Play_AMB_Glitch" ID="{313219A7-C7CC-414A-9937-CB6754630EE6}">

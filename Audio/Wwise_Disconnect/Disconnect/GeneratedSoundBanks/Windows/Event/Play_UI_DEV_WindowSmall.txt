@@ -1,3 +1,3 @@
 Event	ID	Name			Wwise Object Path	Notes
-	4162286280	Play_UI_DEV_WindowSmall			\UI\DEV\Play_UI_DEV_WindowSmall	
+	4162286280	Play_UI_DEV_WindowSmall			\DEV\Play_UI_DEV_WindowSmall	
 
