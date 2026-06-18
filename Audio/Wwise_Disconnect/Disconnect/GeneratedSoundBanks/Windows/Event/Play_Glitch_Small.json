@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}",
     "Language": "SFX",
-    "Hash": "{EDA70431-9362-1DE9-FD7A-3CB2866DDDC9}",
+    "Hash": "{5F8464AD-B71F-E4F0-5AD7-68109BD94F2D}",
     "ObjectPath": "Play_Glitch_Small",
     "ShortName": "Play_Glitch_Small",
     "Path": "Event/Play_Glitch_Small.bnk",
@@ -113,7 +113,7 @@
       "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_Glitch_Small",
       "GUID": "{98BFBEF5-FB5A-428B-8786-5D65DF3158BA}",
       "Color": "17",
-      "MaxAttenuation": "1000",
+      "MaxAttenuation": "600",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -151,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{326E59B9-0FA3-454B-8EF9-16C68923F64F}"
+  "FileHash": "{B3E4F6F9-71E7-43D6-980A-CBBEA85E68D9}"
  }
 }
