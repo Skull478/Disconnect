@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{842BFA6D-0496-4319-A290-F4E1FE58BEDF}",
     "Language": "English(US)",
-    "Hash": "{7EC090F4-0C62-1EE9-C981-A30854206FDE}",
+    "Hash": "{E01F72B9-2DC5-3271-7D9D-BC0E39806C07}",
     "ObjectPath": "Play_DX_Dev_Destination",
     "ShortName": "Play_DX_Dev_Destination",
     "Path": "Event/English(US)/Play_DX_Dev_Destination.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_Destination.wav",
       "Path": "Media/English(US)/89573248.wem",
-      "CachePath": "C4/{C45A9868-11CE-DCD7-B58F-78A8F87E1D49}.wem"
+      "CachePath": "94/{948FE511-9C8B-9613-C887-D884805BFA13}.wem"
      }
     ],
     "Events": [
@@ -33,8 +33,8 @@
       "GUID": "{842BFA6D-0496-4319-A290-F4E1FE58BEDF}",
       "Color": "24",
       "DurationType": "OneShot",
-      "DurationMin": "2.613125",
-      "DurationMax": "2.613125",
+      "DurationMin": "2.6530833",
+      "DurationMax": "2.6530833",
       "MediaRefs": [
        {
         "Id": "89573248"
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{1E11F8BB-0A32-2E35-6DDD-CDBC2C47DF88}"
+  "FileHash": "{3CAC8B08-F2BE-C657-2981-69A30A2B9A83}"
  }
 }

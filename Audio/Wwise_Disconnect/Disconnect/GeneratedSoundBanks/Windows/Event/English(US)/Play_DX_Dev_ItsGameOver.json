@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5E9D3413-8432-4D0D-8018-EA55882BB0E3}",
     "Language": "English(US)",
-    "Hash": "{8ABF273A-629F-A5A6-4B44-F4D46C569C95}",
+    "Hash": "{F22A56E5-CF68-536D-3813-9274C06E821C}",
     "ObjectPath": "Play_DX_Dev_ItsGameOver",
     "ShortName": "Play_DX_Dev_ItsGameOver",
     "Path": "Event/English(US)/Play_DX_Dev_ItsGameOver.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_ItsGameOver.wav",
       "Path": "Media/English(US)/980684787.wem",
-      "CachePath": "2A/{2ACDEE6D-5112-BF38-CEF2-A44FF5777E7F}.wem"
+      "CachePath": "FF/{FF9E41D8-0BE6-F7AB-0337-D6F8D11117A9}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{D948FFA3-177C-74AA-40D3-3C1D4A72A312}"
+  "FileHash": "{5FDC073D-9B7E-D635-FF90-CD9920190542}"
  }
 }

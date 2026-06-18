@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5DA11D22-9DFD-4E90-9BD8-1A3338905133}",
     "Language": "English(US)",
-    "Hash": "{04104A02-BE8E-D332-3001-797ACEF03918}",
+    "Hash": "{037118C9-452E-A8A7-C019-657F08A628EB}",
     "ObjectPath": "Play_DX_Dev_Detour",
     "ShortName": "Play_DX_Dev_Detour",
     "Path": "Event/English(US)/Play_DX_Dev_Detour.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_Detour.wav",
       "Path": "Media/English(US)/539205859.wem",
-      "CachePath": "CF/{CF2AF6B1-5482-D8E0-BCC1-618380CEE698}.wem"
+      "CachePath": "83/{83E20ECB-929E-F3AB-5EC1-7454B4743E7A}.wem"
      }
     ],
     "Events": [
@@ -33,8 +33,8 @@
       "GUID": "{5DA11D22-9DFD-4E90-9BD8-1A3338905133}",
       "Color": "24",
       "DurationType": "OneShot",
-      "DurationMin": "4.429458",
-      "DurationMax": "4.429458",
+      "DurationMin": "4.467729",
+      "DurationMax": "4.467729",
       "MediaRefs": [
        {
         "Id": "539205859"
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{8B432946-0980-183A-26E0-639FA857157D}"
+  "FileHash": "{555A7303-848D-FDC8-E082-C3BCA431C2DE}"
  }
 }

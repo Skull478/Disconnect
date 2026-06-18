@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "352642504",
+    "Type": "Event",
+    "GUID": "{D692D923-7418-4ABD-AB69-093D9C5461FA}",
+    "Language": "English(US)",
+    "Hash": "{02607A54-CA73-F7F9-8DBB-0CD681AF5463}",
+    "ObjectPath": "Play_DX_Dev_CertainBatteries",
+    "ShortName": "Play_DX_Dev_CertainBatteries",
+    "Path": "Event/English(US)/Play_DX_Dev_CertainBatteries.bnk",
+    "Media": [
+     {
+      "Id": "931046720",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_CertainBatteries.wav",
+      "Path": "Media/English(US)/931046720.wem",
+      "CachePath": "34/{34A8ABF5-D225-0BB9-C16B-360D3FAFE8F9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "352642504",
+      "Name": "Play_DX_Dev_CertainBatteries",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_CertainBatteries",
+      "GUID": "{D692D923-7418-4ABD-AB69-093D9C5461FA}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "5.8850207",
+      "DurationMax": "5.8850207",
+      "MediaRefs": [
+       {
+        "Id": "931046720"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{46E4F0BD-FA3E-1FFD-FC3E-9460B4EDA3E1}"
+ }
+}
