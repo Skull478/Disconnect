@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{8E9320EF-1D17-4309-9582-89806EA11E91}",
     "Language": "SFX",
-    "Hash": "{849633A3-9674-E83F-274C-16AAE0AE11C1}",
+    "Hash": "{801EB222-9CB3-9DAD-9B16-4453DF146AE3}",
     "ObjectPath": "Play_INT_Cable_Select",
     "ShortName": "Play_INT_Cable_Select",
     "Path": "Event/Play_INT_Cable_Select.bnk",
@@ -59,6 +59,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cable_Select",
       "GUID": "{8E9320EF-1D17-4309-9582-89806EA11E91}",
       "Color": "23",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.0674375",
       "DurationMax": "0.105333336",
@@ -80,6 +81,6 @@
     ]
    }
   ],
-  "FileHash": "{17C14C29-A729-FACD-0BA0-1B1790732B37}"
+  "FileHash": "{C1B65CE4-69F6-4701-9FB2-414AECC0D2F1}"
  }
 }
