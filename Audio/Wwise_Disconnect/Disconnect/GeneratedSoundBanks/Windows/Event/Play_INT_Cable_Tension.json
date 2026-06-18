@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
     "Language": "SFX",
-    "Hash": "{3C42FAB2-6F8A-AC31-C5CE-542BD1E8AB72}",
+    "Hash": "{7FF9194E-F8FE-6579-4B5C-6C029A34D1ED}",
     "ObjectPath": "Play_INT_Cable_Tension",
     "ShortName": "Play_INT_Cable_Tension",
     "Path": "Event/Play_INT_Cable_Tension.bnk",
@@ -32,6 +32,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cable_Tension",
       "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
       "Color": "23",
+      "MaxAttenuation": "2000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{557F6522-FF69-39E6-808B-15E068A683A1}"
+  "FileHash": "{62901001-A186-5056-CFA9-F3B25D5CFC33}"
  }
 }

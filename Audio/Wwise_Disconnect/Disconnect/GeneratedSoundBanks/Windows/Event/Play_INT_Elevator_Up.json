@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7D1EE9FC-B76E-4FDF-ABD9-411B30073722}",
     "Language": "SFX",
-    "Hash": "{D995D0C9-0D12-B3E9-EF7E-5D4E18F5F2CA}",
+    "Hash": "{836CA09D-9E74-3C54-B4C3-7FEECBF34509}",
     "ObjectPath": "Play_INT_Elevator_Up",
     "ShortName": "Play_INT_Elevator_Up",
     "Path": "Event/Play_INT_Elevator_Up.bnk",
@@ -32,6 +32,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Elevator_Up",
       "GUID": "{7D1EE9FC-B76E-4FDF-ABD9-411B30073722}",
       "Color": "23",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "7.5480046",
       "DurationMax": "7.5480046",
@@ -44,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{D6B8D519-F7C7-74FA-879B-867D385A4353}"
+  "FileHash": "{09DBA1D0-A261-332A-37D5-D98B6FDB1318}"
  }
 }

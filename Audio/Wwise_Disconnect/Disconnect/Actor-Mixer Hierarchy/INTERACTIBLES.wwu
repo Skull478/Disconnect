@@ -9,9 +9,12 @@
 			<ChildrenList>
 				<ActorMixer Name="INTERACTIBLES" ID="{7D62E0E3-288D-4A7E-95FB-FB54B2E5F2E2}" ShortID="241559971">
 					<PropertyList>
-						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Attenuation_Global" ID="{186101D0-1FFD-4226-8403-EB14B411FE5D}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+						</Reference>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
 						</Reference>
