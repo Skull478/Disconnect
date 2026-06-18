@@ -380,6 +380,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_Elevator_PowerDown" ID="{FCD7657C-12D8-40BD-9918-8F2B57E63F80}">
+							<ChildrenList>
+								<Action Name="" ID="{1432B1EC-47F3-47C0-8AA4-ACEAD5D31434}" ShortID="612216187">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_Elevator_PowerDown" ID="{60432D7F-CAA1-4C97-839B-F837395C862F}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Event Name="Play_AMB_Glitch" ID="{313219A7-C7CC-414A-9937-CB6754630EE6}">

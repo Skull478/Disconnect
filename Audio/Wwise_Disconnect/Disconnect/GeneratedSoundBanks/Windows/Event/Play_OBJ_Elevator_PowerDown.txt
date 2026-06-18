@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1876216856	Play_OBJ_Elevator_PowerDown			\AMB\3dSounds\Play_OBJ_Elevator_PowerDown	
+

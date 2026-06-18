@@ -2020,7 +2020,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
-									<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+									<ObjectRef Name="Attenuation_Glitches_Small" ID="{0BEB20AF-6ACF-4546-9313-6C0491C79CF9}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
 								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -2531,7 +2531,7 @@
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>8</Value>
+										<Value>2</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -2558,7 +2558,9 @@
 						</Sound>
 						<Sound Name="OBJ_FireBarell" ID="{C59AEACD-EA76-4540-A451-7BB5DB70DF5A}" ShortID="218107532">
 							<PropertyList>
+								<Property Name="3DSpatialization" Type="int16" Value="2"/>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="OverridePositioning" Type="bool" Value="True"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
 										<Value>8</Value>
@@ -2566,6 +2568,9 @@
 								</Property>
 							</PropertyList>
 							<ReferenceList>
+								<Reference Name="Attenuation">
+									<ObjectRef Name="Attenuation_Glitches" ID="{60AFD4AF-0D72-482D-B0E4-C1DB7E9933D5}" WorkUnitID="{32C61715-DF56-4840-8BE5-3DDE92356886}"/>
+								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
 								</Reference>
@@ -3999,6 +4004,11 @@
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="OverridePositioning" Type="bool" Value="True"/>
 								<Property Name="SpeakerPanning3DSpatializationMix" Type="int32" Value="85"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-4</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
@@ -4072,9 +4082,9 @@
 							<ChildrenList>
 								<AudioFileSource Name="OBJ_Elevator_Reactivation" ID="{ABB7D8F1-97B9-40CE-B9C9-6E750B6DEEFF}">
 									<PropertyList>
-										<Property Name="FadeOutDuration" Type="Real64" Value="2.16205204736915"/>
-										<Property Name="LoopBegin" Type="Real64" Value="0"/>
+										<Property Name="FadeOutDuration" Type="Real64" Value="2.41862566367012"/>
 										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimEnd" Type="Real64" Value="3.74716832259712"/>
 									</PropertyList>
 									<Language>SFX</Language>
 									<AudioFile>OBJ_Elevator_Reactivation.wav</AudioFile>
@@ -4219,6 +4229,35 @@
 							</ChildrenList>
 							<ActiveSourceList>
 								<ActiveSource Name="AMB_Pipes_Loop" ID="{8C72A592-3919-42D7-A59B-90CC50182FF3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="OBJ_Elevator_PowerDown" ID="{60432D7F-CAA1-4C97-839B-F837395C862F}" ShortID="1069561845">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-5</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="OBJ_Elevator_PowerDown" ID="{6067360B-98B3-4B33-B28D-743793D94231}">
+									<Language>SFX</Language>
+									<AudioFile>OBJ_Elevator_PowerDown.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="724956509"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="OBJ_Elevator_PowerDown" ID="{6067360B-98B3-4B33-B28D-743793D94231}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>

@@ -1019,6 +1019,11 @@
 						<Sound Name="UI_Dev_Virus_Alarm" ID="{9954FB34-381B-4483-AED6-586CAD3C8D35}" ShortID="884408228">
 							<PropertyList>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-4</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
