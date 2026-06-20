@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CFB40BAC-6363-489F-B25F-9F1C96192E04}",
     "Language": "SFX",
-    "Hash": "{F36B3AAB-A299-6B4D-62C9-A412D26F3D43}",
+    "Hash": "{7D8F4DC1-42F5-3CEE-F05B-7D6653F15164}",
     "ObjectPath": "Play_UI_Dev_Virus_Alarm",
     "ShortName": "Play_UI_Dev_Virus_Alarm",
     "Path": "Event/Play_UI_Dev_Virus_Alarm.bnk",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{20FBFBBD-F6B7-D036-3B70-FE413D25EB75}"
+  "FileHash": "{90743BFF-7DDA-AB05-A3C3-141D547EE80C}"
  }
 }

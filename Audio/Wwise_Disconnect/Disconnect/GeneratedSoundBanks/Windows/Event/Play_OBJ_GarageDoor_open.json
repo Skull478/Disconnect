@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
     "Language": "SFX",
-    "Hash": "{C3EB57DF-CD9A-A425-99A5-FFC73A68DEC3}",
+    "Hash": "{012FEC27-005F-BA7F-A522-F29DF16A4DEB}",
     "ObjectPath": "Play_OBJ_GarageDoor_open",
     "ShortName": "Play_OBJ_GarageDoor_open",
     "Path": "Event/Play_OBJ_GarageDoor_open.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{C95EAAE2-06AD-C9C0-B34B-B528EF4D8D4E}"
+  "FileHash": "{B2DD7C1F-01DC-8BAA-146B-F4479A123543}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A1524453-EB93-4B2F-BEC9-D063BABDE0CD}",
     "Language": "SFX",
-    "Hash": "{652D2F5F-4D9F-77A5-1EC7-D3FA5DA48EA4}",
+    "Hash": "{06C31C3B-13FE-FE4E-05E6-CAF081475E81}",
     "ObjectPath": "Play_UI_Soft_Plastic_Click",
     "ShortName": "Play_UI_Soft_Plastic_Click",
     "Path": "Event/Play_UI_Soft_Plastic_Click.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B639FA3B-6A9A-EFF9-D7F8-86B8C226F530}"
+  "FileHash": "{04C8FBA2-0AD2-6F2A-FFBC-44E40E3283A4}"
  }
 }

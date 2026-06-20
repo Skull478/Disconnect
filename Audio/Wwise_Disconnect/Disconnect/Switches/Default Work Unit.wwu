@@ -11,46 +11,6 @@
 						<Switch Name="Wet" ID="{9694F716-1FDB-4C45-A6FA-4B0D09CF5770}"/>
 					</ChildrenList>
 				</SwitchGroup>
-				<SwitchGroup Name="Tension" ID="{59CA999B-071A-43FA-A31D-DDD49DF4A594}">
-					<PropertyList>
-						<Property Name="UseGameParameter" Type="bool" Value="True"/>
-					</PropertyList>
-					<ChildrenList>
-						<Switch Name="Mid" ID="{793212DB-BFCA-4BD9-897E-8DD5063FF819}"/>
-						<Switch Name="High" ID="{A21D935A-6F47-4F54-8A97-3F674CFB4837}"/>
-						<Switch Name="Low" ID="{0A1C1156-E8F9-406C-8660-3ABC6382AF63}"/>
-					</ChildrenList>
-					<SwitchOnRTPC>
-						<GameParameterRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}"/>
-						<Curve Name="" ID="{852F535E-075A-4978-A475-707E1E9E27B3}">
-							<PropertyList>
-								<Property Name="Flags" Type="int32" Value="65537"/>
-							</PropertyList>
-							<PointList>
-								<Point>
-									<XPos>0</XPos>
-									<YPos>3</YPos>
-									<Flags>5</Flags>
-								</Point>
-								<Point>
-									<XPos>40</XPos>
-									<YPos>1</YPos>
-									<Flags>0</Flags>
-								</Point>
-								<Point>
-									<XPos>80</XPos>
-									<YPos>2</YPos>
-									<Flags>0</Flags>
-								</Point>
-								<Point>
-									<XPos>100</XPos>
-									<YPos>2</YPos>
-									<Flags>37</Flags>
-								</Point>
-							</PointList>
-						</Curve>
-					</SwitchOnRTPC>
-				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>

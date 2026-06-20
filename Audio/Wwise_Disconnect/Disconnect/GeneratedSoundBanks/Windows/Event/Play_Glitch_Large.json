@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
     "Language": "SFX",
-    "Hash": "{8ED485E7-9F70-875E-DF33-713C7956D02C}",
+    "Hash": "{7A7E9029-B378-5079-0745-7C5B3C9F6148}",
     "ObjectPath": "Play_Glitch_Large",
     "ShortName": "Play_Glitch_Large",
     "Path": "Event/Play_Glitch_Large.bnk",
@@ -151,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{722D36E9-18BA-F1B2-7428-2ECF4B444335}"
+  "FileHash": "{1CBE8D5C-DB59-66DA-3FF9-CD2A6072C7EA}"
  }
 }

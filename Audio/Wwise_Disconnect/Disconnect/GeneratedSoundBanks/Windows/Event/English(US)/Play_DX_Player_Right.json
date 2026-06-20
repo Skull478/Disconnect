@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AC2368B3-7CAE-457F-BE35-6D879DF59C65}",
     "Language": "English(US)",
-    "Hash": "{C4624BE6-0F7A-C1AE-8E6B-896313BCBE4E}",
+    "Hash": "{382DB3AA-E81A-767C-BC30-BEF8F8CB1AA5}",
     "ObjectPath": "Play_DX_Player_Right",
     "ShortName": "Play_DX_Player_Right",
     "Path": "Event/English(US)/Play_DX_Player_Right.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{2930CAC1-DB6F-A753-92E5-ADAD3BD3155D}"
+  "FileHash": "{ED204F20-2553-329C-66AE-6ACAEF57779E}"
  }
 }

@@ -15,11 +15,6 @@
 								<Value>1</Value>
 							</ValueList>
 						</Property>
-						<Property Name="Priority" Type="int16">
-							<ValueList>
-								<Value>70</Value>
-							</ValueList>
-						</Property>
 						<Property Name="UseMaxSoundPerInstance" Type="bool">
 							<ValueList>
 								<Value>True</Value>
@@ -398,11 +393,6 @@
 						<Property Name="MaxSoundPerInstance" Type="int16">
 							<ValueList>
 								<Value>1</Value>
-							</ValueList>
-						</Property>
-						<Property Name="Priority" Type="int16">
-							<ValueList>
-								<Value>70</Value>
 							</ValueList>
 						</Property>
 						<Property Name="UseMaxSoundPerInstance" Type="bool">

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{90F308D9-4FBD-4321-9CA9-C31F8862A929}",
     "Language": "SFX",
-    "Hash": "{8F3E3091-25F7-23F1-76BA-50FD7BFBFA33}",
+    "Hash": "{C64BC65C-D587-D0B8-CAA6-1A7652847B97}",
     "ObjectPath": "Play_Cute_Return",
     "ShortName": "Play_Cute_Return",
     "Path": "Event/Play_Cute_Return.bnk",
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{FE8BB47A-CEB5-E41B-850A-342D2B011C8B}"
+  "FileHash": "{3FCA5CA1-99A4-E880-955D-D163988702D7}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4C30AF9B-0258-43E1-B6B5-E813D0A21767}",
     "Language": "SFX",
-    "Hash": "{ABDA977A-1B77-33F7-1E5D-D98A3FF0DD81}",
+    "Hash": "{74010D8A-F6B7-2088-E0CC-A583A46809FD}",
     "ObjectPath": "Play_UI_Kiss_Click",
     "ShortName": "Play_UI_Kiss_Click",
     "Path": "Event/Play_UI_Kiss_Click.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{4EA2C1F6-9667-ACDA-1096-5424A976E4B4}"
+  "FileHash": "{2D56977E-8685-816B-1DEC-2EE5589C1551}"
  }
 }

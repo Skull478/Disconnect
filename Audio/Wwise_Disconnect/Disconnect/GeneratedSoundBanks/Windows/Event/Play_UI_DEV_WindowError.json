@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{52F767AF-F197-46B3-A92A-2EF863A4DA31}",
     "Language": "SFX",
-    "Hash": "{D50B3F34-D107-657A-587C-78BD351C84E4}",
+    "Hash": "{E4365533-A21B-EC5C-A414-DDE11DC1FCBB}",
     "ObjectPath": "Play_UI_DEV_WindowError",
     "ShortName": "Play_UI_DEV_WindowError",
     "Path": "Event/Play_UI_DEV_WindowError.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{1198202F-C337-4C0C-3005-18DCD32D5D14}"
+  "FileHash": "{13078008-9BB0-BD55-3B5E-A5152CB62907}"
  }
 }

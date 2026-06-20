@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{08F66416-7ADE-450C-B01F-CF1555D3DA12}",
     "Language": "SFX",
-    "Hash": "{A5DF6A41-2A0D-E8AC-99CC-0F2819418B20}",
+    "Hash": "{644F33BB-7956-F8C9-9157-9D4C25F827BF}",
     "ObjectPath": "Play_PL_Squeaks",
     "ShortName": "Play_PL_Squeaks",
     "Path": "Event/Play_PL_Squeaks.bnk",
@@ -125,6 +125,6 @@
     ]
    }
   ],
-  "FileHash": "{A97A729F-8696-53D7-04AD-B746CEF313AE}"
+  "FileHash": "{34F4FDFF-4485-ABC0-6C4D-AB7CADD7A40F}"
  }
 }

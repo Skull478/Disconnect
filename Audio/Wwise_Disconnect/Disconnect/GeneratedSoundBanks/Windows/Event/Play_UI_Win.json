@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}",
     "Language": "SFX",
-    "Hash": "{6F20E0B6-F5EB-28A7-3556-C2586601D7FA}",
+    "Hash": "{CB1F885F-9187-41A9-8EAA-9076AF08FFE9}",
     "ObjectPath": "Play_UI_Win",
     "ShortName": "Play_UI_Win",
     "Path": "Event/Play_UI_Win.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{38747064-F76B-8C9C-F2A1-59100371E157}"
+  "FileHash": "{3A51EBAD-C9C5-997A-01A9-5B4B4F64FCB6}"
  }
 }

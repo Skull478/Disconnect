@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E4665F96-FB1C-4C2F-A5BE-0891691064AF}",
     "Language": "SFX",
-    "Hash": "{9EF3EF0B-5392-F0EC-651F-A8633B226EC3}",
+    "Hash": "{BD1CC661-5248-522B-0D85-4BD1BB528A2A}",
     "ObjectPath": "Play_UI_Cancel_Close",
     "ShortName": "Play_UI_Cancel_Close",
     "Path": "Event/Play_UI_Cancel_Close.bnk",
@@ -92,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{84939D6F-9711-59A3-3FFD-7622F29F2451}"
+  "FileHash": "{78FDE674-9E95-86DA-4B3A-F941B9E3BBCC}"
  }
 }

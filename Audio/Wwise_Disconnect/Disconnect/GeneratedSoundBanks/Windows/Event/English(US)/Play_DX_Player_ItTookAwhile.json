@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4E8814C7-7C3A-4C2F-BE47-C863A9C3640D}",
     "Language": "English(US)",
-    "Hash": "{A4FBC85F-8C00-B929-CCAB-B2326D09AEDD}",
+    "Hash": "{7FC475B8-7990-3E6F-E25F-0E48CCD1CAE8}",
     "ObjectPath": "Play_DX_Player_ItTookAwhile",
     "ShortName": "Play_DX_Player_ItTookAwhile",
     "Path": "Event/English(US)/Play_DX_Player_ItTookAwhile.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{D9DCC5B9-E9B6-4B14-47EB-6EB657A27441}"
+  "FileHash": "{EBF05D58-1C98-9822-E320-BBB678DA78BE}"
  }
 }

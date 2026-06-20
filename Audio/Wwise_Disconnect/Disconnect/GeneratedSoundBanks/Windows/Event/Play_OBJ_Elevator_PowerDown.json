@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{FCD7657C-12D8-40BD-9918-8F2B57E63F80}",
     "Language": "SFX",
-    "Hash": "{53CD3D81-0CFC-49EB-8156-5A26E84C7074}",
+    "Hash": "{1B5BB2EC-4181-DD58-AE90-6934C06F0855}",
     "ObjectPath": "Play_OBJ_Elevator_PowerDown",
     "ShortName": "Play_OBJ_Elevator_PowerDown",
     "Path": "Event/Play_OBJ_Elevator_PowerDown.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{74D0D774-113A-C326-2C60-E4D426E438C8}"
+  "FileHash": "{5014933D-61FE-3EB7-5153-633F767E9D0D}"
  }
 }

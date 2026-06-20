@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}",
     "Language": "English(US)",
-    "Hash": "{29333C3D-EC51-F777-52D8-7B70B623D8C8}",
+    "Hash": "{285BCF43-0443-EDF2-8E70-170B035A018F}",
     "ObjectPath": "Play_DX_Dev_RechargeIt",
     "ShortName": "Play_DX_Dev_RechargeIt",
     "Path": "Event/English(US)/Play_DX_Dev_RechargeIt.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{4F1DF1F4-9A1F-1B39-8A30-851A085651A0}"
+  "FileHash": "{82E0CD32-D86D-3441-E16C-A40707DFB6BD}"
  }
 }

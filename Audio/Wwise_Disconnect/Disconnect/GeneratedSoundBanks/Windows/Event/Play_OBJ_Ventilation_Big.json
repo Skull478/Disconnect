@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
     "Language": "SFX",
-    "Hash": "{2193D580-1681-4BC3-0340-0F135BA0C3B7}",
+    "Hash": "{7D0CDD09-89E9-EE83-FB68-2913CF73EEA2}",
     "ObjectPath": "Play_OBJ_Ventilation_Big",
     "ShortName": "Play_OBJ_Ventilation_Big",
     "Path": "Event/Play_OBJ_Ventilation_Big.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{631CEE66-3572-5CEF-BF1C-183313098AEC}"
+  "FileHash": "{8B4A05C4-058A-B357-1DDB-9FC735B538DB}"
  }
 }

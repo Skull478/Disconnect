@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{8E8CF20D-FDC6-40B0-96C7-155A7B6352E9}",
     "Language": "English(US)",
-    "Hash": "{F959AA1D-E66C-2D39-8637-B88F43F1C890}",
+    "Hash": "{AAD90797-70BE-E710-ADA0-8713F8C2AB3D}",
     "ObjectPath": "Play_DX_Player_NoProblem",
     "ShortName": "Play_DX_Player_NoProblem",
     "Path": "Event/English(US)/Play_DX_Player_NoProblem.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{8C4FDE5B-2F8B-C08B-6021-BDA8D3D74E70}"
+  "FileHash": "{7D9C204E-91DD-B253-EEA0-27676F203A91}"
  }
 }

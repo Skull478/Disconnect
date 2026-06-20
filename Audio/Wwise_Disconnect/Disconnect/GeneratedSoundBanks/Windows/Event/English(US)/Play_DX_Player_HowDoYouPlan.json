@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
     "Language": "English(US)",
-    "Hash": "{7F716C0F-8872-B635-787A-FA787ECE5D49}",
+    "Hash": "{4A68F736-8277-DD73-38F6-B87D1D70B596}",
     "ObjectPath": "Play_DX_Player_HowDoYouPlan",
     "ShortName": "Play_DX_Player_HowDoYouPlan",
     "Path": "Event/English(US)/Play_DX_Player_HowDoYouPlan.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{27D4FFBE-50AB-1ED2-62FA-A51512A0EF37}"
+  "FileHash": "{E400C4A8-9CD9-DEDD-3C28-471A1A837EAF}"
  }
 }

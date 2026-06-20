@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A47B1E65-E9A1-4ACA-AD1B-4B2028B6B77D}",
     "Language": "SFX",
-    "Hash": "{4ED08B5D-CBC6-BE93-B4B2-E6502E1CE7F1}",
+    "Hash": "{DCB40551-4EF9-6812-15F6-5DB2766E3445}",
     "ObjectPath": "Play_UI_Bop_Click",
     "ShortName": "Play_UI_Bop_Click",
     "Path": "Event/Play_UI_Bop_Click.bnk",
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{BE08C20F-2AF7-4C6F-0C23-6A87C783787F}"
+  "FileHash": "{56CF4D51-6DC9-9AB4-946E-0C3CFB48345B}"
  }
 }

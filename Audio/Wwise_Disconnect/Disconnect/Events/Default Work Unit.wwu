@@ -16,41 +16,10 @@
 				</Event>
 				<Event Name="Play_Music_Sytem" ID="{6072C88A-D967-459E-84FF-E22468898EE3}">
 					<ChildrenList>
-						<Action Name="" ID="{20FF322C-FBB9-4820-924C-C828F4DAD13D}" ShortID="983737426">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="38"/>
-								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
-								<Property Name="Scope" Type="int16" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{D6B450B7-332F-49E8-B388-4F651DEF0461}" ShortID="526871517">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="38"/>
-								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
-								<Property Name="Scope" Type="int16" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
 						<Action Name="" ID="{A71E836A-FCA5-41C6-B2B6-741501876CE0}" ShortID="671604792">
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{09C6AAA8-9A0A-4CE6-B2FC-20F96E573E48}" ShortID="733673745">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="MUSIC_Virus_Layer" ID="{438A94E3-0CE2-4D3F-B185-D8FCD8C42260}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -67,39 +36,6 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{AEE35FC9-D091-4B11-BF3B-4913D1F6AAB6}" ShortID="909977362">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="2"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-								<Property Name="Scope" Type="int16" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="MUSIC_Virus_Layer" ID="{438A94E3-0CE2-4D3F-B185-D8FCD8C42260}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="Play_MUSIC_Menu" ID="{EC548983-A864-46C6-B88D-A23C898E0716}">
-					<ChildrenList>
-						<Action Name="" ID="{7FC4A7E9-FF4D-4A62-A88D-9375EBB82E86}" ShortID="310453194">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Menu_Intro_Wind" ID="{3C2059A1-E793-4AD9-9AD5-F6C1F1902B7A}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{1F55A197-458C-4D7B-BF6E-6D94DB7D04F0}" ShortID="827045913">
-							<PropertyList>
-								<Property Name="Delay" Type="Real64" Value="6"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="MUSIC_Menu" ID="{F68D0ADF-BF88-4993-9401-BE7DE1F497CB}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

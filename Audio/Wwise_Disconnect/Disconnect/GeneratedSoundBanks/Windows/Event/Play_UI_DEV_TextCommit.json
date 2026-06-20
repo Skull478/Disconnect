@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{59DA4F4B-473C-456F-8567-455E7F2302E4}",
     "Language": "SFX",
-    "Hash": "{C5FAE210-4236-3EFE-DC1B-5E7339C55BDD}",
+    "Hash": "{16A8EA37-A1A5-2CE7-7952-D12D3901EDED}",
     "ObjectPath": "Play_UI_DEV_TextCommit",
     "ShortName": "Play_UI_DEV_TextCommit",
     "Path": "Event/Play_UI_DEV_TextCommit.bnk",
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{1BAA776B-2195-4637-1318-D464060FC0A1}"
+  "FileHash": "{38BD6454-06BE-19FA-FE5B-7A51FA65AAAD}"
  }
 }

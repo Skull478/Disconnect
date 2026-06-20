@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
     "Language": "SFX",
-    "Hash": "{8B26EE58-81B3-FC33-D6B0-13BEB6BD2A11}",
+    "Hash": "{1DD79CB7-95D7-C1A6-B99F-55B9C4BD9D9F}",
     "ObjectPath": "Play_UI_DEV_Virus_Appear",
     "ShortName": "Play_UI_DEV_Virus_Appear",
     "Path": "Event/Play_UI_DEV_Virus_Appear.bnk",
@@ -171,6 +171,6 @@
     ]
    }
   ],
-  "FileHash": "{9585C167-E553-D3B1-EA7C-485327311DE8}"
+  "FileHash": "{95786D85-EA87-13D4-B110-90744DB8CC94}"
  }
 }

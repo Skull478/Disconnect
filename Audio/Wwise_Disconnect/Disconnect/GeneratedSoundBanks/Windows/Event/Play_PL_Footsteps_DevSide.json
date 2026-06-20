@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0F630EED-AC0C-4B70-AEB3-324AD1444F41}",
     "Language": "SFX",
-    "Hash": "{76FF8004-8D95-3463-7B0E-A71DDB95121B}",
+    "Hash": "{95F4766C-63AD-C319-3A93-A9652719DE2C}",
     "ObjectPath": "Play_PL_Footsteps_DevSide",
     "ShortName": "Play_PL_Footsteps_DevSide",
     "Path": "Event/Play_PL_Footsteps_DevSide.bnk",
@@ -408,6 +408,6 @@
     ]
    }
   ],
-  "FileHash": "{D151474E-ECEA-CD9F-43D7-549C9056EF12}"
+  "FileHash": "{693596FB-4C6E-6DC3-EACC-EE82FE5E9546}"
  }
 }

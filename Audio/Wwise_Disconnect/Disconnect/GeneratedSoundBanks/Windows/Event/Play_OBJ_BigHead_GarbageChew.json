@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}",
     "Language": "SFX",
-    "Hash": "{3A177D85-9001-2982-9D6B-A8552013BB0A}",
+    "Hash": "{2F5C5339-1535-2567-A7ED-3222522F8D3C}",
     "ObjectPath": "Play_OBJ_BigHead_GarbageChew",
     "ShortName": "Play_OBJ_BigHead_GarbageChew",
     "Path": "Event/Play_OBJ_BigHead_GarbageChew.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{DD39AFA6-94EA-B74E-3891-4FC3633C0ECD}"
+  "FileHash": "{496CAA14-D83B-EE08-3BF2-169367A0B88E}"
  }
 }

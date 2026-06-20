@@ -11,11 +11,6 @@
 					<PropertyList>
 						<Property Name="EnableAttenuation" Type="bool" Value="False"/>
 						<Property Name="OverridePositioning" Type="bool" Value="True"/>
-						<Property Name="Priority" Type="int16">
-							<ValueList>
-								<Value>70</Value>
-							</ValueList>
-						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">

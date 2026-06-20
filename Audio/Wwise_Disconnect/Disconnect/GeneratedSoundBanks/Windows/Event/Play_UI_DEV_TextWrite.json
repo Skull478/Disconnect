@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{704A42C6-41B1-4369-9D9F-EACE5140EF07}",
     "Language": "SFX",
-    "Hash": "{F1A21BD9-B177-AEEA-3774-A41D9EFDD1FA}",
+    "Hash": "{485E59C9-D3AD-1804-7F72-5689E8293AC7}",
     "ObjectPath": "Play_UI_DEV_TextWrite",
     "ShortName": "Play_UI_DEV_TextWrite",
     "Path": "Event/Play_UI_DEV_TextWrite.bnk",
@@ -152,6 +152,6 @@
     ]
    }
   ],
-  "FileHash": "{4CB9FB6D-35AF-1C21-B2F8-47988A004609}"
+  "FileHash": "{319D4860-08C9-7740-38B0-BD1A707A16F7}"
  }
 }
