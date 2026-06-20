@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "421936975",
+    "Type": "Event",
+    "GUID": "{6DB679CC-E4C7-4C27-BA21-22265F799ABC}",
+    "Language": "SFX",
+    "Hash": "{08A36D8E-CAF0-A3BD-343A-BE02A79DD7BE}",
+    "ObjectPath": "Play_DEV_LavaRise",
+    "ShortName": "Play_DEV_LavaRise",
+    "Path": "Event/Play_DEV_LavaRise.bnk",
+    "Media": [
+     {
+      "Id": "501386864",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DEV_LavaRise.wav",
+      "Path": "Media/501386864.wem",
+      "CachePath": "A7/{A75D8B41-E5C6-C34C-A698-AE30C6D1209B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "421936975",
+      "Name": "Play_DEV_LavaRise",
+      "ObjectPath": "\\Events\\DEV\\ElevatorFreight\\Play_DEV_LavaRise",
+      "GUID": "{6DB679CC-E4C7-4C27-BA21-22265F799ABC}",
+      "Color": "12",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "501386864"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{33FB3020-880A-434A-59E7-19AA3D48E077}"
+ }
+}

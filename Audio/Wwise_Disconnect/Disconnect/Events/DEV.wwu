@@ -208,6 +208,36 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Folder Name="ElevatorFreight" ID="{C61D3433-0344-42F7-ABFE-50A88EB4452D}" ShortID="754215054">
+					<ChildrenList>
+						<Event Name="Play_DEV_LavaRise" ID="{6DB679CC-E4C7-4C27-BA21-22265F799ABC}">
+							<ChildrenList>
+								<Action Name="" ID="{4FAF0FA7-9DEC-4084-ACC8-942D8A2C870D}" ShortID="567173850">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="DEV_LavaRise" ID="{4618E7B1-E791-45CC-A922-41D23E40A543}" WorkUnitID="{32634CB0-11B6-4F76-AA94-C8579F70E1F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_DEV_LavaRise" ID="{0752FCDF-25B4-4CE6-9513-9DB4FE3DB80E}">
+							<ChildrenList>
+								<Action Name="" ID="{6B3120A1-F828-4F02-97EC-338B660273FD}" ShortID="638114088">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="DEV_LavaRise" ID="{4618E7B1-E791-45CC-A922-41D23E40A543}" WorkUnitID="{32634CB0-11B6-4F76-AA94-C8579F70E1F1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

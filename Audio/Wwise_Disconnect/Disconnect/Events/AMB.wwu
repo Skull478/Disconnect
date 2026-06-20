@@ -402,6 +402,28 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Play_OBJ_ElevatorFreight_Down" ID="{28E964D8-B48E-4AB8-AC73-3CCBA986534A}">
+							<ChildrenList>
+								<Action Name="" ID="{425A0C99-5F5E-4304-9E4D-4E1CDA3E6505}" ShortID="288732284">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_ElevatorFreight_Down" ID="{7AA22F20-154D-480C-9056-67B1BB613337}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_OBJ_ElevatorFreight_Up" ID="{1C23DCA8-8CF7-4551-9C4B-289C90E26D4D}">
+							<ChildrenList>
+								<Action Name="" ID="{A2A12429-C3FA-45F3-B192-2C54715B7ABF}" ShortID="338938770">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OBJ_ElevatorFreight_Up" ID="{0745277A-8503-4C89-A9D9-632DD231505D}" WorkUnitID="{2F8521B6-09B3-470A-BDD1-3F0FA014FDE5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Event Name="Play_AMB_Glitch" ID="{313219A7-C7CC-414A-9937-CB6754630EE6}">

@@ -1,0 +1,50 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3935376062",
+    "Type": "Event",
+    "GUID": "{28E964D8-B48E-4AB8-AC73-3CCBA986534A}",
+    "Language": "SFX",
+    "Hash": "{6DBFF507-B397-BF6C-FEC1-BE5EBAA846CE}",
+    "ObjectPath": "Play_OBJ_ElevatorFreight_Down",
+    "ShortName": "Play_OBJ_ElevatorFreight_Down",
+    "Path": "Event/Play_OBJ_ElevatorFreight_Down.bnk",
+    "Media": [
+     {
+      "Id": "433200050",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_ElevatorFreight_Down.wav",
+      "Path": "Media/433200050.wem",
+      "CachePath": "0F/{0F99E1F1-78BC-50E8-FF92-2489204FF29C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3935376062",
+      "Name": "Play_OBJ_ElevatorFreight_Down",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_ElevatorFreight_Down",
+      "GUID": "{28E964D8-B48E-4AB8-AC73-3CCBA986534A}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "7.310479",
+      "DurationMax": "7.310479",
+      "MediaRefs": [
+       {
+        "Id": "433200050"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9B70194A-4348-9708-D37C-F13CB6AA4A29}"
+ }
+}

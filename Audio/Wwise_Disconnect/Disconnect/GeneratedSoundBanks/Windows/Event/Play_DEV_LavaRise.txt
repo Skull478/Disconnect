@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	421936975	Play_DEV_LavaRise			\DEV\ElevatorFreight\Play_DEV_LavaRise	
+

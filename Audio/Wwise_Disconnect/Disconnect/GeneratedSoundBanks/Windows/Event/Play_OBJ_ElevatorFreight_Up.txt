@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2068707813	Play_OBJ_ElevatorFreight_Up			\AMB\3dSounds\Play_OBJ_ElevatorFreight_Up	
+

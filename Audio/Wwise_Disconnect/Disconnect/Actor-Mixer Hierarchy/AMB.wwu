@@ -4296,6 +4296,68 @@
 								<ActiveSource Name="OBJ_FirePit" ID="{8FC380B8-9951-43EC-AC72-2538D7A5155B}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<Folder Name="ElevatorFreight" ID="{0D8D79B4-7D57-422A-907F-7FB07B4CA9E5}" ShortID="765583860">
+							<ChildrenList>
+								<Sound Name="OBJ_ElevatorFreight_Up" ID="{0745277A-8503-4C89-A9D9-632DD231505D}" ShortID="667019939">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-5</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="OBJ_ElevatorFreight_Up" ID="{D4B640BB-7108-4114-8F3E-300FBA020CA0}">
+											<Language>SFX</Language>
+											<AudioFile>OBJ_ElevatorFreight_Up.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="496626388"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="OBJ_ElevatorFreight_Up" ID="{D4B640BB-7108-4114-8F3E-300FBA020CA0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="OBJ_ElevatorFreight_Down" ID="{7AA22F20-154D-480C-9056-67B1BB613337}" ShortID="1012186870">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-5</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="OBJ_ElevatorFreight_Down" ID="{2DB8BF62-190B-47FE-BAB7-61E970105415}">
+											<Language>SFX</Language>
+											<AudioFile>OBJ_ElevatorFreight_Down.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="433200050"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="OBJ_ElevatorFreight_Down" ID="{2DB8BF62-190B-47FE-BAB7-61E970105415}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
 					</ChildrenList>
 				</ActorMixer>
 			</ChildrenList>
