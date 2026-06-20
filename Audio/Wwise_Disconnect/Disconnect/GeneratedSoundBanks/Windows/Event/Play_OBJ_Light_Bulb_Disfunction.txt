@@ -1,3 +1,3 @@
 Event	ID	Name			Wwise Object Path	Notes
-	470245327	Play_OBJ_Light_Bulb_Disfunction			\3D Sounds\Play_OBJ_Light_Bulb_Disfunction	
+	470245327	Play_OBJ_Light_Bulb_Disfunction			\AMB\3dSounds\Play_OBJ_Light_Bulb_Disfunction	
 

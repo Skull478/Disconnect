@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7D1EE9FC-B76E-4FDF-ABD9-411B30073722}",
     "Language": "SFX",
-    "Hash": "{836CA09D-9E74-3C54-B4C3-7FEECBF34509}",
+    "Hash": "{BF8D2825-4D6A-5268-777C-7EA830015053}",
     "ObjectPath": "Play_INT_Elevator_Up",
     "ShortName": "Play_INT_Elevator_Up",
     "Path": "Event/Play_INT_Elevator_Up.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{09DBA1D0-A261-332A-37D5-D98B6FDB1318}"
+  "FileHash": "{67E3BAC1-2F25-A88C-3DFB-EA3E09D314E1}"
  }
 }

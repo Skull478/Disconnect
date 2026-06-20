@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7214B2A0-2E3B-4F31-B111-718D27AD1E52}",
     "Language": "SFX",
-    "Hash": "{86DA40CE-EA76-9AE4-272F-963C38B525F0}",
+    "Hash": "{42A605EE-FC76-8B0A-97FD-9C78B7AB37A9}",
     "ObjectPath": "Play_UI_Arrow2",
     "ShortName": "Play_UI_Arrow2",
     "Path": "Event/Play_UI_Arrow2.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B1F282BF-9FDD-8F72-856D-3833C9CCFF11}"
+  "FileHash": "{ACABC82C-B490-C73D-0037-D3198BC40BEA}"
  }
 }

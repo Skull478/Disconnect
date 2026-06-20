@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4B96484F-D94A-42C9-907E-D6B0DAB30A9B}",
     "Language": "SFX",
-    "Hash": "{EAB42795-E5FC-BAB4-B54A-3B563267E164}",
+    "Hash": "{358872AD-3056-5EA8-2D29-0083B46D59F9}",
     "ObjectPath": "Play_UI_Select_Simple",
     "ShortName": "Play_UI_Select_Simple",
     "Path": "Event/Play_UI_Select_Simple.bnk",
@@ -92,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{0BF87649-5D7A-F08F-1316-4708F544C888}"
+  "FileHash": "{7156A241-E3CF-DB7F-2AB6-FC97F1FFC688}"
  }
 }

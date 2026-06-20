@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
     "Language": "SFX",
-    "Hash": "{5A71A7AC-25E8-1E94-9AA3-848F855EEFD4}",
+    "Hash": "{D66A8DE3-0E18-BE99-FAA5-2D2D31FD1145}",
     "ObjectPath": "Play_AMB_DevRoom",
     "ShortName": "Play_AMB_DevRoom",
     "Path": "Event/Play_AMB_DevRoom.bnk",
@@ -74,6 +74,6 @@
     ]
    }
   ],
-  "FileHash": "{C11E5AFB-34FF-C397-E2CD-2365219BF99E}"
+  "FileHash": "{0DB009DC-E041-A68B-8BFF-F6F0D4054BFB}"
  }
 }

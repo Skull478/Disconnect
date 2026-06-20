@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
     "Language": "SFX",
-    "Hash": "{D1443B3B-66AD-A0C5-AE22-59185BE6C031}",
+    "Hash": "{9A9EF10E-C31E-7501-86C6-2454840A5376}",
     "ObjectPath": "Play_INT_Cable_Plug",
     "ShortName": "Play_INT_Cable_Plug",
     "Path": "Event/Play_INT_Cable_Plug.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{3CB0B342-1201-3B54-B690-3170F6C700E3}"
+  "FileHash": "{DD47D91E-63DE-C2C2-D300-E6A1D18D26A0}"
  }
 }

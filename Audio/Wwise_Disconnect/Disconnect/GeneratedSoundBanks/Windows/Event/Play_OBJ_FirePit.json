@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{65A10771-1B3B-48FC-A03B-32EF0A36B24B}",
     "Language": "SFX",
-    "Hash": "{36FD6317-67A4-C23B-D217-AEE65EBE659D}",
+    "Hash": "{16B74A83-27CF-52B5-CA7A-9A4106373235}",
     "ObjectPath": "Play_OBJ_FirePit",
     "ShortName": "Play_OBJ_FirePit",
     "Path": "Event/Play_OBJ_FirePit.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{ED8C69E5-3E12-5687-1048-CDB12D777FEA}"
+  "FileHash": "{E4F76B4E-AD9B-496A-A34C-C433FABCE1AE}"
  }
 }

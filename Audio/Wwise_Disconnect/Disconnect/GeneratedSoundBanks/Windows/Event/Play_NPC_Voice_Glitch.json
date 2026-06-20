@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}",
     "Language": "SFX",
-    "Hash": "{F1EF7FE1-7823-DEED-503E-31FC9F8AEB7F}",
+    "Hash": "{6084322F-7566-4ED6-ABAA-F639ABD53FDF}",
     "ObjectPath": "Play_NPC_Voice_Glitch",
     "ShortName": "Play_NPC_Voice_Glitch",
     "Path": "Event/Play_NPC_Voice_Glitch.bnk",
@@ -104,6 +104,6 @@
     ]
    }
   ],
-  "FileHash": "{502560DE-F0E6-F539-9503-2AAD5F11637B}"
+  "FileHash": "{32347D6F-B726-8603-C9F7-B2975B2E7F8E}"
  }
 }

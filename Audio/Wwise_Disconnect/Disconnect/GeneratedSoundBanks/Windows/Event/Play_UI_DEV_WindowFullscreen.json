@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
     "Language": "SFX",
-    "Hash": "{624A494E-F34E-E6ED-535C-528B60203AEF}",
+    "Hash": "{613067E2-CB45-6032-6BC9-8515573C6171}",
     "ObjectPath": "Play_UI_DEV_WindowFullscreen",
     "ShortName": "Play_UI_DEV_WindowFullscreen",
     "Path": "Event/Play_UI_DEV_WindowFullscreen.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{580C7538-F218-F58E-3AA3-0601526476E0}"
+  "FileHash": "{35212C4F-727B-DD0F-7C24-D21A248E8C7B}"
  }
 }

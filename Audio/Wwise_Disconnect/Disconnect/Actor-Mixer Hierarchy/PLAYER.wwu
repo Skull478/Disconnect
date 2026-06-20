@@ -10,6 +10,11 @@
 				<ActorMixer Name="PlayerMovement" ID="{ED1C9650-E277-4F70-AA21-8B38A86F466E}" ShortID="202124870">
 					<PropertyList>
 						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="Priority" Type="int16">
+							<ValueList>
+								<Value>60</Value>
+							</ValueList>
+						</Property>
 						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>

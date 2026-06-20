@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{55FA88C9-53B9-482B-930B-7E371BEDDC9E}",
     "Language": "SFX",
-    "Hash": "{39DA4090-C8C7-7AC2-448A-634225AD4D99}",
+    "Hash": "{829B8D98-8FEA-841B-B343-A1AAEE9946F9}",
     "ObjectPath": "Play_UI_DEV_WindowSmall",
     "ShortName": "Play_UI_DEV_WindowSmall",
     "Path": "Event/Play_UI_DEV_WindowSmall.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B01514C8-FC32-0E68-611E-5692C6EFDBB4}"
+  "FileHash": "{486AE21A-0D9D-F28E-56E2-B68EA4258965}"
  }
 }

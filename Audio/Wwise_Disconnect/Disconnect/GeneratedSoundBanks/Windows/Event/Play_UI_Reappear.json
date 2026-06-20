@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{370F0544-328F-4990-81DE-CC836AF3F20D}",
     "Language": "SFX",
-    "Hash": "{BBA3E6A2-C1C2-FA9B-BE48-8301AA1F0C9E}",
+    "Hash": "{FA676E45-775A-CC95-8351-A5BD6637F276}",
     "ObjectPath": "Play_UI_Reappear",
     "ShortName": "Play_UI_Reappear",
     "Path": "Event/Play_UI_Reappear.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{0BF54A5D-7EC2-BEEB-33B9-800D849C00E2}"
+  "FileHash": "{320F53B3-31C2-63AD-1FBD-D8A4A9E4A15B}"
  }
 }

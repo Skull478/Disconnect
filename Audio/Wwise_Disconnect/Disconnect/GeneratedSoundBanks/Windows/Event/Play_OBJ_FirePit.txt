@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	2246982135	Play_OBJ_FirePit			\AMB\3dSounds\Play_OBJ_FirePit	
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
-	648322357	OBJ_FirePit	D:\Documents\GitReps\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\57\{571308CD-47E2-2535-6D34-2A731CF9FF46}.wem	648322357.wem	\Actor-Mixer Hierarchy\AMB\3D_SOUNDS\OBJ_FirePit	
+	648322357	OBJ_FirePit	C:\Users\valen\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\57\{571308CD-47E2-2535-6D34-2A731CF9FF46}.wem	648322357.wem	\Actor-Mixer Hierarchy\AMB\3D_SOUNDS\OBJ_FirePit	
 

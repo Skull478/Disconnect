@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{871D45C5-B9DE-4C63-B878-AD5BDDDF64E4}",
     "Language": "SFX",
-    "Hash": "{BF645E04-E460-14CC-1C78-48EA8887939C}",
+    "Hash": "{7F49A8D5-8340-DEAA-77A2-BF49A6D97242}",
     "ObjectPath": "Play_OBJ_BluesScreens_Glitch",
     "ShortName": "Play_OBJ_BluesScreens_Glitch",
     "Path": "Event/Play_OBJ_BluesScreens_Glitch.bnk",
@@ -691,6 +691,6 @@
     ]
    }
   ],
-  "FileHash": "{F7D437EC-9851-89D7-4F85-B03F42ED82C8}"
+  "FileHash": "{2710725E-F1DF-91DF-6CF6-440269C95B0D}"
  }
 }

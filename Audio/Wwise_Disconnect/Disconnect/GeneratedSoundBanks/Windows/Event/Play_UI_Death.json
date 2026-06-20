@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{58B3E7FC-F4A0-45E9-B926-05AD99C4C21F}",
     "Language": "SFX",
-    "Hash": "{6B88C094-2204-EE67-F811-63EB000050C3}",
+    "Hash": "{E92DBF5D-B53C-0A92-281F-F8E6216FFD48}",
     "ObjectPath": "Play_UI_Death",
     "ShortName": "Play_UI_Death",
     "Path": "Event/Play_UI_Death.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E50EBF0B-589E-07BF-DBC3-D9DDE3F7ACB2}"
+  "FileHash": "{F6D1C567-75FB-078A-BFAE-85FCE362E406}"
  }
 }

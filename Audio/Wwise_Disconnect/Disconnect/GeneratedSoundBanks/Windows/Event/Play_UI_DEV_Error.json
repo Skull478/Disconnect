@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{9B9E831B-861F-475C-AEA4-1075BC44A6D9}",
     "Language": "SFX",
-    "Hash": "{C5A4703C-0127-A349-0572-9C7691E3BBCA}",
+    "Hash": "{13178E26-A4E3-FADF-2306-8AFA3E573E3F}",
     "ObjectPath": "Play_UI_DEV_Error",
     "ShortName": "Play_UI_DEV_Error",
     "Path": "Event/Play_UI_DEV_Error.bnk",
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{12246AA6-31EE-7358-34D1-174329254838}"
+  "FileHash": "{929051B2-6D1D-FC96-7761-6F2E606720F3}"
  }
 }

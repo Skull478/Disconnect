@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5DAF8517-A464-4ADB-90C8-F778DDDD435D}",
     "Language": "SFX",
-    "Hash": "{B8D7276E-BD3A-47C5-8764-2F1486E796B1}",
+    "Hash": "{0A5057F3-B192-ECCC-2344-DFAE2C048247}",
     "ObjectPath": "Play_UI_Big_Select",
     "ShortName": "Play_UI_Big_Select",
     "Path": "Event/Play_UI_Big_Select.bnk",
@@ -68,6 +68,6 @@
     ]
    }
   ],
-  "FileHash": "{7D81DE14-B5A9-59E9-A1A1-2F9039EF0043}"
+  "FileHash": "{60400FBB-AED2-FA66-6C07-B616B2602A20}"
  }
 }

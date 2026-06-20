@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{12D527F8-A4CC-413C-9C43-8A88664EB97F}",
     "Language": "SFX",
-    "Hash": "{FC6A7930-F4F6-5C0D-01D9-ACE75909D164}",
+    "Hash": "{5EF553F6-F61B-8BB0-6E7A-1E3D518DEF12}",
     "ObjectPath": "Play_UI_Validation",
     "ShortName": "Play_UI_Validation",
     "Path": "Event/Play_UI_Validation.bnk",
@@ -68,6 +68,6 @@
     ]
    }
   ],
-  "FileHash": "{0B214D11-E30B-C867-A22D-6EEC2422B108}"
+  "FileHash": "{3420E729-908D-1281-1A03-9E40A2BDA7DC}"
  }
 }

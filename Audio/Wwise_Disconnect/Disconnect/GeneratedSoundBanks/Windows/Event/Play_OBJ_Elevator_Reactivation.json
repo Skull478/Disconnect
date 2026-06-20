@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BEED9A83-8410-43E4-BE52-94062CD2AE04}",
     "Language": "SFX",
-    "Hash": "{F2C5C929-B21B-D1BD-B039-781CE283FDAC}",
+    "Hash": "{A9043BE6-19AB-65F0-4543-AAA15C21F2AA}",
     "ObjectPath": "Play_OBJ_Elevator_Reactivation",
     "ShortName": "Play_OBJ_Elevator_Reactivation",
     "Path": "Event/Play_OBJ_Elevator_Reactivation.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{3C2B902D-4737-1C5E-5BA2-6C0D1A9BFEE9}"
+  "FileHash": "{A245292C-AE8F-71E3-8CC4-AFF4891D17A4}"
  }
 }

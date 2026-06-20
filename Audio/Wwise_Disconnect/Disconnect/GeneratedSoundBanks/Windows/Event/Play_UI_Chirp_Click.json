@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DB64B3AB-A64F-417E-865A-BB8BF7F4EA34}",
     "Language": "SFX",
-    "Hash": "{8DAE61A6-494D-E18A-29DC-2399DE955E06}",
+    "Hash": "{04176C2F-44AB-D3B8-88F0-F55FB981271C}",
     "ObjectPath": "Play_UI_Chirp_Click",
     "ShortName": "Play_UI_Chirp_Click",
     "Path": "Event/Play_UI_Chirp_Click.bnk",
@@ -80,6 +80,6 @@
     ]
    }
   ],
-  "FileHash": "{7A6EE72F-CB86-8232-3EEE-0A5FC2A10FAA}"
+  "FileHash": "{972883E3-9065-EA55-2344-6AB9040F7E98}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{63B3105F-F29D-41B2-B9EA-EEA1AF97BDE9}",
     "Language": "SFX",
-    "Hash": "{6F34D99C-58A9-418D-8005-B7299A52B649}",
+    "Hash": "{ED7A7A47-2B96-14C8-53B3-CDB3CB776841}",
     "ObjectPath": "Play_INTERACT_Wheel_Release",
     "ShortName": "Play_INTERACT_Wheel_Release",
     "Path": "Event/Play_INTERACT_Wheel_Release.bnk",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{7F0F334C-DA03-1138-072D-F30F126835B6}"
+  "FileHash": "{9AB6DD7E-A91D-B453-ED18-5BB5B3CC439F}"
  }
 }

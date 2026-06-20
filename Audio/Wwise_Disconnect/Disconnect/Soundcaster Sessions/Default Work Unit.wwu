@@ -37,7 +37,7 @@
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="State_Loop3" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
+						<CurrentStateRef Name="ThunderDome" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
@@ -93,28 +93,25 @@
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>
-							<GameParameterRef Name="Player_Slider_Speed" ID="{1439B294-7B58-411C-9BE2-F261BB4ED79C}"/>
-							<Value>0</Value>
-						</RTPCValue>
-						<RTPCValue>
 							<GameParameterRef Name="Player_Vertical_Speed" ID="{E5F85A72-79B9-412A-9CEE-7072611A9F32}"/>
-							<Value>0</Value>
+							<Value>3.50426608598622E-312</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}"/>
-							<Value>0</Value>
+							<Value>80</Value>
 						</RTPCValue>
 						<RTPCValue>
-							<GameParameterRef Name="Dev_Sidechain" ID="{A073FD9C-F831-4A03-B944-98557D626CFC}"/>
+							<GameParameterRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}"/>
 							<Value>0</Value>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
+						<CurrentStateRef Name="Loading" ID="{A6E02910-7179-40FD-9768-432568EDFACC}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="High" ID="{A21D935A-6F47-4F54-8A97-3F674CFB4837}"/>
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>
