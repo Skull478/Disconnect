@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CE4C73AC-CD8B-4AFA-9C40-9CEF1B2F6CFC}",
     "Language": "SFX",
-    "Hash": "{328FF18B-2532-CC85-AFD2-FE1C7394156C}",
+    "Hash": "{D1A81D01-93FF-54DA-9840-2A69831BFAC3}",
     "ObjectPath": "Play_INTERACT_Wheel_Loop",
     "ShortName": "Play_INTERACT_Wheel_Loop",
     "Path": "Event/Play_INTERACT_Wheel_Loop.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{D2FABEBF-0940-A3D3-1C37-3BCF0630F8BD}"
+  "FileHash": "{B1DFE41A-81F0-FB1C-098F-9FE9FA86D64A}"
  }
 }
