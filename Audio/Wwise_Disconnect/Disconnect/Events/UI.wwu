@@ -9,17 +9,6 @@
 			<ChildrenList>
 				<Folder Name="Clicks" ID="{2D54F320-EE82-45A6-93EC-0FC16B66BA4D}" ShortID="214772381">
 					<ChildrenList>
-						<Event Name="Play_UI_Click" ID="{014CC4D8-9F8B-415C-808C-AA67D66102C7}">
-							<ChildrenList>
-								<Action Name="" ID="{8EAAA423-AF89-454F-B4B4-EFC244E47790}" ShortID="1027723649">
-									<ReferenceList>
-										<Reference Name="Target">
-											<ObjectRef Name="UI_Click" ID="{0A855964-2DAD-4412-B88B-6178D659D967}" WorkUnitID="{682DD15A-F5B5-467B-822B-37988D0E9B35}"/>
-										</Reference>
-									</ReferenceList>
-								</Action>
-							</ChildrenList>
-						</Event>
 						<Event Name="Play_UI_Bop_Click" ID="{A47B1E65-E9A1-4ACA-AD1B-4B2028B6B77D}">
 							<ChildrenList>
 								<Action Name="" ID="{896A28B2-7ED3-476F-BB88-D2C30701E539}" ShortID="343151853">

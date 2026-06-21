@@ -6,14 +6,14 @@
   "SoundBankVersion": "154",
   "SoundBanks": [
    {
-    "Id": "1749424733",
+    "Id": "1205472477",
     "Type": "Event",
     "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
     "Language": "SFX",
-    "Hash": "{63541C05-AD9D-203A-34B3-2533218BD0E9}",
-    "ObjectPath": "Play_UI_Click",
-    "ShortName": "Play_UI_Click",
-    "Path": "Event/Play_UI_Click.bnk",
+    "Hash": "{D9DC6391-8212-76CE-3082-A8C6C357E231}",
+    "ObjectPath": "Play_INT_NumPadClick",
+    "ShortName": "Play_INT_NumPadClick",
+    "Path": "Event/Play_INT_NumPadClick.bnk",
     "Media": [
      {
       "Id": "42343478",
@@ -63,11 +63,12 @@
     ],
     "Events": [
      {
-      "Id": "1749424733",
-      "Name": "Play_UI_Click",
-      "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Click",
+      "Id": "1205472477",
+      "Name": "Play_INT_NumPadClick",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_NumPadClick",
       "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
-      "Color": "21",
+      "Color": "23",
+      "MaxAttenuation": "2000",
       "DurationType": "OneShot",
       "DurationMin": "0.26133335",
       "DurationMax": "0.33225",
@@ -92,6 +93,6 @@
     ]
    }
   ],
-  "FileHash": "{80D04E58-AED5-E80D-E61D-57EBC5A45D6F}"
+  "FileHash": "{A7465AA0-6EE4-7E2F-4D12-84E96D0BCC1E}"
  }
 }
