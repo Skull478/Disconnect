@@ -116,6 +116,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_INT_NumPadClick" ID="{014CC4D8-9F8B-415C-808C-AA67D66102C7}">
+					<ChildrenList>
+						<Action Name="" ID="{8EAAA423-AF89-454F-B4B4-EFC244E47790}" ShortID="1027723649">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_NumPadClick" ID="{0A855964-2DAD-4412-B88B-6178D659D967}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_Lever" ID="{C4394614-5805-493F-9A5F-98460CCB8DED}">
+					<ChildrenList>
+						<Action Name="" ID="{00D1BE97-51FF-4512-8991-1A6BDA9D7F0A}" ShortID="106593556">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Lever" ID="{3F2578F2-6899-4B57-990D-AE92E68F95E2}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
