@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{A9DCD1F8-8EBA-66F6-7D4D-33105BCE844E}",
+    "Hash": "{0C437C0B-6FE8-1BC9-0425-80E505BD928B}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -23,15 +23,6 @@
       "ShortName": "Main_Thunderdome_BASS_G-_Loop_109Bpm.wav",
       "Path": "Media/5977828.wem",
       "CachePath": "1D/{1D921488-495F-9E48-02AE-B4CC2E96CE49}.wem"
-     },
-     {
-      "Id": "9694294",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "MUSIC_Main_Explo_Stingers_End.wav",
-      "Path": "Media/9694294.wem",
-      "CachePath": "3B/{3B0F79E9-14C5-5C57-C54D-18D45E8F8D08}.wem"
      },
      {
       "Id": "16168820",
@@ -637,9 +628,6 @@
       "DurationType": "Infinite",
       "MediaRefs": [
        {
-        "Id": "9694294"
-       },
-       {
         "Id": "16168820"
        },
        {
@@ -686,6 +674,12 @@
        },
        {
         "Id": "579560870"
+       },
+       {
+        "Id": "806203406"
+       },
+       {
+        "Id": "845350699"
        },
        {
         "Id": "908254866"
@@ -1069,6 +1063,6 @@
     ]
    }
   ],
-  "FileHash": "{AC0CC54C-E47C-680B-E86D-FB0742A75E0D}"
+  "FileHash": "{0CA87E85-9ED6-E5B0-AC08-EE52F36235C9}"
  }
 }
