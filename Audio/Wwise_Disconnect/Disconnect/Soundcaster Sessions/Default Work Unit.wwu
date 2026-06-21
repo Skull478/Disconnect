@@ -102,11 +102,11 @@
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}"/>
-							<Value>0</Value>
+							<Value>100</Value>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="Loading" ID="{A6E02910-7179-40FD-9768-432568EDFACC}"/>
+						<CurrentStateRef Name="ThunderDome" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
