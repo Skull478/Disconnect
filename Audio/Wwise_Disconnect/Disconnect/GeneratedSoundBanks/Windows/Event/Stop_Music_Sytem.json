@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6373029C-208F-448D-AB89-6393FEB8BB26}",
     "Language": "SFX",
-    "Hash": "{92179043-DC28-893B-C7D7-24C1212F5982}",
+    "Hash": "{511EF00C-0AF9-AB54-0DBF-C385894B4415}",
     "ObjectPath": "Stop_Music_Sytem",
     "ShortName": "Stop_Music_Sytem",
     "Path": "Event/Stop_Music_Sytem.bnk",
@@ -28,6 +28,6 @@
     ]
    }
   ],
-  "FileHash": "{6717AF63-5C7C-6615-0EA6-92939E4EB6BA}"
+  "FileHash": "{2A852DDC-9D09-5591-040D-0DCFA02D5417}"
  }
 }

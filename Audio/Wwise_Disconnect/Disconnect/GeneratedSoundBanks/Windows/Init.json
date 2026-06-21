@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{8205BFFB-A74F-1A80-55C1-BB3F7D362437}",
+    "Hash": "{3721B284-CCDF-D21A-62E6-686B712537C2}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -147,6 +147,12 @@
       "GUID": "{E5F85A72-79B9-412A-9CEE-7072611A9F32}"
      },
      {
+      "Id": "3455673912",
+      "Name": "Virus",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Virus",
+      "GUID": "{14ECA823-5212-4E74-AF68-698A32F21937}"
+     },
+     {
       "Id": "3620054395",
       "Name": "Dev_Sidechain",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Dev_Sidechain",
@@ -219,33 +225,80 @@
         "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
        },
        {
-        "Id": "1652082208",
-        "Name": "State_Loop3",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop3",
+        "Id": "2023814608",
+        "Name": "ThunderDome",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\ThunderDome",
         "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
        },
        {
-        "Id": "1652082209",
-        "Name": "State_Loop2",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop2",
-        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+        "Id": "2201105581",
+        "Name": "Credits",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Credits",
+        "GUID": "{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"
        },
        {
-        "Id": "1652082210",
-        "Name": "State_Loop1",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Loop1",
+        "Id": "3573931707",
+        "Name": "Loading",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Loading",
+        "GUID": "{A6E02910-7179-40FD-9768-432568EDFACC}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\MainMenu",
+        "GUID": "{24E40EC3-7418-4483-B8F8-1787796A5A8B}"
+       },
+       {
+        "Id": "3814499265",
+        "Name": "Explo",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Explo",
         "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
        },
        {
-        "Id": "3783890923",
-        "Name": "State_Calme",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\State_Calme",
+        "Id": "3966194980",
+        "Name": "Ending",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Ending",
         "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+       },
+       {
+        "Id": "4265799768",
+        "Name": "Rooftop",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Rooftop",
+        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
        }
       ]
      }
     ],
     "SwitchGroups": [
+     {
+      "Id": "1571361561",
+      "Name": "Tension",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Tension",
+      "GUID": "{59CA999B-071A-43FA-A31D-DDD49DF4A594}",
+      "GameParameterRef": {
+       "Id": "1571361561"
+      },
+      "Switches": [
+       {
+        "Id": "545371365",
+        "Name": "Low",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Tension\\Low",
+        "GUID": "{0A1C1156-E8F9-406C-8660-3ABC6382AF63}"
+       },
+       {
+        "Id": "1182670505",
+        "Name": "Mid",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Tension\\Mid",
+        "GUID": "{793212DB-BFCA-4BD9-897E-8DD5063FF819}"
+       },
+       {
+        "Id": "3550808449",
+        "Name": "High",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Tension\\High",
+        "GUID": "{A21D935A-6F47-4F54-8A97-3F674CFB4837}"
+       }
+      ]
+     },
      {
       "Id": "3865314626",
       "Name": "Material",
@@ -349,6 +402,6 @@
     ]
    }
   ],
-  "FileHash": "{E31485D0-BD51-89FE-AE07-2AA9EC264816}"
+  "FileHash": "{A084B665-90C5-3360-AF65-87327444C68D}"
  }
 }

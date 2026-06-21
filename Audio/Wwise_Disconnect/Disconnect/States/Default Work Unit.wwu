@@ -4,12 +4,18 @@
 		<WorkUnit Name="Default Work Unit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" PersistMode="Standalone">
 			<ChildrenList>
 				<StateGroup Name="Explo" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0.5"/>
+					</PropertyList>
 					<ChildrenList>
 						<State Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
-						<State Name="State_Loop1" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
-						<State Name="State_Loop2" ID="{0F819ECE-F7A3-461E-AC51-002DE761CA60}"/>
-						<State Name="State_Loop3" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
-						<State Name="State_Calme" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
+						<State Name="Explo" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<State Name="Rooftop" ID="{0F819ECE-F7A3-461E-AC51-002DE761CA60}"/>
+						<State Name="ThunderDome" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
+						<State Name="Ending" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
+						<State Name="MainMenu" ID="{24E40EC3-7418-4483-B8F8-1787796A5A8B}"/>
+						<State Name="Credits" ID="{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"/>
+						<State Name="Loading" ID="{A6E02910-7179-40FD-9768-432568EDFACC}"/>
 					</ChildrenList>
 				</StateGroup>
 				<StateGroup Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}">
@@ -23,6 +29,9 @@
 					</ChildrenList>
 				</StateGroup>
 				<StateGroup Name="Virus" ID="{64AB71EC-F880-49FA-9C96-DE50626C36A5}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0.5"/>
+					</PropertyList>
 					<ChildrenList>
 						<State Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 						<State Name="Yes" ID="{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"/>
