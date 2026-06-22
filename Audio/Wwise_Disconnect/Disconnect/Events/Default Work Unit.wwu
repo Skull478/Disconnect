@@ -103,6 +103,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{2D81AB65-AB27-4BB6-AFE3-7A4D6E790E7A}" ShortID="1024261817">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 			</ChildrenList>
