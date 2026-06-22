@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CFB40BAC-6363-489F-B25F-9F1C96192E04}",
     "Language": "SFX",
-    "Hash": "{7D8F4DC1-42F5-3CEE-F05B-7D6653F15164}",
+    "Hash": "{F252DD65-F71A-8E1F-A733-25532B896144}",
     "ObjectPath": "Play_UI_Dev_Virus_Alarm",
     "ShortName": "Play_UI_Dev_Virus_Alarm",
     "Path": "Event/Play_UI_Dev_Virus_Alarm.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Alarm.wav",
       "Path": "Media/665423975.wem",
-      "CachePath": "CD/{CD661C00-F38F-7B2F-3B54-D021ED988E27}.wem"
+      "CachePath": "03/{033C6F50-4EA0-F4BA-1D46-5EE6F5F30512}.wem"
      }
     ],
     "Events": [
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{90743BFF-7DDA-AB05-A3C3-141D547EE80C}"
+  "FileHash": "{E1D0BF7A-D660-6739-F1B1-4F7866FCA1ED}"
  }
 }

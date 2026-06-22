@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{52F767AF-F197-46B3-A92A-2EF863A4DA31}",
     "Language": "SFX",
-    "Hash": "{E4365533-A21B-EC5C-A414-DDE11DC1FCBB}",
+    "Hash": "{C92522D7-04C2-B8FB-4771-14D95FD00BDF}",
     "ObjectPath": "Play_UI_DEV_WindowError",
     "ShortName": "Play_UI_DEV_WindowError",
     "Path": "Event/Play_UI_DEV_WindowError.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_WindowError.wav",
       "Path": "Media/24224599.wem",
-      "CachePath": "43/{43DB1BD1-6F62-DCBB-451F-E0AFA5818FF9}.wem"
+      "CachePath": "1C/{1C3194BC-F6BE-076F-0C68-1FA9A5E53A3E}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{13078008-9BB0-BD55-3B5E-A5152CB62907}"
+  "FileHash": "{64D86D07-BAF4-F08D-95EF-B1559AE3603C}"
  }
 }

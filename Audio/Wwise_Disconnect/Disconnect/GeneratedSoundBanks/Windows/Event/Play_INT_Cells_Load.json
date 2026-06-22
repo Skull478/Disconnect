@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{826FA657-823C-4836-A09A-3478EAC33C00}",
     "Language": "SFX",
-    "Hash": "{7103DDBF-2489-4B93-DDB3-4515B549BEDA}",
+    "Hash": "{7A08D249-4E6F-C6D4-AB77-6444FDFAEC8A}",
     "ObjectPath": "Play_INT_Cells_Load",
     "ShortName": "Play_INT_Cells_Load",
     "Path": "Event/Play_INT_Cells_Load.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "INTERACT_Cells_Load.wav",
       "Path": "Media/976340235.wem",
-      "CachePath": "28/{28A3F0C6-065D-61F6-FD1F-45E03287BAB3}.wem"
+      "CachePath": "6C/{6CAF5EAD-3099-751A-77A9-329569D4D385}.wem"
      }
     ],
     "Events": [
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{884BAE69-CAA2-FD69-A04F-FEB3F83A9987}"
+  "FileHash": "{B5BE2B38-B536-D1FA-575A-F56F4E043821}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{92A5ED8A-BF8D-4CC9-B51D-1A443410398F}",
     "Language": "English(US)",
-    "Hash": "{D816A8DB-22D5-DD27-B506-523C6A715A8D}",
+    "Hash": "{8F44D0B6-04C6-C00E-6043-B5A31180ADAE}",
     "ObjectPath": "Play_DX_Dev_YeahThatsRight",
     "ShortName": "Play_DX_Dev_YeahThatsRight",
     "Path": "Event/English(US)/Play_DX_Dev_YeahThatsRight.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_YeahThatsRight.wav",
       "Path": "Media/English(US)/14554351.wem",
-      "CachePath": "97/{9714413B-8067-C779-0575-6B0C4437FBD1}.wem"
+      "CachePath": "7E/{7EAEA9BF-348F-02CC-A856-79DFD11798FF}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B7156A58-0295-5F0A-C7FC-46F8A1FFBB02}"
+  "FileHash": "{9C9A3195-45BC-1C90-93B5-BADE9CEACE0A}"
  }
 }

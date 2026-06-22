@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{60666015-FB08-46A8-BB79-677FB3F826A8}",
     "Language": "SFX",
-    "Hash": "{84B4D5C6-50B3-124F-9D07-5ABC20B68EAF}",
+    "Hash": "{5FA3A61A-D639-98CD-FEAA-E436E060189D}",
     "ObjectPath": "Play_UI_Hover",
     "ShortName": "Play_UI_Hover",
     "Path": "Event/Play_UI_Hover.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Hovers_03.wav",
       "Path": "Media/33005685.wem",
-      "CachePath": "E8/{E8D92006-AC0A-0BB6-0387-C3AE31DDF568}.wem"
+      "CachePath": "E5/{E5F8305A-4ED4-D861-570E-333362C1DFFE}.wem"
      },
      {
       "Id": "482672745",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "UI_Hovers_02.wav",
       "Path": "Media/482672745.wem",
-      "CachePath": "EB/{EB8E6871-FA1C-8A68-685C-854F006BFA18}.wem"
+      "CachePath": "7A/{7A81385D-41ED-D8B6-A31C-724D08A98130}.wem"
      },
      {
       "Id": "532872406",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "UI_Hovers_01.wav",
       "Path": "Media/532872406.wem",
-      "CachePath": "9D/{9DF9476C-B27D-11F1-402E-51EC2245B177}.wem"
+      "CachePath": "04/{0440DD1A-C1DF-9ED4-0BAD-DBA204D0F8E6}.wem"
      }
     ],
     "Events": [
@@ -68,6 +68,6 @@
     ]
    }
   ],
-  "FileHash": "{9A5E2223-D9B4-74D4-6C14-AD960E9D11E1}"
+  "FileHash": "{96800B7E-087E-5A31-DC3A-36561D640E09}"
  }
 }

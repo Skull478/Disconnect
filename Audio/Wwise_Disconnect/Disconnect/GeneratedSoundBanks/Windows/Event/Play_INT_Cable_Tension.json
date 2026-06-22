@@ -10,19 +10,19 @@
     "Type": "Event",
     "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
     "Language": "SFX",
-    "Hash": "{03D5FD98-C4CA-C2A2-9A5E-36B8B01182F4}",
+    "Hash": "{29F47DCE-75B1-13EC-4B9B-760C0CF81E40}",
     "ObjectPath": "Play_INT_Cable_Tension",
     "ShortName": "Play_INT_Cable_Tension",
     "Path": "Event/Play_INT_Cable_Tension.bnk",
     "Media": [
      {
-      "Id": "992449721",
+      "Id": "269490600",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
       "ShortName": "INTERACT_Cable_Tension.wav",
-      "Path": "Media/992449721.wem",
-      "CachePath": "D3/{D386B9E0-8382-4EE4-2EB6-9D91C3BE32B7}.wem"
+      "Path": "Media/269490600.wem",
+      "CachePath": "CC/{CCCB040F-74BE-6279-2B3E-DC9506CA8D82}.wem"
      }
     ],
     "Events": [
@@ -36,13 +36,13 @@
       "DurationType": "Infinite",
       "MediaRefs": [
        {
-        "Id": "992449721"
+        "Id": "269490600"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{438ADCD1-8AC6-67A9-595F-BC6D551B2127}"
+  "FileHash": "{2EC5F7AC-3246-7765-F700-D4FEF21B1A22}"
  }
 }

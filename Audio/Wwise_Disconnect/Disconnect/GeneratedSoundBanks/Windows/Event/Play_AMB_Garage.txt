@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	2207983986	Play_AMB_Garage			\AMB\Play_AMB_Garage	
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
-	609653296	AMB_Garage	D:\Documents\GitReps\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\36\{365D2A52-5FDF-B26E-3E70-6F133C9FD5C8}.wem	609653296.wem	\Actor-Mixer Hierarchy\Default Work Unit\AMBIANCE\AMB_Garage	
+	609653296	AMB_Garage	D:\Documents\GitReps\Disconnect\Audio\Wwise_Disconnect\Disconnect\.cache\CE\{CE0C785E-D2E5-F42E-BD39-F199902267DB}.wem	609653296.wem	\Actor-Mixer Hierarchy\AMB\AMBIANCE\AMB_Garage	
 

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{416BAE2A-108B-4324-9536-0AEBBBE5266F}",
     "Language": "SFX",
-    "Hash": "{95408E1E-F2A3-1433-3006-5024706264FB}",
+    "Hash": "{0B3A6401-039A-9180-6CEF-4C8898138026}",
     "ObjectPath": "Play_UI_Computer_Click",
     "ShortName": "Play_UI_Computer_Click",
     "Path": "Event/Play_UI_Computer_Click.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Complex_UI_2-004.wav",
       "Path": "Media/441591869.wem",
-      "CachePath": "21/{215A3745-4818-3A4D-B8C2-247C765B8EE0}.wem"
+      "CachePath": "9D/{9DBF979F-5E86-1777-FFFF-2820280421D2}.wem"
      },
      {
       "Id": "656552228",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "Complex_UI_2-003.wav",
       "Path": "Media/656552228.wem",
-      "CachePath": "C5/{C5EBAF00-CEE8-0DF7-FC63-1BD066BD90C1}.wem"
+      "CachePath": "22/{229DF37F-AB6B-9619-4217-79EB14D51A19}.wem"
      },
      {
       "Id": "774278194",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "Complex_UI_2-001.wav",
       "Path": "Media/774278194.wem",
-      "CachePath": "A6/{A6010AEC-5571-5DC6-C497-8FE5341E4339}.wem"
+      "CachePath": "51/{51F3FE43-3936-3DBC-7F43-941502E17214}.wem"
      },
      {
       "Id": "823731061",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "Complex_UI_2-005.wav",
       "Path": "Media/823731061.wem",
-      "CachePath": "22/{2212E746-0DF6-BC3E-AAAA-23257D7EB5CA}.wem"
+      "CachePath": "6A/{6ABB7D23-5724-F8A4-2EC6-130A5FEFEC4B}.wem"
      },
      {
       "Id": "917908598",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "Complex_UI_2-002.wav",
       "Path": "Media/917908598.wem",
-      "CachePath": "C7/{C7D8B538-3BD3-177C-EE8D-A8C1545B9DEE}.wem"
+      "CachePath": "AB/{AB9F2F3D-D893-87BE-721D-C9D6FB618796}.wem"
      }
     ],
     "Events": [
@@ -92,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{8E5BE1EF-8366-6BAB-ADDE-C74A248AEBB4}"
+  "FileHash": "{CA12F250-F6FB-BBCA-75ED-ABAFF853BF23}"
  }
 }

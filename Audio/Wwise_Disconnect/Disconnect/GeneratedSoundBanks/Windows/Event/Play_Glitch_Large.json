@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
     "Language": "SFX",
-    "Hash": "{7A7E9029-B378-5079-0745-7C5B3C9F6148}",
+    "Hash": "{3DD83170-FCFF-74C0-79C9-F0F22445D2A5}",
     "ObjectPath": "Play_Glitch_Large",
     "ShortName": "Play_Glitch_Large",
     "Path": "Event/Play_Glitch_Large.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_04.wav",
       "Path": "Media/14481440.wem",
-      "CachePath": "8B/{8B544874-4C85-42E8-089D-4CABB7979283}.wem"
+      "CachePath": "1A/{1AD86AB7-94B8-4FD0-D9CA-D52C4723FD2B}.wem"
      },
      {
       "Id": "102191829",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_02.wav",
       "Path": "Media/102191829.wem",
-      "CachePath": "6C/{6CA68B05-B83F-FCBC-172B-F344AADDF2A2}.wem"
+      "CachePath": "82/{824925D9-5639-30D2-DD8C-22FEDCBB747F}.wem"
      },
      {
       "Id": "348628996",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_07.wav",
       "Path": "Media/348628996.wem",
-      "CachePath": "1D/{1D40E36D-16C5-38BC-276B-E46E9301C74C}.wem"
+      "CachePath": "C4/{C4076BC7-D58E-45EE-27BB-9DE83D5F6CBB}.wem"
      },
      {
       "Id": "437561151",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_01.wav",
       "Path": "Media/437561151.wem",
-      "CachePath": "11/{11655BAE-F094-ECA1-AA4D-8C894273A2DA}.wem"
+      "CachePath": "59/{59333AD7-1881-0611-838F-5E59693C1465}.wem"
      },
      {
       "Id": "692390277",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_08.wav",
       "Path": "Media/692390277.wem",
-      "CachePath": "CB/{CB287474-5F51-28F2-4CEA-1E24D76B7F5F}.wem"
+      "CachePath": "42/{422BB12D-6A13-8E6F-D5B1-48EFBC6955B9}.wem"
      },
      {
       "Id": "707808078",
@@ -67,7 +67,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_09.wav",
       "Path": "Media/707808078.wem",
-      "CachePath": "D3/{D3BE46C3-7F99-EA64-6DDD-19E6114A11DB}.wem"
+      "CachePath": "47/{4726E34F-4460-0D2E-246B-3E34F4F4CE55}.wem"
      },
      {
       "Id": "789380263",
@@ -76,7 +76,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_05.wav",
       "Path": "Media/789380263.wem",
-      "CachePath": "C6/{C6B751C1-AB68-9915-D99C-7BD692761699}.wem"
+      "CachePath": "89/{89B00C22-5F6F-2BED-0176-9DE0287653D9}.wem"
      },
      {
       "Id": "857226571",
@@ -85,7 +85,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_03.wav",
       "Path": "Media/857226571.wem",
-      "CachePath": "C7/{C7BCB72E-CA21-B2DA-90CC-6179B05A7A6A}.wem"
+      "CachePath": "D6/{D6439B91-584F-41AF-FEA2-10F369C284B1}.wem"
      },
      {
       "Id": "900977261",
@@ -94,7 +94,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Bed.wav",
       "Path": "Media/900977261.wem",
-      "CachePath": "DF/{DF9B4C22-5DB8-A587-22B9-B74D91A94C50}.wem"
+      "CachePath": "B5/{B54F673B-01C6-01C8-B28D-5EE338F0A645}.wem"
      },
      {
       "Id": "1004830685",
@@ -103,7 +103,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Glitch_Rand_06.wav",
       "Path": "Media/1004830685.wem",
-      "CachePath": "9D/{9D3A3297-CE46-B993-2C65-2E6ED387331D}.wem"
+      "CachePath": "68/{68A776BB-57BD-BD68-8236-43392D1F8D6C}.wem"
      }
     ],
     "Events": [
@@ -151,6 +151,6 @@
     ]
    }
   ],
-  "FileHash": "{1CBE8D5C-DB59-66DA-3FF9-CD2A6072C7EA}"
+  "FileHash": "{1C489409-5EDB-CB30-9DDD-3AB06E0AF24F}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{73D13535-E0DC-4FA9-94DF-4CE67A2A0CDD}",
     "Language": "English(US)",
-    "Hash": "{831FF1D1-9817-DCE3-B32E-F1D90C592C24}",
+    "Hash": "{7410861A-20E5-B5EA-394D-EC0AD69522A7}",
     "ObjectPath": "Play_DX_Player_OhYeah",
     "ShortName": "Play_DX_Player_OhYeah",
     "Path": "Event/English(US)/Play_DX_Player_OhYeah.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_OhYeah.wav",
       "Path": "Media/English(US)/673645990.wem",
-      "CachePath": "FD/{FDB70A5A-9495-9FEB-6299-09855119675F}.wem"
+      "CachePath": "03/{0391A720-B227-43A4-7463-D87271E07116}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{1915D635-B8F1-47C7-AE68-1CE2BC6C280C}"
+  "FileHash": "{7469B8EF-1EDA-1130-3C33-8CE85F0C53EA}"
  }
 }

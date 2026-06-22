@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CD177585-A1E2-45CB-A638-54089A946B52}",
     "Language": "SFX",
-    "Hash": "{C0A8B493-E846-600F-863E-73CE198B270B}",
+    "Hash": "{A26D8901-6A71-D03D-5013-4B1237C38086}",
     "ObjectPath": "Play_UI_Slider",
     "ShortName": "Play_UI_Slider",
     "Path": "Event/Play_UI_Slider.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Slider-003.wav",
       "Path": "Media/8638280.wem",
-      "CachePath": "A5/{A5B52EF9-AF64-B85F-297C-358048CC612F}.wem"
+      "CachePath": "65/{65425828-8B40-F08D-2442-E41A9E2ED01C}.wem"
      },
      {
       "Id": "119602796",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "UI_Slider-001.wav",
       "Path": "Media/119602796.wem",
-      "CachePath": "E5/{E5B3DBDF-E999-FADF-3DDA-C788189405DC}.wem"
+      "CachePath": "01/{01932E85-6461-6C60-E14A-D520BEBDAB52}.wem"
      },
      {
       "Id": "669484310",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "UI_Slider-004.wav",
       "Path": "Media/669484310.wem",
-      "CachePath": "C0/{C0847EB5-83EA-BE7F-B001-3D65F504B712}.wem"
+      "CachePath": "67/{67BBBAB2-66A3-B8E5-9F3A-335452924C76}.wem"
      },
      {
       "Id": "725246024",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "UI_Slider-002.wav",
       "Path": "Media/725246024.wem",
-      "CachePath": "7A/{7A843E30-7541-1F2E-35F4-A0CCB5F4CE33}.wem"
+      "CachePath": "DB/{DB828B2A-4C91-6C63-7FF0-61FF193E9CF5}.wem"
      },
      {
       "Id": "974355337",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "UI_Slider-005.wav",
       "Path": "Media/974355337.wem",
-      "CachePath": "FA/{FAA64B69-3D89-6876-E262-2D88CE5565A9}.wem"
+      "CachePath": "8E/{8E227836-5C3A-A113-EE3B-14A05C19E380}.wem"
      }
     ],
     "Events": [
@@ -98,6 +98,6 @@
     ]
    }
   ],
-  "FileHash": "{6C504E31-602D-15D9-90A9-7FF1AFAF6897}"
+  "FileHash": "{1B2F0FE2-FE23-77E4-CA83-02B250B503FC}"
  }
 }

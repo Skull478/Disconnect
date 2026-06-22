@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4795E18F-27A5-49D1-BBD3-91CB4E3E123B}",
     "Language": "English(US)",
-    "Hash": "{4A68F736-8277-DD73-38F6-B87D1D70B596}",
+    "Hash": "{FEC6E419-8F4B-A1A4-2EB8-46E4F3C093A7}",
     "ObjectPath": "Play_DX_Player_HowDoYouPlan",
     "ShortName": "Play_DX_Player_HowDoYouPlan",
     "Path": "Event/English(US)/Play_DX_Player_HowDoYouPlan.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_HowDoYouPlan.wav",
       "Path": "Media/English(US)/857498698.wem",
-      "CachePath": "92/{922ECC44-A4B2-1DCC-255F-CBE7D8D676B8}.wem"
+      "CachePath": "E4/{E4BD361C-B912-9E6D-D5AE-6833CFAA49FB}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E400C4A8-9CD9-DEDD-3C28-471A1A837EAF}"
+  "FileHash": "{204EB545-1231-ED25-B053-0964AC62A737}"
  }
 }

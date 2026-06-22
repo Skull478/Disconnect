@@ -10,100 +10,100 @@
     "Type": "Event",
     "GUID": "{704A42C6-41B1-4369-9D9F-EACE5140EF07}",
     "Language": "SFX",
-    "Hash": "{485E59C9-D3AD-1804-7F72-5689E8293AC7}",
+    "Hash": "{000C5C45-0587-29FE-861A-831254ED4437}",
     "ObjectPath": "Play_UI_DEV_TextWrite",
     "ShortName": "Play_UI_DEV_TextWrite",
     "Path": "Event/Play_UI_DEV_TextWrite.bnk",
     "Media": [
      {
-      "Id": "53575724",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-003.wav",
-      "Path": "Media/53575724.wem",
-      "CachePath": "0A/{0AE715C6-7DC7-5680-2DB6-66982ADAAA1B}.wem"
-     },
-     {
-      "Id": "54035501",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-007.wav",
-      "Path": "Media/54035501.wem",
-      "CachePath": "38/{386CA834-90E2-19B6-2F65-800492E8CA08}.wem"
-     },
-     {
-      "Id": "248637418",
+      "Id": "13590363",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
       "ShortName": "Soft_Click-008.wav",
-      "Path": "Media/248637418.wem",
-      "CachePath": "64/{64D90CEE-E2CC-C25C-7BD7-F27ECE71AD62}.wem"
+      "Path": "Media/13590363.wem",
+      "CachePath": "D9/{D9151C3C-963F-1585-D47A-884DB3C78FC4}.wem"
      },
      {
-      "Id": "567899763",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-002.wav",
-      "Path": "Media/567899763.wem",
-      "CachePath": "C5/{C575834B-FF31-85F1-C22A-0BCCA2337F70}.wem"
-     },
-     {
-      "Id": "569343422",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-005.wav",
-      "Path": "Media/569343422.wem",
-      "CachePath": "37/{37731072-914C-72CC-0807-FE2231A7B2E6}.wem"
-     },
-     {
-      "Id": "642890991",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-010.wav",
-      "Path": "Media/642890991.wem",
-      "CachePath": "8B/{8BB9D5F3-2A01-1E60-DFB2-BB62A2DE86F9}.wem"
-     },
-     {
-      "Id": "675282362",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-006.wav",
-      "Path": "Media/675282362.wem",
-      "CachePath": "19/{19675ED6-67E5-9E2E-CAB5-870BCA273E60}.wem"
-     },
-     {
-      "Id": "839174425",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-004.wav",
-      "Path": "Media/839174425.wem",
-      "CachePath": "D4/{D4C68530-51B8-1025-E76F-297B3666DF65}.wem"
-     },
-     {
-      "Id": "914227342",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Loose",
-      "ShortName": "Soft_Click-009.wav",
-      "Path": "Media/914227342.wem",
-      "CachePath": "5E/{5E81E438-3003-CE3C-BFF9-1B33AB668208}.wem"
-     },
-     {
-      "Id": "916849915",
+      "Id": "46293264",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
       "ShortName": "Soft_Click-001.wav",
-      "Path": "Media/916849915.wem",
-      "CachePath": "AE/{AEB97506-C12B-E528-793B-9DE270CB8551}.wem"
+      "Path": "Media/46293264.wem",
+      "CachePath": "A2/{A2729421-E083-0808-BA15-888AEDDF6341}.wem"
+     },
+     {
+      "Id": "237097114",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-007.wav",
+      "Path": "Media/237097114.wem",
+      "CachePath": "2B/{2B944237-6970-14DD-A791-8A90BAE90C72}.wem"
+     },
+     {
+      "Id": "302209797",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-010.wav",
+      "Path": "Media/302209797.wem",
+      "CachePath": "99/{99C680ED-83AC-5DE9-6280-3A1F8663691E}.wem"
+     },
+     {
+      "Id": "312284128",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-002.wav",
+      "Path": "Media/312284128.wem",
+      "CachePath": "44/{4497C022-D1F4-AB10-3DCF-B2A1B36CE13E}.wem"
+     },
+     {
+      "Id": "312646912",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-005.wav",
+      "Path": "Media/312646912.wem",
+      "CachePath": "D2/{D2F7A229-0F11-BF11-5B6A-61C6D3370261}.wem"
+     },
+     {
+      "Id": "679348650",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-009.wav",
+      "Path": "Media/679348650.wem",
+      "CachePath": "1C/{1CD833EE-D05F-7F54-BD6C-0DECEDE23762}.wem"
+     },
+     {
+      "Id": "690689841",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-006.wav",
+      "Path": "Media/690689841.wem",
+      "CachePath": "06/{06E0A550-8C1E-EF74-FEC9-0EA1DAD3BBF9}.wem"
+     },
+     {
+      "Id": "732964483",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-004.wav",
+      "Path": "Media/732964483.wem",
+      "CachePath": "F5/{F5592C98-415D-8567-8DFA-421850684C5E}.wem"
+     },
+     {
+      "Id": "932591645",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Soft_Click-003.wav",
+      "Path": "Media/932591645.wem",
+      "CachePath": "B3/{B3D8E874-DEBA-30CF-2574-DFD95E3188CB}.wem"
      }
     ],
     "Events": [
@@ -118,40 +118,40 @@
       "DurationMax": "0.11727518",
       "MediaRefs": [
        {
-        "Id": "53575724"
+        "Id": "13590363"
        },
        {
-        "Id": "54035501"
+        "Id": "46293264"
        },
        {
-        "Id": "248637418"
+        "Id": "237097114"
        },
        {
-        "Id": "567899763"
+        "Id": "302209797"
        },
        {
-        "Id": "569343422"
+        "Id": "312284128"
        },
        {
-        "Id": "642890991"
+        "Id": "312646912"
        },
        {
-        "Id": "675282362"
+        "Id": "679348650"
        },
        {
-        "Id": "839174425"
+        "Id": "690689841"
        },
        {
-        "Id": "914227342"
+        "Id": "732964483"
        },
        {
-        "Id": "916849915"
+        "Id": "932591645"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{319D4860-08C9-7740-38B0-BD1A707A16F7}"
+  "FileHash": "{9DDD5568-BAEC-BD53-5AEA-A280804E91EF}"
  }
 }

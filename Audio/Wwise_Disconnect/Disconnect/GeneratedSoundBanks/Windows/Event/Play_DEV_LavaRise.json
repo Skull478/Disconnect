@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6DB679CC-E4C7-4C27-BA21-22265F799ABC}",
     "Language": "SFX",
-    "Hash": "{08A36D8E-CAF0-A3BD-343A-BE02A79DD7BE}",
+    "Hash": "{CAD30384-028B-E72C-BC9D-0FF48202D863}",
     "ObjectPath": "Play_DEV_LavaRise",
     "ShortName": "Play_DEV_LavaRise",
     "Path": "Event/Play_DEV_LavaRise.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DEV_LavaRise.wav",
       "Path": "Media/501386864.wem",
-      "CachePath": "A7/{A75D8B41-E5C6-C34C-A698-AE30C6D1209B}.wem"
+      "CachePath": "8E/{8E428B3A-4D90-2506-9D54-CF2609562529}.wem"
      }
     ],
     "Events": [
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{33FB3020-880A-434A-59E7-19AA3D48E077}"
+  "FileHash": "{5B33A2F3-6F82-CF89-08DA-CB08B9FE3488}"
  }
 }

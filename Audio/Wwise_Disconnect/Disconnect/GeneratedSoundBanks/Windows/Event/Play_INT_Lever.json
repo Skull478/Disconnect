@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C4394614-5805-493F-9A5F-98460CCB8DED}",
     "Language": "SFX",
-    "Hash": "{51AC77D2-9FB5-DABE-144E-DA38F6D44799}",
+    "Hash": "{8D49FCB3-B1DD-2D59-6154-5F5964951076}",
     "ObjectPath": "Play_INT_Lever",
     "ShortName": "Play_INT_Lever",
     "Path": "Event/Play_INT_Lever.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "INT_Lever_01.wav",
       "Path": "Media/214898188.wem",
-      "CachePath": "42/{4240C7A5-E7ED-BE4A-05D8-2403B3947CD0}.wem"
+      "CachePath": "32/{325B2480-68B9-B579-C5F1-7BCFB563E5D0}.wem"
      },
      {
       "Id": "227614601",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "INT_Lever_02.wav",
       "Path": "Media/227614601.wem",
-      "CachePath": "76/{76ED55F3-4FA5-8F0F-2A30-49606CE118D6}.wem"
+      "CachePath": "17/{17F2D35E-26F5-25C0-66F8-1351EF3BFF2B}.wem"
      },
      {
       "Id": "377242427",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "INT_Lever_03.wav",
       "Path": "Media/377242427.wem",
-      "CachePath": "06/{06574FE0-B81B-F31E-A6EB-6A792CAD0CE2}.wem"
+      "CachePath": "DC/{DC164699-BF98-9595-F6D4-C1BD637B6CAE}.wem"
      },
      {
       "Id": "814611705",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "INT_Lever_04.wav",
       "Path": "Media/814611705.wem",
-      "CachePath": "B2/{B22944D1-FB5C-37BE-8E7F-DEA2F54710CA}.wem"
+      "CachePath": "04/{0411A32A-1BB9-DBB8-786D-1213CA8A4E8E}.wem"
      }
     ],
     "Events": [
@@ -81,6 +81,6 @@
     ]
    }
   ],
-  "FileHash": "{00D3583D-606E-5841-1E6D-DBD520333FD6}"
+  "FileHash": "{81EE95F2-780F-8FAF-8ACB-DC1993F80A47}"
  }
 }

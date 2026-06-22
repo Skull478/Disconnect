@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
     "Language": "SFX",
-    "Hash": "{624A494E-F34E-E6ED-535C-528B60203AEF}",
+    "Hash": "{C1C5F9F2-CCF1-6618-E916-B6C84C74BB46}",
     "ObjectPath": "Play_UI_DEV_WindowFullscreen",
     "ShortName": "Play_UI_DEV_WindowFullscreen",
     "Path": "Event/Play_UI_DEV_WindowFullscreen.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_WindowOpen.wav",
       "Path": "Media/753095778.wem",
-      "CachePath": "2D/{2DF6A65F-0956-850A-C0F9-CBD86406222D}.wem"
+      "CachePath": "63/{6345743E-4FED-EAF9-7BA9-B2D9DEE66DE1}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{580C7538-F218-F58E-3AA3-0601526476E0}"
+  "FileHash": "{381D72D4-B81C-1137-A4CA-F6D97018777A}"
  }
 }

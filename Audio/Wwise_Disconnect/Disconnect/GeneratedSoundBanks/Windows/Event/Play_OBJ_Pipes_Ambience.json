@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{29EB3506-E2D1-402D-A134-5F7C27950E0B}",
     "Language": "SFX",
-    "Hash": "{BA7DE49E-FBC6-CB25-8A70-965BB6BD77DF}",
+    "Hash": "{083ED899-07E9-3AE5-EE6F-E728EDFB7CCE}",
     "ObjectPath": "Play_OBJ_Pipes_Ambience",
     "ShortName": "Play_OBJ_Pipes_Ambience",
     "Path": "Event/Play_OBJ_Pipes_Ambience.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_Pipes_Loop.wav",
       "Path": "Media/193668954.wem",
-      "CachePath": "CB/{CBA065CA-A14E-0727-6DF9-E0DF3F864340}.wem"
+      "CachePath": "2F/{2FFEA206-F2F8-5A10-DE25-99C7EE71534E}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{12AAC90F-FA29-5195-4912-08C6D7FE6D51}"
+  "FileHash": "{377F1AA1-48E0-7EAA-DBF4-F3267407CA84}"
  }
 }

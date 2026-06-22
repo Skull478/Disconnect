@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A47B1E65-E9A1-4ACA-AD1B-4B2028B6B77D}",
     "Language": "SFX",
-    "Hash": "{DCB40551-4EF9-6812-15F6-5DB2766E3445}",
+    "Hash": "{DACBEE65-5228-3A88-E962-8A82A0E880A9}",
     "ObjectPath": "Play_UI_Bop_Click",
     "ShortName": "Play_UI_Bop_Click",
     "Path": "Event/Play_UI_Bop_Click.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Boop_Click-001.wav",
       "Path": "Media/165290215.wem",
-      "CachePath": "C6/{C6EF107D-5299-8FAC-6223-F5B340E0B3CE}.wem"
+      "CachePath": "22/{22EB2C11-117F-6170-60FA-86111E3DC756}.wem"
      },
      {
       "Id": "227256411",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "Boop_Click-002.wav",
       "Path": "Media/227256411.wem",
-      "CachePath": "21/{21BA5D1F-9F31-665F-93A3-0BB6A9D39E72}.wem"
+      "CachePath": "70/{707F6173-C13A-E14A-99D2-7D403BC5ADC1}.wem"
      }
     ],
     "Events": [
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{56CF4D51-6DC9-9AB4-946E-0C3CFB48345B}"
+  "FileHash": "{7DED5215-8D34-32DE-BB95-4C499D299D9F}"
  }
 }

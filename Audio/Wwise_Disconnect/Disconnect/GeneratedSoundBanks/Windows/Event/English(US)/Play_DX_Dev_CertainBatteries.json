@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D692D923-7418-4ABD-AB69-093D9C5461FA}",
     "Language": "English(US)",
-    "Hash": "{02607A54-CA73-F7F9-8DBB-0CD681AF5463}",
+    "Hash": "{945A26B2-B25E-F789-4159-DD0D60032841}",
     "ObjectPath": "Play_DX_Dev_CertainBatteries",
     "ShortName": "Play_DX_Dev_CertainBatteries",
     "Path": "Event/English(US)/Play_DX_Dev_CertainBatteries.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_CertainBatteries.wav",
       "Path": "Media/English(US)/931046720.wem",
-      "CachePath": "34/{34A8ABF5-D225-0BB9-C16B-360D3FAFE8F9}.wem"
+      "CachePath": "82/{82ECF1BE-6260-4420-6A94-0EA4248608D1}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{46E4F0BD-FA3E-1FFD-FC3E-9460B4EDA3E1}"
+  "FileHash": "{D922F3C3-5E04-B191-1B8A-A6A6E79EC811}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
     "Language": "SFX",
-    "Hash": "{2A243F20-6E0E-DA0D-D76E-E4EC1C48CDA7}",
+    "Hash": "{566C19E2-759B-4E9B-E368-D416A3DDBE98}",
     "ObjectPath": "Play_UI_DEV_WindowClose",
     "ShortName": "Play_UI_DEV_WindowClose",
     "Path": "Event/Play_UI_DEV_WindowClose.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Cute-close-001.wav",
       "Path": "Media/140162549.wem",
-      "CachePath": "0E/{0E93D9EA-70A2-0359-70BD-A21D351042A3}.wem"
+      "CachePath": "0F/{0F24EA42-EDB6-082E-639F-6094EFEC17AE}.wem"
      },
      {
       "Id": "1040533746",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "Cute-close-002.wav",
       "Path": "Media/1040533746.wem",
-      "CachePath": "04/{04717B4E-CADC-092E-C5FD-1D7051AA2119}.wem"
+      "CachePath": "11/{11328622-5DB4-A048-4FD0-BAC2E3CE7B34}.wem"
      }
     ],
     "Events": [
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{E05CB031-0BA0-53B2-E257-8D8A530B9846}"
+  "FileHash": "{CB1B9CF3-8A45-1551-FDBD-050AB0E90D05}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
     "Language": "SFX",
-    "Hash": "{D9DC6391-8212-76CE-3082-A8C6C357E231}",
+    "Hash": "{D0A053F9-7B6B-E4FD-A1CA-09B92DCB4AD1}",
     "ObjectPath": "Play_INT_NumPadClick",
     "ShortName": "Play_INT_NumPadClick",
     "Path": "Event/Play_INT_NumPadClick.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Clicks_03.wav",
       "Path": "Media/42343478.wem",
-      "CachePath": "00/{003C1F7E-6CE6-0BA2-66AE-436AD65468F4}.wem"
+      "CachePath": "E5/{E57B1E8A-7795-28E0-DB43-25D9080B9832}.wem"
      },
      {
       "Id": "384358609",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "UI_Clicks_02.wav",
       "Path": "Media/384358609.wem",
-      "CachePath": "EC/{EC1E3AF5-FC75-DA3E-A8E0-32C174BE0465}.wem"
+      "CachePath": "41/{4178D0BE-743A-D6EF-8784-B4D4E552CF27}.wem"
      },
      {
       "Id": "396206521",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "UI_Clicks_04.wav",
       "Path": "Media/396206521.wem",
-      "CachePath": "3E/{3ECBBFC4-BB6D-9561-5895-7A22484C24D9}.wem"
+      "CachePath": "04/{04821195-A899-C5ED-47FD-9E26DB8BC43A}.wem"
      },
      {
       "Id": "653386052",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "UI_Clicks_05.wav",
       "Path": "Media/653386052.wem",
-      "CachePath": "B5/{B53EABF9-19CC-05B6-A40D-6F502A781FA8}.wem"
+      "CachePath": "75/{7528CFA8-D4B6-437F-A149-9C5107695E43}.wem"
      },
      {
       "Id": "1062453970",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "UI_Clicks_01.wav",
       "Path": "Media/1062453970.wem",
-      "CachePath": "CB/{CBACFD4A-06E2-54A8-BB96-8467E7DDA5A3}.wem"
+      "CachePath": "8A/{8A88CD95-78C6-18A3-21A1-7B32FB27DC7C}.wem"
      }
     ],
     "Events": [
@@ -93,6 +93,6 @@
     ]
    }
   ],
-  "FileHash": "{A7465AA0-6EE4-7E2F-4D12-84E96D0BCC1E}"
+  "FileHash": "{32CB9B84-15C9-274A-82CB-9C9024756B49}"
  }
 }

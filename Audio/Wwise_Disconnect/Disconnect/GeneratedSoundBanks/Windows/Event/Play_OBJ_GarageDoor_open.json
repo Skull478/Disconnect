@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
     "Language": "SFX",
-    "Hash": "{012FEC27-005F-BA7F-A522-F29DF16A4DEB}",
+    "Hash": "{F2A00A19-7E62-F433-46E7-3471858F50F8}",
     "ObjectPath": "Play_OBJ_GarageDoor_open",
     "ShortName": "Play_OBJ_GarageDoor_open",
     "Path": "Event/Play_OBJ_GarageDoor_open.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_GarageDoor_open.wav",
       "Path": "Media/413578713.wem",
-      "CachePath": "F7/{F77D5DDE-5C29-099C-13FB-6B074C2DD1A1}.wem"
+      "CachePath": "59/{59CCA97D-EB27-370E-5B6D-EFACAFB2D6A2}.wem"
      }
     ],
     "Events": [
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{B2DD7C1F-01DC-8BAA-146B-F4479A123543}"
+  "FileHash": "{E8383442-94A8-2C99-0108-E502BEAACF8D}"
  }
 }

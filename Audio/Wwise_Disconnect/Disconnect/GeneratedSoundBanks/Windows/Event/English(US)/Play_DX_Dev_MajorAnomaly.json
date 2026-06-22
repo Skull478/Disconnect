@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A475E70F-F76B-4E13-B339-CD4BC83D4D18}",
     "Language": "English(US)",
-    "Hash": "{1EE205B9-FDC9-9CC4-96ED-D76613353260}",
+    "Hash": "{E8F82A57-8DE6-26E6-CE6C-30B4F29AA3ED}",
     "ObjectPath": "Play_DX_Dev_MajorAnomaly",
     "ShortName": "Play_DX_Dev_MajorAnomaly",
     "Path": "Event/English(US)/Play_DX_Dev_MajorAnomaly.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_MajorAnomaly.wav",
       "Path": "Media/English(US)/514346891.wem",
-      "CachePath": "D6/{D6AFE327-FFA0-24A7-AFD2-2D99821CEB9F}.wem"
+      "CachePath": "94/{9434FD4C-4506-B395-EA85-7C1502805F69}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{8F283F77-9D07-2CA2-7C2E-DF133EA9FC8E}"
+  "FileHash": "{FA175AEC-8B0C-318D-748B-5BF64D8EB974}"
  }
 }

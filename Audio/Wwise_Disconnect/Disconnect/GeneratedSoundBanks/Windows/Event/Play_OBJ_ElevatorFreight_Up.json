@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{1C23DCA8-8CF7-4551-9C4B-289C90E26D4D}",
     "Language": "SFX",
-    "Hash": "{3A2389D9-F2C9-A47F-1CEA-D94032FC7861}",
+    "Hash": "{F84593FD-0A66-20BF-D44A-81D2217C7C46}",
     "ObjectPath": "Play_OBJ_ElevatorFreight_Up",
     "ShortName": "Play_OBJ_ElevatorFreight_Up",
     "Path": "Event/Play_OBJ_ElevatorFreight_Up.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_ElevatorFreight_Up.wav",
       "Path": "Media/496626388.wem",
-      "CachePath": "11/{11C17034-7C84-5D3E-F18A-7E022FD70545}.wem"
+      "CachePath": "BD/{BD2345C7-3EB1-7960-1C5A-B665A2219A5B}.wem"
      }
     ],
     "Events": [
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{7195F4BE-7A5A-728A-1527-B23610DF4891}"
+  "FileHash": "{F687C8AA-EC33-D59A-77BF-59BF303B85BF}"
  }
 }

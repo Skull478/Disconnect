@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C3BBAF59-B285-47E6-A9D6-E5E231ACA1CB}",
     "Language": "SFX",
-    "Hash": "{C1A86778-5D85-34C3-4534-6EB0B8F93643}",
+    "Hash": "{A59097A2-0B00-54CD-6A00-FE46BFCC5B5F}",
     "ObjectPath": "Play_UI_DEV_Enigme_Failure",
     "ShortName": "Play_UI_DEV_Enigme_Failure",
     "Path": "Event/Play_UI_DEV_Enigme_Failure.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_DEV_Enigme_Failure.wav",
       "Path": "Media/940083988.wem",
-      "CachePath": "63/{63C1ACDF-6CC5-0246-BF58-D075E1286101}.wem"
+      "CachePath": "D0/{D0A1A42E-8EA6-9032-83EF-F11642767926}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{14BFF42D-8ADE-8844-366C-CF1A4876E4B0}"
+  "FileHash": "{D5DFCD7B-97BA-1755-E9DC-0EC4D3C5D400}"
  }
 }

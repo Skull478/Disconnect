@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AF9A314F-D8A4-4C81-91A6-35E147AB26B1}",
     "Language": "SFX",
-    "Hash": "{E986FD55-A20F-8AF6-1D1B-F12F98D6B22D}",
+    "Hash": "{B2DD47A5-651D-1952-347B-81EB655FFD8D}",
     "ObjectPath": "Play_AMB_ViewPoint",
     "ShortName": "Play_AMB_ViewPoint",
     "Path": "Event/Play_AMB_ViewPoint.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_ViewPoint.wav",
       "Path": "Media/17983511.wem",
-      "CachePath": "C7/{C761EC70-9B97-AF36-9C7A-00620F3638EE}.wem"
+      "CachePath": "41/{411004E7-1935-C98E-8F11-5B9E07F3E3C8}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{7CEFEC1F-9E0F-4610-FBE5-FD1DEE2E6F76}"
+  "FileHash": "{81C742A6-B509-3D45-D4FE-0884E1572CED}"
  }
 }

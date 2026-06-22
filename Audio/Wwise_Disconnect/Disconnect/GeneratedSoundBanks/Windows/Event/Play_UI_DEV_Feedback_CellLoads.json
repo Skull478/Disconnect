@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F9C067BE-21FE-4B56-992A-B0FB8DD1AAF2}",
     "Language": "SFX",
-    "Hash": "{9BA14C63-F623-445A-55F8-14DBFB321EF2}",
+    "Hash": "{93404185-C440-A61A-8742-9FE69EE267D4}",
     "ObjectPath": "Play_UI_DEV_Feedback_CellLoads",
     "ShortName": "Play_UI_DEV_Feedback_CellLoads",
     "Path": "Event/Play_UI_DEV_Feedback_CellLoads.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Feedback_CellLoads_DevSide.wav",
       "Path": "Media/779173282.wem",
-      "CachePath": "D9/{D967A1DA-669C-C7CD-F33A-7FC615FDB632}.wem"
+      "CachePath": "FA/{FA24358A-0176-1881-75DC-C6CE6437F7AB}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{CD10EB32-D335-1A75-D09B-87F23E35BC88}"
+  "FileHash": "{15C8E887-8350-A02D-5A91-BB0411DBAF74}"
  }
 }

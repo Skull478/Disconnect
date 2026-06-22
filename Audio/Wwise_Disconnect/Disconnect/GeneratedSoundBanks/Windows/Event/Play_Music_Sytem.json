@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{0C437C0B-6FE8-1BC9-0425-80E505BD928B}",
+    "Hash": "{67EFAFD5-85CC-A44E-0D0F-DC9D207204C8}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_BASS_G-_Loop_109Bpm.wav",
       "Path": "Media/5977828.wem",
-      "CachePath": "1D/{1D921488-495F-9E48-02AE-B4CC2E96CE49}.wem"
+      "CachePath": "6C/{6CE54F1F-B538-E824-0CF7-64A9616712EB}.wem"
      },
      {
       "Id": "16168820",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Intro_Wind.wav",
       "Path": "Media/16168820.wem",
-      "CachePath": "A4/{A45C83E2-360E-6A9E-86DD-03BE633F1464}.wem"
+      "CachePath": "75/{75E19473-961A-0F01-7668-7262798587E8}.wem"
      },
      {
       "Id": "17734505",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "Virus_LowPlucks_Loop_122bpm.wav",
       "Path": "Media/17734505.wem",
-      "CachePath": "BD/{BD39BAF3-4315-C236-2CA3-6A9FA176F90B}.wem"
+      "CachePath": "F9/{F97F656C-D4E7-94DD-2B98-B44B69AA4F3C}.wem"
      },
      {
       "Id": "21490316",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_ToloopSynth_G-_Loop_109Bpm.wav",
       "Path": "Media/21490316.wem",
-      "CachePath": "0F/{0F349ECD-B419-903D-AC86-BF54E2909AC9}.wem"
+      "CachePath": "81/{81417472-FFC5-8B62-4B66-637A30A0F65D}.wem"
      },
      {
       "Id": "55464733",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "Virus_Perc1_Loop_122bpm.wav",
       "Path": "Media/55464733.wem",
-      "CachePath": "40/{4031675E-C194-1DB8-6678-CA89920E3741}.wem"
+      "CachePath": "F1/{F17475B5-DD29-69CD-E647-8990CED97575}.wem"
      },
      {
       "Id": "71649843",
@@ -67,7 +67,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_GranularTexture.wav",
       "Path": "Media/71649843.wem",
-      "CachePath": "ED/{ED7BF123-64AB-7C73-1F8A-66F4BD6B1730}.wem"
+      "CachePath": "4F/{4FCEE921-580A-E94B-A94F-722C5138D3DA}.wem"
      },
      {
       "Id": "92673870",
@@ -76,7 +76,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_Strings_G-_Loop_109Bpm.wav",
       "Path": "Media/92673870.wem",
-      "CachePath": "B6/{B64AB9E8-CF36-3864-2F3C-E2477EFCA2F0}.wem"
+      "CachePath": "27/{27F07A16-104D-47B8-5248-D2C8B451F3CC}.wem"
      },
      {
       "Id": "94327414",
@@ -85,7 +85,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_Guit_G-_Loop_109Bpm.wav",
       "Path": "Media/94327414.wem",
-      "CachePath": "7C/{7C0428FE-4F99-A8CB-4736-87672CEDC286}.wem"
+      "CachePath": "FA/{FA4199B7-F37C-BA8E-1820-D30757BC8877}.wem"
      },
      {
       "Id": "97689956",
@@ -94,7 +94,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_HighPulse.wav",
       "Path": "Media/97689956.wem",
-      "CachePath": "DC/{DCD16444-49AA-A6F4-147C-8652C545A939}.wem"
+      "CachePath": "29/{29D7ED37-2B82-CFE4-FC68-C515271E327A}.wem"
      },
      {
       "Id": "132322215",
@@ -103,7 +103,7 @@
       "Location": "Loose",
       "ShortName": "Main_thunderdome_Drum_intro 109Bpm.wav",
       "Path": "Media/132322215.wem",
-      "CachePath": "E9/{E94C4490-E4A7-72CD-2000-438D838F0DE3}.wem"
+      "CachePath": "F4/{F41AEF7B-64A2-DC72-38E0-3B7A080EB59F}.wem"
      },
      {
       "Id": "136989348",
@@ -112,7 +112,7 @@
       "Location": "Loose",
       "ShortName": "music_transition.wav",
       "Path": "Media/136989348.wem",
-      "CachePath": "92/{92568A07-371F-AF55-E300-01E980A6B4D8}.wem"
+      "CachePath": "91/{91E3F04C-6F40-DF88-CCC5-4F2E0D647A85}.wem"
      },
      {
       "Id": "144635942",
@@ -121,7 +121,7 @@
       "Location": "Loose",
       "ShortName": "MUSIC_Main_Explo_Loop_01.wav",
       "Path": "Media/144635942.wem",
-      "CachePath": "A9/{A93A6091-835B-5AF8-80BA-BDD2E93B5524}.wem"
+      "CachePath": "C9/{C960A409-C34C-3AE0-51AA-B927A1853E4B}.wem"
      },
      {
       "Id": "150106522",
@@ -130,7 +130,7 @@
       "Location": "Loose",
       "ShortName": "Virus_Virus_Guit2_Loop_122bpm.wav",
       "Path": "Media/150106522.wem",
-      "CachePath": "66/{66DE70AF-48F9-2969-F46C-50E56EA0E119}.wem"
+      "CachePath": "FD/{FDBEBBF2-D31B-70CF-EF77-5A42FF6F535C}.wem"
      },
      {
       "Id": "157958513",
@@ -139,7 +139,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_Violin.wav",
       "Path": "Media/157958513.wem",
-      "CachePath": "A7/{A7DB9346-1237-4596-EE6F-E0296B4839C6}.wem"
+      "CachePath": "1D/{1D94C7AE-F4E3-FB8C-AE0C-EDEFC21C24F1}.wem"
      },
      {
       "Id": "172123189",
@@ -148,7 +148,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_ToloopSynth.wav",
       "Path": "Media/172123189.wem",
-      "CachePath": "D8/{D8AC8308-7B04-FA17-43DF-565C3FDD7C24}.wem"
+      "CachePath": "1A/{1AFAE403-C4E7-0AE1-7BE1-FEB0E887BF88}.wem"
      },
      {
       "Id": "176442114",
@@ -157,7 +157,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_Gong.wav",
       "Path": "Media/176442114.wem",
-      "CachePath": "77/{776D1DE6-B1D7-D8B1-CEF6-878632CF8FC5}.wem"
+      "CachePath": "61/{619D6491-B972-9D51-1055-910F3B4A6FA7}.wem"
      },
      {
       "Id": "220351182",
@@ -166,7 +166,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Synth2_G-_Loop_81bpm.wav",
       "Path": "Media/220351182.wem",
-      "CachePath": "B0/{B0163AE8-72CC-D631-12FB-065B3C220B45}.wem"
+      "CachePath": "77/{77934258-F7A4-702D-53DB-4FB8B24CAFFC}.wem"
      },
      {
       "Id": "239189792",
@@ -175,7 +175,7 @@
       "Location": "Loose",
       "ShortName": "Main_Céleste_Synth1_C_122Bpm.wav",
       "Path": "Media/239189792.wem",
-      "CachePath": "A7/{A700F277-AFA4-9B9F-AC2D-E93F2771AEEB}.wem"
+      "CachePath": "70/{709DB4EC-6024-E63D-9645-7DD7A910C971}.wem"
      },
      {
       "Id": "275321374",
@@ -184,7 +184,7 @@
       "Location": "Loose",
       "ShortName": "Main_Céleste_ToLoopSynth1_C_122Bpm .wav",
       "Path": "Media/275321374.wem",
-      "CachePath": "07/{0710CA30-DE08-A84E-3ACD-B46C49188E7C}.wem"
+      "CachePath": "2B/{2BAEF654-06E1-FD08-2DC5-AE70E62C975D}.wem"
      },
      {
       "Id": "279218113",
@@ -193,7 +193,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Harmonics_C_122Bpm.wav",
       "Path": "Media/279218113.wem",
-      "CachePath": "85/{85E5E0FC-7CFB-4457-275F-881373FFC4C9}.wem"
+      "CachePath": "4C/{4C882F35-99F3-C5F6-3B23-C20E94DC9261}.wem"
      },
      {
       "Id": "329774271",
@@ -202,7 +202,7 @@
       "Location": "Loose",
       "ShortName": "MUSIC_Main_Explo_Loop_02.wav",
       "Path": "Media/329774271.wem",
-      "CachePath": "06/{060B9D1E-8405-795F-968C-D2C36A3ADB68}.wem"
+      "CachePath": "38/{38F8B78B-5353-0C99-AB89-9F89E2BFE7FC}.wem"
      },
      {
       "Id": "335365206",
@@ -211,7 +211,7 @@
       "Location": "Loose",
       "ShortName": "Virus_Bass C-_Loop_122bpm.wav",
       "Path": "Media/335365206.wem",
-      "CachePath": "11/{11951C20-26FC-7921-E048-2A83EEF1B4CB}.wem"
+      "CachePath": "69/{69F9FEEE-85F3-F71D-93BB-8915A048A64C}.wem"
      },
      {
       "Id": "338047816",
@@ -220,7 +220,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Bass3_G-_Loop_81bpm.wav",
       "Path": "Media/338047816.wem",
-      "CachePath": "DA/{DA490A07-1ADA-5A06-73EB-7A9704B2CD8B}.wem"
+      "CachePath": "A0/{A09B4259-66AE-7C0A-7FD2-78D54AE2ECFA}.wem"
      },
      {
       "Id": "390555615",
@@ -229,7 +229,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_HighPlucks.wav",
       "Path": "Media/390555615.wem",
-      "CachePath": "12/{1219CA68-11B1-CAA2-7020-625291D9860D}.wem"
+      "CachePath": "73/{73A44E75-15CA-E8B2-D929-91AC2C626A82}.wem"
      },
      {
       "Id": "416155331",
@@ -238,7 +238,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_HighPulse_G-_Loop_81bpm.wav",
       "Path": "Media/416155331.wem",
-      "CachePath": "86/{865B8DFC-20DA-17EC-1C2A-F2ABD5C35545}.wem"
+      "CachePath": "B5/{B57E3E47-CEEA-C6E2-90C8-1C1484791E46}.wem"
      },
      {
       "Id": "419138881",
@@ -247,7 +247,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_Gong.wav",
       "Path": "Media/419138881.wem",
-      "CachePath": "B3/{B3A53027-B655-464D-68F8-61FE08D8CE05}.wem"
+      "CachePath": "A9/{A9A03364-4457-0902-DB2F-0EBA06C62F26}.wem"
      },
      {
       "Id": "423185670",
@@ -256,7 +256,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Shimmer.wav",
       "Path": "Media/423185670.wem",
-      "CachePath": "7C/{7C97CC2D-B4FE-27ED-D511-BA4ABDA02F92}.wem"
+      "CachePath": "81/{8121C36C-62B8-22FB-9987-9F7DCCC55BE6}.wem"
      },
      {
       "Id": "436843026",
@@ -265,7 +265,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_Violin.wav",
       "Path": "Media/436843026.wem",
-      "CachePath": "FD/{FD95A68A-2A2F-306B-4E17-ED5CEBA61B1B}.wem"
+      "CachePath": "8A/{8AFF43D3-3379-1218-EE9B-1F74ABEF7BAD}.wem"
      },
      {
       "Id": "472772508",
@@ -274,7 +274,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Violin_C_122Bpm.wav",
       "Path": "Media/472772508.wem",
-      "CachePath": "36/{364B0D1E-EA69-C1B3-3778-DCE210F9DFB8}.wem"
+      "CachePath": "BE/{BE3CE856-49F3-F3B2-23F1-8CCD2EC24A41}.wem"
      },
      {
       "Id": "481274504",
@@ -283,7 +283,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Dust.wav",
       "Path": "Media/481274504.wem",
-      "CachePath": "40/{40D58A6C-9369-9822-039F-49BC4E026A26}.wem"
+      "CachePath": "F2/{F2CA4ABE-024C-5879-CF1D-3E7008FBCEC9}.wem"
      },
      {
       "Id": "514448128",
@@ -292,7 +292,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_GranularTexture.wav",
       "Path": "Media/514448128.wem",
-      "CachePath": "85/{859AA0BF-839E-BB86-FE44-A6D4A74EFD8E}.wem"
+      "CachePath": "D3/{D3CB5A16-D1D3-2F8C-418B-F50202B17FE2}.wem"
      },
      {
       "Id": "537863881",
@@ -301,7 +301,7 @@
       "Location": "Loose",
       "ShortName": "Virus_PAD_Loopx2_122bpm.wav",
       "Path": "Media/537863881.wem",
-      "CachePath": "87/{87020F14-748D-5FF3-14EE-C62660D10286}.wem"
+      "CachePath": "74/{7479D169-FDD1-3A45-48F7-72C1B49F469B}.wem"
      },
      {
       "Id": "569613085",
@@ -310,7 +310,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Synth1_G-_Loop_81bpm.wav",
       "Path": "Media/569613085.wem",
-      "CachePath": "4C/{4C45F16A-A19D-FDDD-4659-6535A62F53BF}.wem"
+      "CachePath": "5C/{5C87CBAC-92EF-1BD2-E090-B97B310B46B9}.wem"
      },
      {
       "Id": "572655210",
@@ -319,7 +319,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Intro_PercHigh.wav",
       "Path": "Media/572655210.wem",
-      "CachePath": "D1/{D1CD3B9B-4FBA-1DD2-10A1-0D7EE275BF63}.wem"
+      "CachePath": "13/{13569CAC-4847-A1E8-BB2E-EF7B6ABC0A97}.wem"
      },
      {
       "Id": "574186873",
@@ -328,7 +328,7 @@
       "Location": "Loose",
       "ShortName": "Virus_HighPlucks_Loop_122bpm.wav",
       "Path": "Media/574186873.wem",
-      "CachePath": "37/{37731788-9B08-9943-6E4F-47233D8E4E08}.wem"
+      "CachePath": "1E/{1EC8304C-C8F8-D9F1-2247-A0CCA8E2160C}.wem"
      },
      {
       "Id": "579560870",
@@ -337,7 +337,7 @@
       "Location": "Loose",
       "ShortName": "Virus_Perc3_Loop_122bpm.wav",
       "Path": "Media/579560870.wem",
-      "CachePath": "5A/{5AFB1DF5-204E-1B97-8D08-AB07278CFF9B}.wem"
+      "CachePath": "26/{2690FFA4-0A8A-D004-9F29-8F8CCC6952F9}.wem"
      },
      {
       "Id": "582357972",
@@ -346,7 +346,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Choir_C_122Bpm.wav",
       "Path": "Media/582357972.wem",
-      "CachePath": "5C/{5CAB733B-C801-2D3A-3682-CA7098008E61}.wem"
+      "CachePath": "9B/{9B684DAD-FBC8-274E-D47D-A03DD709C3C9}.wem"
      },
      {
       "Id": "583025501",
@@ -355,7 +355,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Pad.wav",
       "Path": "Media/583025501.wem",
-      "CachePath": "B8/{B85856A9-916F-F856-D9C8-A874DDD12A91}.wem"
+      "CachePath": "C1/{C1172629-DFA3-634F-B62E-50D7E449FA30}.wem"
      },
      {
       "Id": "598800479",
@@ -364,7 +364,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_PercHigh.wav",
       "Path": "Media/598800479.wem",
-      "CachePath": "4B/{4BD478AD-C509-F325-FCDB-B63CBAA1CE0B}.wem"
+      "CachePath": "A6/{A64A47C7-E7D1-AA24-B8CE-D4D1648C941F}.wem"
      },
      {
       "Id": "604148490",
@@ -373,7 +373,7 @@
       "Location": "Loose",
       "ShortName": "MUSIC_Main_Explo_Loop_03.wav",
       "Path": "Media/604148490.wem",
-      "CachePath": "90/{90AA2036-80E3-9486-D7B8-6F88ECDE497A}.wem"
+      "CachePath": "9C/{9C0AD066-EEDD-1702-3EC4-03E5E94DA6BD}.wem"
      },
      {
       "Id": "611222167",
@@ -382,7 +382,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_HighPulse.wav",
       "Path": "Media/611222167.wem",
-      "CachePath": "FC/{FC50C0C1-257E-A54A-A4B8-E9C5F8BE51A5}.wem"
+      "CachePath": "20/{20A1E936-6E83-9E0A-1079-21ECDEDFFB3A}.wem"
      },
      {
       "Id": "615081911",
@@ -391,7 +391,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Cello__122Bpm.wav",
       "Path": "Media/615081911.wem",
-      "CachePath": "4B/{4B91AB1F-6603-AA1E-BC8E-8C4388A3797F}.wem"
+      "CachePath": "12/{1263CAA4-37A6-F11A-03CC-3E9B07457010}.wem"
      },
      {
       "Id": "620492956",
@@ -400,7 +400,7 @@
       "Location": "Loose",
       "ShortName": "Main_Céleste_Perc_C_122Bpm.wav",
       "Path": "Media/620492956.wem",
-      "CachePath": "32/{32FA9C34-0163-EBB8-0813-F259F46801BA}.wem"
+      "CachePath": "EA/{EA9572BD-2471-1665-D0ED-D0AF835E8895}.wem"
      },
      {
       "Id": "634665153",
@@ -409,7 +409,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Cymbals_C_122Bpm.wav",
       "Path": "Media/634665153.wem",
-      "CachePath": "D5/{D53190F3-2CEA-04E7-0A31-B56B6B8BCF93}.wem"
+      "CachePath": "8D/{8D228950-6FE3-DE4E-E747-8CE3146F9368}.wem"
      },
      {
       "Id": "666225748",
@@ -418,7 +418,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Piano.wav",
       "Path": "Media/666225748.wem",
-      "CachePath": "D2/{D2C37A85-390E-A837-9D81-CA52FF15BC18}.wem"
+      "CachePath": "D0/{D09D64B5-3C1C-E067-5E14-72FF035E5413}.wem"
      },
      {
       "Id": "668230785",
@@ -427,7 +427,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_Virus_FX.wav",
       "Path": "Media/668230785.wem",
-      "CachePath": "C8/{C867E2AB-C1E8-116A-1CF5-76A51335E7CC}.wem"
+      "CachePath": "F1/{F1F8B1EA-7BF3-4AA7-CA70-22B7B62F8540}.wem"
      },
      {
       "Id": "674664601",
@@ -436,7 +436,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Glitches.wav",
       "Path": "Media/674664601.wem",
-      "CachePath": "72/{72B02BF0-A264-B44D-34E1-395D3BC3EB9C}.wem"
+      "CachePath": "94/{94533E1B-83EB-2A4A-EBF5-59CB42792337}.wem"
      },
      {
       "Id": "698458781",
@@ -445,7 +445,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Cellodrone_C_122Bpm.wav",
       "Path": "Media/698458781.wem",
-      "CachePath": "31/{31448FAB-9893-940E-C288-71A0902FE1E0}.wem"
+      "CachePath": "D3/{D370698C-B00D-8AB6-260B-4B841E069DF7}.wem"
      },
      {
       "Id": "705281334",
@@ -454,7 +454,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_LowPlucks_G-_Loop_109Bpm.wav",
       "Path": "Media/705281334.wem",
-      "CachePath": "DD/{DD20EC6E-EA3A-1B0A-DE99-9539E11A8A8E}.wem"
+      "CachePath": "49/{499E36AA-A5B1-83CC-406E-30F43AF90D38}.wem"
      },
      {
       "Id": "718677749",
@@ -463,7 +463,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Verb.wav",
       "Path": "Media/718677749.wem",
-      "CachePath": "41/{41753C77-7F52-E4B2-4B2C-6CC2D97B9819}.wem"
+      "CachePath": "8B/{8B33B174-0ED2-4C90-4060-560941358196}.wem"
      },
      {
       "Id": "757887910",
@@ -472,7 +472,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_Drum_Loop_109Bpm Drum.wav",
       "Path": "Media/757887910.wem",
-      "CachePath": "6B/{6B7242FC-141E-E7A9-2C6B-928D90321D37}.wem"
+      "CachePath": "C5/{C5D9BD4F-7420-C7DC-D294-7449CC1F2B15}.wem"
      },
      {
       "Id": "806203406",
@@ -481,7 +481,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Bass2_G-_Loop_81bpm.wav",
       "Path": "Media/806203406.wem",
-      "CachePath": "1F/{1F417D9B-BB23-917F-423C-DE7F48B167C1}.wem"
+      "CachePath": "4B/{4B6F8073-463B-E316-39ED-5082C92FB459}.wem"
      },
      {
       "Id": "825308029",
@@ -490,7 +490,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_PercHigh_G-_Loop_81bpm.wav",
       "Path": "Media/825308029.wem",
-      "CachePath": "42/{42AFE1D6-B98A-1A0B-5C3B-69BAFC0E35E6}.wem"
+      "CachePath": "A2/{A29C63AF-7CC2-1D58-8C58-641D379FC0C6}.wem"
      },
      {
       "Id": "845350699",
@@ -499,7 +499,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_PercLow_G-_Loop_81bpm.wav",
       "Path": "Media/845350699.wem",
-      "CachePath": "C0/{C02336F5-0DA7-6EA2-B9E9-0C52708349EE}.wem"
+      "CachePath": "DE/{DEF1315F-4F70-1721-9415-EA7044A0DFAD}.wem"
      },
      {
       "Id": "902881118",
@@ -508,7 +508,7 @@
       "Location": "Loose",
       "ShortName": "MUSIC_Virus.wav",
       "Path": "Media/902881118.wem",
-      "CachePath": "88/{885517C3-8F2D-7136-AA1E-23C950ADD71B}.wem"
+      "CachePath": "C4/{C47138D5-41F6-2C15-9685-5D4C5F2428CD}.wem"
      },
      {
       "Id": "908254866",
@@ -517,7 +517,7 @@
       "Location": "Loose",
       "ShortName": "Virus_FX_Loop_122bpm.wav",
       "Path": "Media/908254866.wem",
-      "CachePath": "CD/{CD995223-3A01-BA4B-9D83-E1421FDD5D4E}.wem"
+      "CachePath": "11/{116523D8-5D35-C83D-DE3E-3511A5EDA56E}.wem"
      },
      {
       "Id": "921562983",
@@ -526,7 +526,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_G-_Loop_81bpm BASS 1.wav",
       "Path": "Media/921562983.wem",
-      "CachePath": "8C/{8CBF7F33-2200-C683-D798-0B7D76B6C46E}.wem"
+      "CachePath": "B1/{B19D9169-7286-9C26-7B81-6A18BADA3A24}.wem"
      },
      {
       "Id": "938452024",
@@ -535,7 +535,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Whooshaigu_Random_81bpm.wav",
       "Path": "Media/938452024.wem",
-      "CachePath": "87/{877B11CD-2ECB-6961-432E-36D501910B8C}.wem"
+      "CachePath": "CD/{CD0BE1F6-70CD-D768-B7A2-45CB184727BE}.wem"
      },
      {
       "Id": "986346573",
@@ -544,7 +544,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Kick_Loop_81bpm.wav",
       "Path": "Media/986346573.wem",
-      "CachePath": "59/{593AEAB6-0B84-75ED-6578-1844665DCC98}.wem"
+      "CachePath": "0D/{0D181C39-6ECD-72CF-A73F-31570BAF0A17}.wem"
      },
      {
       "Id": "990557896",
@@ -553,7 +553,7 @@
       "Location": "Loose",
       "ShortName": "Main_SpawnGarage_Cimb_C_122Bpm.wav",
       "Path": "Media/990557896.wem",
-      "CachePath": "E0/{E06D9F84-83DA-16AE-B972-AB0EA0607B4C}.wem"
+      "CachePath": "3C/{3C9287A6-9B34-1822-B0F7-63B83A315010}.wem"
      },
      {
       "Id": "996273698",
@@ -562,7 +562,7 @@
       "Location": "Loose",
       "ShortName": "Main_Toit_Gong_1shot_81bpm Gong.wav",
       "Path": "Media/996273698.wem",
-      "CachePath": "AA/{AA1BB563-CBA8-E27E-11D1-4DBE153F4048}.wem"
+      "CachePath": "22/{22062AF1-4315-6340-DC5C-CB923528A4C4}.wem"
      },
      {
       "Id": "997526065",
@@ -571,7 +571,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_HighPlucks.wav",
       "Path": "Media/997526065.wem",
-      "CachePath": "8C/{8C592B61-874E-165E-3C13-CBDE1B19BB6E}.wem"
+      "CachePath": "12/{12552466-FB71-4629-4446-86DD0CB89CA6}.wem"
      },
      {
       "Id": "1020159566",
@@ -580,7 +580,7 @@
       "Location": "Loose",
       "ShortName": "Virus_Glitch_Clean.wav",
       "Path": "Media/1020159566.wem",
-      "CachePath": "50/{50A2F694-A9D3-BEB4-6501-3C0E4A80380C}.wem"
+      "CachePath": "4D/{4DB5F1F1-E9D7-F1EC-68D7-F317C4397762}.wem"
      },
      {
       "Id": "1020673387",
@@ -589,7 +589,7 @@
       "Location": "Loose",
       "ShortName": "Menu_Loop_Wind.wav",
       "Path": "Media/1020673387.wem",
-      "CachePath": "B7/{B74E5E06-FE5B-15DC-29DA-FC07DE7E2F0B}.wem"
+      "CachePath": "ED/{EDAB545B-C1FD-3D22-B20B-67168898D40B}.wem"
      },
      {
       "Id": "1024300531",
@@ -598,7 +598,7 @@
       "Location": "Loose",
       "ShortName": "Main_Thunderdome_HighPlucks_G-_Loop_109Bpm.wav",
       "Path": "Media/1024300531.wem",
-      "CachePath": "AD/{ADB35084-A47A-E3F2-31F3-BCA76820291D}.wem"
+      "CachePath": "63/{636154C2-CE9E-0DF2-2F4B-B96E54ED72B8}.wem"
      },
      {
       "Id": "1035818146",
@@ -607,7 +607,7 @@
       "Location": "Loose",
       "ShortName": "CalmLoop2_Loop_PercsKick.wav",
       "Path": "Media/1035818146.wem",
-      "CachePath": "CE/{CE248C2A-0E62-A071-5832-63B802E6127D}.wem"
+      "CachePath": "DE/{DE56BFDB-D371-5480-4F01-C31C10A6BC7D}.wem"
      },
      {
       "Id": "1061575594",
@@ -616,7 +616,7 @@
       "Location": "Loose",
       "ShortName": "Virus_Guit1_Loopx2_122bpm.wav",
       "Path": "Media/1061575594.wem",
-      "CachePath": "43/{43755CEB-1110-E0AE-1F48-B7517A3C22AD}.wem"
+      "CachePath": "F4/{F41D6FBE-9B94-E102-355D-EAD06D13DA5F}.wem"
      }
     ],
     "Events": [
@@ -1063,6 +1063,6 @@
     ]
    }
   ],
-  "FileHash": "{0CA87E85-9ED6-E5B0-AC08-EE52F36235C9}"
+  "FileHash": "{9D061D1A-5557-90F1-D081-2DF494230EBD}"
  }
 }

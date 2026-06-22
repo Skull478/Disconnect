@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{831570CF-6871-4FCD-9884-F2B1E363964B}",
     "Language": "English(US)",
-    "Hash": "{01B6246E-B67D-5A3D-EF55-CB46E609F68B}",
+    "Hash": "{321EE161-60DB-F0E5-7F23-BC370BE8CEAB}",
     "ObjectPath": "Play_DX_Player_Okay",
     "ShortName": "Play_DX_Player_Okay",
     "Path": "Event/English(US)/Play_DX_Player_Okay.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_Okay.wav",
       "Path": "Media/English(US)/825311619.wem",
-      "CachePath": "83/{83C7A364-C711-C744-BFAA-D5BE7696F968}.wem"
+      "CachePath": "6C/{6CB0AC08-2749-2C45-FE12-9F25FC829F76}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{58B9526D-0662-B870-B9A4-5268AEE80352}"
+  "FileHash": "{DCB24B81-19B2-41DF-5377-A53FF493D641}"
  }
 }

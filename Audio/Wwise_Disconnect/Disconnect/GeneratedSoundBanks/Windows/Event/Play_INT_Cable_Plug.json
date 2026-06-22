@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
     "Language": "SFX",
-    "Hash": "{6CA85F57-87BC-7EE8-7E11-849B68A99962}",
+    "Hash": "{F724C104-A6A8-CEB7-39ED-178B6665277A}",
     "ObjectPath": "Play_INT_Cable_Plug",
     "ShortName": "Play_INT_Cable_Plug",
     "Path": "Event/Play_INT_Cable_Plug.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "INT_Cable_Plug.wav",
       "Path": "Media/771899395.wem",
-      "CachePath": "B4/{B49C5525-55DF-0B0D-6A4E-5F077FBB41A1}.wem"
+      "CachePath": "BD/{BD7A5CDA-D38B-445B-3D52-39F343B535EA}.wem"
      }
     ],
     "Events": [
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{5FFA034D-9792-5437-7495-5B4AF6301831}"
+  "FileHash": "{3D0172B5-649D-01A7-7738-07A977071CEA}"
  }
 }

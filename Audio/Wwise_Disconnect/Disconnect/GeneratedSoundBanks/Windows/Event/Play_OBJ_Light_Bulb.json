@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{70C03253-707E-4F6F-9915-76561457E609}",
     "Language": "SFX",
-    "Hash": "{45EA3515-EEBE-C043-848C-64F07B981828}",
+    "Hash": "{4383EC3B-4AD8-22AD-4F8A-281A00BDCDDE}",
     "ObjectPath": "Play_OBJ_Light_Bulb",
     "ShortName": "Play_OBJ_Light_Bulb",
     "Path": "Event/Play_OBJ_Light_Bulb.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Light_Bulb.wav",
       "Path": "Media/443837128.wem",
-      "CachePath": "75/{7509D8BA-C063-6D01-7E7A-2E2A6A4CBB0D}.wem"
+      "CachePath": "DB/{DBA23B5F-1052-E4B3-8CFF-344C918B07A8}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{9C19EA92-6FA3-A12D-3E7E-45EDA6C335CD}"
+  "FileHash": "{B7197D1F-86DE-6A0D-EC82-0F6811490AFC}"
  }
 }

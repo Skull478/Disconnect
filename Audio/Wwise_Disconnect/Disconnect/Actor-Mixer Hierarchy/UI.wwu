@@ -10,7 +10,7 @@
 				<ActorMixer Name="UI" ID="{35C6E878-4FC9-4C37-B3C6-E951A106F1D3}" ShortID="565804179">
 					<ReferenceList>
 						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+							<ObjectRef Name="Vorbis Quality Medium" ID="{01D20CF3-9A4C-4EEE-AE3E-2942B47543E9}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 						</Reference>
 						<Reference Name="OutputBus">
 							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
@@ -844,7 +844,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-001.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="916849915"/>
+														<MediaID ID="46293264"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -866,7 +866,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-002.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="567899763"/>
+														<MediaID ID="312284128"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -888,7 +888,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-003.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="53575724"/>
+														<MediaID ID="932591645"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -910,7 +910,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-004.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="839174425"/>
+														<MediaID ID="732964483"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -932,7 +932,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-005.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="569343422"/>
+														<MediaID ID="312646912"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -954,7 +954,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-006.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="675282362"/>
+														<MediaID ID="690689841"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -976,7 +976,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-007.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="54035501"/>
+														<MediaID ID="237097114"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -998,7 +998,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-008.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="248637418"/>
+														<MediaID ID="13590363"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -1020,7 +1020,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-009.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="914227342"/>
+														<MediaID ID="679348650"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -1042,7 +1042,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Soft_Click-010.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="642890991"/>
+														<MediaID ID="302209797"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -1768,7 +1768,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Cute_Return-001.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="549302198"/>
+														<MediaID ID="863937205"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>
@@ -1790,7 +1790,7 @@
 													<Language>SFX</Language>
 													<AudioFile>Cute_Return-002.wav</AudioFile>
 													<MediaIDList>
-														<MediaID ID="480815122"/>
+														<MediaID ID="336664637"/>
 													</MediaIDList>
 												</AudioFileSource>
 											</ChildrenList>

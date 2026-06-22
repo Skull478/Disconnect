@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{913A21D1-96F4-4EE2-A6A6-D3B3988220C3}",
     "Language": "SFX",
-    "Hash": "{3DE1CAE0-F103-F234-D681-02A1A38B320F}",
+    "Hash": "{F3234AFC-80D5-1D8B-9E98-8301E73EE35D}",
     "ObjectPath": "Play_UI_DEV_Init",
     "ShortName": "Play_UI_DEV_Init",
     "Path": "Event/Play_UI_DEV_Init.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_DEV_Init.wav",
       "Path": "Media/981391543.wem",
-      "CachePath": "82/{822B64A1-D57E-8614-F86B-82251A51FA25}.wem"
+      "CachePath": "79/{79301BB9-A37F-BDC1-9965-03BC2BC0AB24}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{ADF0CC78-D1BF-25AB-CDCC-600B12FF4930}"
+  "FileHash": "{04F872AA-F138-9455-0E80-0FC4A63C7366}"
  }
 }

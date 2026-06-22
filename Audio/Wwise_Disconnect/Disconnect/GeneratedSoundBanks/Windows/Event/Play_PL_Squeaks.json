@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{08F66416-7ADE-450C-B01F-CF1555D3DA12}",
     "Language": "SFX",
-    "Hash": "{644F33BB-7956-F8C9-9157-9D4C25F827BF}",
+    "Hash": "{F4A14338-0EE4-FEAF-67F5-A623FCD15720}",
     "ObjectPath": "Play_PL_Squeaks",
     "ShortName": "Play_PL_Squeaks",
     "Path": "Event/Play_PL_Squeaks.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Squeaks_04.wav",
       "Path": "Media/17787399.wem",
-      "CachePath": "84/{84D2A357-0DC2-49A7-4A31-2E19533E2E2C}.wem"
+      "CachePath": "00/{008D6F9F-FD7F-6005-0423-DACEA7E6B9AF}.wem"
      },
      {
       "Id": "50565454",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "Squeaks_06.wav",
       "Path": "Media/50565454.wem",
-      "CachePath": "31/{31DE899D-5917-4691-A7EB-C10D47401442}.wem"
+      "CachePath": "24/{2439D2F0-08D7-3925-5F95-328F2F152B51}.wem"
      },
      {
       "Id": "279253582",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "Squeaks_01.wav",
       "Path": "Media/279253582.wem",
-      "CachePath": "7C/{7C7C6160-442B-9FDA-86B5-ECD34313E5DF}.wem"
+      "CachePath": "BE/{BEFE2BC1-D23D-CBDA-0A90-5985957C5082}.wem"
      },
      {
       "Id": "731732321",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "Squeaks_02.wav",
       "Path": "Media/731732321.wem",
-      "CachePath": "2C/{2C49FADD-E7E1-56B4-B5C2-56B48EE10593}.wem"
+      "CachePath": "80/{806BBD2D-38A9-6825-83D2-D384764307DE}.wem"
      },
      {
       "Id": "792517394",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "Squeaks_03.wav",
       "Path": "Media/792517394.wem",
-      "CachePath": "B5/{B5411844-C2FF-3C12-FABE-7DE5A4533BCA}.wem"
+      "CachePath": "40/{4005E274-8EB3-8CB4-ECC0-189444CEE561}.wem"
      },
      {
       "Id": "953216799",
@@ -67,7 +67,7 @@
       "Location": "Loose",
       "ShortName": "Squeaks_05.wav",
       "Path": "Media/953216799.wem",
-      "CachePath": "2D/{2D9D272C-3F69-0AFA-32CB-6923B71C7F64}.wem"
+      "CachePath": "74/{74AD249D-A5A2-3AC2-E465-62A51FB52891}.wem"
      }
     ],
     "Plugins": {
@@ -125,6 +125,6 @@
     ]
    }
   ],
-  "FileHash": "{34F4FDFF-4485-ABC0-6C4D-AB7CADD7A40F}"
+  "FileHash": "{BF7DA3A1-D573-7C57-91E4-9678881B5A37}"
  }
 }

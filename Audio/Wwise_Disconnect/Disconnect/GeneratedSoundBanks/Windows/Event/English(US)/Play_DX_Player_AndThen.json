@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{ABC88271-F04E-488E-ACBB-08087FA44C02}",
     "Language": "English(US)",
-    "Hash": "{BE8BB405-A0A5-591D-5B2F-6592437BC281}",
+    "Hash": "{A426AD26-3ED1-EF9D-8EB2-266507D5F39E}",
     "ObjectPath": "Play_DX_Player_AndThen",
     "ShortName": "Play_DX_Player_AndThen",
     "Path": "Event/English(US)/Play_DX_Player_AndThen.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_AndThen.wav",
       "Path": "Media/English(US)/841116121.wem",
-      "CachePath": "A9/{A97D81B6-0828-CF53-11B8-4FEF51E72D09}.wem"
+      "CachePath": "53/{53BB8BA3-23D3-07E8-3ED7-17BAD79C46CA}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{0FBA7275-EFA8-830C-3E2B-0AB86445CDB7}"
+  "FileHash": "{58A93C40-D1DD-B468-3AB7-2B6C1C4B8A55}"
  }
 }

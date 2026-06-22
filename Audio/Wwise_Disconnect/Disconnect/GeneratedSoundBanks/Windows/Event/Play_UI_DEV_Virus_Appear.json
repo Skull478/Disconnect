@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{27D78D6C-AB5A-4C5C-8E9A-E660381F3831}",
     "Language": "SFX",
-    "Hash": "{1DD79CB7-95D7-C1A6-B99F-55B9C4BD9D9F}",
+    "Hash": "{473DDF8E-96E9-727C-B9DE-E78FA8E8E474}",
     "ObjectPath": "Play_UI_DEV_Virus_Appear",
     "ShortName": "Play_UI_DEV_Virus_Appear",
     "Path": "Event/Play_UI_DEV_Virus_Appear.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_07.wav",
       "Path": "Media/75453689.wem",
-      "CachePath": "6F/{6FF7B757-54AA-542E-37CD-CE801787DEA0}.wem"
+      "CachePath": "73/{73F0DF13-352A-D4BB-3801-8F6BBF73B149}.wem"
      },
      {
       "Id": "101878364",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_01.wav",
       "Path": "Media/101878364.wem",
-      "CachePath": "53/{5301D312-7177-694A-ED52-393BECDA72E9}.wem"
+      "CachePath": "98/{9821EBEB-FF40-C12F-08BF-9B9097CE16E8}.wem"
      },
      {
       "Id": "186083237",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_03.wav",
       "Path": "Media/186083237.wem",
-      "CachePath": "9D/{9D55B9E4-B809-6E7E-2764-6AB745CA5B9C}.wem"
+      "CachePath": "F0/{F051A6EC-ACA3-726B-F896-BBBA29ACE1C6}.wem"
      },
      {
       "Id": "252559364",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_08.wav",
       "Path": "Media/252559364.wem",
-      "CachePath": "B2/{B2464437-719B-DDFC-B72E-1054DA2FBE9D}.wem"
+      "CachePath": "A1/{A1344F76-53DD-50AA-A23E-B39A43F0E4E8}.wem"
      },
      {
       "Id": "266732956",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_04.wav",
       "Path": "Media/266732956.wem",
-      "CachePath": "40/{40954865-1B2C-F29E-AA1E-5EAEE20F0BDE}.wem"
+      "CachePath": "5E/{5E799C15-CCE2-8FBB-10D7-9389E3250048}.wem"
      },
      {
       "Id": "614963713",
@@ -67,7 +67,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_05.wav",
       "Path": "Media/614963713.wem",
-      "CachePath": "3F/{3F68435E-1BDC-1018-0635-3E9A6EAC880A}.wem"
+      "CachePath": "55/{55E408D1-85A5-BB70-5BE5-79AC31DD8F23}.wem"
      },
      {
       "Id": "702701239",
@@ -76,7 +76,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_10.wav",
       "Path": "Media/702701239.wem",
-      "CachePath": "CE/{CEE60B24-F8E8-E8F7-C24A-3C9FBB024D74}.wem"
+      "CachePath": "2C/{2C2B8691-FAE8-D390-75EE-B2C9D99047E0}.wem"
      },
      {
       "Id": "826094413",
@@ -85,7 +85,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_06.wav",
       "Path": "Media/826094413.wem",
-      "CachePath": "55/{55DCDF37-7D68-6F96-E250-29D1D29DF432}.wem"
+      "CachePath": "58/{581E4229-F0D5-8C55-324B-AEF13E84EBB1}.wem"
      },
      {
       "Id": "1029446104",
@@ -94,7 +94,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_02.wav",
       "Path": "Media/1029446104.wem",
-      "CachePath": "D2/{D2993646-8A6C-61DA-13B3-CB5B21B0D491}.wem"
+      "CachePath": "24/{24440C17-A23F-1036-CF4B-2FAE84E88FE8}.wem"
      },
      {
       "Id": "1030932267",
@@ -103,7 +103,7 @@
       "Location": "Loose",
       "ShortName": "UI_Error_Virus_Plucks_09.wav",
       "Path": "Media/1030932267.wem",
-      "CachePath": "D8/{D89CC6B6-9A79-8B70-1C75-7FDEE3593CB2}.wem"
+      "CachePath": "04/{046C6BD4-1250-A5FB-022C-006BE9547ADE}.wem"
      }
     ],
     "Plugins": {
@@ -171,6 +171,6 @@
     ]
    }
   ],
-  "FileHash": "{95786D85-EA87-13D4-B110-90744DB8CC94}"
+  "FileHash": "{B3877760-A842-A0DB-7F72-B05CEA6308E3}"
  }
 }

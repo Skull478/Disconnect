@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
     "Language": "SFX",
-    "Hash": "{A5D976D0-21A6-764A-CDA2-918BD1B91F1F}",
+    "Hash": "{73E02099-8C6F-02DD-B75E-C3EE804082FE}",
     "ObjectPath": "Play_OBJ_Oil_Spray",
     "ShortName": "Play_OBJ_Oil_Spray",
     "Path": "Event/Play_OBJ_Oil_Spray.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_Lava_Spray.wav",
       "Path": "Media/404797170.wem",
-      "CachePath": "29/{2975AD8B-E0AD-E84C-E052-C105C52AF1DA}.wem"
+      "CachePath": "86/{86F7CE55-983E-B231-C39F-916AFA9F7E82}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{95F8EFDB-A705-FEF5-7F37-22C39E1055CB}"
+  "FileHash": "{748BFB62-88BB-2E43-07EC-E1FEEA53828C}"
  }
 }

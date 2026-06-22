@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
     "Language": "SFX",
-    "Hash": "{6AC3EF29-C4AD-2BF4-8E1E-57AFE9A48E4C}",
+    "Hash": "{BBA5CDF3-8A3B-D39E-B973-99AF64A2227E}",
     "ObjectPath": "Play_Ending_Sound_Design",
     "ShortName": "Play_Ending_Sound_Design",
     "Path": "Event/Play_Ending_Sound_Design.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Ending_Sound Design.wav",
       "Path": "Media/827437005.wem",
-      "CachePath": "13/{13D466FF-8DE3-B57E-3AC4-1218D66D7A43}.wem"
+      "CachePath": "BA/{BA96BAB6-CBE2-E14E-A940-A9758EA96E5F}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{450B1B89-50BC-AC69-BFD2-387AB8D07D63}"
+  "FileHash": "{8CD55931-99FD-A1E2-3E00-3BAD9101E7A1}"
  }
 }

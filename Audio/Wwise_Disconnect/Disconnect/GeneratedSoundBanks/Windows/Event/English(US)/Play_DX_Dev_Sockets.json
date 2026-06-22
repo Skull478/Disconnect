@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D9D48089-46CD-4527-90A7-098E48D3A2AA}",
     "Language": "English(US)",
-    "Hash": "{81C26BFB-9B74-A1DA-8EA8-32C160E965E5}",
+    "Hash": "{43CA31CF-C6DC-6CBA-EE0B-390B81F15D28}",
     "ObjectPath": "Play_DX_Dev_Sockets",
     "ShortName": "Play_DX_Dev_Sockets",
     "Path": "Event/English(US)/Play_DX_Dev_Sockets.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_Sockets.wav",
       "Path": "Media/English(US)/101989619.wem",
-      "CachePath": "A0/{A040251A-A2CC-16DA-3C56-05FE4DD2EB1C}.wem"
+      "CachePath": "3C/{3C97616A-12B8-387A-D192-9A97DBE03124}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{9A802369-933D-716D-354D-D64BEBE9F51F}"
+  "FileHash": "{C006CB89-9BA5-E8CF-8A45-C8955F1A4AD4}"
  }
 }

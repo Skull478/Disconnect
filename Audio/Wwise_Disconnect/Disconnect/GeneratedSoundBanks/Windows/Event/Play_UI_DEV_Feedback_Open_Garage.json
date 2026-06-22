@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}",
     "Language": "SFX",
-    "Hash": "{F47F123A-D17C-4415-769B-D363EE65434F}",
+    "Hash": "{8B5E9F90-4272-758B-F129-FB060E02CFAC}",
     "ObjectPath": "Play_UI_DEV_Feedback_Open_Garage",
     "ShortName": "Play_UI_DEV_Feedback_Open_Garage",
     "Path": "Event/Play_UI_DEV_Feedback_Open_Garage.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Feedback_Open_Garage_DevSide.wav",
       "Path": "Media/645561023.wem",
-      "CachePath": "B5/{B5FA3C3C-F5B7-CFB0-8DB6-B45AD7C79312}.wem"
+      "CachePath": "98/{98F82DF6-41DC-97CF-C993-89227DABBACE}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{6B3DCC58-8A33-A7F8-1548-0BFFE5CEB731}"
+  "FileHash": "{D079BB19-F394-17FC-5A8A-B369BDCBEECD}"
  }
 }

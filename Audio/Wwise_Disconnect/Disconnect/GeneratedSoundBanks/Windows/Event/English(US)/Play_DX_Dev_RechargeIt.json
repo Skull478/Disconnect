@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}",
     "Language": "English(US)",
-    "Hash": "{285BCF43-0443-EDF2-8E70-170B035A018F}",
+    "Hash": "{C140CFDB-E623-9858-76FF-4005FC6E3EC8}",
     "ObjectPath": "Play_DX_Dev_RechargeIt",
     "ShortName": "Play_DX_Dev_RechargeIt",
     "Path": "Event/English(US)/Play_DX_Dev_RechargeIt.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_RechargeIt.wav",
       "Path": "Media/English(US)/1005856658.wem",
-      "CachePath": "3F/{3FD15D94-089A-7A2C-1288-0236777FF428}.wem"
+      "CachePath": "DE/{DE1E5D01-6639-15ED-1DB5-8A4AE5CA5A44}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{82E0CD32-D86D-3441-E16C-A40707DFB6BD}"
+  "FileHash": "{96FB4BC5-60BF-F66D-4C33-E4D317C1A75C}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BDF61D67-D9FB-41AD-B7F8-A49AE6BB5FCB}",
     "Language": "SFX",
-    "Hash": "{2F5C5339-1535-2567-A7ED-3222522F8D3C}",
+    "Hash": "{EFB3C550-80E3-89E1-596A-02CD89CB801C}",
     "ObjectPath": "Play_OBJ_BigHead_GarbageChew",
     "ShortName": "Play_OBJ_BigHead_GarbageChew",
     "Path": "Event/Play_OBJ_BigHead_GarbageChew.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_BigHead_GarbageChew.wav",
       "Path": "Media/285638156.wem",
-      "CachePath": "80/{8094C667-C4E1-FCA8-5958-C7F84119B758}.wem"
+      "CachePath": "F9/{F976E8E5-2A98-FDCF-BA92-B32EF12C27F1}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{496CAA14-D83B-EE08-3BF2-169367A0B88E}"
+  "FileHash": "{B7CDFFAD-8244-8953-AF1C-204A0886CBC4}"
  }
 }

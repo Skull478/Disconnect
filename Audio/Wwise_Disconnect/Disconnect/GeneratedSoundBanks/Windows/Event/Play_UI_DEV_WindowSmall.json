@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{55FA88C9-53B9-482B-930B-7E371BEDDC9E}",
     "Language": "SFX",
-    "Hash": "{39DA4090-C8C7-7AC2-448A-634225AD4D99}",
+    "Hash": "{C017435A-8CB6-2B5C-02A0-633A219567A8}",
     "ObjectPath": "Play_UI_DEV_WindowSmall",
     "ShortName": "Play_UI_DEV_WindowSmall",
     "Path": "Event/Play_UI_DEV_WindowSmall.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_WindowClose.wav",
       "Path": "Media/938639328.wem",
-      "CachePath": "1F/{1F2B28EC-5782-B91F-3000-8AD59B99C6DC}.wem"
+      "CachePath": "89/{89433D02-25EE-C6CB-0D69-C438877D31B5}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B01514C8-FC32-0E68-611E-5692C6EFDBB4}"
+  "FileHash": "{FA4E87AE-D7F8-FCC4-AF86-88D52FB94FE3}"
  }
 }

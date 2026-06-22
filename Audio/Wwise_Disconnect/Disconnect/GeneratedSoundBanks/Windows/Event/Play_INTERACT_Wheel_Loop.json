@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CE4C73AC-CD8B-4AFA-9C40-9CEF1B2F6CFC}",
     "Language": "SFX",
-    "Hash": "{D1A81D01-93FF-54DA-9840-2A69831BFAC3}",
+    "Hash": "{E924AEAB-DEA2-BB2F-6C18-4584639C601D}",
     "ObjectPath": "Play_INTERACT_Wheel_Loop",
     "ShortName": "Play_INTERACT_Wheel_Loop",
     "Path": "Event/Play_INTERACT_Wheel_Loop.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "INTERACT_Wheel_Loop.wav",
       "Path": "Media/136752833.wem",
-      "CachePath": "04/{04C9B4C8-AEC4-5078-DBE8-445585FA2FBC}.wem"
+      "CachePath": "3E/{3E3F2B47-30E1-B511-9502-C832D1076F2B}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{B1DFE41A-81F0-FB1C-098F-9FE9FA86D64A}"
+  "FileHash": "{2A1E87F7-EA7B-1F84-70A6-B693207BFED4}"
  }
 }

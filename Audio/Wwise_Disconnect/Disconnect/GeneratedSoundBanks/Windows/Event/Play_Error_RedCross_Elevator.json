@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{1EC454FB-8581-4B81-8AB3-E4804CF55E5B}",
     "Language": "SFX",
-    "Hash": "{8B7F79E4-C192-DD61-5D1D-026A0A7D3871}",
+    "Hash": "{E32FAC2F-4FBF-B07E-7B83-05877C45AD09}",
     "ObjectPath": "Play_Error_RedCross_Elevator",
     "ShortName": "Play_Error_RedCross_Elevator",
     "Path": "Event/Play_Error_RedCross_Elevator.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Dev_Error2-003.wav",
       "Path": "Media/5996716.wem",
-      "CachePath": "E9/{E9891A4B-25E3-002D-C7A4-EB23B211D404}.wem"
+      "CachePath": "9E/{9ECA10D3-E8A7-FC30-EAF4-3427E3C9A0FD}.wem"
      },
      {
       "Id": "579448203",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "UI_Dev_Error2-004.wav",
       "Path": "Media/579448203.wem",
-      "CachePath": "3D/{3D51AF06-67A2-F621-37B5-809C3F401AB9}.wem"
+      "CachePath": "6D/{6D8874C5-239A-9B25-8C5A-1C3F3DD09672}.wem"
      },
      {
       "Id": "586187273",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "UI_Dev_Error2-001.wav",
       "Path": "Media/586187273.wem",
-      "CachePath": "07/{07A439F3-3DBA-51DF-E63B-DCBCF50042EB}.wem"
+      "CachePath": "58/{5843D917-24B5-C76E-A1DC-AE8B3FA7EDE1}.wem"
      },
      {
       "Id": "609506690",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "UI_Dev_Error2-002.wav",
       "Path": "Media/609506690.wem",
-      "CachePath": "7E/{7EF318B4-8AD8-B7E1-B5E6-DA61108C9ED3}.wem"
+      "CachePath": "26/{26F4173A-CA6C-1179-5BEE-48455B682DE1}.wem"
      }
     ],
     "Events": [
@@ -80,6 +80,6 @@
     ]
    }
   ],
-  "FileHash": "{908560BA-98CE-95BC-E2C9-2D62D5B692F3}"
+  "FileHash": "{507B8988-F44E-076F-C433-AA5A8D57807C}"
  }
 }

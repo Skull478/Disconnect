@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DBB55DB8-4D81-499F-89D2-F915EA7876CE}",
     "Language": "English(US)",
-    "Hash": "{F4E1ABFD-0BCF-886C-630F-47077C653B0A}",
+    "Hash": "{50E2E62C-BD28-BE06-CC78-0911B8A64B4E}",
     "ObjectPath": "Play_DX_Dev_MMORPG",
     "ShortName": "Play_DX_Dev_MMORPG",
     "Path": "Event/English(US)/Play_DX_Dev_MMORPG.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Dev_MMORPG.wav",
       "Path": "Media/English(US)/737342188.wem",
-      "CachePath": "A4/{A4325682-5591-8317-F635-BDE98ECCC45A}.wem"
+      "CachePath": "24/{24AF2364-2C73-4930-9CF1-8B542FCC24E9}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{46D3918B-1577-D474-F700-739AB97C1696}"
+  "FileHash": "{13FEF931-2E24-8229-D67A-8B74778E10CC}"
  }
 }

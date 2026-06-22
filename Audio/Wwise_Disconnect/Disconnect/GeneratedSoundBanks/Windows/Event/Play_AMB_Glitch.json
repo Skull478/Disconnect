@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{313219A7-C7CC-414A-9937-CB6754630EE6}",
     "Language": "SFX",
-    "Hash": "{EA1EB07B-83EB-14F9-3326-8EA6F39E568A}",
+    "Hash": "{DAA9F261-4ED0-ED0C-8059-DF3CD98A55A1}",
     "ObjectPath": "Play_AMB_Glitch",
     "ShortName": "Play_AMB_Glitch",
     "Path": "Event/Play_AMB_Glitch.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_Glitch.wav",
       "Path": "Media/177467377.wem",
-      "CachePath": "4B/{4B24EA2E-6801-214C-2E22-A259F4CDB978}.wem"
+      "CachePath": "0C/{0CF7472E-79A7-A40E-65B1-0B7FE113FD28}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{5BCA712F-B6D8-CD3C-90DB-9B287F606AAE}"
+  "FileHash": "{4B8020D8-2552-8504-FFAE-C370CCC5DDB5}"
  }
 }

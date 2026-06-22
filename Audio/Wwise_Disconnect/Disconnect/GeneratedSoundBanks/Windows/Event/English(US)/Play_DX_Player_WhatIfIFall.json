@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A16F9680-1DF8-4D24-9BA8-8B670EE23AC7}",
     "Language": "English(US)",
-    "Hash": "{8572F460-BEC2-64D6-2397-99B8DFB85780}",
+    "Hash": "{E6A372AE-219E-2D34-21DB-0FC9C692AF17}",
     "ObjectPath": "Play_DX_Player_WhatIfIFall",
     "ShortName": "Play_DX_Player_WhatIfIFall",
     "Path": "Event/English(US)/Play_DX_Player_WhatIfIFall.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_WhatIfIFall.wav",
       "Path": "Media/English(US)/152619256.wem",
-      "CachePath": "03/{03DCD668-7B39-76DC-97DA-AEA29FF4340D}.wem"
+      "CachePath": "FF/{FF25BB9B-A00D-1760-C09B-66E8ACB9FCCA}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{989CE4CD-5005-EA87-CA13-B53BE91C6810}"
+  "FileHash": "{3686EF5A-278F-0AA6-A308-291118F95E51}"
  }
 }

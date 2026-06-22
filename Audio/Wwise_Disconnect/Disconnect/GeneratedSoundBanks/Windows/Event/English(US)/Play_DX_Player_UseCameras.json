@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E6A6E40B-37EF-495F-9473-78B589C238F1}",
     "Language": "English(US)",
-    "Hash": "{12F70178-599D-701D-C629-C6F99F79A41B}",
+    "Hash": "{A16C360D-D901-3E8A-C490-52ED29A5D127}",
     "ObjectPath": "Play_DX_Player_UseCameras",
     "ShortName": "Play_DX_Player_UseCameras",
     "Path": "Event/English(US)/Play_DX_Player_UseCameras.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_UseCameras.wav",
       "Path": "Media/English(US)/757500154.wem",
-      "CachePath": "29/{29EF24A8-D06F-CC0A-9BB7-731292DA01D9}.wem"
+      "CachePath": "AD/{AD064255-143C-8F4D-684C-8CF6C50AD140}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{BB0689B6-9F87-38EA-3B55-BD9C0233F621}"
+  "FileHash": "{B00F1B64-82D2-C42F-101E-7DD81F0B77EC}"
  }
 }

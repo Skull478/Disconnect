@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
     "Language": "SFX",
-    "Hash": "{94AE716F-B57A-B78C-A28E-1F00800C8855}",
+    "Hash": "{7D091ED0-5FD4-116F-EE73-81E6DAC49289}",
     "ObjectPath": "Play_OBJ_Lights_Buzz",
     "ShortName": "Play_OBJ_Lights_Buzz",
     "Path": "Event/Play_OBJ_Lights_Buzz.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_Buzz_Light.wav",
       "Path": "Media/240557517.wem",
-      "CachePath": "5E/{5E554EE4-2EB9-BF05-E52B-1B170D437B52}.wem"
+      "CachePath": "87/{87DB77E7-A55C-EA79-37BA-FEECFA139F5D}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{D89D10C6-2946-40FC-1A7E-FD0920B8CD55}"
+  "FileHash": "{947E4711-6BB3-D97C-366A-2BC18660DF2C}"
  }
 }

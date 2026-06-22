@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7D1EE9FC-B76E-4FDF-ABD9-411B30073722}",
     "Language": "SFX",
-    "Hash": "{2EAE3433-085E-2EA3-B274-C9441B00133B}",
+    "Hash": "{243EA985-B20F-B780-BE15-1BC19A6EE3C9}",
     "ObjectPath": "Play_INT_Elevator_Up",
     "ShortName": "Play_INT_Elevator_Up",
     "Path": "Event/Play_INT_Elevator_Up.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "elevator.wav",
       "Path": "Media/25031971.wem",
-      "CachePath": "29/{2928F59D-381A-DA22-D9EF-1516D6DBCB82}.wem"
+      "CachePath": "A9/{A95C50D8-E179-EB77-A454-9A3BE033D4C7}.wem"
      }
     ],
     "Events": [
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{6EC5A1A5-173D-BE77-024B-F6C8D7633FFB}"
+  "FileHash": "{B8C84570-8563-3E23-DA5F-2E9E66E60E18}"
  }
 }

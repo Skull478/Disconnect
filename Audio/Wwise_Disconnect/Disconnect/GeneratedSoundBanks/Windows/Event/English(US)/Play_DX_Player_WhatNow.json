@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BEB2E7C7-AEE0-4A1F-887B-22699AC6DD19}",
     "Language": "English(US)",
-    "Hash": "{A7B310AE-B03C-211A-C1DA-C832001CD9C3}",
+    "Hash": "{A00BA16A-2C71-821D-8CBA-785D4E90AEEB}",
     "ObjectPath": "Play_DX_Player_WhatNow",
     "ShortName": "Play_DX_Player_WhatNow",
     "Path": "Event/English(US)/Play_DX_Player_WhatNow.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_WhatNow.wav",
       "Path": "Media/English(US)/786454467.wem",
-      "CachePath": "F5/{F5ED8A66-4A49-C904-4685-F206054FB1ED}.wem"
+      "CachePath": "7C/{7C195634-0DEC-CB13-2839-783C94956BC5}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{0C0BF2DA-89F9-E348-4D87-AE4BD8377E9D}"
+  "FileHash": "{CD2B4C32-FF5D-8385-6A95-BE0DA72FB76F}"
  }
 }

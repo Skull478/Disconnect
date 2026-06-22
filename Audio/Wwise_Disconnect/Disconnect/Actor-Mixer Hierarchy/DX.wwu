@@ -9,7 +9,9 @@
 			<ChildrenList>
 				<ActorMixer Name="Dev" ID="{E57A794B-08A6-47BC-8FD7-1F961A8622BB}" ShortID="1028771921">
 					<PropertyList>
+						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
 						<Property Name="IgnoreParentMaxSoundInstance" Type="bool" Value="True"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-25"/>
 						<Property Name="MaxSoundPerInstance" Type="int16">
 							<ValueList>
 								<Value>1</Value>
@@ -28,7 +30,7 @@
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+							<ObjectRef Name="Vorbis Quality Low" ID="{AD876647-70E5-492F-86C9-FFDED7CB6C9E}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 						</Reference>
 						<Reference Name="OutputBus">
 							<ObjectRef Name="DX" ID="{D6E40F23-42FF-4F8D-B4AE-19C2F6B45613}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>
@@ -389,7 +391,9 @@
 				</ActorMixer>
 				<ActorMixer Name="Player" ID="{E4508999-095C-42B1-8855-2C33DFD88262}" ShortID="443731367">
 					<PropertyList>
+						<Property Name="EnableLoudnessNormalization" Type="bool" Value="True"/>
 						<Property Name="IgnoreParentMaxSoundInstance" Type="bool" Value="True"/>
+						<Property Name="LoudnessNormalizationTarget" Type="Real64" Value="-27"/>
 						<Property Name="MaxSoundPerInstance" Type="int16">
 							<ValueList>
 								<Value>1</Value>
@@ -408,7 +412,7 @@
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
+							<ObjectRef Name="Vorbis Quality Low" ID="{AD876647-70E5-492F-86C9-FFDED7CB6C9E}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 						</Reference>
 						<Reference Name="OutputBus">
 							<ObjectRef Name="DX" ID="{D6E40F23-42FF-4F8D-B4AE-19C2F6B45613}" WorkUnitID="{FD320FC4-81DA-4B37-AAEE-216509AE8368}"/>

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{8E8CF20D-FDC6-40B0-96C7-155A7B6352E9}",
     "Language": "English(US)",
-    "Hash": "{AAD90797-70BE-E710-ADA0-8713F8C2AB3D}",
+    "Hash": "{74557341-6DFE-AC1C-A8FF-4F24198E2D6E}",
     "ObjectPath": "Play_DX_Player_NoProblem",
     "ShortName": "Play_DX_Player_NoProblem",
     "Path": "Event/English(US)/Play_DX_Player_NoProblem.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_NoProblem.wav",
       "Path": "Media/English(US)/560441628.wem",
-      "CachePath": "F3/{F3A79876-0FE5-8896-47D2-7A820D15B36C}.wem"
+      "CachePath": "D4/{D459F83E-0B4E-DC9C-F728-A812DE75E90E}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{7D9C204E-91DD-B253-EEA0-27676F203A91}"
+  "FileHash": "{D5940ED4-5308-8744-1896-4BA24C0E59E5}"
  }
 }

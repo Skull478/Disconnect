@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3B40E639-7964-4EA9-82DF-FA1AF4EE630A}",
     "Language": "SFX",
-    "Hash": "{B29AF291-C59E-526A-D0B1-3DABEF0F768B}",
+    "Hash": "{66B8ADDB-1824-BC4D-FB4A-53C41C6BA44A}",
     "ObjectPath": "Play_UI_Win",
     "ShortName": "Play_UI_Win",
     "Path": "Event/Play_UI_Win.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Win.wav",
       "Path": "Media/125024011.wem",
-      "CachePath": "9A/{9A6E8DEE-4B5C-26BC-566D-841E6AEA64D9}.wem"
+      "CachePath": "FF/{FF743978-9349-DE33-D742-0EA5A433B931}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{89633DC1-D40B-0771-C093-87A18E0EA902}"
+  "FileHash": "{1AD66FE8-7627-555F-9F8F-1E57E166FE9A}"
  }
 }

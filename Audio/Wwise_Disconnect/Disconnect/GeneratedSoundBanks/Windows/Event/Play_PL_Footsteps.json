@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{8729EA78-A896-4FB9-BB69-99B0EE0D227D}",
     "Language": "SFX",
-    "Hash": "{BB1F9E7A-B07E-84CF-F248-C57372E29674}",
+    "Hash": "{3C5A0C66-D5BE-4D2E-6457-6B02F5A2F530}",
     "ObjectPath": "Play_PL_Footsteps",
     "ShortName": "Play_PL_Footsteps",
     "Path": "Event/Play_PL_Footsteps.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "PL_Foosteps_01.wav",
       "Path": "Media/517107314.wem",
-      "CachePath": "F5/{F5645702-5BE5-404B-C02C-78F0ED5853CC}.wem"
+      "CachePath": "EC/{EC36ABD2-70BB-8274-61C3-D0104399D20E}.wem"
      },
      {
       "Id": "537724005",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "PL_Foosteps_04.wav",
       "Path": "Media/537724005.wem",
-      "CachePath": "AD/{AD7CBEEF-194D-EAF5-C7C4-8C82BA54E668}.wem"
+      "CachePath": "34/{344988D3-3F57-2F5B-713C-66096DDAA048}.wem"
      },
      {
       "Id": "574528280",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "PL_Foosteps_02.wav",
       "Path": "Media/574528280.wem",
-      "CachePath": "66/{66C20825-4A97-CA22-58F4-763B7816E2DC}.wem"
+      "CachePath": "55/{55228398-5797-CE2F-67DD-C44450D045D4}.wem"
      },
      {
       "Id": "665201656",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "PL_Foosteps_06.wav",
       "Path": "Media/665201656.wem",
-      "CachePath": "11/{116E1AFE-89A3-E110-F6DF-EE71AF6ECC47}.wem"
+      "CachePath": "7F/{7FCFC4D3-0A35-AB2D-1D7E-A7607D830207}.wem"
      },
      {
       "Id": "745391189",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "PL_Foosteps_05.wav",
       "Path": "Media/745391189.wem",
-      "CachePath": "88/{8852D515-EFB0-38C7-6D9E-4600E14576BD}.wem"
+      "CachePath": "3E/{3E969A16-3C92-14AA-A422-B62A1F3113F7}.wem"
      },
      {
       "Id": "977321726",
@@ -67,7 +67,7 @@
       "Location": "Loose",
       "ShortName": "PL_Foosteps_03.wav",
       "Path": "Media/977321726.wem",
-      "CachePath": "BC/{BC725AD7-B116-F142-CF47-00F22568846B}.wem"
+      "CachePath": "F2/{F2DCAF7B-1CAF-90EA-E4CC-65DD7EE2B85A}.wem"
      }
     ],
     "Events": [
@@ -178,6 +178,6 @@
     ]
    }
   ],
-  "FileHash": "{36F95EEB-DFE1-7C77-D753-CDC86942974C}"
+  "FileHash": "{8815D8EC-322C-29C5-280F-928F31CD0205}"
  }
 }

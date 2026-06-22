@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{0AF76075-7FFE-4468-AE17-F1BFDF5D6618}",
     "Language": "SFX",
-    "Hash": "{F1EF7FE1-7823-DEED-503E-31FC9F8AEB7F}",
+    "Hash": "{EC069656-A907-E67B-582A-325462A0D317}",
     "ObjectPath": "Play_NPC_Voice_Glitch",
     "ShortName": "Play_NPC_Voice_Glitch",
     "Path": "Event/Play_NPC_Voice_Glitch.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "npc_voice_glitch_06.wav",
       "Path": "Media/219679776.wem",
-      "CachePath": "4C/{4C3EDE93-7E1E-FB44-FAF1-A0FDEF935B40}.wem"
+      "CachePath": "51/{516CAC8C-DBCE-B954-D4B3-5CC9D440A6C4}.wem"
      },
      {
       "Id": "251369318",
@@ -31,7 +31,7 @@
       "Location": "Loose",
       "ShortName": "npc_voice_glitch_02.wav",
       "Path": "Media/251369318.wem",
-      "CachePath": "CE/{CED98B77-6204-2CA5-C166-E4ED79FB1998}.wem"
+      "CachePath": "1C/{1C01FF10-7494-8566-FE59-4634E313595C}.wem"
      },
      {
       "Id": "532942512",
@@ -40,7 +40,7 @@
       "Location": "Loose",
       "ShortName": "npc_voice_glitch_05.wav",
       "Path": "Media/532942512.wem",
-      "CachePath": "DC/{DC47A0C6-FE38-3026-6B07-1D55F83E8465}.wem"
+      "CachePath": "CD/{CD609EAD-1A4A-822B-1E83-A33E8D21D695}.wem"
      },
      {
       "Id": "543999731",
@@ -49,7 +49,7 @@
       "Location": "Loose",
       "ShortName": "npc_voice_glitch_03.wav",
       "Path": "Media/543999731.wem",
-      "CachePath": "BF/{BF15EE49-9993-A915-57A4-BB08F20D168A}.wem"
+      "CachePath": "4A/{4A4DF57E-5C06-6D30-4F31-BE24EEDD4ECD}.wem"
      },
      {
       "Id": "582965704",
@@ -58,7 +58,7 @@
       "Location": "Loose",
       "ShortName": "npc_voice_glitch_04.wav",
       "Path": "Media/582965704.wem",
-      "CachePath": "C8/{C83C0B3B-E3D0-7CF9-9722-63BB8B497726}.wem"
+      "CachePath": "B8/{B8E376DB-2FAF-E0DA-3A60-0BE8F2831EBC}.wem"
      },
      {
       "Id": "589863346",
@@ -67,7 +67,7 @@
       "Location": "Loose",
       "ShortName": "npc_voice_glitch_01.wav",
       "Path": "Media/589863346.wem",
-      "CachePath": "E9/{E929F6B3-05AD-1DC1-3285-780845821BE7}.wem"
+      "CachePath": "9B/{9B8FD9E2-98EE-1EAA-73A7-4DAA3ED95DC8}.wem"
      }
     ],
     "Events": [
@@ -104,6 +104,6 @@
     ]
    }
   ],
-  "FileHash": "{502560DE-F0E6-F539-9503-2AAD5F11637B}"
+  "FileHash": "{E4052AB5-A767-8BB6-0982-7FC9DA130407}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DBF7772D-55B9-4883-9542-2C3195653ACA}",
     "Language": "English(US)",
-    "Hash": "{31B44CA1-4480-4776-463F-B73357ED0B93}",
+    "Hash": "{CFA8D8A6-0F5C-A86E-ACBC-E73111B9A1D6}",
     "ObjectPath": "Play_DX_Player_WeJust",
     "ShortName": "Play_DX_Player_WeJust",
     "Path": "Event/English(US)/Play_DX_Player_WeJust.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "DX_Player_WeJust.wav",
       "Path": "Media/English(US)/845566072.wem",
-      "CachePath": "5F/{5F44819F-26FC-BAC8-FE3F-405EF5954B38}.wem"
+      "CachePath": "2E/{2E0AA8BF-1BC3-A960-94B0-0FDF41F3B0C2}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{E6A0B949-A391-525F-8562-BB47DAA88DA4}"
+  "FileHash": "{5673AD79-9840-2ADB-9110-FE00D2494CA7}"
  }
 }

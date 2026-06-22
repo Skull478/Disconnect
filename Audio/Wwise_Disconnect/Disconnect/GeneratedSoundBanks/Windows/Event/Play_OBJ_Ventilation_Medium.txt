@@ -1,3 +1,3 @@
 Event	ID	Name			Wwise Object Path	Notes
-	2993175549	Play_OBJ_Ventilation_Medium			\3D Sounds\Play_OBJ_Ventilation_Medium	
+	2993175549	Play_OBJ_Ventilation_Medium			\AMB\3dSounds\Play_OBJ_Ventilation_Medium	
 

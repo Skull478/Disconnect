@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DB23AB19-C7FE-415D-804A-D1F5341EB335}",
     "Language": "SFX",
-    "Hash": "{60FBF99B-5C65-306E-DD1A-E764A1E180A9}",
+    "Hash": "{30D8B715-CA45-FA3D-1F43-1AB55B6D711B}",
     "ObjectPath": "Play_AMB_Wind",
     "ShortName": "Play_AMB_Wind",
     "Path": "Event/Play_AMB_Wind.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_Wind_Layer_Loop.wav",
       "Path": "Media/784748303.wem",
-      "CachePath": "DB/{DBD02908-82AF-8DF8-2327-21016874D562}.wem"
+      "CachePath": "AB/{ABF4A606-2C7D-192A-3EB0-B95B7A54F225}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{A7AEAA8F-244A-4755-0D03-C00A1542AE96}"
+  "FileHash": "{167C0097-B476-EE86-E5A4-A172D8FA3C86}"
  }
 }

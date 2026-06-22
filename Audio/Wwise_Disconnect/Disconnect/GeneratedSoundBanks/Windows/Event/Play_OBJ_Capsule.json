@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F53D6295-BD88-4515-9B8C-4ED73CF4CE40}",
     "Language": "SFX",
-    "Hash": "{2E61F5BC-F9CF-0DF1-ECB3-B4DBF875E1D5}",
+    "Hash": "{78948702-D155-E736-3B8D-1D47FB1D56A9}",
     "ObjectPath": "Play_OBJ_Capsule",
     "ShortName": "Play_OBJ_Capsule",
     "Path": "Event/Play_OBJ_Capsule.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_EnergyCells.wav",
       "Path": "Media/1025956607.wem",
-      "CachePath": "F8/{F884D088-9163-8BAF-79BA-2EADE57C971A}.wem"
+      "CachePath": "36/{361C08AF-B60C-2E39-A632-C89A4A1142C0}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{3C8A32F5-0080-D473-BB7E-6867A9B1CAF0}"
+  "FileHash": "{8ED6FD2B-01A1-70FF-71FE-0FE88BD5F2F9}"
  }
 }
