@@ -1,3 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
 	2060677415	Play_UI_Death			\UI\Jingles\Play_UI_Death	
 
+Effect plug-ins	ID	Name	Type				Notes
+	204657068	Guitar Distortion (Custom)	Wwise Guitar Distortion			
+	493750074	Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	829525125	Matrix Reverb (Custom)	Wwise Matrix Reverb			
+

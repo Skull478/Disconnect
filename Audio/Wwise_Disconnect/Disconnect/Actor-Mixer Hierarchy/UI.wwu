@@ -2246,6 +2246,14 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="UI_Death" ID="{EF9ECE01-4879-47E5-92AA-A2D85F6FFD34}" ShortID="1037536599">
+									<PropertyList>
+										<Property Name="OverrideEffect" Type="bool" Value="True"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-6</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
@@ -2256,6 +2264,12 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="UI_Death" ID="{F566E119-5AD9-4433-8BF5-22E31C8385EE}">
+											<PropertyList>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.354994983873707"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.436547830845546"/>
+												<Property Name="TrimEnd" Type="Real64" Value="0.949851368762144"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>UI_Death.wav</AudioFile>
 											<MediaIDList>
@@ -2263,6 +2277,65 @@
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
+									<ObjectLists>
+										<ObjectList Name="Effects">
+											<Reference>
+												<Local>
+													<EffectSlot Name="" ID="{18211A07-CDFF-4810-AE75-3D8756890D49}" ShortID="766738978">
+														<ReferenceList>
+															<Reference Name="Effect">
+																<Custom>
+																	<Effect Name="Pitch Shifter (Custom)" ID="{6B90EFC3-B52F-4212-BDA1-7BE6F949AC13}" ShortID="493750074" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136" PluginType="3">
+																		<PropertyList>
+																			<Property Name="Pitch" Type="Real32" Value="-700"/>
+																		</PropertyList>
+																	</Effect>
+																</Custom>
+															</Reference>
+														</ReferenceList>
+													</EffectSlot>
+												</Local>
+											</Reference>
+											<Reference>
+												<Local>
+													<EffectSlot Name="" ID="{AE63E6FC-37FF-4A50-8213-3CB02F38C916}" ShortID="381708021">
+														<ReferenceList>
+															<Reference Name="Effect">
+																<Custom>
+																	<Effect Name="Guitar Distortion (Custom)" ID="{CF33F11C-35D4-4313-84A0-8AB493FE0E14}" ShortID="204657068" PluginName="Wwise Guitar Distortion" CompanyID="0" PluginID="126" PluginType="3">
+																		<PropertyList>
+																			<Property Name="DistortionDrive" Type="Real32" Value="28"/>
+																			<Property Name="DistortionType" Type="int32" Value="4"/>
+																			<Property Name="Rectification" Type="Real32" Value="15"/>
+																		</PropertyList>
+																	</Effect>
+																</Custom>
+															</Reference>
+														</ReferenceList>
+													</EffectSlot>
+												</Local>
+											</Reference>
+											<Reference>
+												<Local>
+													<EffectSlot Name="" ID="{B8B62314-99C6-4ED3-B67E-41A75EE70FA2}" ShortID="1065688577">
+														<ReferenceList>
+															<Reference Name="Effect">
+																<Custom>
+																	<Effect Name="Matrix Reverb (Custom)" ID="{35BE398B-24DD-48C8-AE8F-8EAB7908A568}" ShortID="829525125" PluginName="Wwise Matrix Reverb" CompanyID="0" PluginID="115" PluginType="3">
+																		<PropertyList>
+																			<Property Name="DryLevel" Type="Real32" Value="0"/>
+																			<Property Name="ReverbTime" Type="Real32" Value="4.9"/>
+																			<Property Name="WetLevel" Type="Real32" Value="-38"/>
+																		</PropertyList>
+																	</Effect>
+																</Custom>
+															</Reference>
+														</ReferenceList>
+													</EffectSlot>
+												</Local>
+											</Reference>
+										</ObjectList>
+									</ObjectLists>
 									<ActiveSourceList>
 										<ActiveSource Name="UI_Death" ID="{F566E119-5AD9-4433-8BF5-22E31C8385EE}" Platform="Linked"/>
 									</ActiveSourceList>

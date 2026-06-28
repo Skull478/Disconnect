@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{65A10771-1B3B-48FC-A03B-32EF0A36B24B}",
     "Language": "SFX",
-    "Hash": "{F9213165-7169-C453-D2B6-5C66CE038D52}",
+    "Hash": "{5C0B210F-85A8-8744-F2A0-75826AB607D5}",
     "ObjectPath": "Play_OBJ_FirePit",
     "ShortName": "Play_OBJ_FirePit",
     "Path": "Event/Play_OBJ_FirePit.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "OBJ_FirePit.wav",
       "Path": "Media/648322357.wem",
-      "CachePath": "CD/{CD8953FB-813F-7EC3-B3F6-7AD5C6762726}.wem"
+      "CachePath": "F8/{F8A78C00-D3B9-9D6B-C6B5-BD853E5C7F8D}.wem"
      }
     ],
     "Events": [
@@ -33,9 +33,7 @@
       "GUID": "{65A10771-1B3B-48FC-A03B-32EF0A36B24B}",
       "Color": "17",
       "MaxAttenuation": "2000",
-      "DurationType": "OneShot",
-      "DurationMin": "7.5",
-      "DurationMax": "7.5",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "648322357"
@@ -45,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{CB2B60D2-CB6C-D128-C8EB-32D0FCB30001}"
+  "FileHash": "{EB898351-B6D1-0642-3DD1-3FB42949BDD1}"
  }
 }

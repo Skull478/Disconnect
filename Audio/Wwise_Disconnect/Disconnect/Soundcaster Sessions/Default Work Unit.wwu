@@ -115,7 +115,7 @@
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
-						<CurrentSwitchRef Name="Mid" ID="{793212DB-BFCA-4BD9-897E-8DD5063FF819}"/>
+						<CurrentSwitchRef Name="High" ID="{A21D935A-6F47-4F54-8A97-3F674CFB4837}"/>
 						<CurrentSwitchRef Name="Concrete" ID="{15E8F383-838B-4947-9B02-C57FE37C96D9}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>

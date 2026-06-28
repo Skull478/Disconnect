@@ -4269,6 +4269,7 @@
 						</Sound>
 						<Sound Name="OBJ_FirePit" ID="{3A41AF41-C7CE-4DAF-B05E-41D870BD79F0}" ShortID="937659450">
 							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="IsStreamingEnabled" Type="bool">
 									<ValueList>
 										<Value>True</Value>
