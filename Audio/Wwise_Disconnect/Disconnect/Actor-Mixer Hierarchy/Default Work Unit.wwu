@@ -21,6 +21,9 @@
 					</ReferenceList>
 					<ChildrenList>
 						<AudioFileSource Name="Ending_FullAudio" ID="{930B8626-92F8-45FE-95E9-103508F21332}">
+							<PropertyList>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+							</PropertyList>
 							<Language>SFX</Language>
 							<AudioFile>Ending_FullAudio.wav</AudioFile>
 							<MediaIDList>
