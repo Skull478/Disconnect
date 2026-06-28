@@ -9233,9 +9233,7 @@
 								<ObjectList Name="Effects">
 									<Reference>
 										<Local>
-											<EffectSlot Name="" ID="{30EAD58E-69BC-492A-926E-B871E3D7E979}" ShortID="217859449">
-												<ReferenceList/>
-											</EffectSlot>
+											<EffectSlot Name="" ID="{30EAD58E-69BC-492A-926E-B871E3D7E979}" ShortID="217859449"/>
 										</Local>
 									</Reference>
 								</ObjectList>
@@ -9245,7 +9243,7 @@
 					<ObjectLists>
 						<ObjectList Name="Arguments">
 							<Reference>
-								<ObjectRef Name="Explo" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}" WorkUnitID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}"/>
+								<ObjectRef Name="MusicStates" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}" WorkUnitID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}"/>
 							</Reference>
 						</ObjectList>
 						<ObjectList Name="Entries">

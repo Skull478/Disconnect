@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{58B3E7FC-F4A0-45E9-B926-05AD99C4C21F}",
     "Language": "SFX",
-    "Hash": "{0365E864-8DC4-31E1-9735-7A16DB19BD7A}",
+    "Hash": "{4AE77295-0A06-CC21-9B54-FB5B2D297B9F}",
     "ObjectPath": "Play_UI_Death",
     "ShortName": "Play_UI_Death",
     "Path": "Event/Play_UI_Death.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "UI_Death.wav",
       "Path": "Media/541356741.wem",
-      "CachePath": "3F/{3FAE2494-F75D-C026-1530-56EEB5CDDD47}.wem"
+      "CachePath": "1D/{1D538F04-0952-A3E5-C6D6-37B5B91015D5}.wem"
      }
     ],
     "Plugins": {
@@ -85,6 +85,6 @@
     ]
    }
   ],
-  "FileHash": "{BC62281B-9ADE-AB72-8F2D-442BA69E5DEC}"
+  "FileHash": "{CFD38406-E39B-A473-D79F-5A1BC18D8ED8}"
  }
 }

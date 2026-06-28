@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{A14DB264-429D-0E58-5ECF-D129324ADFA8}",
+    "Hash": "{E3544F6B-2C72-8E05-6AF9-C832DFEEC86B}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -187,6 +187,68 @@
       ]
      },
      {
+      "Id": "3103015060",
+      "Name": "MusicStates",
+      "ObjectPath": "\\States\\Default Work Unit\\MusicStates",
+      "GUID": "{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\None",
+        "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
+       },
+       {
+        "Id": "2023814608",
+        "Name": "ThunderDome",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\ThunderDome",
+        "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
+       },
+       {
+        "Id": "2201105581",
+        "Name": "Credits",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Credits",
+        "GUID": "{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"
+       },
+       {
+        "Id": "3573931707",
+        "Name": "Loading",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Loading",
+        "GUID": "{A6E02910-7179-40FD-9768-432568EDFACC}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\MainMenu",
+        "GUID": "{24E40EC3-7418-4483-B8F8-1787796A5A8B}"
+       },
+       {
+        "Id": "3814499265",
+        "Name": "Explo",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Explo",
+        "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+       },
+       {
+        "Id": "3843299552",
+        "Name": "QuartiersSombres",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\QuartiersSombres",
+        "GUID": "{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"
+       },
+       {
+        "Id": "3966194980",
+        "Name": "Ending",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Ending",
+        "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+       },
+       {
+        "Id": "4265799768",
+        "Name": "Rooftop",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Rooftop",
+        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+       }
+      ]
+     },
+     {
       "Id": "3455673912",
       "Name": "Virus",
       "ObjectPath": "\\States\\Default Work Unit\\Virus",
@@ -209,68 +271,6 @@
         "Name": "No",
         "ObjectPath": "\\States\\Default Work Unit\\Virus\\No",
         "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
-       }
-      ]
-     },
-     {
-      "Id": "3814499265",
-      "Name": "Explo",
-      "ObjectPath": "\\States\\Default Work Unit\\Explo",
-      "GUID": "{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}",
-      "States": [
-       {
-        "Id": "748895195",
-        "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\None",
-        "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
-       },
-       {
-        "Id": "2023814608",
-        "Name": "ThunderDome",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\ThunderDome",
-        "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
-       },
-       {
-        "Id": "2201105581",
-        "Name": "Credits",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Credits",
-        "GUID": "{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"
-       },
-       {
-        "Id": "3573931707",
-        "Name": "Loading",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Loading",
-        "GUID": "{A6E02910-7179-40FD-9768-432568EDFACC}"
-       },
-       {
-        "Id": "3604647259",
-        "Name": "MainMenu",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\MainMenu",
-        "GUID": "{24E40EC3-7418-4483-B8F8-1787796A5A8B}"
-       },
-       {
-        "Id": "3814499265",
-        "Name": "Explo",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Explo",
-        "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
-       },
-       {
-        "Id": "3843299552",
-        "Name": "QuartiersSombres",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\QuartiersSombres",
-        "GUID": "{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"
-       },
-       {
-        "Id": "3966194980",
-        "Name": "Ending",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Ending",
-        "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
-       },
-       {
-        "Id": "4265799768",
-        "Name": "Rooftop",
-        "ObjectPath": "\\States\\Default Work Unit\\Explo\\Rooftop",
-        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
        }
       ]
      }
@@ -408,6 +408,6 @@
     ]
    }
   ],
-  "FileHash": "{BDE65D11-231D-D754-1819-F530EA521CEA}"
+  "FileHash": "{064401BD-1344-8C98-012F-6698FB9B3BF8}"
  }
 }

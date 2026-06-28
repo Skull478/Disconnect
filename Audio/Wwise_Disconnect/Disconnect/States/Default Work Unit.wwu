@@ -3,7 +3,7 @@
 	<States>
 		<WorkUnit Name="Default Work Unit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" PersistMode="Standalone">
 			<ChildrenList>
-				<StateGroup Name="Explo" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}">
+				<StateGroup Name="MusicStates" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}">
 					<PropertyList>
 						<Property Name="DefaultTransitionTime" Type="Real64" Value="0.5"/>
 					</PropertyList>

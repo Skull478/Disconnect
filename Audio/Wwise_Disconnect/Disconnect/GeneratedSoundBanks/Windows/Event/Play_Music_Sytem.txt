@@ -12,18 +12,18 @@ Switch	ID	Name	Switch Group			Notes
 	3550808449	High	Tension			
 
 State Group	ID	Name			Wwise Object Path	Notes
-	3814499265	Explo			\Default Work Unit\Explo	
+	3103015060	MusicStates			\Default Work Unit\MusicStates	
 
 State	ID	Name	State Group			Notes
-	748895195	None	Explo			
-	2023814608	ThunderDome	Explo			
-	2201105581	Credits	Explo			
-	3573931707	Loading	Explo			
-	3604647259	MainMenu	Explo			
-	3814499265	Explo	Explo			
-	3843299552	QuartiersSombres	Explo			
-	3966194980	Ending	Explo			
-	4265799768	Rooftop	Explo			
+	748895195	None	MusicStates			
+	2023814608	ThunderDome	MusicStates			
+	2201105581	Credits	MusicStates			
+	3573931707	Loading	MusicStates			
+	3604647259	MainMenu	MusicStates			
+	3814499265	Explo	MusicStates			
+	3843299552	QuartiersSombres	MusicStates			
+	3966194980	Ending	MusicStates			
+	4265799768	Rooftop	MusicStates			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	1571361561	Tension			\Default Work Unit\Tension	

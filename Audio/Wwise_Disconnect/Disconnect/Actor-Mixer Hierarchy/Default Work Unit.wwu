@@ -4,6 +4,13 @@
 		<WorkUnit Name="Default Work Unit" ID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="Ending_FullAudio" ID="{57056538-F9AC-45CD-8956-290C50AA5BC1}" ShortID="413715074">
+					<PropertyList>
+						<Property Name="InitialDelay" Type="Real64">
+							<ValueList>
+								<Value>0.5</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F81ED742-8935-4D06-912D-78D41629F4F2}"/>
