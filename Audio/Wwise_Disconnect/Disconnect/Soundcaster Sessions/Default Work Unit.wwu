@@ -102,7 +102,7 @@
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}"/>
-							<Value>60</Value>
+							<Value>100</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}"/>
@@ -110,7 +110,7 @@
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="Ending" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
+						<CurrentStateRef Name="Explo" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
