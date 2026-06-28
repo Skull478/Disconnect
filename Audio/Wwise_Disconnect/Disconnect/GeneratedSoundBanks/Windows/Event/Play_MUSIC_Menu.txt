@@ -1,5 +1,15 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1699343283	Play_MUSIC_Menu			\Default Work Unit\Play_MUSIC_Menu	
+	2430786458	RemoveTensionSmall			\Default Work Unit\In_Wwise Events\RemoveTensionSmall	
+	3054609917	AddTensionSmall			\Default Work Unit\In_Wwise Events\AddTensionSmall	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1571361561	Tension			\Default Work Unit\Tension	
+
+Switch	ID	Name	Switch Group			Notes
+	545371365	Low	Tension			
+	1182670505	Mid	Tension			
+	3550808449	High	Tension			
 
 State Group	ID	Name			Wwise Object Path	Notes
 	3103015060	MusicStates			\Default Work Unit\MusicStates	
@@ -16,5 +26,12 @@ State	ID	Name	State Group			Notes
 	4265799768	Rooftop	MusicStates			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
+	1571361561	Tension			\Default Work Unit\Tension	
 	3455673912	Virus			\Default Work Unit\Virus	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	1011878054	Modulator LFO (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	949684255	Pitch Shifter (Custom)	Wwise Pitch Shifter			
 
