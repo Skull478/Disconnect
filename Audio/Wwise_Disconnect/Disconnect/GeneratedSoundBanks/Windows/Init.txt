@@ -24,6 +24,7 @@ State	ID	Name	State Group			Notes
 	3573931707	Loading	Explo			
 	3604647259	MainMenu	Explo			
 	3814499265	Explo	Explo			
+	3843299552	QuartiersSombres	Explo			
 	3966194980	Ending	Explo			
 	4265799768	Rooftop	Explo			
 

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3054609917	AddTensionSmall			\Default Work Unit\In_Wwise Events\AddTensionSmall	
+

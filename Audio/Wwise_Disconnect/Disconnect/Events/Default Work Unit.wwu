@@ -8,7 +8,7 @@
 						<Action Name="" ID="{5EA93E72-7929-4804-B2E3-23F6195478AC}" ShortID="626658042">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Ending_Sound Design" ID="{726B46BC-24F1-43B1-B920-C726A25E86E6}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+									<ObjectRef Name="Ending_FullAudio" ID="{57056538-F9AC-45CD-8956-290C50AA5BC1}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -51,6 +51,26 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="MUSIC_Virus_Layer" ID="{438A94E3-0CE2-4D3F-B185-D8FCD8C42260}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{46B003DA-5AAA-44D1-BFF9-F61A5A82858A}" ShortID="1027520255">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="6"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MUSIC_Menu" ID="{F68D0ADF-BF88-4993-9401-BE7DE1F497CB}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{704A9053-4A97-4BF6-8950-D9793601182A}" ShortID="1069876146">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tension Modifier" ID="{D00039D8-BF3E-415D-BD46-F4A7668616DC}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -113,8 +133,61 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{1613DC21-99DF-4F33-97C0-CA319DDD4F78}" ShortID="690458317">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="6"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
+				<Folder Name="In_Wwise Events" ID="{933D214D-3D2A-49D7-8FCB-244D272B8FBB}" ShortID="606216104">
+					<ChildrenList>
+						<Event Name="AddTensionSmall" ID="{A9C4774E-C0D5-4FDB-BBB2-5949CC959628}">
+							<ChildrenList>
+								<Action Name="" ID="{C460C99A-36C0-4150-AB0C-96E454521F1B}" ShortID="588640437">
+									<PropertyList>
+										<Property Name="AbsoluteOrRelative" Type="int16" Value="1"/>
+										<Property Name="ActionType" Type="int16" Value="38"/>
+										<Property Name="FadeInCurve" Type="int16" Value="5"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+										<Property Name="GameParameterValue" Type="Real64" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="RemoveTensionSmall" ID="{DCD5A5DD-20EB-449D-AC45-3DBE2A552FC1}">
+							<ChildrenList>
+								<Action Name="" ID="{B5F5820D-C81A-4E35-B146-7E3C2A7FCA77}" ShortID="992105664">
+									<PropertyList>
+										<Property Name="AbsoluteOrRelative" Type="int16" Value="1"/>
+										<Property Name="ActionType" Type="int16" Value="38"/>
+										<Property Name="FadeInCurve" Type="int16" Value="5"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+										<Property Name="GameParameterValue" Type="Real64" Value="-2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

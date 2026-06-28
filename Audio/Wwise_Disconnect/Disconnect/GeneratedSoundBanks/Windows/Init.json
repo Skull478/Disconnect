@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{3721B284-CCDF-D21A-62E6-686B712537C2}",
+    "Hash": "{EA0A7FCD-D5B9-BE95-FAE2-85A653E2E380}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -255,6 +255,12 @@
         "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
        },
        {
+        "Id": "3843299552",
+        "Name": "QuartiersSombres",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\QuartiersSombres",
+        "GUID": "{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"
+       },
+       {
         "Id": "3966194980",
         "Name": "Ending",
         "ObjectPath": "\\States\\Default Work Unit\\Explo\\Ending",
@@ -402,6 +408,6 @@
     ]
    }
   ],
-  "FileHash": "{A084B665-90C5-3360-AF65-87327444C68D}"
+  "FileHash": "{A9036BFC-CBB0-61AE-2A94-C0587587F01A}"
  }
 }

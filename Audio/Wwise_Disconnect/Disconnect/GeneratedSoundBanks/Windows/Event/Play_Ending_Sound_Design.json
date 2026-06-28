@@ -10,19 +10,19 @@
     "Type": "Event",
     "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
     "Language": "SFX",
-    "Hash": "{BBA5CDF3-8A3B-D39E-B973-99AF64A2227E}",
+    "Hash": "{A1C343EB-E7CE-A996-BAC4-EAACFCB11005}",
     "ObjectPath": "Play_Ending_Sound_Design",
     "ShortName": "Play_Ending_Sound_Design",
     "Path": "Event/Play_Ending_Sound_Design.bnk",
     "Media": [
      {
-      "Id": "827437005",
+      "Id": "517884550",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
-      "ShortName": "Ending_Sound Design.wav",
-      "Path": "Media/827437005.wem",
-      "CachePath": "BA/{BA96BAB6-CBE2-E14E-A940-A9758EA96E5F}.wem"
+      "ShortName": "Ending_FullAudio.wav",
+      "Path": "Media/517884550.wem",
+      "CachePath": "35/{356C845E-BE87-C522-5099-B1B220EAD6EB}.wem"
      }
     ],
     "Events": [
@@ -32,17 +32,17 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Ending_Sound_Design",
       "GUID": "{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}",
       "DurationType": "OneShot",
-      "DurationMin": "46.88398",
-      "DurationMax": "46.88398",
+      "DurationMin": "61.666668",
+      "DurationMax": "61.666668",
       "MediaRefs": [
        {
-        "Id": "827437005"
+        "Id": "517884550"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{8CD55931-99FD-A1E2-3E00-3BAD9101E7A1}"
+  "FileHash": "{6DF48FF3-722E-F366-28D9-08CDEBC21758}"
  }
 }

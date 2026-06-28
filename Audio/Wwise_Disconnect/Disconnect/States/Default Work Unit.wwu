@@ -16,6 +16,7 @@
 						<State Name="MainMenu" ID="{24E40EC3-7418-4483-B8F8-1787796A5A8B}"/>
 						<State Name="Credits" ID="{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"/>
 						<State Name="Loading" ID="{A6E02910-7179-40FD-9768-432568EDFACC}"/>
+						<State Name="QuartiersSombres" ID="{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"/>
 					</ChildrenList>
 				</StateGroup>
 				<StateGroup Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}">

@@ -1,4 +1,6 @@
 Event	ID	Name			Wwise Object Path	Notes
+	2430786458	RemoveTensionSmall			\Default Work Unit\In_Wwise Events\RemoveTensionSmall	
+	3054609917	AddTensionSmall			\Default Work Unit\In_Wwise Events\AddTensionSmall	
 	3625593048	Play_Music_Sytem			\Default Work Unit\Play_Music_Sytem	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
@@ -19,10 +21,17 @@ State	ID	Name	State Group			Notes
 	3573931707	Loading	Explo			
 	3604647259	MainMenu	Explo			
 	3814499265	Explo	Explo			
+	3843299552	QuartiersSombres	Explo			
 	3966194980	Ending	Explo			
 	4265799768	Rooftop	Explo			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	1571361561	Tension			\Default Work Unit\Tension	
 	3455673912	Virus			\Default Work Unit\Virus	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	1011878054	Modulator LFO (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	949684255	Pitch Shifter (Custom)	Wwise Pitch Shifter			
 

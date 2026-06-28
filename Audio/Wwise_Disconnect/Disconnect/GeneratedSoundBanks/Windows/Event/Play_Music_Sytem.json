@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{7CF36FE9-238E-A93F-70A1-253571819314}",
+    "Hash": "{1DEDB758-AC62-E0DC-C555-9BC07B9F9348}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -50,6 +50,15 @@
       "ShortName": "Main_Thunderdome_ToloopSynth_G-_Loop_109Bpm.wav",
       "Path": "Media/21490316.wem",
       "CachePath": "81/{81417472-FFC5-8B62-4B66-637A30A0F65D}.wem"
+     },
+     {
+      "Id": "41138599",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_DrumHigh_Loop_45bpm.wav",
+      "Path": "Media/41138599.wem",
+      "CachePath": "7E/{7E2056E8-CD96-F1CF-0772-C7BDA8CF8D29}.wem"
      },
      {
       "Id": "55464733",
@@ -169,6 +178,15 @@
       "CachePath": "77/{77934258-F7A4-702D-53DB-4FB8B24CAFFC}.wem"
      },
      {
+      "Id": "235963612",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Noise_Ambiance_3Loop_45bpm.wav",
+      "Path": "Media/235963612.wem",
+      "CachePath": "90/{908E8481-E12D-9520-12DA-687E735C6CAC}.wem"
+     },
+     {
       "Id": "239189792",
       "Language": "SFX",
       "Streaming": "false",
@@ -176,6 +194,15 @@
       "ShortName": "Main_Céleste_Synth1_C_122Bpm.wav",
       "Path": "Media/239189792.wem",
       "CachePath": "70/{709DB4EC-6024-E63D-9645-7DD7A910C971}.wem"
+     },
+     {
+      "Id": "254662543",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_PercHigh_Loop_45bpm.wav",
+      "Path": "Media/254662543.wem",
+      "CachePath": "D0/{D07DDA90-12B0-9691-BCD5-8829879DA924}.wem"
      },
      {
       "Id": "275321374",
@@ -277,6 +304,15 @@
       "CachePath": "BE/{BE3CE856-49F3-F3B2-23F1-8CCD2EC24A41}.wem"
      },
      {
+      "Id": "479671962",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombrev2_SoloSynth_1shot.wav",
+      "Path": "Media/479671962.wem",
+      "CachePath": "DE/{DEA60BC0-E1D1-59F7-AB59-E8220F94FFC6}.wem"
+     },
+     {
       "Id": "481274504",
       "Language": "SFX",
       "Streaming": "false",
@@ -284,6 +320,15 @@
       "ShortName": "Menu_Loop_Dust.wav",
       "Path": "Media/481274504.wem",
       "CachePath": "F2/{F2CA4ABE-024C-5879-CF1D-3E7008FBCEC9}.wem"
+     },
+     {
+      "Id": "496153733",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Bass3_Ab-_Loop_45bpm.wav",
+      "Path": "Media/496153733.wem",
+      "CachePath": "66/{66249CED-C193-5A15-2C92-5FBB5EF94093}.wem"
      },
      {
       "Id": "514448128",
@@ -295,6 +340,15 @@
       "CachePath": "D3/{D3CB5A16-D1D3-2F8C-418B-F50202B17FE2}.wem"
      },
      {
+      "Id": "522698954",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Arp1_Ab-_Loop_45bpm.wav",
+      "Path": "Media/522698954.wem",
+      "CachePath": "38/{385210A1-AB31-63AE-1247-7C62734C6EE9}.wem"
+     },
+     {
       "Id": "537863881",
       "Language": "SFX",
       "Streaming": "false",
@@ -302,6 +356,15 @@
       "ShortName": "Virus_PAD_Loopx2_122bpm.wav",
       "Path": "Media/537863881.wem",
       "CachePath": "74/{7479D169-FDD1-3A45-48F7-72C1B49F469B}.wem"
+     },
+     {
+      "Id": "567980594",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Synthplanant_Ab-_3Loop_45bpm.wav",
+      "Path": "Media/567980594.wem",
+      "CachePath": "EE/{EE444227-BE7C-A22C-7F72-CEFAC359CECD}.wem"
      },
      {
       "Id": "569613085",
@@ -475,6 +538,24 @@
       "CachePath": "C5/{C5D9BD4F-7420-C7DC-D294-7449CC1F2B15}.wem"
      },
      {
+      "Id": "768525368",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Bass2.wav",
+      "Path": "Media/768525368.wem",
+      "CachePath": "EB/{EBD48D29-FA06-FE9E-EE1D-324DA390E780}.wem"
+     },
+     {
+      "Id": "780385048",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Empty.wav",
+      "Path": "Media/780385048.wem",
+      "CachePath": "06/{06FAA229-7E69-37CB-A9DD-F3B20B95FF34}.wem"
+     },
+     {
       "Id": "806203406",
       "Language": "SFX",
       "Streaming": "false",
@@ -500,6 +581,15 @@
       "ShortName": "Main_Toit_PercLow_G-_Loop_81bpm.wav",
       "Path": "Media/845350699.wem",
       "CachePath": "DE/{DEF1315F-4F70-1721-9415-EA7044A0DFAD}.wem"
+     },
+     {
+      "Id": "898133098",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombrev2_Noise_1shot.wav",
+      "Path": "Media/898133098.wem",
+      "CachePath": "60/{608DF7AC-A8FD-52D8-A97F-1E6FA8B69C69}.wem"
      },
      {
       "Id": "902881118",
@@ -529,6 +619,15 @@
       "CachePath": "B1/{B19D9169-7286-9C26-7B81-6A18BADA3A24}.wem"
      },
      {
+      "Id": "929629432",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_DrumLow_Loop_45bpm.wav",
+      "Path": "Media/929629432.wem",
+      "CachePath": "03/{03095D11-4495-B952-8D0E-8CA5E3804E2E}.wem"
+     },
+     {
       "Id": "938452024",
       "Language": "SFX",
       "Streaming": "false",
@@ -536,6 +635,24 @@
       "ShortName": "Main_Toit_Whooshaigu_Random_81bpm.wav",
       "Path": "Media/938452024.wem",
       "CachePath": "CD/{CD0BE1F6-70CD-D768-B7A2-45CB184727BE}.wem"
+     },
+     {
+      "Id": "951927793",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Arp2_Ab-_Loop_45bpm.wav",
+      "Path": "Media/951927793.wem",
+      "CachePath": "80/{805C0471-93E0-92C8-738B-9C827207A4D6}.wem"
+     },
+     {
+      "Id": "985886384",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Bass1_Ab-_Loop_45bpm.wav",
+      "Path": "Media/985886384.wem",
+      "CachePath": "17/{17C68E96-587F-8A76-B787-78E4F289AB25}.wem"
      },
      {
       "Id": "986346573",
@@ -601,6 +718,15 @@
       "CachePath": "63/{636154C2-CE9E-0DF2-2F4B-B96E54ED72B8}.wem"
      },
      {
+      "Id": "1032239472",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Main_QuartierSombre_Guit_Ab-_Loop_45bpm.wav",
+      "Path": "Media/1032239472.wem",
+      "CachePath": "0B/{0B99C62B-6232-4184-95AE-094CF702E42F}.wem"
+     },
+     {
       "Id": "1035818146",
       "Language": "SFX",
       "Streaming": "false",
@@ -619,7 +745,29 @@
       "CachePath": "F4/{F41D6FBE-9B94-E102-355D-EAD06D13DA5F}.wem"
      }
     ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "949684255",
+       "Name": "Pitch Shifter (Custom)",
+       "ObjectPath": "\\Interactive Music Hierarchy\\Default Work Unit\\Music_Sytem\\Transitions\\Intro_QuartiersSombres\\[Effect Slot [0]: (Pitch Shifter)]\\Pitch Shifter (Custom)",
+       "GUID": "{46B75366-567F-419D-8F3A-212F86390773}",
+       "LibName": "Wwise Pitch Shifter",
+       "LibId": "8912899"
+      }
+     ]
+    },
     "Events": [
+     {
+      "Id": "3054609917",
+      "Name": "AddTensionSmall",
+      "ObjectPath": "\\Events\\Default Work Unit\\In_Wwise Events\\AddTensionSmall",
+      "GUID": "{A9C4774E-C0D5-4FDB-BBB2-5949CC959628}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
      {
       "Id": "3625593048",
       "Name": "Play_Music_Sytem",
@@ -641,6 +789,9 @@
        },
        {
         "Id": "132322215"
+       },
+       {
+        "Id": "144635942"
        },
        {
         "Id": "150106522"
@@ -676,6 +827,9 @@
         "Id": "579560870"
        },
        {
+        "Id": "780385048"
+       },
+       {
         "Id": "806203406"
        },
        {
@@ -685,12 +839,22 @@
         "Id": "908254866"
        },
        {
+        "Id": "985886384"
+       },
+       {
         "Id": "1020159566"
        },
        {
         "Id": "1061575594"
        }
       ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "949684255"
+        }
+       ]
+      },
       "SwitchContainers": [
        {
         "SwitchValue": {
@@ -954,8 +1118,67 @@
           "Id": "902881118"
          }
         ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3814499265",
+         "Id": "3843299552",
+         "GUID": "{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "41138599"
+         },
+         {
+          "Id": "235963612"
+         },
+         {
+          "Id": "254662543"
+         },
+         {
+          "Id": "479671962"
+         },
+         {
+          "Id": "496153733"
+         },
+         {
+          "Id": "522698954"
+         },
+         {
+          "Id": "567980594"
+         },
+         {
+          "Id": "768525368"
+         },
+         {
+          "Id": "898133098"
+         },
+         {
+          "Id": "929629432"
+         },
+         {
+          "Id": "951927793"
+         },
+         {
+          "Id": "985886384"
+         },
+         {
+          "Id": "1032239472"
+         }
+        ]
        }
       ]
+     },
+     {
+      "Id": "2430786458",
+      "Name": "RemoveTensionSmall",
+      "ObjectPath": "\\Events\\Default Work Unit\\In_Wwise Events\\RemoveTensionSmall",
+      "GUID": "{DCD5A5DD-20EB-449D-AC45-3DBE2A552FC1}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
      }
     ],
     "GameParameters": [
@@ -1016,6 +1239,12 @@
         "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
        },
        {
+        "Id": "3843299552",
+        "Name": "QuartiersSombres",
+        "ObjectPath": "\\States\\Default Work Unit\\Explo\\QuartiersSombres",
+        "GUID": "{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"
+       },
+       {
         "Id": "3966194980",
         "Name": "Ending",
         "ObjectPath": "\\States\\Default Work Unit\\Explo\\Ending",
@@ -1063,6 +1292,6 @@
     ]
    }
   ],
-  "FileHash": "{3F936E6C-4B63-F3EA-E1E0-D7BD9A712061}"
+  "FileHash": "{7656F4E3-CCBD-9EC5-6C6B-A788E7364C10}"
  }
 }
