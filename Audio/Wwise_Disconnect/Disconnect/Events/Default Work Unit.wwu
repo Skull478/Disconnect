@@ -3,17 +3,6 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Play_Ending_Sound_Design" ID="{C3656E8E-A9C9-4EE2-87B0-F0BEF136048E}">
-					<ChildrenList>
-						<Action Name="" ID="{5EA93E72-7929-4804-B2E3-23F6195478AC}" ShortID="626658042">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Ending_FullAudio" ID="{57056538-F9AC-45CD-8956-290C50AA5BC1}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Play_Music_Sytem" ID="{6072C88A-D967-459E-84FF-E22468898EE3}">
 					<ChildrenList>
 						<Action Name="" ID="{20FF322C-FBB9-4820-924C-C828F4DAD13D}" ShortID="983737426">
@@ -45,6 +34,18 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{B09AE4AF-B976-4760-8EFC-6C580E4A9145}" ShortID="266342329">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="GameParameterValue" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicPlaying" ID="{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -90,61 +91,25 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="Play_MUSIC_Menu" ID="{EC548983-A864-46C6-B88D-A23C898E0716}">
-					<ChildrenList>
-						<Action Name="" ID="{C662FC4B-DE7F-45BC-A3DF-20496C7BE5BD}" ShortID="862398120">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="22"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="MainMenu" ID="{24E40EC3-7418-4483-B8F8-1787796A5A8B}" WorkUnitID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{2D81AB65-AB27-4BB6-AFE3-7A4D6E790E7A}" ShortID="1024261817">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="38"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{1613DC21-99DF-4F33-97C0-CA319DDD4F78}" ShortID="690458317">
+						<Action Name="" ID="{76C632EF-E6A9-40B1-8E7C-5D8FE76DE9CB}" ShortID="167525422">
 							<PropertyList>
 								<Property Name="ActionType" Type="int16" Value="2"/>
-								<Property Name="FadeOutCurve" Type="int16" Value="6"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
 								<Property Name="Scope" Type="int16" Value="1"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{D802D19E-1387-45DA-98E3-03C39454FF02}" ShortID="613100553">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{D1045D8C-8911-4623-93E2-1F1B7DCB213A}" ShortID="400519936">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="MUSIC_Virus_Layer" ID="{438A94E3-0CE2-4D3F-B185-D8FCD8C42260}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{93E2BDA2-926C-49D7-9A5E-F8EDF71F27E4}" ShortID="528707376">
-							<ReferenceList>
-								<Reference Name="Target">
 									<ObjectRef Name="Tension Modifier" ID="{D00039D8-BF3E-415D-BD46-F4A7668616DC}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DB7C3DCC-FA7D-48F3-B227-7705AC9F2ED1}" ShortID="318144477">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicPlaying" ID="{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

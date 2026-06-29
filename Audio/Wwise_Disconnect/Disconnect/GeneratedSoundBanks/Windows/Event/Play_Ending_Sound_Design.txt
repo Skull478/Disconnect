@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1715916808	Play_Ending_Sound_Design			\Default Work Unit\Play_Ending_Sound_Design	
-

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6072C88A-D967-459E-84FF-E22468898EE3}",
     "Language": "SFX",
-    "Hash": "{1B80C46B-3D91-944B-111D-140D86154C98}",
+    "Hash": "{0D5D5921-44F5-4701-5436-0E644F389FA0}",
     "ObjectPath": "Play_Music_Sytem",
     "ShortName": "Play_Music_Sytem",
     "Path": "Event/Play_Music_Sytem.bnk",
@@ -338,6 +338,15 @@
       "ShortName": "CalmLoop2_Intro_GranularTexture.wav",
       "Path": "Media/514448128.wem",
       "CachePath": "D3/{D3CB5A16-D1D3-2F8C-418B-F50202B17FE2}.wem"
+     },
+     {
+      "Id": "517884550",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ending_FullAudio.wav",
+      "Path": "Media/517884550.wem",
+      "CachePath": "FF/{FF771231-6B94-AE9E-4F45-2D1F03BAEE2F}.wem"
      },
      {
       "Id": "522698954",
@@ -1167,6 +1176,19 @@
           "Id": "1032239472"
          }
         ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3103015060",
+         "Id": "3966194980",
+         "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "517884550"
+         }
+        ]
        }
       ]
      },
@@ -1292,6 +1314,6 @@
     ]
    }
   ],
-  "FileHash": "{2B323BA9-4887-5A93-DC9F-745BCEAC14BD}"
+  "FileHash": "{59558E13-9119-0F70-C591-9E1DD13020EF}"
  }
 }

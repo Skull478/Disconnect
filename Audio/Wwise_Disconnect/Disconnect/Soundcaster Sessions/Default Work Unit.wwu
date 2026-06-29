@@ -90,10 +90,6 @@
 							<ObjectRef Name="Stop_Music_Sytem" ID="{6373029C-208F-448D-AB89-6393FEB8BB26}" WorkUnitID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}"/>
 							<Position X="1" Y="0"/>
 						</Module>
-						<Module>
-							<ObjectRef Name="Play_MUSIC_Menu" ID="{EC548983-A864-46C6-B88D-A23C898E0716}" WorkUnitID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}"/>
-							<Position X="2" Y="0"/>
-						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>
@@ -105,12 +101,16 @@
 							<Value>100</Value>
 						</RTPCValue>
 						<RTPCValue>
+							<GameParameterRef Name="MusicPlaying" ID="{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}"/>
+							<Value>3.70090359797859E-312</Value>
+						</RTPCValue>
+						<RTPCValue>
 							<GameParameterRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}"/>
 							<Value>0</Value>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="Explo" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<CurrentStateRef Name="MainMenu" ID="{24E40EC3-7418-4483-B8F8-1787796A5A8B}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>
