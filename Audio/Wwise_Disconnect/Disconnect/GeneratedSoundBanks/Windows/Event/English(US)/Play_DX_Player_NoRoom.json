@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1356147353",
+    "Type": "Event",
+    "GUID": "{7A84AD0C-EA35-45D9-A461-B7E6BFF8E93B}",
+    "Language": "English(US)",
+    "Hash": "{E5AD63CA-1813-F20C-2E3E-2F77C2D19E66}",
+    "ObjectPath": "Play_DX_Player_NoRoom",
+    "ShortName": "Play_DX_Player_NoRoom",
+    "Path": "Event/English(US)/Play_DX_Player_NoRoom.bnk",
+    "Media": [
+     {
+      "Id": "362385146",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_NoRoom.wav",
+      "Path": "Media/English(US)/362385146.wem",
+      "CachePath": "D2/{D2A240CA-7D2A-6F78-5504-D182627F7923}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1356147353",
+      "Name": "Play_DX_Player_NoRoom",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_NoRoom",
+      "GUID": "{7A84AD0C-EA35-45D9-A461-B7E6BFF8E93B}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "1.6402292",
+      "DurationMax": "1.6402292",
+      "MediaRefs": [
+       {
+        "Id": "362385146"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{89199FE4-4793-9DDF-4E8D-94777164BAE6}"
+ }
+}

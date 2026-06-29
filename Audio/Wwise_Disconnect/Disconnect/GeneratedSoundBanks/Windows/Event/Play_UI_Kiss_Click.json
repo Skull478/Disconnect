@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{4C30AF9B-0258-43E1-B6B5-E813D0A21767}",
     "Language": "SFX",
-    "Hash": "{4BE34263-C0F8-8FC9-AF34-1E3B7683BFC5}",
+    "Hash": "{C67646FD-C0D4-E4FD-62E7-6F0EDE12A174}",
     "ObjectPath": "Play_UI_Kiss_Click",
     "ShortName": "Play_UI_Kiss_Click",
     "Path": "Event/Play_UI_Kiss_Click.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Kiss_Click.wav",
       "Path": "Media/450262475.wem",
-      "CachePath": "34/{34BC7511-00BD-A113-B1E6-EF6181AAD9BB}.wem"
+      "CachePath": "1D/{1D8CFA31-B285-9F55-0D5B-D810F09AC79B}.wem"
      }
     ],
     "Events": [
@@ -31,6 +31,7 @@
       "Name": "Play_UI_Kiss_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Kiss_Click",
       "GUID": "{4C30AF9B-0258-43E1-B6B5-E813D0A21767}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{19884D77-3E31-CA6F-C324-50D61923376E}"
+  "FileHash": "{10901C85-8A71-1614-F77E-0D6C4169DD80}"
  }
 }

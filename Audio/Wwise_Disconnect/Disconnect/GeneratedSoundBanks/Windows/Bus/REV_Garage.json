@@ -10,7 +10,7 @@
     "Type": "Bus",
     "GUID": "{4809821F-5F41-4F99-8175-61D9A6567B87}",
     "Language": "SFX",
-    "Hash": "{D15CBBD1-6413-A23A-4D97-981B564A6A24}",
+    "Hash": "{3EEAB363-495A-13CA-FFA2-6F5F576D3655}",
     "ObjectPath": "REV_Garage",
     "ShortName": "REV_Garage",
     "Path": "Bus/REV_Garage.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{E599A13F-F521-2899-F858-7CE21811BE4B}"
+  "FileHash": "{698D9B84-303C-CD5C-DDC6-A1FF85CCFC5E}"
  }
 }

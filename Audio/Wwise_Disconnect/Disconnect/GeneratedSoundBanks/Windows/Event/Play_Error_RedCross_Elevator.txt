@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2039641865	Play_Error_RedCross_Elevator			\DEV\Play_Error_RedCross_Elevator	
+

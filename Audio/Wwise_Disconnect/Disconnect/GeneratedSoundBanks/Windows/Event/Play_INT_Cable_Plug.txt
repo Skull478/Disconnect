@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	140116446	Play_INT_Cable_Plug			\Interactibles\Play_INT_Cable_Plug	
+

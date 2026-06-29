@@ -1,0 +1,50 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1876216856",
+    "Type": "Event",
+    "GUID": "{FCD7657C-12D8-40BD-9918-8F2B57E63F80}",
+    "Language": "SFX",
+    "Hash": "{5C4C9F05-8945-7511-3C4C-E0FDF7720736}",
+    "ObjectPath": "Play_OBJ_Elevator_PowerDown",
+    "ShortName": "Play_OBJ_Elevator_PowerDown",
+    "Path": "Event/Play_OBJ_Elevator_PowerDown.bnk",
+    "Media": [
+     {
+      "Id": "724956509",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Elevator_PowerDown.wav",
+      "Path": "Media/724956509.wem",
+      "CachePath": "4A/{4A1B9D06-01A2-2720-F525-FC593B790BE8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1876216856",
+      "Name": "Play_OBJ_Elevator_PowerDown",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Elevator_PowerDown",
+      "GUID": "{FCD7657C-12D8-40BD-9918-8F2B57E63F80}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "3.0833333",
+      "DurationMax": "3.0833333",
+      "MediaRefs": [
+       {
+        "Id": "724956509"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{EC080F7C-D18B-8278-E753-25C83749E1CC}"
+ }
+}

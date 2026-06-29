@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2823495579	Play_UI_Win			\UI\Jingles\Play_UI_Win	
+

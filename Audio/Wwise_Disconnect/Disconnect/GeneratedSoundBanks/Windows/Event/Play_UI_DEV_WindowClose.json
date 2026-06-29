@@ -10,39 +10,52 @@
     "Type": "Event",
     "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
     "Language": "SFX",
-    "Hash": "{8C642592-99E3-95C6-4D1C-05549EE248CE}",
+    "Hash": "{566C19E2-759B-4E9B-E368-D416A3DDBE98}",
     "ObjectPath": "Play_UI_DEV_WindowClose",
     "ShortName": "Play_UI_DEV_WindowClose",
     "Path": "Event/Play_UI_DEV_WindowClose.bnk",
     "Media": [
      {
-      "Id": "938639328",
+      "Id": "140162549",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Loose",
-      "ShortName": "UI_WindowClose.wav",
-      "Path": "Media/938639328.wem",
-      "CachePath": "1F/{1F2B28EC-5782-B91F-3000-8AD59B99C6DC}.wem"
+      "ShortName": "Cute-close-001.wav",
+      "Path": "Media/140162549.wem",
+      "CachePath": "0F/{0F24EA42-EDB6-082E-639F-6094EFEC17AE}.wem"
+     },
+     {
+      "Id": "1040533746",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute-close-002.wav",
+      "Path": "Media/1040533746.wem",
+      "CachePath": "11/{11328622-5DB4-A048-4FD0-BAC2E3CE7B34}.wem"
      }
     ],
     "Events": [
      {
       "Id": "687545429",
       "Name": "Play_UI_DEV_WindowClose",
-      "ObjectPath": "\\Events\\UI\\Back-Close\\Play_UI_DEV_WindowClose",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_WindowClose",
       "GUID": "{AC988AD7-DE58-432E-8EC3-6365D84F1AB1}",
+      "Color": "12",
       "DurationType": "OneShot",
-      "DurationMin": "0.19370833",
-      "DurationMax": "0.19370833",
+      "DurationMin": "0.3213125",
+      "DurationMax": "0.32395834",
       "MediaRefs": [
        {
-        "Id": "938639328"
+        "Id": "140162549"
+       },
+       {
+        "Id": "1040533746"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{FE68A773-357F-910B-005A-CA8E241AB16B}"
+  "FileHash": "{CB1B9CF3-8A45-1551-FDBD-050AB0E90D05}"
  }
 }

@@ -1,0 +1,156 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1167069257",
+    "Type": "Event",
+    "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
+    "Language": "SFX",
+    "Hash": "{3DD83170-FCFF-74C0-79C9-F0F22445D2A5}",
+    "ObjectPath": "Play_Glitch_Large",
+    "ShortName": "Play_Glitch_Large",
+    "Path": "Event/Play_Glitch_Large.bnk",
+    "Media": [
+     {
+      "Id": "14481440",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_04.wav",
+      "Path": "Media/14481440.wem",
+      "CachePath": "1A/{1AD86AB7-94B8-4FD0-D9CA-D52C4723FD2B}.wem"
+     },
+     {
+      "Id": "102191829",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_02.wav",
+      "Path": "Media/102191829.wem",
+      "CachePath": "82/{824925D9-5639-30D2-DD8C-22FEDCBB747F}.wem"
+     },
+     {
+      "Id": "348628996",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_07.wav",
+      "Path": "Media/348628996.wem",
+      "CachePath": "C4/{C4076BC7-D58E-45EE-27BB-9DE83D5F6CBB}.wem"
+     },
+     {
+      "Id": "437561151",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_01.wav",
+      "Path": "Media/437561151.wem",
+      "CachePath": "59/{59333AD7-1881-0611-838F-5E59693C1465}.wem"
+     },
+     {
+      "Id": "692390277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_08.wav",
+      "Path": "Media/692390277.wem",
+      "CachePath": "42/{422BB12D-6A13-8E6F-D5B1-48EFBC6955B9}.wem"
+     },
+     {
+      "Id": "707808078",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_09.wav",
+      "Path": "Media/707808078.wem",
+      "CachePath": "47/{4726E34F-4460-0D2E-246B-3E34F4F4CE55}.wem"
+     },
+     {
+      "Id": "789380263",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_05.wav",
+      "Path": "Media/789380263.wem",
+      "CachePath": "89/{89B00C22-5F6F-2BED-0176-9DE0287653D9}.wem"
+     },
+     {
+      "Id": "857226571",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_03.wav",
+      "Path": "Media/857226571.wem",
+      "CachePath": "D6/{D6439B91-584F-41AF-FEA2-10F369C284B1}.wem"
+     },
+     {
+      "Id": "900977261",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Bed.wav",
+      "Path": "Media/900977261.wem",
+      "CachePath": "B5/{B54F673B-01C6-01C8-B28D-5EE338F0A645}.wem"
+     },
+     {
+      "Id": "1004830685",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Glitch_Rand_06.wav",
+      "Path": "Media/1004830685.wem",
+      "CachePath": "68/{68A776BB-57BD-BD68-8236-43392D1F8D6C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1167069257",
+      "Name": "Play_Glitch_Large",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_Glitch_Large",
+      "GUID": "{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}",
+      "Color": "17",
+      "MaxAttenuation": "1000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "14481440"
+       },
+       {
+        "Id": "102191829"
+       },
+       {
+        "Id": "348628996"
+       },
+       {
+        "Id": "437561151"
+       },
+       {
+        "Id": "692390277"
+       },
+       {
+        "Id": "707808078"
+       },
+       {
+        "Id": "789380263"
+       },
+       {
+        "Id": "857226571"
+       },
+       {
+        "Id": "900977261"
+       },
+       {
+        "Id": "1004830685"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1C489409-5EDB-CB30-9DDD-3AB06E0AF24F}"
+ }
+}

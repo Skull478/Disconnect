@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "489010183",
+    "Type": "Event",
+    "GUID": "{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}",
+    "Language": "SFX",
+    "Hash": "{8B5E9F90-4272-758B-F129-FB060E02CFAC}",
+    "ObjectPath": "Play_UI_DEV_Feedback_Open_Garage",
+    "ShortName": "Play_UI_DEV_Feedback_Open_Garage",
+    "Path": "Event/Play_UI_DEV_Feedback_Open_Garage.bnk",
+    "Media": [
+     {
+      "Id": "645561023",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Feedback_Open_Garage_DevSide.wav",
+      "Path": "Media/645561023.wem",
+      "CachePath": "98/{98F82DF6-41DC-97CF-C993-89227DABBACE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "489010183",
+      "Name": "Play_UI_DEV_Feedback_Open_Garage",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Feedback_Open_Garage",
+      "GUID": "{BD2F19F0-6D4C-4A81-81B2-987BE72400D0}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2",
+      "DurationMax": "1.2",
+      "MediaRefs": [
+       {
+        "Id": "645561023"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D079BB19-F394-17FC-5A8A-B369BDCBEECD}"
+ }
+}

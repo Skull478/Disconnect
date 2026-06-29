@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}",
     "Language": "SFX",
-    "Hash": "{E8CB9B19-1371-74EB-CE0B-4BDB14FBB4F1}",
+    "Hash": "{440ED104-F2DE-003C-D976-25EEB89598D5}",
     "ObjectPath": "Play_AMB_Garage",
     "ShortName": "Play_AMB_Garage",
     "Path": "Event/Play_AMB_Garage.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_Garage.wav",
       "Path": "Media/609653296.wem",
-      "CachePath": "36/{365D2A52-5FDF-B26E-3E70-6F133C9FD5C8}.wem"
+      "CachePath": "CE/{CE0C785E-D2E5-F42E-BD39-F199902267DB}.wem"
      }
     ],
     "Events": [
@@ -31,6 +31,7 @@
       "Name": "Play_AMB_Garage",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_Garage",
       "GUID": "{C78A2FC5-AD92-4632-93B2-B40374A3A6FF}",
+      "Color": "17",
       "MaxAttenuation": "100",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{73845EBB-7965-805D-9FFA-76DBFAE1B58D}"
+  "FileHash": "{01CE07A0-5736-788F-7C78-F307D94DBEE1}"
  }
 }

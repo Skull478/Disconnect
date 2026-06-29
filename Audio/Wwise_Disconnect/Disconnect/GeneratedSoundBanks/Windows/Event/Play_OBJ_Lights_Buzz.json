@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
     "Language": "SFX",
-    "Hash": "{F1A65253-4596-78B7-23E1-4179842ED4E4}",
+    "Hash": "{1C6D118F-1057-4E95-1C4F-AADB20A075AF}",
     "ObjectPath": "Play_OBJ_Lights_Buzz",
     "ShortName": "Play_OBJ_Lights_Buzz",
     "Path": "Event/Play_OBJ_Lights_Buzz.bnk",
@@ -22,15 +22,16 @@
       "Location": "Loose",
       "ShortName": "AMB_Buzz_Light.wav",
       "Path": "Media/240557517.wem",
-      "CachePath": "5E/{5E554EE4-2EB9-BF05-E52B-1B170D437B52}.wem"
+      "CachePath": "87/{87DB77E7-A55C-EA79-37BA-FEECFA139F5D}.wem"
      }
     ],
     "Events": [
      {
       "Id": "599904717",
       "Name": "Play_OBJ_Lights_Buzz",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Lights_Buzz",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Lights_Buzz",
       "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
+      "Color": "17",
       "MaxAttenuation": "500",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{28555A39-FC84-04C0-3E00-151AFF929F0F}"
+  "FileHash": "{95444239-E6C2-B8FA-E54C-F4B75CCD0E6B}"
  }
 }

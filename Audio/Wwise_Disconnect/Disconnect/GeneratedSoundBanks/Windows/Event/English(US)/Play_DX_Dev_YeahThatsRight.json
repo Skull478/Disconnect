@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1138018436",
+    "Type": "Event",
+    "GUID": "{92A5ED8A-BF8D-4CC9-B51D-1A443410398F}",
+    "Language": "English(US)",
+    "Hash": "{8F44D0B6-04C6-C00E-6043-B5A31180ADAE}",
+    "ObjectPath": "Play_DX_Dev_YeahThatsRight",
+    "ShortName": "Play_DX_Dev_YeahThatsRight",
+    "Path": "Event/English(US)/Play_DX_Dev_YeahThatsRight.bnk",
+    "Media": [
+     {
+      "Id": "14554351",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_YeahThatsRight.wav",
+      "Path": "Media/English(US)/14554351.wem",
+      "CachePath": "7E/{7EAEA9BF-348F-02CC-A856-79DFD11798FF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1138018436",
+      "Name": "Play_DX_Dev_YeahThatsRight",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_YeahThatsRight",
+      "GUID": "{92A5ED8A-BF8D-4CC9-B51D-1A443410398F}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "1.0329791",
+      "DurationMax": "1.0329791",
+      "MediaRefs": [
+       {
+        "Id": "14554351"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9C9A3195-45BC-1C90-93B5-BADE9CEACE0A}"
+ }
+}

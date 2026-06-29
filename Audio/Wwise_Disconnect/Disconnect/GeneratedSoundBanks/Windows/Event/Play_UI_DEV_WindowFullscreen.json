@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3464346004",
+    "Type": "Event",
+    "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
+    "Language": "SFX",
+    "Hash": "{C1C5F9F2-CCF1-6618-E916-B6C84C74BB46}",
+    "ObjectPath": "Play_UI_DEV_WindowFullscreen",
+    "ShortName": "Play_UI_DEV_WindowFullscreen",
+    "Path": "Event/Play_UI_DEV_WindowFullscreen.bnk",
+    "Media": [
+     {
+      "Id": "753095778",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_WindowOpen.wav",
+      "Path": "Media/753095778.wem",
+      "CachePath": "63/{6345743E-4FED-EAF9-7BA9-B2D9DEE66DE1}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3464346004",
+      "Name": "Play_UI_DEV_WindowFullscreen",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_WindowFullscreen",
+      "GUID": "{4CDE866E-D5AB-4A5E-BA88-4748566DC4D1}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "0.111854166",
+      "DurationMax": "0.111854166",
+      "MediaRefs": [
+       {
+        "Id": "753095778"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{381D72D4-B81C-1137-A4CA-F6D97018777A}"
+ }
+}

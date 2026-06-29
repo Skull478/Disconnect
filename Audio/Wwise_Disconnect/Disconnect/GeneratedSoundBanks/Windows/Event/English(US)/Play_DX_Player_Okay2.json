@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3633624997",
+    "Type": "Event",
+    "GUID": "{918D1176-BD74-4018-8444-A1255E8B4B1E}",
+    "Language": "English(US)",
+    "Hash": "{5675612A-E785-DD59-E981-575D9B02D138}",
+    "ObjectPath": "Play_DX_Player_Okay2",
+    "ShortName": "Play_DX_Player_Okay2",
+    "Path": "Event/English(US)/Play_DX_Player_Okay2.bnk",
+    "Media": [
+     {
+      "Id": "651161238",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_Okay2.wav",
+      "Path": "Media/English(US)/651161238.wem",
+      "CachePath": "D9/{D9CEA257-71B0-0CCA-02FE-710C20069472}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3633624997",
+      "Name": "Play_DX_Player_Okay2",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_Okay2",
+      "GUID": "{918D1176-BD74-4018-8444-A1255E8B4B1E}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "0.37822917",
+      "DurationMax": "0.37822917",
+      "MediaRefs": [
+       {
+        "Id": "651161238"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B44191C6-8377-A59C-3EAF-113FF63EB86B}"
+ }
+}

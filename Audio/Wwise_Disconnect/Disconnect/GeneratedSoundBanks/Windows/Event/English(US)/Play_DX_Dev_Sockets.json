@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3014491713",
+    "Type": "Event",
+    "GUID": "{D9D48089-46CD-4527-90A7-098E48D3A2AA}",
+    "Language": "English(US)",
+    "Hash": "{43CA31CF-C6DC-6CBA-EE0B-390B81F15D28}",
+    "ObjectPath": "Play_DX_Dev_Sockets",
+    "ShortName": "Play_DX_Dev_Sockets",
+    "Path": "Event/English(US)/Play_DX_Dev_Sockets.bnk",
+    "Media": [
+     {
+      "Id": "101989619",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_Sockets.wav",
+      "Path": "Media/English(US)/101989619.wem",
+      "CachePath": "3C/{3C97616A-12B8-387A-D192-9A97DBE03124}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3014491713",
+      "Name": "Play_DX_Dev_Sockets",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_Sockets",
+      "GUID": "{D9D48089-46CD-4527-90A7-098E48D3A2AA}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "3.5699167",
+      "DurationMax": "3.5699167",
+      "MediaRefs": [
+       {
+        "Id": "101989619"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C006CB89-9BA5-E8CF-8A45-C8955F1A4AD4}"
+ }
+}

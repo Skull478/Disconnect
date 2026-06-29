@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1160721963",
+    "Type": "Event",
+    "GUID": "{DBB55DB8-4D81-499F-89D2-F915EA7876CE}",
+    "Language": "English(US)",
+    "Hash": "{50E2E62C-BD28-BE06-CC78-0911B8A64B4E}",
+    "ObjectPath": "Play_DX_Dev_MMORPG",
+    "ShortName": "Play_DX_Dev_MMORPG",
+    "Path": "Event/English(US)/Play_DX_Dev_MMORPG.bnk",
+    "Media": [
+     {
+      "Id": "737342188",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_MMORPG.wav",
+      "Path": "Media/English(US)/737342188.wem",
+      "CachePath": "24/{24AF2364-2C73-4930-9CF1-8B542FCC24E9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1160721963",
+      "Name": "Play_DX_Dev_MMORPG",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_MMORPG",
+      "GUID": "{DBB55DB8-4D81-499F-89D2-F915EA7876CE}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "4.5840626",
+      "DurationMax": "4.5840626",
+      "MediaRefs": [
+       {
+        "Id": "737342188"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{13FEF931-2E24-8229-D67A-8B74778E10CC}"
+ }
+}

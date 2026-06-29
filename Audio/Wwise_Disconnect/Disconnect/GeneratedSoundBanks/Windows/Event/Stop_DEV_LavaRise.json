@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2384611337",
+    "Type": "Event",
+    "GUID": "{0752FCDF-25B4-4CE6-9513-9DB4FE3DB80E}",
+    "Language": "SFX",
+    "Hash": "{94B8958B-9899-F54F-DE36-FA9A22049922}",
+    "ObjectPath": "Stop_DEV_LavaRise",
+    "ShortName": "Stop_DEV_LavaRise",
+    "Path": "Event/Stop_DEV_LavaRise.bnk",
+    "Events": [
+     {
+      "Id": "2384611337",
+      "Name": "Stop_DEV_LavaRise",
+      "ObjectPath": "\\Events\\DEV\\ElevatorFreight\\Stop_DEV_LavaRise",
+      "GUID": "{0752FCDF-25B4-4CE6-9513-9DB4FE3DB80E}",
+      "Color": "12",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E0C5EE71-06CE-36DD-932F-291F9358A73E}"
+ }
+}

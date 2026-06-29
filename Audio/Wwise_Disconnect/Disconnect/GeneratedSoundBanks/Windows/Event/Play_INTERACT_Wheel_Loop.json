@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1119046573",
+    "Type": "Event",
+    "GUID": "{CE4C73AC-CD8B-4AFA-9C40-9CEF1B2F6CFC}",
+    "Language": "SFX",
+    "Hash": "{E924AEAB-DEA2-BB2F-6C18-4584639C601D}",
+    "ObjectPath": "Play_INTERACT_Wheel_Loop",
+    "ShortName": "Play_INTERACT_Wheel_Loop",
+    "Path": "Event/Play_INTERACT_Wheel_Loop.bnk",
+    "Media": [
+     {
+      "Id": "136752833",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INTERACT_Wheel_Loop.wav",
+      "Path": "Media/136752833.wem",
+      "CachePath": "3E/{3E3F2B47-30E1-B511-9502-C832D1076F2B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1119046573",
+      "Name": "Play_INTERACT_Wheel_Loop",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INTERACT_Wheel_Loop",
+      "GUID": "{CE4C73AC-CD8B-4AFA-9C40-9CEF1B2F6CFC}",
+      "Color": "23",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "136752833"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2A1E87F7-EA7B-1F84-70A6-B693207BFED4}"
+ }
+}

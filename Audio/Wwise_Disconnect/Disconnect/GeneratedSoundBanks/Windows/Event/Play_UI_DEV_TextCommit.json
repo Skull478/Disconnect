@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1840765717",
+    "Type": "Event",
+    "GUID": "{59DA4F4B-473C-456F-8567-455E7F2302E4}",
+    "Language": "SFX",
+    "Hash": "{3250596E-2543-8352-3762-15D2A717A7C8}",
+    "ObjectPath": "Play_UI_DEV_TextCommit",
+    "ShortName": "Play_UI_DEV_TextCommit",
+    "Path": "Event/Play_UI_DEV_TextCommit.bnk",
+    "Media": [
+     {
+      "Id": "336664637",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute_Return-002.wav",
+      "Path": "Media/336664637.wem",
+      "CachePath": "9B/{9BE5E633-16D7-2387-0A88-A00FDB117EE7}.wem"
+     },
+     {
+      "Id": "863937205",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Cute_Return-001.wav",
+      "Path": "Media/863937205.wem",
+      "CachePath": "D7/{D751BFEC-6420-7901-9BB9-7998B90C3E85}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1840765717",
+      "Name": "Play_UI_DEV_TextCommit",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_TextCommit",
+      "GUID": "{59DA4F4B-473C-456F-8567-455E7F2302E4}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "0.18875",
+      "DurationMax": "0.1933125",
+      "MediaRefs": [
+       {
+        "Id": "336664637"
+       },
+       {
+        "Id": "863937205"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{82FC8347-593D-1273-2364-1EBCC262C8C6}"
+ }
+}

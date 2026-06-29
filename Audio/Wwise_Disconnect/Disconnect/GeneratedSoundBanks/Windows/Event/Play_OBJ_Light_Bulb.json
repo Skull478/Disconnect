@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{70C03253-707E-4F6F-9915-76561457E609}",
     "Language": "SFX",
-    "Hash": "{C19F5107-C180-301B-ED41-E6FB438AC50C}",
+    "Hash": "{4383EC3B-4AD8-22AD-4F8A-281A00BDCDDE}",
     "ObjectPath": "Play_OBJ_Light_Bulb",
     "ShortName": "Play_OBJ_Light_Bulb",
     "Path": "Event/Play_OBJ_Light_Bulb.bnk",
@@ -22,15 +22,16 @@
       "Location": "Loose",
       "ShortName": "OBJ_Light_Bulb.wav",
       "Path": "Media/443837128.wem",
-      "CachePath": "75/{7509D8BA-C063-6D01-7E7A-2E2A6A4CBB0D}.wem"
+      "CachePath": "DB/{DBA23B5F-1052-E4B3-8CFF-344C918B07A8}.wem"
      }
     ],
     "Events": [
      {
       "Id": "3090450710",
       "Name": "Play_OBJ_Light_Bulb",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Light_Bulb",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Light_Bulb",
       "GUID": "{70C03253-707E-4F6F-9915-76561457E609}",
+      "Color": "17",
       "MaxAttenuation": "500",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{EFCE0265-C53F-D37A-BC2F-2B0E7DFBE186}"
+  "FileHash": "{B7197D1F-86DE-6A0D-EC82-0F6811490AFC}"
  }
 }

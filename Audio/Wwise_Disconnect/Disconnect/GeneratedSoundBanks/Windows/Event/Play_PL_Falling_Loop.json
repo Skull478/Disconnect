@@ -1,0 +1,56 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "857395023",
+    "Type": "Event",
+    "GUID": "{29C9E05B-B5C9-4D61-9EC5-4F003A3A802F}",
+    "Language": "SFX",
+    "Hash": "{1A94D1F7-44DE-3852-A285-64282EB83063}",
+    "ObjectPath": "Play_PL_Falling_Loop",
+    "ShortName": "Play_PL_Falling_Loop",
+    "Path": "Event/Play_PL_Falling_Loop.bnk",
+    "Media": [
+     {
+      "Id": "837774835",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PL_Falling_Loop.wav",
+      "Path": "Media/837774835.wem",
+      "CachePath": "E8/{E85C7A99-49DD-7A89-3EFC-E07C7B1B5A83}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "857395023",
+      "Name": "Play_PL_Falling_Loop",
+      "ObjectPath": "\\Events\\Player\\Play_PL_Falling_Loop",
+      "GUID": "{29C9E05B-B5C9-4D61-9EC5-4F003A3A802F}",
+      "Color": "2",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "837774835"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3416015707",
+      "Name": "Player_Vertical_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Vertical_Speed",
+      "GUID": "{E5F85A72-79B9-412A-9CEE-7072611A9F32}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6D854546-3779-9716-9962-22D148A8AD81}"
+ }
+}

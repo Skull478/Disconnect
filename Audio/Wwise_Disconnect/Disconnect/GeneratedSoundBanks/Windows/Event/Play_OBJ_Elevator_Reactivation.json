@@ -1,0 +1,50 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "401101294",
+    "Type": "Event",
+    "GUID": "{BEED9A83-8410-43E4-BE52-94062CD2AE04}",
+    "Language": "SFX",
+    "Hash": "{0FB76C2A-0E87-5981-1F72-606C47520D47}",
+    "ObjectPath": "Play_OBJ_Elevator_Reactivation",
+    "ShortName": "Play_OBJ_Elevator_Reactivation",
+    "Path": "Event/Play_OBJ_Elevator_Reactivation.bnk",
+    "Media": [
+     {
+      "Id": "883248029",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Elevator_Reactivation.wav",
+      "Path": "Media/883248029.wem",
+      "CachePath": "65/{6515063C-64C2-32AC-F8DB-778C1D91E0BE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "401101294",
+      "Name": "Play_OBJ_Elevator_Reactivation",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Elevator_Reactivation",
+      "GUID": "{BEED9A83-8410-43E4-BE52-94062CD2AE04}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "3.7471683",
+      "DurationMax": "3.7471683",
+      "MediaRefs": [
+       {
+        "Id": "883248029"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{89F42AFF-AAC1-686B-0634-A4CE31447269}"
+ }
+}

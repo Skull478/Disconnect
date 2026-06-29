@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3EDA5FA8-3D1A-4C2B-A4DF-2F239477C7EC}",
     "Language": "SFX",
-    "Hash": "{A24C8528-77D6-BA42-4E7F-EBD397C885C2}",
+    "Hash": "{39FA722E-46F3-3049-8D16-149CF3E0A96C}",
     "ObjectPath": "Play_UI_Tactile_Click",
     "ShortName": "Play_UI_Tactile_Click",
     "Path": "Event/Play_UI_Tactile_Click.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Tactile_Click.wav",
       "Path": "Media/972401810.wem",
-      "CachePath": "36/{36F03444-3AA6-E865-FBB4-3A7CAB69CD14}.wem"
+      "CachePath": "0A/{0A7268ED-BFE2-F1FB-F058-98CBCF4FAC65}.wem"
      }
     ],
     "Events": [
@@ -31,6 +31,7 @@
       "Name": "Play_UI_Tactile_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Tactile_Click",
       "GUID": "{3EDA5FA8-3D1A-4C2B-A4DF-2F239477C7EC}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.34689584",
       "DurationMax": "0.34689584",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{570DEAE6-9BD6-E64A-55FC-199D00A84E40}"
+  "FileHash": "{51B22371-6EE2-2B26-7E66-0A9A08DD2350}"
  }
 }

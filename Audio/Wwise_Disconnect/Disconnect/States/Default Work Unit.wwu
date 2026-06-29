@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" SchemaVersion="123">
 	<States>
-		<WorkUnit Name="Default Work Unit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{C7C1C928-9FBB-4C9A-A5FD-C2EB083DF8AE}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="MusicStates" ID="{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0.5"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
+						<State Name="Explo" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
+						<State Name="Rooftop" ID="{0F819ECE-F7A3-461E-AC51-002DE761CA60}"/>
+						<State Name="ThunderDome" ID="{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"/>
+						<State Name="Ending" ID="{79C55564-7B79-44E5-A9BA-384CF6F2523F}"/>
+						<State Name="MainMenu" ID="{24E40EC3-7418-4483-B8F8-1787796A5A8B}"/>
+						<State Name="Credits" ID="{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"/>
+						<State Name="Loading" ID="{A6E02910-7179-40FD-9768-432568EDFACC}"/>
+						<State Name="QuartiersSombres" ID="{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Falling" ID="{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
+						<State Name="Falling" ID="{B3701C78-0753-4716-9453-EE8C139BA8A8}"/>
+						<State Name="NotFalling" ID="{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Virus" ID="{64AB71EC-F880-49FA-9C96-DE50626C36A5}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0.5"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
+						<State Name="Yes" ID="{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"/>
+						<State Name="No" ID="{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</States>
 </WwiseDocument>

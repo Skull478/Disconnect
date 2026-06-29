@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3803713933",
+    "Type": "Event",
+    "GUID": "{73D13535-E0DC-4FA9-94DF-4CE67A2A0CDD}",
+    "Language": "English(US)",
+    "Hash": "{7410861A-20E5-B5EA-394D-EC0AD69522A7}",
+    "ObjectPath": "Play_DX_Player_OhYeah",
+    "ShortName": "Play_DX_Player_OhYeah",
+    "Path": "Event/English(US)/Play_DX_Player_OhYeah.bnk",
+    "Media": [
+     {
+      "Id": "673645990",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_OhYeah.wav",
+      "Path": "Media/English(US)/673645990.wem",
+      "CachePath": "03/{0391A720-B227-43A4-7463-D87271E07116}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3803713933",
+      "Name": "Play_DX_Player_OhYeah",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_OhYeah",
+      "GUID": "{73D13535-E0DC-4FA9-94DF-4CE67A2A0CDD}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "5.345333",
+      "DurationMax": "5.345333",
+      "MediaRefs": [
+       {
+        "Id": "673645990"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7469B8EF-1EDA-1130-3C33-8CE85F0C53EA}"
+ }
+}

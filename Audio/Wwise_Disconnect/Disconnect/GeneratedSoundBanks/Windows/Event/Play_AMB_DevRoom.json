@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
     "Language": "SFX",
-    "Hash": "{62299FD0-F171-413E-D1E6-5F0C4AB023C4}",
+    "Hash": "{4902524A-B21D-9BFE-99D7-857241CF9574}",
     "ObjectPath": "Play_AMB_DevRoom",
     "ShortName": "Play_AMB_DevRoom",
     "Path": "Event/Play_AMB_DevRoom.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_Devroom_Tone.wav",
       "Path": "Media/2652455.wem",
-      "CachePath": "FF/{FF193464-6DAE-EE40-B22E-9952C44554BA}.wem"
+      "CachePath": "38/{3854FEC8-1DC8-00AA-6FC5-4D187D8EC937}.wem"
      },
      {
       "Id": "1061594302",
@@ -31,15 +31,28 @@
       "Location": "Loose",
       "ShortName": "AMB_DevRoom.wav",
       "Path": "Media/1061594302.wem",
-      "CachePath": "AD/{ADA5FD87-77F7-6867-68B4-46A421CB9277}.wem"
+      "CachePath": "CA/{CAF2FD41-59A0-BE4E-E2D7-86D24F0A0596}.wem"
      }
     ],
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "1024193305",
+       "Name": "Dev_Sidechain_Meter",
+       "ObjectPath": "\\Effects\\Default Work Unit\\Dev_Sidechain_Meter",
+       "GUID": "{567C547F-715E-435E-A3D7-60DB728151DF}",
+       "LibName": "Wwise Meter",
+       "LibId": "8454147"
+      }
+     ]
+    },
     "Events": [
      {
       "Id": "3957396827",
       "Name": "Play_AMB_DevRoom",
       "ObjectPath": "\\Events\\AMB\\Play_AMB_DevRoom",
       "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
+      "Color": "17",
       "MaxAttenuation": "100",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -49,11 +62,18 @@
        {
         "Id": "1061594302"
        }
-      ]
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1024193305"
+        }
+       ]
+      }
      }
     ]
    }
   ],
-  "FileHash": "{B5BAA809-CECB-3996-0BF0-82F31396320A}"
+  "FileHash": "{EF7F61F8-437B-4FE1-5F0F-B0409F4F9FF8}"
  }
 }

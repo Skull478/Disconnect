@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "273971714",
+    "Type": "Event",
+    "GUID": "{CC817328-E795-43AD-9688-05BEEA8F6B68}",
+    "Language": "SFX",
+    "Hash": "{8622C70B-BBF0-356B-6E72-D52A9C15C667}",
+    "ObjectPath": "Stop_UI_Slider",
+    "ShortName": "Stop_UI_Slider",
+    "Path": "Event/Stop_UI_Slider.bnk",
+    "Events": [
+     {
+      "Id": "273971714",
+      "Name": "Stop_UI_Slider",
+      "ObjectPath": "\\Events\\UI\\Stop_UI_Slider",
+      "GUID": "{CC817328-E795-43AD-9688-05BEEA8F6B68}",
+      "Color": "21",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9B3438D2-86DB-F325-1527-6327591899E2}"
+ }
+}

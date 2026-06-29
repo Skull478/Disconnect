@@ -4,6 +4,14 @@
 		<WorkUnit Name="Default Work Unit" ID="{5F740788-DF8F-476F-BFEB-1D6A2A566AED}" PersistMode="Standalone">
 			<ChildrenList>
 				<AcousticTexture Name="Metal" ID="{82827A8A-709C-48B8-BBDD-0F345A0466BD}"/>
+				<AcousticTexture Name="BLOCK" ID="{24C9E1A1-294F-49E2-AEB9-F543FB8583C1}">
+					<PropertyList>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+					</PropertyList>
+				</AcousticTexture>
 			</ChildrenList>
 		</WorkUnit>
 	</VirtualAcoustics>

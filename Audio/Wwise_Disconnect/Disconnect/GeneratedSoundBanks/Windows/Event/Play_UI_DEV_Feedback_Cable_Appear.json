@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1738284892",
+    "Type": "Event",
+    "GUID": "{016A4548-D135-4A61-A2AE-6108B66C62E7}",
+    "Language": "SFX",
+    "Hash": "{4226CE19-5327-5AE5-ECBA-784E34E87DD9}",
+    "ObjectPath": "Play_UI_DEV_Feedback_Cable_Appear",
+    "ShortName": "Play_UI_DEV_Feedback_Cable_Appear",
+    "Path": "Event/Play_UI_DEV_Feedback_Cable_Appear.bnk",
+    "Media": [
+     {
+      "Id": "73192573",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Feedback_Cable_Validate_DevSide.wav",
+      "Path": "Media/73192573.wem",
+      "CachePath": "BE/{BE160689-6E98-2AB0-8CC6-4ECF7BDEBFB6}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1738284892",
+      "Name": "Play_UI_DEV_Feedback_Cable_Appear",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Feedback_Cable_Appear",
+      "GUID": "{016A4548-D135-4A61-A2AE-6108B66C62E7}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "1",
+      "DurationMax": "1",
+      "MediaRefs": [
+       {
+        "Id": "73192573"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{0C99348C-A79E-2E8E-B9F1-917EFD3AC774}"
+ }
+}

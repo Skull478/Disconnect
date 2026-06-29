@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
     "Language": "SFX",
-    "Hash": "{46CD1B87-76E4-9334-ED10-F280F2BDA61B}",
+    "Hash": "{3F69F9F7-0ADB-8961-998B-536F6DD5CB9B}",
     "ObjectPath": "Play_OBJ_Ventilation_Big",
     "ShortName": "Play_OBJ_Ventilation_Big",
     "Path": "Event/Play_OBJ_Ventilation_Big.bnk",
@@ -22,15 +22,16 @@
       "Location": "Loose",
       "ShortName": "OBJ_Ventilation_Big.wav",
       "Path": "Media/288961223.wem",
-      "CachePath": "96/{96812935-3416-2268-00C7-44D307C73F38}.wem"
+      "CachePath": "CC/{CC85E9FC-A78B-8D92-64D5-0DEBA6AFC24A}.wem"
      }
     ],
     "Events": [
      {
       "Id": "2805917058",
       "Name": "Play_OBJ_Ventilation_Big",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Big",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Ventilation_Big",
       "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
+      "Color": "17",
       "MaxAttenuation": "2500",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{D1A7490C-6D9E-D8E8-CDDB-1366A8DDAA5F}"
+  "FileHash": "{172A1281-5857-0713-C506-EB0D7BFF3360}"
  }
 }

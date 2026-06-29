@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1075454357",
+    "Type": "Event",
+    "GUID": "{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}",
+    "Language": "English(US)",
+    "Hash": "{C140CFDB-E623-9858-76FF-4005FC6E3EC8}",
+    "ObjectPath": "Play_DX_Dev_RechargeIt",
+    "ShortName": "Play_DX_Dev_RechargeIt",
+    "Path": "Event/English(US)/Play_DX_Dev_RechargeIt.bnk",
+    "Media": [
+     {
+      "Id": "1005856658",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_RechargeIt.wav",
+      "Path": "Media/English(US)/1005856658.wem",
+      "CachePath": "DE/{DE1E5D01-6639-15ED-1DB5-8A4AE5CA5A44}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1075454357",
+      "Name": "Play_DX_Dev_RechargeIt",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_RechargeIt",
+      "GUID": "{CB3662C2-B9BA-4F00-ABB9-F0B88AE82BB3}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "1.0001042",
+      "DurationMax": "1.0001042",
+      "MediaRefs": [
+       {
+        "Id": "1005856658"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{96FB4BC5-60BF-F66D-4C33-E4D317C1A75C}"
+ }
+}

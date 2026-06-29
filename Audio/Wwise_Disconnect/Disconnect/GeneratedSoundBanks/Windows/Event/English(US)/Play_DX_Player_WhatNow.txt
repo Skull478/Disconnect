@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2724293769	Play_DX_Player_WhatNow			\DX\Player\Play_DX_Player_WhatNow	
+

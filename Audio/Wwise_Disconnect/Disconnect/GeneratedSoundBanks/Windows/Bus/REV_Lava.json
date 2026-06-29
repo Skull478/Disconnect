@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4156775105",
+    "Type": "Bus",
+    "GUID": "{8E098BE2-E1FD-4EB0-B48C-B58A5E7685FA}",
+    "Language": "SFX",
+    "Hash": "{07BA7CC6-E5E5-FAA1-25E0-723B4AE60282}",
+    "ObjectPath": "REV_Lava",
+    "ShortName": "REV_Lava",
+    "Path": "Bus/REV_Lava.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "3290519051",
+       "Name": "Aluminium_Tank",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Huge Spaces\\Aluminium_Tank",
+       "GUID": "{0D20C91A-F750-47E0-AE32-00E5F2AA1272}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "4156775105",
+      "Name": "REV_Lava",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Lava",
+      "GUID": "{8E098BE2-E1FD-4EB0-B48C-B58A5E7685FA}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3290519051"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{662C3862-EA51-062C-D7D9-D6B0FA516DB3}"
+ }
+}

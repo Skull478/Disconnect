@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
     "Language": "SFX",
-    "Hash": "{4F73FF27-9A15-BC7C-45D5-4E2E3E7E683B}",
+    "Hash": "{3D069E0A-F89B-DE82-1795-FD1CA788BD2B}",
     "ObjectPath": "Play_OBJ_Ventilation_Medium",
     "ShortName": "Play_OBJ_Ventilation_Medium",
     "Path": "Event/Play_OBJ_Ventilation_Medium.bnk",
@@ -22,15 +22,16 @@
       "Location": "Loose",
       "ShortName": "AMB_Ventilation_Medium.wav",
       "Path": "Media/142655323.wem",
-      "CachePath": "9E/{9E2BE8E7-FB71-4983-4D59-3F2911B09C49}.wem"
+      "CachePath": "40/{401B894F-EEA8-A17D-3A67-412D1C4B688C}.wem"
      }
     ],
     "Events": [
      {
       "Id": "2993175549",
       "Name": "Play_OBJ_Ventilation_Medium",
-      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Medium",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Ventilation_Medium",
       "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
+      "Color": "17",
       "MaxAttenuation": "300",
       "DurationType": "Infinite",
       "MediaRefs": [
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{BE899398-EEEC-F085-2C6A-5F67E60760C3}"
+  "FileHash": "{A5107235-AE95-8401-198D-83316200E50E}"
  }
 }

@@ -1,16 +1,52 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1571361561	Tension			\Default Work Unit\Tension	
+
+Switch	ID	Name	Switch Group			Notes
+	545371365	Low	Tension			
+	1182670505	Mid	Tension			
+	3550808449	High	Tension			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	399052710	Falling			\Default Work Unit\Falling	
+	3103015060	MusicStates			\Default Work Unit\MusicStates	
+	3455673912	Virus			\Default Work Unit\Virus	
+
+State	ID	Name	State Group			Notes
+	204889085	NotFalling	Falling			
+	399052710	Falling	Falling			
+	748895195	None	Falling			
+	748895195	None	MusicStates			
+	2023814608	ThunderDome	MusicStates			
+	2201105581	Credits	MusicStates			
+	3573931707	Loading	MusicStates			
+	3604647259	MainMenu	MusicStates			
+	3814499265	Explo	MusicStates			
+	3843299552	QuartiersSombres	MusicStates			
+	3966194980	Ending	MusicStates			
+	4265799768	Rooftop	MusicStates			
+	748895195	None	Virus			
+	979470758	Yes	Virus			
+	1668749452	No	Virus			
+
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	2473969246	Metal			\Default Work Unit\Metal	
+	4001580976	BLOCK			\Default Work Unit\BLOCK	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
-	1063802714	Master Dev			\Default Work Unit\Master Dev	
+	1133401178	DXDuck			\Default Work Unit\Master Audio Bus\DXDuck	
 	1138681361	Player_Bus			\Default Work Unit\Master Audio Bus\Player_Bus	
+	1836525785	DX			\Default Work Unit\Master Audio Bus\DX	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2712805294	REV_Platform			\Default Work Unit\Master Audio Bus\REV_Platform	
 	3540377276	REV_Garage			\Default Work Unit\Master Audio Bus\REV_Garage	
+	4156775105	REV_Lava			\Default Work Unit\Master Audio Bus\REV_Lava	
 
 Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
 	1990128658	Room_Medium	Wwise RoomVerb			
+	3290519051	Aluminium_Tank	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			

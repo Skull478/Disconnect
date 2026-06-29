@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3054609917",
+    "Type": "Event",
+    "GUID": "{A9C4774E-C0D5-4FDB-BBB2-5949CC959628}",
+    "Language": "SFX",
+    "Hash": "{B7C93D8B-2949-686C-34E4-503B0A1D408E}",
+    "ObjectPath": "AddTensionSmall",
+    "ShortName": "AddTensionSmall",
+    "Path": "Event/AddTensionSmall.bnk",
+    "Events": [
+     {
+      "Id": "3054609917",
+      "Name": "AddTensionSmall",
+      "ObjectPath": "\\Events\\Default Work Unit\\In_Wwise Events\\AddTensionSmall",
+      "GUID": "{A9C4774E-C0D5-4FDB-BBB2-5949CC959628}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{0FA57425-9A1E-91C7-C0B2-8CC7D76AAE53}"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2724293769",
+    "Type": "Event",
+    "GUID": "{BEB2E7C7-AEE0-4A1F-887B-22699AC6DD19}",
+    "Language": "English(US)",
+    "Hash": "{A00BA16A-2C71-821D-8CBA-785D4E90AEEB}",
+    "ObjectPath": "Play_DX_Player_WhatNow",
+    "ShortName": "Play_DX_Player_WhatNow",
+    "Path": "Event/English(US)/Play_DX_Player_WhatNow.bnk",
+    "Media": [
+     {
+      "Id": "786454467",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_WhatNow.wav",
+      "Path": "Media/English(US)/786454467.wem",
+      "CachePath": "7C/{7C195634-0DEC-CB13-2839-783C94956BC5}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2724293769",
+      "Name": "Play_DX_Player_WhatNow",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_WhatNow",
+      "GUID": "{BEB2E7C7-AEE0-4A1F-887B-22699AC6DD19}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "4.305917",
+      "DurationMax": "4.305917",
+      "MediaRefs": [
+       {
+        "Id": "786454467"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CD2B4C32-FF5D-8385-6A95-BE0DA72FB76F}"
+ }
+}

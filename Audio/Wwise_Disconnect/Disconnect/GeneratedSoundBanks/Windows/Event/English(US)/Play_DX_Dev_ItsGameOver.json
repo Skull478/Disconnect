@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3393251197",
+    "Type": "Event",
+    "GUID": "{5E9D3413-8432-4D0D-8018-EA55882BB0E3}",
+    "Language": "English(US)",
+    "Hash": "{9CE5438D-AA77-E0AC-177A-30BEEA9495FB}",
+    "ObjectPath": "Play_DX_Dev_ItsGameOver",
+    "ShortName": "Play_DX_Dev_ItsGameOver",
+    "Path": "Event/English(US)/Play_DX_Dev_ItsGameOver.bnk",
+    "Media": [
+     {
+      "Id": "980684787",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Dev_ItsGameOver.wav",
+      "Path": "Media/English(US)/980684787.wem",
+      "CachePath": "4A/{4A030AB2-1F2B-09CB-CAE0-687FE6F94225}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3393251197",
+      "Name": "Play_DX_Dev_ItsGameOver",
+      "ObjectPath": "\\Events\\DX\\Dev\\Play_DX_Dev_ItsGameOver",
+      "GUID": "{5E9D3413-8432-4D0D-8018-EA55882BB0E3}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "0.756875",
+      "DurationMax": "0.756875",
+      "MediaRefs": [
+       {
+        "Id": "980684787"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{89671F6A-674D-785F-E858-D9E679F76BD0}"
+ }
+}

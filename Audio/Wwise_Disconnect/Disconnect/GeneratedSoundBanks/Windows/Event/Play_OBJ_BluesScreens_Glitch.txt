@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4167602566	Play_OBJ_BluesScreens_Glitch			\AMB\3dSounds\Play_OBJ_BluesScreens_Glitch	
+

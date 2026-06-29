@@ -1,0 +1,86 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "45940836",
+    "Type": "Event",
+    "GUID": "{C4394614-5805-493F-9A5F-98460CCB8DED}",
+    "Language": "SFX",
+    "Hash": "{8D49FCB3-B1DD-2D59-6154-5F5964951076}",
+    "ObjectPath": "Play_INT_Lever",
+    "ShortName": "Play_INT_Lever",
+    "Path": "Event/Play_INT_Lever.bnk",
+    "Media": [
+     {
+      "Id": "214898188",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Lever_01.wav",
+      "Path": "Media/214898188.wem",
+      "CachePath": "32/{325B2480-68B9-B579-C5F1-7BCFB563E5D0}.wem"
+     },
+     {
+      "Id": "227614601",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Lever_02.wav",
+      "Path": "Media/227614601.wem",
+      "CachePath": "17/{17F2D35E-26F5-25C0-66F8-1351EF3BFF2B}.wem"
+     },
+     {
+      "Id": "377242427",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Lever_03.wav",
+      "Path": "Media/377242427.wem",
+      "CachePath": "DC/{DC164699-BF98-9595-F6D4-C1BD637B6CAE}.wem"
+     },
+     {
+      "Id": "814611705",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Lever_04.wav",
+      "Path": "Media/814611705.wem",
+      "CachePath": "04/{0411A32A-1BB9-DBB8-786D-1213CA8A4E8E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "45940836",
+      "Name": "Play_INT_Lever",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_Lever",
+      "GUID": "{C4394614-5805-493F-9A5F-98460CCB8DED}",
+      "Color": "23",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2794137",
+      "DurationMax": "1.5946953",
+      "MediaRefs": [
+       {
+        "Id": "214898188"
+       },
+       {
+        "Id": "227614601"
+       },
+       {
+        "Id": "377242427"
+       },
+       {
+        "Id": "814611705"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{81EE95F2-780F-8FAF-8ACB-DC1993F80A47}"
+ }
+}

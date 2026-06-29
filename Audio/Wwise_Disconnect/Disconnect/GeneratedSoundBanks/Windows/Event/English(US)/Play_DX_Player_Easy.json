@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "575850807",
+    "Type": "Event",
+    "GUID": "{84079D85-E6C1-40FB-AC63-7E091ECB1921}",
+    "Language": "English(US)",
+    "Hash": "{16EC3573-AFC0-B671-6259-720D297E978E}",
+    "ObjectPath": "Play_DX_Player_Easy",
+    "ShortName": "Play_DX_Player_Easy",
+    "Path": "Event/English(US)/Play_DX_Player_Easy.bnk",
+    "Media": [
+     {
+      "Id": "787478079",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_Easy.wav",
+      "Path": "Media/English(US)/787478079.wem",
+      "CachePath": "D8/{D89A04AB-5348-0B69-5D9C-70F12F925BAF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "575850807",
+      "Name": "Play_DX_Player_Easy",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_Easy",
+      "GUID": "{84079D85-E6C1-40FB-AC63-7E091ECB1921}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "0.4585",
+      "DurationMax": "0.4585",
+      "MediaRefs": [
+       {
+        "Id": "787478079"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{161C04FE-944F-A292-7671-F05DF5881685}"
+ }
+}

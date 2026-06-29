@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3267711328",
+    "Type": "Event",
+    "GUID": "{F133DD31-E286-4CFA-AACB-DDF2815BB761}",
+    "Language": "SFX",
+    "Hash": "{A39728A5-9DB5-33D5-0295-F2F6524FE4BE}",
+    "ObjectPath": "Play_OBJ_FireBarell",
+    "ShortName": "Play_OBJ_FireBarell",
+    "Path": "Event/Play_OBJ_FireBarell.bnk",
+    "Media": [
+     {
+      "Id": "367513579",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_FireBarell.wav",
+      "Path": "Media/367513579.wem",
+      "CachePath": "A7/{A72B23CD-A74A-6977-6654-87F49A498181}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3267711328",
+      "Name": "Play_OBJ_FireBarell",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_FireBarell",
+      "GUID": "{F133DD31-E286-4CFA-AACB-DDF2815BB761}",
+      "Color": "17",
+      "MaxAttenuation": "600",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "367513579"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E70307F6-88A4-4126-B717-1375F217EDE9}"
+ }
+}

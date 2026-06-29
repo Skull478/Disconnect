@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1912820114",
+    "Type": "Event",
+    "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
+    "Language": "SFX",
+    "Hash": "{73E02099-8C6F-02DD-B75E-C3EE804082FE}",
+    "ObjectPath": "Play_OBJ_Oil_Spray",
+    "ShortName": "Play_OBJ_Oil_Spray",
+    "Path": "Event/Play_OBJ_Oil_Spray.bnk",
+    "Media": [
+     {
+      "Id": "404797170",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Lava_Spray.wav",
+      "Path": "Media/404797170.wem",
+      "CachePath": "86/{86F7CE55-983E-B231-C39F-916AFA9F7E82}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1912820114",
+      "Name": "Play_OBJ_Oil_Spray",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Oil_Spray",
+      "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "404797170"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{748BFB62-88BB-2E43-07EC-E1FEEA53828C}"
+ }
+}

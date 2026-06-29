@@ -1,0 +1,50 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "140116446",
+    "Type": "Event",
+    "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
+    "Language": "SFX",
+    "Hash": "{F724C104-A6A8-CEB7-39ED-178B6665277A}",
+    "ObjectPath": "Play_INT_Cable_Plug",
+    "ShortName": "Play_INT_Cable_Plug",
+    "Path": "Event/Play_INT_Cable_Plug.bnk",
+    "Media": [
+     {
+      "Id": "771899395",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_Cable_Plug.wav",
+      "Path": "Media/771899395.wem",
+      "CachePath": "BD/{BD7A5CDA-D38B-445B-3D52-39F343B535EA}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "140116446",
+      "Name": "Play_INT_Cable_Plug",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_Cable_Plug",
+      "GUID": "{428BC1F4-C79B-477A-95AC-F8352C7A4090}",
+      "Color": "23",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.24068147",
+      "DurationMax": "0.5481707",
+      "MediaRefs": [
+       {
+        "Id": "771899395"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3D0172B5-649D-01A7-7738-07A977071CEA}"
+ }
+}

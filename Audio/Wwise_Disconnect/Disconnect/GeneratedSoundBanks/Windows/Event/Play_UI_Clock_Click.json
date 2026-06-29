@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{21BB3D48-60F5-4ECB-8594-4E68607BE6D1}",
     "Language": "SFX",
-    "Hash": "{F27F3D44-29B7-BF45-6B00-3E1215E91F76}",
+    "Hash": "{94B86453-6328-26AE-FE3E-51924F36CE0E}",
     "ObjectPath": "Play_UI_Clock_Click",
     "ShortName": "Play_UI_Clock_Click",
     "Path": "Event/Play_UI_Clock_Click.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "Clock_Click.wav",
       "Path": "Media/897734507.wem",
-      "CachePath": "81/{81E6BF36-E9EE-E6E4-D1D5-0DC7B91E4A17}.wem"
+      "CachePath": "64/{64B70E56-4BF5-D370-9912-54F18B7828F2}.wem"
      }
     ],
     "Events": [
@@ -31,6 +31,7 @@
       "Name": "Play_UI_Clock_Click",
       "ObjectPath": "\\Events\\UI\\Clicks\\Play_UI_Clock_Click",
       "GUID": "{21BB3D48-60F5-4ECB-8594-4E68607BE6D1}",
+      "Color": "21",
       "DurationType": "OneShot",
       "DurationMin": "0.106",
       "DurationMax": "0.106",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A8BFCC4B-991E-510B-23AD-D6CC16BF6787}"
+  "FileHash": "{609BCDEE-E359-563C-E021-60ED8A2690CB}"
  }
 }

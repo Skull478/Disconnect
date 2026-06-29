@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2353443076",
+    "Type": "Event",
+    "GUID": "{F9C067BE-21FE-4B56-992A-B0FB8DD1AAF2}",
+    "Language": "SFX",
+    "Hash": "{93404185-C440-A61A-8742-9FE69EE267D4}",
+    "ObjectPath": "Play_UI_DEV_Feedback_CellLoads",
+    "ShortName": "Play_UI_DEV_Feedback_CellLoads",
+    "Path": "Event/Play_UI_DEV_Feedback_CellLoads.bnk",
+    "Media": [
+     {
+      "Id": "779173282",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Feedback_CellLoads_DevSide.wav",
+      "Path": "Media/779173282.wem",
+      "CachePath": "FA/{FA24358A-0176-1881-75DC-C6CE6437F7AB}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2353443076",
+      "Name": "Play_UI_DEV_Feedback_CellLoads",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_DEV_Feedback_CellLoads",
+      "GUID": "{F9C067BE-21FE-4B56-992A-B0FB8DD1AAF2}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "1.32",
+      "DurationMax": "1.32",
+      "MediaRefs": [
+       {
+        "Id": "779173282"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{15C8E887-8350-A02D-5A91-BB0411DBAF74}"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1205472477",
+    "Type": "Event",
+    "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
+    "Language": "SFX",
+    "Hash": "{D0A053F9-7B6B-E4FD-A1CA-09B92DCB4AD1}",
+    "ObjectPath": "Play_INT_NumPadClick",
+    "ShortName": "Play_INT_NumPadClick",
+    "Path": "Event/Play_INT_NumPadClick.bnk",
+    "Media": [
+     {
+      "Id": "42343478",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Clicks_03.wav",
+      "Path": "Media/42343478.wem",
+      "CachePath": "E5/{E57B1E8A-7795-28E0-DB43-25D9080B9832}.wem"
+     },
+     {
+      "Id": "384358609",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Clicks_02.wav",
+      "Path": "Media/384358609.wem",
+      "CachePath": "41/{4178D0BE-743A-D6EF-8784-B4D4E552CF27}.wem"
+     },
+     {
+      "Id": "396206521",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Clicks_04.wav",
+      "Path": "Media/396206521.wem",
+      "CachePath": "04/{04821195-A899-C5ED-47FD-9E26DB8BC43A}.wem"
+     },
+     {
+      "Id": "653386052",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Clicks_05.wav",
+      "Path": "Media/653386052.wem",
+      "CachePath": "75/{7528CFA8-D4B6-437F-A149-9C5107695E43}.wem"
+     },
+     {
+      "Id": "1062453970",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI_Clicks_01.wav",
+      "Path": "Media/1062453970.wem",
+      "CachePath": "8A/{8A88CD95-78C6-18A3-21A1-7B32FB27DC7C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1205472477",
+      "Name": "Play_INT_NumPadClick",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_NumPadClick",
+      "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
+      "Color": "23",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.26133335",
+      "DurationMax": "0.33225",
+      "MediaRefs": [
+       {
+        "Id": "42343478"
+       },
+       {
+        "Id": "384358609"
+       },
+       {
+        "Id": "396206521"
+       },
+       {
+        "Id": "653386052"
+       },
+       {
+        "Id": "1062453970"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{32CB9B84-15C9-274A-82CB-9C9024756B49}"
+ }
+}

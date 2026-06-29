@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3336381818",
+    "Type": "Event",
+    "GUID": "{29EB3506-E2D1-402D-A134-5F7C27950E0B}",
+    "Language": "SFX",
+    "Hash": "{083ED899-07E9-3AE5-EE6F-E728EDFB7CCE}",
+    "ObjectPath": "Play_OBJ_Pipes_Ambience",
+    "ShortName": "Play_OBJ_Pipes_Ambience",
+    "Path": "Event/Play_OBJ_Pipes_Ambience.bnk",
+    "Media": [
+     {
+      "Id": "193668954",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Pipes_Loop.wav",
+      "Path": "Media/193668954.wem",
+      "CachePath": "2F/{2FFEA206-F2F8-5A10-DE25-99C7EE71534E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3336381818",
+      "Name": "Play_OBJ_Pipes_Ambience",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Pipes_Ambience",
+      "GUID": "{29EB3506-E2D1-402D-A134-5F7C27950E0B}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "193668954"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{377F1AA1-48E0-7EAA-DBF4-F3267407CA84}"
+ }
+}

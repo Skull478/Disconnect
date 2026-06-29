@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2851680292",
+    "Type": "Event",
+    "GUID": "{CFB40BAC-6363-489F-B25F-9F1C96192E04}",
+    "Language": "SFX",
+    "Hash": "{F252DD65-F71A-8E1F-A733-25532B896144}",
+    "ObjectPath": "Play_UI_Dev_Virus_Alarm",
+    "ShortName": "Play_UI_Dev_Virus_Alarm",
+    "Path": "Event/Play_UI_Dev_Virus_Alarm.bnk",
+    "Media": [
+     {
+      "Id": "665423975",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Alarm.wav",
+      "Path": "Media/665423975.wem",
+      "CachePath": "03/{033C6F50-4EA0-F4BA-1D46-5EE6F5F30512}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2851680292",
+      "Name": "Play_UI_Dev_Virus_Alarm",
+      "ObjectPath": "\\Events\\DEV\\Play_UI_Dev_Virus_Alarm",
+      "GUID": "{CFB40BAC-6363-489F-B25F-9F1C96192E04}",
+      "Color": "12",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "665423975"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E1D0BF7A-D660-6739-F1B1-4F7866FCA1ED}"
+ }
+}

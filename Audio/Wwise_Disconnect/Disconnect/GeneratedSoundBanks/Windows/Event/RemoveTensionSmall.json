@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2430786458",
+    "Type": "Event",
+    "GUID": "{DCD5A5DD-20EB-449D-AC45-3DBE2A552FC1}",
+    "Language": "SFX",
+    "Hash": "{D3180E16-B846-3BBF-590C-64625F35F402}",
+    "ObjectPath": "RemoveTensionSmall",
+    "ShortName": "RemoveTensionSmall",
+    "Path": "Event/RemoveTensionSmall.bnk",
+    "Events": [
+     {
+      "Id": "2430786458",
+      "Name": "RemoveTensionSmall",
+      "ObjectPath": "\\Events\\Default Work Unit\\In_Wwise Events\\RemoveTensionSmall",
+      "GUID": "{DCD5A5DD-20EB-449D-AC45-3DBE2A552FC1}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BD119740-BF75-492D-645F-D7339ED8F91F}"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "586500476",
+    "Type": "Event",
+    "GUID": "{2B045812-A43F-4F04-AC82-FB641A756B62}",
+    "Language": "SFX",
+    "Hash": "{1A23C685-77FF-6DC1-18D1-86F0BDF7BFF7}",
+    "ObjectPath": "Play_OBJ_Cable_Tension",
+    "ShortName": "Play_OBJ_Cable_Tension",
+    "Path": "Event/Play_OBJ_Cable_Tension.bnk",
+    "Media": [
+     {
+      "Id": "269490600",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INTERACT_Cable_Tension.wav",
+      "Path": "Media/269490600.wem",
+      "CachePath": "CC/{CCCB040F-74BE-6279-2B3E-DC9506CA8D82}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "586500476",
+      "Name": "Play_OBJ_Cable_Tension",
+      "ObjectPath": "\\Events\\AMB\\3dSounds\\Play_OBJ_Cable_Tension",
+      "GUID": "{2B045812-A43F-4F04-AC82-FB641A756B62}",
+      "Color": "17",
+      "MaxAttenuation": "2000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "269490600"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D9205374-57E9-6F45-52F2-F69FA4549FA9}"
+ }
+}

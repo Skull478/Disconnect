@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}" SchemaVersion="123">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Dev_Sidechain" ID="{A073FD9C-F831-4A03-B944-98557D626CFC}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Player_Vertical_Speed" ID="{E5F85A72-79B9-412A-9CEE-7072611A9F32}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="0.3"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="4.1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="1200"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Player_Slider_Speed" ID="{1439B294-7B58-411C-9BE2-F261BB4ED79C}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="20"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="10"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+						<Property Name="SlewRateDown" Type="Real64" Value="40"/>
+						<Property Name="SlewRateUp" Type="Real64" Value="20"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+						<Property Name="SlewRateDown" Type="Real64" Value="10"/>
+						<Property Name="SlewRateUp" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="MusicPlaying" ID="{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>

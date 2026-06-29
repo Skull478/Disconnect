@@ -3,24 +3,158 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{F9EB70A5-873E-4325-AE99-2E5BE882033A}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Play_Glitches" ID="{0A4139AB-9BAF-4F54-A834-B74AC8AA2316}">
+				<Event Name="Play_Music_Sytem" ID="{6072C88A-D967-459E-84FF-E22468898EE3}">
 					<ChildrenList>
-						<Action Name="" ID="{0922B26D-0F40-46E9-8834-0EDEFFB3DAAC}" ShortID="222959591">
+						<Action Name="" ID="{20FF322C-FBB9-4820-924C-C828F4DAD13D}" ShortID="983737426">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Glitches_Sounds" ID="{06329269-E278-4579-A087-B8C1D72229FA}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+									<ObjectRef Name="Virus" ID="{14ECA823-5212-4E74-AF68-698A32F21937}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
-						<Action Name="" ID="{9F559E49-3D03-435F-B738-FE700501522B}" ShortID="401617403">
+						<Action Name="" ID="{D6B450B7-332F-49E8-B388-4F651DEF0461}" ShortID="526871517">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+								<Property Name="GameParameterValue" Type="Real64" Value="15"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="BED_Glitches" ID="{12F97DB1-A620-48DE-A63C-C34540FDEB07}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+									<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A71E836A-FCA5-41C6-B2B6-741501876CE0}" ShortID="671604792">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{B09AE4AF-B976-4760-8EFC-6C580E4A9145}" ShortID="266342329">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="GameParameterValue" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicPlaying" ID="{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{09C6AAA8-9A0A-4CE6-B2FC-20F96E573E48}" ShortID="733673745">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MUSIC_Virus_Layer" ID="{438A94E3-0CE2-4D3F-B185-D8FCD8C42260}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{704A9053-4A97-4BF6-8950-D9793601182A}" ShortID="1069876146">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tension Modifier" ID="{D00039D8-BF3E-415D-BD46-F4A7668616DC}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Stop_Music_Sytem" ID="{6373029C-208F-448D-AB89-6393FEB8BB26}">
+					<ChildrenList>
+						<Action Name="" ID="{48F973C9-F36D-418B-84F8-2C0A7459D0CC}" ShortID="467977881">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music_Sytem" ID="{4B3523E1-9351-4FEC-8EA9-9ABC01D1BD23}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AEE35FC9-D091-4B11-BF3B-4913D1F6AAB6}" ShortID="909977362">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MUSIC_Virus_Layer" ID="{438A94E3-0CE2-4D3F-B185-D8FCD8C42260}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{76C632EF-E6A9-40B1-8E7C-5D8FE76DE9CB}" ShortID="167525422">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tension Modifier" ID="{D00039D8-BF3E-415D-BD46-F4A7668616DC}" WorkUnitID="{8B02A1FB-99D6-4335-AED4-848AB9FE8FC9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DB7C3DCC-FA7D-48F3-B227-7705AC9F2ED1}" ShortID="318144477">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicPlaying" ID="{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Folder Name="In_Wwise Events" ID="{933D214D-3D2A-49D7-8FCB-244D272B8FBB}" ShortID="606216104">
+					<ChildrenList>
+						<Event Name="AddTensionSmall" ID="{A9C4774E-C0D5-4FDB-BBB2-5949CC959628}">
+							<ChildrenList>
+								<Action Name="" ID="{C460C99A-36C0-4150-AB0C-96E454521F1B}" ShortID="588640437">
+									<PropertyList>
+										<Property Name="AbsoluteOrRelative" Type="int16" Value="1"/>
+										<Property Name="ActionType" Type="int16" Value="38"/>
+										<Property Name="FadeInCurve" Type="int16" Value="5"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+										<Property Name="GameParameterValue" Type="Real64" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="RemoveTensionSmall" ID="{DCD5A5DD-20EB-449D-AC45-3DBE2A552FC1}">
+							<ChildrenList>
+								<Action Name="" ID="{B5F5820D-C81A-4E35-B146-7E3C2A7FCA77}" ShortID="992105664">
+									<PropertyList>
+										<Property Name="AbsoluteOrRelative" Type="int16" Value="1"/>
+										<Property Name="ActionType" Type="int16" Value="38"/>
+										<Property Name="FadeInCurve" Type="int16" Value="5"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+										<Property Name="GameParameterValue" Type="Real64" Value="-2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Tension" ID="{921F5E22-F4B2-423D-B662-50E002C062B9}" WorkUnitID="{8B780BEB-CC04-4157-8EEF-3C40CF5CF616}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

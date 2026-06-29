@@ -83,3 +83,5 @@ DerivedDataCache/*
 AkWwiseProjectData.asset
 IncrementalSoundBankData.xml
 */Audio/Wwise_Disconnect/Disconnect/Soundcaster Sessions/*
+Plugins/WwiseSoundEngine/Source/WwiseSoundEngine/Public/Generated/AkiOSPlugins.h
+Plugins/WwiseSoundEngine/Source/WwiseSoundEngine/Public/Generated/AktvOSPlugins.h

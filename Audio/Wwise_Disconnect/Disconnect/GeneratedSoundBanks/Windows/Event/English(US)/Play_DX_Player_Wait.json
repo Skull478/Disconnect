@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "150032734",
+    "Type": "Event",
+    "GUID": "{6D4A675A-B271-479D-A2B2-32281DD60671}",
+    "Language": "English(US)",
+    "Hash": "{41DB14EC-352B-C339-4C07-FA0CF253A10F}",
+    "ObjectPath": "Play_DX_Player_Wait",
+    "ShortName": "Play_DX_Player_Wait",
+    "Path": "Event/English(US)/Play_DX_Player_Wait.bnk",
+    "Media": [
+     {
+      "Id": "1049402328",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "DX_Player_Right.wav",
+      "Path": "Media/English(US)/1049402328.wem",
+      "CachePath": "7D/{7D4532D1-A07D-9925-77C4-AB28F6C5BAEF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "150032734",
+      "Name": "Play_DX_Player_Wait",
+      "ObjectPath": "\\Events\\DX\\Player\\Play_DX_Player_Wait",
+      "GUID": "{6D4A675A-B271-479D-A2B2-32281DD60671}",
+      "Color": "24",
+      "DurationType": "OneShot",
+      "DurationMin": "3.8608959",
+      "DurationMax": "3.8608959",
+      "MediaRefs": [
+       {
+        "Id": "1049402328"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{235F986C-3DFC-E098-7905-88CFAD708E2B}"
+ }
+}

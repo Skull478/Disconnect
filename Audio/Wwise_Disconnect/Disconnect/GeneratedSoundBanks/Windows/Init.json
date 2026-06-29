@@ -10,17 +10,33 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{99CEE94D-9192-223F-B3F5-1A540652E3E7}",
+    "Hash": "{31AAE5F8-9F2D-75E7-F8D8-2A299DC7FF07}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
     "Plugins": {
      "ShareSets": [
       {
+       "Id": "48620415",
+       "Name": "Have_U_Ever_Been_Outside",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Exteriors\\Have_U_Ever_Been_Outside",
+       "GUID": "{FE29AE8D-FD86-4652-A95D-68D32F5760EC}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
        "Id": "1990128658",
        "Name": "Room_Medium",
        "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Medium",
        "GUID": "{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "3290519051",
+       "Name": "Aluminium_Tank",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Huge Spaces\\Aluminium_Tank",
+       "GUID": "{0D20C91A-F750-47E0-AE32-00E5F2AA1272}",
        "LibName": "Wwise RoomVerb",
        "LibId": "7733251"
       }
@@ -46,16 +62,22 @@
     },
     "Busses": [
      {
-      "Id": "1063802714",
-      "Name": "Master Dev",
-      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Dev",
-      "GUID": "{15E92592-D138-4AF2-910C-714DB329E7F3}"
+      "Id": "1133401178",
+      "Name": "DXDuck",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\DXDuck",
+      "GUID": "{792D6266-C552-48A5-9251-E360B9FFE495}"
      },
      {
       "Id": "1138681361",
       "Name": "Player_Bus",
       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Player_Bus",
       "GUID": "{629C5111-3670-43D6-A27A-6027C6EB3D95}"
+     },
+     {
+      "Id": "1836525785",
+      "Name": "DX",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\DX",
+      "GUID": "{D6E40F23-42FF-4F8D-B4AE-19C2F6B45613}"
      },
      {
       "Id": "3803692087",
@@ -65,6 +87,19 @@
      }
     ],
     "AuxBusses": [
+     {
+      "Id": "2712805294",
+      "Name": "REV_Platform",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Platform",
+      "GUID": "{D367577F-4F35-45FC-B9AC-8E4064150A39}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "48620415"
+        }
+       ]
+      }
+     },
      {
       "Id": "3540377276",
       "Name": "REV_Garage",
@@ -77,9 +112,205 @@
         }
        ]
       }
+     },
+     {
+      "Id": "4156775105",
+      "Name": "REV_Lava",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Lava",
+      "GUID": "{8E098BE2-E1FD-4EB0-B48C-B58A5E7685FA}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3290519051"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "641105734",
+      "Name": "Player_Slider_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Slider_Speed",
+      "GUID": "{1439B294-7B58-411C-9BE2-F261BB4ED79C}"
+     },
+     {
+      "Id": "1571361561",
+      "Name": "Tension",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Tension",
+      "GUID": "{921F5E22-F4B2-423D-B662-50E002C062B9}"
+     },
+     {
+      "Id": "2371381732",
+      "Name": "MusicPlaying",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\MusicPlaying",
+      "GUID": "{D3AADBCE-E392-4B0F-A6FF-5E61F982BF89}"
+     },
+     {
+      "Id": "3416015707",
+      "Name": "Player_Vertical_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Player_Vertical_Speed",
+      "GUID": "{E5F85A72-79B9-412A-9CEE-7072611A9F32}"
+     },
+     {
+      "Id": "3455673912",
+      "Name": "Virus",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Virus",
+      "GUID": "{14ECA823-5212-4E74-AF68-698A32F21937}"
+     },
+     {
+      "Id": "3620054395",
+      "Name": "Dev_Sidechain",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Dev_Sidechain",
+      "GUID": "{A073FD9C-F831-4A03-B944-98557D626CFC}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "399052710",
+      "Name": "Falling",
+      "ObjectPath": "\\States\\Default Work Unit\\Falling",
+      "GUID": "{3BD0DC9C-8AD6-4572-AA3B-28B01601B930}",
+      "States": [
+       {
+        "Id": "204889085",
+        "Name": "NotFalling",
+        "ObjectPath": "\\States\\Default Work Unit\\Falling\\NotFalling",
+        "GUID": "{57076DC0-9B9B-4F5F-9D7F-106F9B25FC91}"
+       },
+       {
+        "Id": "399052710",
+        "Name": "Falling",
+        "ObjectPath": "\\States\\Default Work Unit\\Falling\\Falling",
+        "GUID": "{B3701C78-0753-4716-9453-EE8C139BA8A8}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Falling\\None",
+        "GUID": "{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"
+       }
+      ]
+     },
+     {
+      "Id": "3103015060",
+      "Name": "MusicStates",
+      "ObjectPath": "\\States\\Default Work Unit\\MusicStates",
+      "GUID": "{5C07ED84-190F-408B-AB3E-36AD5B38A0AC}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\None",
+        "GUID": "{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"
+       },
+       {
+        "Id": "2023814608",
+        "Name": "ThunderDome",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\ThunderDome",
+        "GUID": "{4CB4B16B-DCC9-4244-92FF-A091CF0D6251}"
+       },
+       {
+        "Id": "2201105581",
+        "Name": "Credits",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Credits",
+        "GUID": "{86C2A84A-AFCD-4BB8-AB28-2E36092D4CBB}"
+       },
+       {
+        "Id": "3573931707",
+        "Name": "Loading",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Loading",
+        "GUID": "{A6E02910-7179-40FD-9768-432568EDFACC}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\MainMenu",
+        "GUID": "{24E40EC3-7418-4483-B8F8-1787796A5A8B}"
+       },
+       {
+        "Id": "3814499265",
+        "Name": "Explo",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Explo",
+        "GUID": "{EDF4571C-1ECA-4674-938F-211329C33CBC}"
+       },
+       {
+        "Id": "3843299552",
+        "Name": "QuartiersSombres",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\QuartiersSombres",
+        "GUID": "{A42A5CB7-696D-43B9-BB00-B892A898B8F3}"
+       },
+       {
+        "Id": "3966194980",
+        "Name": "Ending",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Ending",
+        "GUID": "{79C55564-7B79-44E5-A9BA-384CF6F2523F}"
+       },
+       {
+        "Id": "4265799768",
+        "Name": "Rooftop",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicStates\\Rooftop",
+        "GUID": "{0F819ECE-F7A3-461E-AC51-002DE761CA60}"
+       }
+      ]
+     },
+     {
+      "Id": "3455673912",
+      "Name": "Virus",
+      "ObjectPath": "\\States\\Default Work Unit\\Virus",
+      "GUID": "{64AB71EC-F880-49FA-9C96-DE50626C36A5}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\None",
+        "GUID": "{F4312414-22B8-4D36-BE47-64FCE218DB89}"
+       },
+       {
+        "Id": "979470758",
+        "Name": "Yes",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\Yes",
+        "GUID": "{C74A0069-570D-4635-81D8-1DF3C9E8A02B}"
+       },
+       {
+        "Id": "1668749452",
+        "Name": "No",
+        "ObjectPath": "\\States\\Default Work Unit\\Virus\\No",
+        "GUID": "{C8F8E55E-0F92-4085-90A7-7394F65D1ABD}"
+       }
+      ]
      }
     ],
     "SwitchGroups": [
+     {
+      "Id": "1571361561",
+      "Name": "Tension",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Tension",
+      "GUID": "{59CA999B-071A-43FA-A31D-DDD49DF4A594}",
+      "GameParameterRef": {
+       "Id": "1571361561"
+      },
+      "Switches": [
+       {
+        "Id": "545371365",
+        "Name": "Low",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Tension\\Low",
+        "GUID": "{0A1C1156-E8F9-406C-8660-3ABC6382AF63}"
+       },
+       {
+        "Id": "1182670505",
+        "Name": "Mid",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Tension\\Mid",
+        "GUID": "{793212DB-BFCA-4BD9-897E-8DD5063FF819}"
+       },
+       {
+        "Id": "3550808449",
+        "Name": "High",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Tension\\High",
+        "GUID": "{A21D935A-6F47-4F54-8A97-3F674CFB4837}"
+       }
+      ]
+     },
      {
       "Id": "3865314626",
       "Name": "Material",
@@ -146,10 +377,43 @@
         "Value": "0"
        }
       ]
+     },
+     {
+      "Id": "4001580976",
+      "Name": "BLOCK",
+      "ObjectPath": "\\Virtual Acoustics\\Default Work Unit\\BLOCK",
+      "GUID": "{24C9E1A1-294F-49E2-AEB9-F543FB8583C1}",
+      "Properties": [
+       {
+        "Name": "AbsorptionLow",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "AbsorptionMidLow",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "AbsorptionMidHigh",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "AbsorptionHigh",
+        "Type": "Real32",
+        "Value": "100"
+       },
+       {
+        "Name": "Scattering",
+        "Type": "Real32",
+        "Value": "0"
+       }
+      ]
      }
     ]
    }
   ],
-  "FileHash": "{51AE7737-9B32-0A3F-20BE-61F4F5B24623}"
+  "FileHash": "{0D8D7361-FBAD-4CAC-05FF-864F55709C39}"
  }
 }
