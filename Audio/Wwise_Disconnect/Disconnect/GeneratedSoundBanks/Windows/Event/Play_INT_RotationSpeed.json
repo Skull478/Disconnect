@@ -1,0 +1,98 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2796379387",
+    "Type": "Event",
+    "GUID": "{6192A232-345A-442F-8469-FC583D248A35}",
+    "Language": "SFX",
+    "Hash": "{F9A6C982-4F22-BA1A-09A1-272CB258255B}",
+    "ObjectPath": "Play_INT_RotationSpeed",
+    "ShortName": "Play_INT_RotationSpeed",
+    "Path": "Event/Play_INT_RotationSpeed.bnk",
+    "Media": [
+     {
+      "Id": "333299810",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_RotationSpeed_02.wav",
+      "Path": "Media/333299810.wem",
+      "CachePath": "DA/{DA12FB57-12E5-4C27-56F9-741830E8E786}.wem"
+     },
+     {
+      "Id": "349600614",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_RotationSpeed_04.wav",
+      "Path": "Media/349600614.wem",
+      "CachePath": "A9/{A97B8073-9D2D-7551-53D9-6A2761FCC5FF}.wem"
+     },
+     {
+      "Id": "355106783",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_RotationSpeed_05.wav",
+      "Path": "Media/355106783.wem",
+      "CachePath": "14/{143E01E9-0B25-BCA4-A96C-0DA72D8A2E0C}.wem"
+     },
+     {
+      "Id": "388903213",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_RotationSpeed_01.wav",
+      "Path": "Media/388903213.wem",
+      "CachePath": "CF/{CF2AA99F-18CC-C8B6-6598-BEA95F067E16}.wem"
+     },
+     {
+      "Id": "782209400",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_RotationSpeed_03.wav",
+      "Path": "Media/782209400.wem",
+      "CachePath": "C9/{C915B827-2B36-6445-182B-FFABBA35299B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2796379387",
+      "Name": "Play_INT_RotationSpeed",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_RotationSpeed",
+      "GUID": "{6192A232-345A-442F-8469-FC583D248A35}",
+      "Color": "23",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6909583",
+      "DurationMax": "0.7034792",
+      "MediaRefs": [
+       {
+        "Id": "333299810"
+       },
+       {
+        "Id": "349600614"
+       },
+       {
+        "Id": "355106783"
+       },
+       {
+        "Id": "388903213"
+       },
+       {
+        "Id": "782209400"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4A49ABD0-568C-ABBC-A1A2-6194966C252A}"
+ }
+}

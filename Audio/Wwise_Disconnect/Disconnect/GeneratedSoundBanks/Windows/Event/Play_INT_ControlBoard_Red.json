@@ -1,0 +1,50 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2899025313",
+    "Type": "Event",
+    "GUID": "{20641511-E718-4A4C-B66F-694CB24F1D57}",
+    "Language": "SFX",
+    "Hash": "{F268B6B2-9343-5F45-14D2-E4EA7D9BE43E}",
+    "ObjectPath": "Play_INT_ControlBoard_Red",
+    "ShortName": "Play_INT_ControlBoard_Red",
+    "Path": "Event/Play_INT_ControlBoard_Red.bnk",
+    "Media": [
+     {
+      "Id": "256305709",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_ControlBoard_Red.wav",
+      "Path": "Media/256305709.wem",
+      "CachePath": "F3/{F31A81BC-5DB5-7817-CFFE-246C9524F3B8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2899025313",
+      "Name": "Play_INT_ControlBoard_Red",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_ControlBoard_Red",
+      "GUID": "{20641511-E718-4A4C-B66F-694CB24F1D57}",
+      "Color": "23",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.1434375",
+      "DurationMax": "0.1434375",
+      "MediaRefs": [
+       {
+        "Id": "256305709"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BE0C122C-1110-9B22-55FE-70A6FE915317}"
+ }
+}
