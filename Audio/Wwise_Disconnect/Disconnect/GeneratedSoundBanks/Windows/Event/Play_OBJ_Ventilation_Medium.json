@@ -29,7 +29,7 @@
      {
       "Id": "2993175549",
       "Name": "Play_OBJ_Ventilation_Medium",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Ventilation_Medium",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Medium",
       "GUID": "{3727CCD2-2654-4B61-B7B1-A9231C40487B}",
       "MaxAttenuation": "300",
       "DurationType": "Infinite",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{AB3B0B79-360C-B8A0-9C08-891EF8D81580}"
+  "FileHash": "{BE899398-EEEC-F085-2C6A-5F67E60760C3}"
  }
 }

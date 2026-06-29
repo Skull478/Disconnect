@@ -29,7 +29,7 @@
      {
       "Id": "470245327",
       "Name": "Play_OBJ_Light_Bulb_Disfunction",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Light_Bulb_Disfunction",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Light_Bulb_Disfunction",
       "GUID": "{11459A28-005C-4390-A66F-94797B7C0D6D}",
       "MaxAttenuation": "500",
       "DurationType": "Infinite",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{A51ABF10-1C71-463E-7E37-16D8CB5B4482}"
+  "FileHash": "{3D3AB54C-91E5-F6DB-124A-241C810E9515}"
  }
 }

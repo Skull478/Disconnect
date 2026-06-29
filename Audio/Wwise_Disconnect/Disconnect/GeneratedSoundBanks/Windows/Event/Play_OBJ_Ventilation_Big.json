@@ -29,7 +29,7 @@
      {
       "Id": "2805917058",
       "Name": "Play_OBJ_Ventilation_Big",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Ventilation_Big",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Ventilation_Big",
       "GUID": "{CDB0AB34-FF31-46EB-80CC-1E5707380D26}",
       "MaxAttenuation": "2500",
       "DurationType": "Infinite",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{99B18C84-CBE6-DF24-2ACE-9532ED801A92}"
+  "FileHash": "{D1A7490C-6D9E-D8E8-CDDB-1366A8DDAA5F}"
  }
 }

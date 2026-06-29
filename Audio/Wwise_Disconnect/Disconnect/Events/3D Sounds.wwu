@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{03899054-0D02-4133-B321-90899FBF1EC1}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="3D Sounds" ID="{03899054-0D02-4133-B321-90899FBF1EC1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_OBJ_Light_Bulb" ID="{70C03253-707E-4F6F-9915-76561457E609}">
+					<ChildrenList>
+						<Action Name="" ID="{F4285D67-E509-4605-B643-7A3BC5197650}" ShortID="938444153">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Light_Bulb" ID="{F16E6F65-405B-4ECC-AD7E-A662CF2DF16F}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Ventilation_Big" ID="{CDB0AB34-FF31-46EB-80CC-1E5707380D26}">
+					<ChildrenList>
+						<Action Name="" ID="{78790AD0-2606-4366-9ADE-5544345B03BE}" ShortID="247547914">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Ventilation_Big" ID="{B78E062B-EDBF-4A88-A2D3-32F181E1A917}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Light_Bulb_Disfunction" ID="{11459A28-005C-4390-A66F-94797B7C0D6D}">
+					<ChildrenList>
+						<Action Name="" ID="{6DD45018-4280-48AA-986B-F64E9ED69175}" ShortID="501973077">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Light_Bulb_Disfunction" ID="{C3ECB78C-19B0-4FB6-9A13-E46FB14B7D48}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Ventilation_Medium" ID="{3727CCD2-2654-4B61-B7B1-A9231C40487B}">
+					<ChildrenList>
+						<Action Name="" ID="{F2E9F7AC-B09B-4C95-A36B-E9084E341D9C}" ShortID="556184955">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Ventilation_Medium" ID="{5D8EC954-7F04-4B8D-A0EF-B6B4BAD2B3E2}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Lights_Buzz" ID="{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}">
+					<ChildrenList>
+						<Action Name="" ID="{E13D6F64-4959-4FD0-B9DE-5B0F93537621}" ShortID="160527874">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Lights_Buzz" ID="{D1D625F2-7246-4671-8039-E09EF537D70D}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_GarageDoor_open" ID="{37E8B85C-1880-4352-8861-08ADD710C698}">
+					<ChildrenList>
+						<Action Name="" ID="{2105BF68-1AB3-45B8-A9C8-412030ACC39C}" ShortID="245027024">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_GarageDoor_open" ID="{1F36FD3D-AF30-4E78-A409-DF56950FB88F}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Lava_Spray" ID="{5203FFB7-F00E-4DC2-B863-072AD497218A}">
+					<ChildrenList>
+						<Action Name="" ID="{E81EB45C-2FA8-4CB1-A36A-B7918077B32A}" ShortID="1026171434">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Lava_Spray" ID="{5576FC57-C48D-4B9A-B0BE-B27A0836AA14}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -29,7 +29,7 @@
      {
       "Id": "825856370",
       "Name": "Play_OBJ_GarageDoor_open",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_GarageDoor_open",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_GarageDoor_open",
       "GUID": "{37E8B85C-1880-4352-8861-08ADD710C698}",
       "DurationType": "OneShot",
       "DurationMin": "4.25",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{FFD96AF4-95A8-6C67-50EE-5C26A1869B26}"
+  "FileHash": "{15177E57-BB7D-F56B-6AD1-36F75C318E92}"
  }
 }

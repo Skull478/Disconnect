@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2713070938	Play_UI_Hard_Button_Click			\UI\Clicks\Play_UI_Hard_Button_Click	
+

@@ -1,0 +1,59 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3957396827",
+    "Type": "Event",
+    "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
+    "Language": "SFX",
+    "Hash": "{62299FD0-F171-413E-D1E6-5F0C4AB023C4}",
+    "ObjectPath": "Play_AMB_DevRoom",
+    "ShortName": "Play_AMB_DevRoom",
+    "Path": "Event/Play_AMB_DevRoom.bnk",
+    "Media": [
+     {
+      "Id": "2652455",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Devroom_Tone.wav",
+      "Path": "Media/2652455.wem",
+      "CachePath": "FF/{FF193464-6DAE-EE40-B22E-9952C44554BA}.wem"
+     },
+     {
+      "Id": "1061594302",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_DevRoom.wav",
+      "Path": "Media/1061594302.wem",
+      "CachePath": "AD/{ADA5FD87-77F7-6867-68B4-46A421CB9277}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3957396827",
+      "Name": "Play_AMB_DevRoom",
+      "ObjectPath": "\\Events\\AMB\\Play_AMB_DevRoom",
+      "GUID": "{BE51FB01-B693-4207-8A80-B1B5E9CCA446}",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "2652455"
+       },
+       {
+        "Id": "1061594302"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B5BAA809-CECB-3996-0BF0-82F31396320A}"
+ }
+}

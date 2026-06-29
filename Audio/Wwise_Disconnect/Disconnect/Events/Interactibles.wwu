@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C17206E6-9400-4F80-B86B-4A5D01D0C9DC}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Interactibles" ID="{C17206E6-9400-4F80-B86B-4A5D01D0C9DC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_INT_Cable_Select" ID="{8E9320EF-1D17-4309-9582-89806EA11E91}">
+					<ChildrenList>
+						<Action Name="" ID="{36C3111D-CD6D-46C6-857C-AE2C22414C1B}" ShortID="645203648">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_Cable_Select" ID="{E9CEB39C-37BF-4D8E-988C-0F4E8169E6F5}" WorkUnitID="{7FBB696C-FCB4-4E54-9A70-2E41E92167F1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,46 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1352848112",
+    "Type": "Event",
+    "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
+    "Language": "SFX",
+    "Hash": "{96F99942-833F-A896-DA71-B1553705C1F2}",
+    "ObjectPath": "Play_OBJ_Lava_Spray",
+    "ShortName": "Play_OBJ_Lava_Spray",
+    "Path": "Event/Play_OBJ_Lava_Spray.bnk",
+    "Media": [
+     {
+      "Id": "404797170",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "OBJ_Lava_Spray.wav",
+      "Path": "Media/404797170.wem",
+      "CachePath": "CB/{CBF7C06C-49E0-FA15-04AF-3CCBF288F567}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1352848112",
+      "Name": "Play_OBJ_Lava_Spray",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Lava_Spray",
+      "GUID": "{5203FFB7-F00E-4DC2-B863-072AD497218A}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "404797170"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4F33C506-0109-3F33-5B06-1FCEF17F30CF}"
+ }
+}

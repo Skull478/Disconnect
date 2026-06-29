@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3133265498	Play_UI_Clock_Click			\UI\Clicks\Play_UI_Clock_Click	
+

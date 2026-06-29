@@ -29,7 +29,7 @@
      {
       "Id": "599904717",
       "Name": "Play_OBJ_Lights_Buzz",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Lights_Buzz",
+      "ObjectPath": "\\Events\\3D Sounds\\Play_OBJ_Lights_Buzz",
       "GUID": "{E30ACACF-855A-49B3-B3EB-49CC89B1A5B1}",
       "MaxAttenuation": "500",
       "DurationType": "Infinite",
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{2B06FF51-0D83-F410-A3AF-0C68AA0C9647}"
+  "FileHash": "{28555A39-FC84-04C0-3E00-151AFF929F0F}"
  }
 }
