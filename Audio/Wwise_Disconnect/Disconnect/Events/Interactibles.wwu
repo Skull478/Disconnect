@@ -138,6 +138,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_INT_RotationSpeed" ID="{6192A232-345A-442F-8469-FC583D248A35}">
+					<ChildrenList>
+						<Action Name="" ID="{D63B94CD-A08C-4784-A6BE-861D47E0B838}" ShortID="573310347">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_RotationSpeed" ID="{FC860A02-CE8A-47BC-8F96-36298A92FF5A}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_ControlBoard_Green" ID="{2818DD26-F3B6-4BC4-8828-DFA86BB898D3}">
+					<ChildrenList>
+						<Action Name="" ID="{F6F41CE4-A74C-45EB-9086-2E66965D95A4}" ShortID="450361074">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_ControlBoard_Green" ID="{6D376778-76F9-474F-B591-00F6178470BE}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_INT_ControlBoard_Red" ID="{20641511-E718-4A4C-B66F-694CB24F1D57}">
+					<ChildrenList>
+						<Action Name="" ID="{C6F7F813-8FA5-4613-B439-8A0A973200F6}" ShortID="70883466">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_ControlBoard_Red" ID="{D6F41519-57F1-4317-8799-F9593445431F}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
