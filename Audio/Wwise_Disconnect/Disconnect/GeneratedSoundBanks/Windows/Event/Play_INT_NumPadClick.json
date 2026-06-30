@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
     "Language": "SFX",
-    "Hash": "{D0A053F9-7B6B-E4FD-A1CA-09B92DCB4AD1}",
+    "Hash": "{21D80791-9377-720A-C444-36B23CB8919A}",
     "ObjectPath": "Play_INT_NumPadClick",
     "ShortName": "Play_INT_NumPadClick",
     "Path": "Event/Play_INT_NumPadClick.bnk",
@@ -68,7 +68,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_NumPadClick",
       "GUID": "{014CC4D8-9F8B-415C-808C-AA67D66102C7}",
       "Color": "23",
-      "MaxAttenuation": "2000",
+      "MaxAttenuation": "1000",
       "DurationType": "OneShot",
       "DurationMin": "0.26133335",
       "DurationMax": "0.33225",
@@ -93,6 +93,6 @@
     ]
    }
   ],
-  "FileHash": "{32CB9B84-15C9-274A-82CB-9C9024756B49}"
+  "FileHash": "{F0A694ED-5FD7-99C1-95FB-4C706D98F1D1}"
  }
 }

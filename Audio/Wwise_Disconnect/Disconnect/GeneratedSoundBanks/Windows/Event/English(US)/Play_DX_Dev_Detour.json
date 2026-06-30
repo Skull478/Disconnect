@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{5DA11D22-9DFD-4E90-9BD8-1A3338905133}",
     "Language": "English(US)",
-    "Hash": "{3790CA43-DABD-068F-E68A-7754A7F595AE}",
+    "Hash": "{7F2048B8-CEF2-E612-7061-6235C90DE74E}",
     "ObjectPath": "Play_DX_Dev_Detour",
     "ShortName": "Play_DX_Dev_Detour",
     "Path": "Event/English(US)/Play_DX_Dev_Detour.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A9DBE189-8AE0-A2B9-F65C-9A38FFBD9F6A}"
+  "FileHash": "{E54DF463-5C78-7393-3D88-8F583E44C8EC}"
  }
 }

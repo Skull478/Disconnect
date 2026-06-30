@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{20641511-E718-4A4C-B66F-694CB24F1D57}",
     "Language": "SFX",
-    "Hash": "{F268B6B2-9343-5F45-14D2-E4EA7D9BE43E}",
+    "Hash": "{F25CDAE6-B54B-87D8-442E-CDFAF8329317}",
     "ObjectPath": "Play_INT_ControlBoard_Red",
     "ShortName": "Play_INT_ControlBoard_Red",
     "Path": "Event/Play_INT_ControlBoard_Red.bnk",
@@ -32,7 +32,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_ControlBoard_Red",
       "GUID": "{20641511-E718-4A4C-B66F-694CB24F1D57}",
       "Color": "23",
-      "MaxAttenuation": "2000",
+      "MaxAttenuation": "1000",
       "DurationType": "OneShot",
       "DurationMin": "0.1434375",
       "DurationMax": "0.1434375",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{BE0C122C-1110-9B22-55FE-70A6FE915317}"
+  "FileHash": "{E46C7A51-317C-3878-6838-0FA90DFC919C}"
  }
 }

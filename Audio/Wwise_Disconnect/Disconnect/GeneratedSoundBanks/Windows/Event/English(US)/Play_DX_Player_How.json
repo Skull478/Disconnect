@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{00A5630F-8D92-414D-A331-082942F7D4BC}",
     "Language": "English(US)",
-    "Hash": "{5FA7CC03-2B0B-C57D-BD07-8DE4AED38485}",
+    "Hash": "{7D68C705-3822-37D6-0B0D-5FDDEF80D65E}",
     "ObjectPath": "Play_DX_Player_How",
     "ShortName": "Play_DX_Player_How",
     "Path": "Event/English(US)/Play_DX_Player_How.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{9D848424-DC12-A30C-6655-71CAC2EFB67C}"
+  "FileHash": "{ED22EA36-4DA6-4746-E308-5A2CA22D418E}"
  }
 }

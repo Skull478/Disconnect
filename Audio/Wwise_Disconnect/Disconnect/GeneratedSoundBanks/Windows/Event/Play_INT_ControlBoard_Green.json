@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{2818DD26-F3B6-4BC4-8828-DFA86BB898D3}",
     "Language": "SFX",
-    "Hash": "{558D12DA-DE0A-43F8-D454-02214ED0C86C}",
+    "Hash": "{B6179D2C-46DA-7988-B7A3-2EB1C7C4B28F}",
     "ObjectPath": "Play_INT_ControlBoard_Green",
     "ShortName": "Play_INT_ControlBoard_Green",
     "Path": "Event/Play_INT_ControlBoard_Green.bnk",
@@ -32,7 +32,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_ControlBoard_Green",
       "GUID": "{2818DD26-F3B6-4BC4-8828-DFA86BB898D3}",
       "Color": "23",
-      "MaxAttenuation": "2000",
+      "MaxAttenuation": "1000",
       "DurationType": "OneShot",
       "DurationMin": "1.0854791",
       "DurationMax": "1.0854791",
@@ -45,6 +45,6 @@
     ]
    }
   ],
-  "FileHash": "{BCACFE6D-6E15-4943-7338-4E3FD958E99D}"
+  "FileHash": "{534729AD-C767-A641-6708-1299CFD6C48F}"
  }
 }

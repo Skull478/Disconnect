@@ -54,8 +54,15 @@
     "LibName": "No Output",
     "LibId": "11862023",
     "Type": "AudioDevice"
+   },
+   {
+    "LibName": "Mastering Suite",
+    "LibId": "12189699",
+    "Type": "Effect",
+    "DLL": "MasteringSuite",
+    "StaticLib": "MasteringSuiteFX"
    }
   ],
-  "FileHash": "{C6EAA234-DB59-6945-3484-822AA022502D}"
+  "FileHash": "{4FC93DA9-8E4B-564A-2DB3-021283FF34FC}"
  }
 }

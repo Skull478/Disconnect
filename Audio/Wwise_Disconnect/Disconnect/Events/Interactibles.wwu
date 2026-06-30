@@ -171,6 +171,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_INT_LavaQuantity" ID="{AEE3DD11-313D-4384-93BA-72010B6054D6}">
+					<ChildrenList>
+						<Action Name="" ID="{C1CF53DD-E964-442F-8F61-91A9CD895A48}" ShortID="973308075">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="INT_LavaQuantity" ID="{CF7173F3-5D6A-4F66-BBA9-7CA7217ACB36}" WorkUnitID="{6B0E923E-32CE-4ECA-9F23-076145D9D258}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

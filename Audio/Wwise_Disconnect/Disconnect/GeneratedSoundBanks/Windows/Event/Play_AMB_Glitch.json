@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{313219A7-C7CC-414A-9937-CB6754630EE6}",
     "Language": "SFX",
-    "Hash": "{DAA9F261-4ED0-ED0C-8059-DF3CD98A55A1}",
+    "Hash": "{7E8A9C6B-89FC-3B5D-DC9B-A802AC1BCD6A}",
     "ObjectPath": "Play_AMB_Glitch",
     "ShortName": "Play_AMB_Glitch",
     "Path": "Event/Play_AMB_Glitch.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{4B8020D8-2552-8504-FFAE-C370CCC5DDB5}"
+  "FileHash": "{F5FF22EA-23A4-6A3A-C192-1CBE00971DDD}"
  }
 }

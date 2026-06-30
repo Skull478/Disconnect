@@ -40,12 +40,15 @@ Audio Bus	ID	Name			Wwise Object Path	Notes
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
 	2712805294	REV_Platform			\Default Work Unit\Master Audio Bus\REV_Platform	
+	3512603237	REV_Elevator			\Default Work Unit\Master Audio Bus\REV_Elevator	
 	3540377276	REV_Garage			\Default Work Unit\Master Audio Bus\REV_Garage	
 	4156775105	REV_Lava			\Default Work Unit\Master Audio Bus\REV_Lava	
 
 Effect plug-ins	ID	Name	Type				Notes
 	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
 	1990128658	Room_Medium	Wwise RoomVerb			
+	2849147824	Medium	Wwise RoomVerb			
+	3157974155	New_Mastering_Suite	Mastering Suite			
 	3290519051	Aluminium_Tank	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes

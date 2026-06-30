@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{09FC6C75-E392-4A7A-9B36-FD72DB924A60}",
     "Language": "English(US)",
-    "Hash": "{2E7A3352-2F9F-4A3E-6557-3C5092AD9C6C}",
+    "Hash": "{1862E8E5-DC50-5585-5F62-896625E16CB9}",
     "ObjectPath": "Play_DX_Dev_MakeUp",
     "ShortName": "Play_DX_Dev_MakeUp",
     "Path": "Event/English(US)/Play_DX_Dev_MakeUp.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{605D0967-57E4-9002-E273-D69FDD6A552D}"
+  "FileHash": "{777D78DD-8231-F9B0-65B5-3D99B35A849A}"
  }
 }

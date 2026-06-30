@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2308367717	Play_INT_LavaQuantity			\Interactibles\Play_INT_LavaQuantity	
+

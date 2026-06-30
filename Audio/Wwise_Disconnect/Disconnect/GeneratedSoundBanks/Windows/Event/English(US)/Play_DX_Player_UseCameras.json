@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{E6A6E40B-37EF-495F-9473-78B589C238F1}",
     "Language": "English(US)",
-    "Hash": "{A16C360D-D901-3E8A-C490-52ED29A5D127}",
+    "Hash": "{F2026E5C-D461-5228-CE94-C1E3790AC097}",
     "ObjectPath": "Play_DX_Player_UseCameras",
     "ShortName": "Play_DX_Player_UseCameras",
     "Path": "Event/English(US)/Play_DX_Player_UseCameras.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B00F1B64-82D2-C42F-101E-7DD81F0B77EC}"
+  "FileHash": "{2B89C1AE-3C98-5C12-3CED-1862B7FF7AE3}"
  }
 }
