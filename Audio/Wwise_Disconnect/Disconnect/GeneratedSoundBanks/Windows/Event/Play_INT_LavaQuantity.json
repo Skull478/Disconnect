@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AEE3DD11-313D-4384-93BA-72010B6054D6}",
     "Language": "SFX",
-    "Hash": "{601ED842-D104-A6A3-FE0E-BB482525D851}",
+    "Hash": "{6D12CAB0-C145-222F-20C7-7423EAB3DE27}",
     "ObjectPath": "Play_INT_LavaQuantity",
     "ShortName": "Play_INT_LavaQuantity",
     "Path": "Event/Play_INT_LavaQuantity.bnk",
@@ -69,6 +69,6 @@
     ]
    }
   ],
-  "FileHash": "{6EEE2580-F02A-90C4-4A8E-BC64B8293E58}"
+  "FileHash": "{48A8A6C7-792A-B6AE-CB59-A849217B57EF}"
  }
 }
