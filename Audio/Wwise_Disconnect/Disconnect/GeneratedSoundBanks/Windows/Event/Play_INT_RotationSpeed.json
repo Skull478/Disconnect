@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6192A232-345A-442F-8469-FC583D248A35}",
     "Language": "SFX",
-    "Hash": "{F9A6C982-4F22-BA1A-09A1-272CB258255B}",
+    "Hash": "{762EABD8-B22E-331B-A27C-105977A44A16}",
     "ObjectPath": "Play_INT_RotationSpeed",
     "ShortName": "Play_INT_RotationSpeed",
     "Path": "Event/Play_INT_RotationSpeed.bnk",
@@ -68,7 +68,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_RotationSpeed",
       "GUID": "{6192A232-345A-442F-8469-FC583D248A35}",
       "Color": "23",
-      "MaxAttenuation": "2000",
+      "MaxAttenuation": "1000",
       "DurationType": "OneShot",
       "DurationMin": "0.6909583",
       "DurationMax": "0.7034792",
@@ -93,6 +93,6 @@
     ]
    }
   ],
-  "FileHash": "{4A49ABD0-568C-ABBC-A1A2-6194966C252A}"
+  "FileHash": "{4F70564F-A239-B735-F9A8-639E589331E0}"
  }
 }

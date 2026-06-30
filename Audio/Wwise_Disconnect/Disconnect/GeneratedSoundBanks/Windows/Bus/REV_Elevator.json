@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3512603237",
+    "Type": "Bus",
+    "GUID": "{77CCC3EA-D7B2-4641-8B40-F2F6EFD2265C}",
+    "Language": "SFX",
+    "Hash": "{2CD54ED1-E3F9-B67E-6D6C-6AAC58670A69}",
+    "ObjectPath": "REV_Elevator",
+    "ShortName": "REV_Elevator",
+    "Path": "Bus/REV_Elevator.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "2849147824",
+       "Name": "Medium",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Cathedrals\\Medium",
+       "GUID": "{AEB3F175-958B-45F2-A4C2-3FBD4F456568}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "3512603237",
+      "Name": "REV_Elevator",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Elevator",
+      "GUID": "{77CCC3EA-D7B2-4641-8B40-F2F6EFD2265C}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2849147824"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CE377D44-81AA-644C-3F1E-8DE25C14CF3E}"
+ }
+}

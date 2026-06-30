@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A475E70F-F76B-4E13-B339-CD4BC83D4D18}",
     "Language": "English(US)",
-    "Hash": "{E8F82A57-8DE6-26E6-CE6C-30B4F29AA3ED}",
+    "Hash": "{16CF9F89-AC5B-DB8D-B8DD-9A0E59D2333F}",
     "ObjectPath": "Play_DX_Dev_MajorAnomaly",
     "ShortName": "Play_DX_Dev_MajorAnomaly",
     "Path": "Event/English(US)/Play_DX_Dev_MajorAnomaly.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{FA175AEC-8B0C-318D-748B-5BF64D8EB974}"
+  "FileHash": "{4542CF13-19C4-9A03-5544-464B9578B692}"
  }
 }

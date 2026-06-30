@@ -110,7 +110,7 @@
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="None" ID="{A6B54F88-B282-4CF9-91B1-87DA882BB30E}"/>
+						<CurrentStateRef Name="Explo" ID="{EDF4571C-1ECA-4674-938F-211329C33CBC}"/>
 						<CurrentStateRef Name="None" ID="{DC2FFC82-5602-4D0D-AEF3-7E3FA90CC63E}"/>
 						<CurrentStateRef Name="None" ID="{F4312414-22B8-4D36-BE47-64FCE218DB89}"/>
 					</CurrentStateList>

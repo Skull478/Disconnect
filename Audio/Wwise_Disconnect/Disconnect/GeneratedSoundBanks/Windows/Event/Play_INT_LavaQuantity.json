@@ -1,0 +1,74 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2308367717",
+    "Type": "Event",
+    "GUID": "{AEE3DD11-313D-4384-93BA-72010B6054D6}",
+    "Language": "SFX",
+    "Hash": "{601ED842-D104-A6A3-FE0E-BB482525D851}",
+    "ObjectPath": "Play_INT_LavaQuantity",
+    "ShortName": "Play_INT_LavaQuantity",
+    "Path": "Event/Play_INT_LavaQuantity.bnk",
+    "Media": [
+     {
+      "Id": "150666247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_LavaQuantity_02.wav",
+      "Path": "Media/150666247.wem",
+      "CachePath": "3F/{3FF48327-C9FB-EE27-F6D6-44E499541E8F}.wem"
+     },
+     {
+      "Id": "350795835",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_LavaQuantity_03.wav",
+      "Path": "Media/350795835.wem",
+      "CachePath": "22/{22DAB89B-B032-1B85-1856-2EE645EA4131}.wem"
+     },
+     {
+      "Id": "757083476",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "INT_LavaQuantity_01.wav",
+      "Path": "Media/757083476.wem",
+      "CachePath": "E0/{E00B4664-7609-F56A-6EB2-B65BC0CF78AB}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2308367717",
+      "Name": "Play_INT_LavaQuantity",
+      "ObjectPath": "\\Events\\Interactibles\\Play_INT_LavaQuantity",
+      "GUID": "{AEE3DD11-313D-4384-93BA-72010B6054D6}",
+      "Color": "23",
+      "MaxAttenuation": "1000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.6104375",
+      "DurationMax": "1.8177917",
+      "MediaRefs": [
+       {
+        "Id": "150666247"
+       },
+       {
+        "Id": "350795835"
+       },
+       {
+        "Id": "757083476"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6EEE2580-F02A-90C4-4A8E-BC64B8293E58}"
+ }
+}

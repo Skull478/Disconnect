@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3512603237	REV_Elevator			\Default Work Unit\Master Audio Bus\REV_Elevator	
+
+Effect plug-ins	ID	Name	Type				Notes
+	2849147824	Medium	Wwise RoomVerb			
+

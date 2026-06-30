@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A16F9680-1DF8-4D24-9BA8-8B670EE23AC7}",
     "Language": "English(US)",
-    "Hash": "{E6A372AE-219E-2D34-21DB-0FC9C692AF17}",
+    "Hash": "{14877FE5-1F51-F92A-9FFA-511CD399AF7A}",
     "ObjectPath": "Play_DX_Player_WhatIfIFall",
     "ShortName": "Play_DX_Player_WhatIfIFall",
     "Path": "Event/English(US)/Play_DX_Player_WhatIfIFall.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{3686EF5A-278F-0AA6-A308-291118F95E51}"
+  "FileHash": "{7A8B58ED-596D-CD6A-1CCA-5388CE1D998D}"
  }
 }

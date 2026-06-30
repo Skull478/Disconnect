@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7A84AD0C-EA35-45D9-A461-B7E6BFF8E93B}",
     "Language": "English(US)",
-    "Hash": "{E5AD63CA-1813-F20C-2E3E-2F77C2D19E66}",
+    "Hash": "{61B9C150-EDF2-9223-00C3-C921F6C1D1C1}",
     "ObjectPath": "Play_DX_Player_NoRoom",
     "ShortName": "Play_DX_Player_NoRoom",
     "Path": "Event/English(US)/Play_DX_Player_NoRoom.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{89199FE4-4793-9DDF-4E8D-94777164BAE6}"
+  "FileHash": "{CF1C2B8E-9440-BF13-FC67-F74934E4D7D9}"
  }
 }

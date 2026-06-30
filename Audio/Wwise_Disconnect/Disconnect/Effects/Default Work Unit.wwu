@@ -13,6 +13,24 @@
 	<GameParameter Name="Dev_Sidechain" ID="{A073FD9C-F831-4A03-B944-98557D626CFC}"/>
 </PluginData>
 				</Effect>
+				<Effect Name="New_Mastering_Suite" ID="{0FECAC71-9BFB-4376-8FD0-25FB4B00172B}" PluginName="Mastering Suite" CompanyID="0" PluginID="186" PluginType="3">
+					<PropertyList>
+						<Property Name="limiterThreshold" Type="Real32" Value="-1"/>
+						<Property Name="masterVolumeChannel1" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel10" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel11" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel12" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel2" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel3" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel4" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel5" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel6" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel7" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel8" Type="Real32" Value="6.4"/>
+						<Property Name="masterVolumeChannel9" Type="Real32" Value="6.4"/>
+					</PropertyList>
+					<PluginData/>
+				</Effect>
 			</ChildrenList>
 		</WorkUnit>
 	</Effects>

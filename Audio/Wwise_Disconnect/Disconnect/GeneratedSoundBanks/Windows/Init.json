@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{31AAE5F8-9F2D-75E7-F8D8-2A299DC7FF07}",
+    "Hash": "{0B33BFE0-AE81-6414-0031-33EE78773445}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -31,6 +31,22 @@
        "GUID": "{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}",
        "LibName": "Wwise RoomVerb",
        "LibId": "7733251"
+      },
+      {
+       "Id": "2849147824",
+       "Name": "Medium",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Cathedrals\\Medium",
+       "GUID": "{AEB3F175-958B-45F2-A4C2-3FBD4F456568}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "3157974155",
+       "Name": "New_Mastering_Suite",
+       "ObjectPath": "\\Effects\\Default Work Unit\\New_Mastering_Suite",
+       "GUID": "{0FECAC71-9BFB-4376-8FD0-25FB4B00172B}",
+       "LibName": "Mastering Suite",
+       "LibId": "12189699"
       },
       {
        "Id": "3290519051",
@@ -56,7 +72,14 @@
        "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
        "GUID": "{DF6F8EAD-6E4E-4586-84F1-C8ADA14C2F30}",
        "LibName": "System",
-       "LibId": "11403271"
+       "LibId": "11403271",
+       "PluginRefs": {
+        "ShareSets": [
+         {
+          "Id": "3157974155"
+         }
+        ]
+       }
       }
      ]
     },
@@ -96,6 +119,19 @@
        "ShareSets": [
         {
          "Id": "48620415"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3512603237",
+      "Name": "REV_Elevator",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\REV_Elevator",
+      "GUID": "{77CCC3EA-D7B2-4641-8B40-F2F6EFD2265C}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2849147824"
         }
        ]
       }
@@ -414,6 +450,6 @@
     ]
    }
   ],
-  "FileHash": "{0D8D7361-FBAD-4CAC-05FF-864F55709C39}"
+  "FileHash": "{89489A4D-554D-A065-8A93-E810F1B42442}"
  }
 }

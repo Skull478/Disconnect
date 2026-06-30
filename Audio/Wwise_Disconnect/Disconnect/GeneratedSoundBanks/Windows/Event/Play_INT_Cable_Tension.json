@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F8780E07-9950-45A2-A101-E388FC187CE4}",
     "Language": "SFX",
-    "Hash": "{29F47DCE-75B1-13EC-4B9B-760C0CF81E40}",
+    "Hash": "{58F9787C-13E0-8BDF-F1B4-6BCA222736A3}",
     "ObjectPath": "Play_INT_Cable_Tension",
     "ShortName": "Play_INT_Cable_Tension",
     "Path": "Event/Play_INT_Cable_Tension.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{2EC5F7AC-3246-7765-F700-D4FEF21B1A22}"
+  "FileHash": "{AC9AC3C3-92C2-1177-4993-F5957F1292CB}"
  }
 }

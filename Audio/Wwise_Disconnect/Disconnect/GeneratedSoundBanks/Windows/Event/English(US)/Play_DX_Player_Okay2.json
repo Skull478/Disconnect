@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{918D1176-BD74-4018-8444-A1255E8B4B1E}",
     "Language": "English(US)",
-    "Hash": "{5675612A-E785-DD59-E981-575D9B02D138}",
+    "Hash": "{57758306-3A0C-28AD-059B-48A6221A1572}",
     "ObjectPath": "Play_DX_Player_Okay2",
     "ShortName": "Play_DX_Player_Okay2",
     "Path": "Event/English(US)/Play_DX_Player_Okay2.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{B44191C6-8377-A59C-3EAF-113FF63EB86B}"
+  "FileHash": "{4D947C9D-AAA4-1F7C-2C4B-E2D68549339F}"
  }
 }

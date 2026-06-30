@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C4394614-5805-493F-9A5F-98460CCB8DED}",
     "Language": "SFX",
-    "Hash": "{8D49FCB3-B1DD-2D59-6154-5F5964951076}",
+    "Hash": "{81893898-2EB5-501E-3064-C7ED7533BF75}",
     "ObjectPath": "Play_INT_Lever",
     "ShortName": "Play_INT_Lever",
     "Path": "Event/Play_INT_Lever.bnk",
@@ -59,7 +59,7 @@
       "ObjectPath": "\\Events\\Interactibles\\Play_INT_Lever",
       "GUID": "{C4394614-5805-493F-9A5F-98460CCB8DED}",
       "Color": "23",
-      "MaxAttenuation": "2000",
+      "MaxAttenuation": "1000",
       "DurationType": "OneShot",
       "DurationMin": "1.2794137",
       "DurationMax": "1.5946953",
@@ -81,6 +81,6 @@
     ]
    }
   ],
-  "FileHash": "{81EE95F2-780F-8FAF-8ACB-DC1993F80A47}"
+  "FileHash": "{86F0B1EF-3C4B-B578-E9F8-8A326924AD34}"
  }
 }

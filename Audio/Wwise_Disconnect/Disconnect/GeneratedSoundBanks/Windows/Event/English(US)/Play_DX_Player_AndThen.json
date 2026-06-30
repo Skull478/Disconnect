@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{ABC88271-F04E-488E-ACBB-08087FA44C02}",
     "Language": "English(US)",
-    "Hash": "{A426AD26-3ED1-EF9D-8EB2-266507D5F39E}",
+    "Hash": "{EA7E1D2F-D74B-4C95-A950-D9C4965C0631}",
     "ObjectPath": "Play_DX_Player_AndThen",
     "ShortName": "Play_DX_Player_AndThen",
     "Path": "Event/English(US)/Play_DX_Player_AndThen.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{58A93C40-D1DD-B468-3AB7-2B6C1C4B8A55}"
+  "FileHash": "{4A3B8DCD-E089-D623-5EC0-09FE8A739B4D}"
  }
 }

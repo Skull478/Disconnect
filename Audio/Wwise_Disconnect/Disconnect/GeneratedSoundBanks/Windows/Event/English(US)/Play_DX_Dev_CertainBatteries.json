@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{D692D923-7418-4ABD-AB69-093D9C5461FA}",
     "Language": "English(US)",
-    "Hash": "{945A26B2-B25E-F789-4159-DD0D60032841}",
+    "Hash": "{61440607-53E9-54D4-1BD5-EB4C328D83FE}",
     "ObjectPath": "Play_DX_Dev_CertainBatteries",
     "ShortName": "Play_DX_Dev_CertainBatteries",
     "Path": "Event/English(US)/Play_DX_Dev_CertainBatteries.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{D922F3C3-5E04-B191-1B8A-A6A6E79EC811}"
+  "FileHash": "{6A1C637D-9FB3-7B55-7421-B658FE213C9B}"
  }
 }

@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DE90EA35-57BA-4EC8-A165-E91932ECAE9F}",
     "Language": "English(US)",
-    "Hash": "{1027385B-5102-2018-6FB5-97BFBE7CF325}",
+    "Hash": "{30518C87-7372-D18F-B7FC-F4A97C119EBB}",
     "ObjectPath": "Play_DX_Dev_MostOfThem",
     "ShortName": "Play_DX_Dev_MostOfThem",
     "Path": "Event/English(US)/Play_DX_Dev_MostOfThem.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{D5F9EEE3-D094-0CBB-2D93-C2689CF473DA}"
+  "FileHash": "{AEACD6C4-0B1E-9A9D-B18D-7BBA1EF1E610}"
  }
 }

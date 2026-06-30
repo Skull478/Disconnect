@@ -9435,6 +9435,11 @@
 						<MusicSegment Name="Ending_Full_Audio" ID="{DE7D8D9D-0E33-4CBC-BA3F-1F3BBBB65F8F}" ShortID="1028885955">
 							<PropertyList>
 								<Property Name="EndPosition" Type="Real64" Value="61666.6666666667"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>6</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">

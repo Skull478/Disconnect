@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{94D07256-00F4-4062-B29B-EA8F85656D8C}",
     "Language": "English(US)",
-    "Hash": "{766EE53E-9E74-202F-8EFC-E4EB9CA448F4}",
+    "Hash": "{BC063532-204B-154D-48D2-F502028D6222}",
     "ObjectPath": "Play_DX_Player_FindTheLift",
     "ShortName": "Play_DX_Player_FindTheLift",
     "Path": "Event/English(US)/Play_DX_Player_FindTheLift.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{EBD93B5A-CA71-C692-77FD-E49CED940A31}"
+  "FileHash": "{CA412B80-8C0A-46B5-6044-942E813E0B66}"
  }
 }

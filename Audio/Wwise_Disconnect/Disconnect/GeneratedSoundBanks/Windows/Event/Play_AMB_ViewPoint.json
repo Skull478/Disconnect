@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{AF9A314F-D8A4-4C81-91A6-35E147AB26B1}",
     "Language": "SFX",
-    "Hash": "{B2DD47A5-651D-1952-347B-81EB655FFD8D}",
+    "Hash": "{57500795-ED94-5E7D-23C6-D355E8DC0C88}",
     "ObjectPath": "Play_AMB_ViewPoint",
     "ShortName": "Play_AMB_ViewPoint",
     "Path": "Event/Play_AMB_ViewPoint.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{81C742A6-B509-3D45-D4FE-0884E1572CED}"
+  "FileHash": "{8F1397CD-E5A9-54D7-1BBB-A14AA66E1B2A}"
  }
 }

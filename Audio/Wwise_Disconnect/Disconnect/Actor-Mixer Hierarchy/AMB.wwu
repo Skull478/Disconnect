@@ -8,6 +8,9 @@
 			</PropertyList>
 			<ChildrenList>
 				<ActorMixer Name="AMBIANCE" ID="{C233C8DB-A0CB-46C1-AD46-92374D1BC6D2}" ShortID="184796489">
+					<PropertyList>
+						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
 							<Custom>

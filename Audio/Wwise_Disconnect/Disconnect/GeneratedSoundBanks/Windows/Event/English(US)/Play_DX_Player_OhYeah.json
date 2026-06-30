@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{73D13535-E0DC-4FA9-94DF-4CE67A2A0CDD}",
     "Language": "English(US)",
-    "Hash": "{7410861A-20E5-B5EA-394D-EC0AD69522A7}",
+    "Hash": "{286631AF-45ED-2CB0-C0DE-2D4C9EB53C42}",
     "ObjectPath": "Play_DX_Player_OhYeah",
     "ShortName": "Play_DX_Player_OhYeah",
     "Path": "Event/English(US)/Play_DX_Player_OhYeah.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{7469B8EF-1EDA-1130-3C33-8CE85F0C53EA}"
+  "FileHash": "{3918CA47-EB74-0F02-0BF6-42A4CD768881}"
  }
 }

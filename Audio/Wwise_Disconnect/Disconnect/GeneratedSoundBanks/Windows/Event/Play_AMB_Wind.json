@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DB23AB19-C7FE-415D-804A-D1F5341EB335}",
     "Language": "SFX",
-    "Hash": "{30D8B715-CA45-FA3D-1F43-1AB55B6D711B}",
+    "Hash": "{EC7B5952-98F6-4D33-5314-5B52D56303EE}",
     "ObjectPath": "Play_AMB_Wind",
     "ShortName": "Play_AMB_Wind",
     "Path": "Event/Play_AMB_Wind.bnk",
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{167C0097-B476-EE86-E5A4-A172D8FA3C86}"
+  "FileHash": "{317BA6C7-3B19-92F0-EE90-B51E2625E063}"
  }
 }
