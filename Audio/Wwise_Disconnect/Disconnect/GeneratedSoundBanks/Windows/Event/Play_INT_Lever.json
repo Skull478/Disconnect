@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C4394614-5805-493F-9A5F-98460CCB8DED}",
     "Language": "SFX",
-    "Hash": "{81893898-2EB5-501E-3064-C7ED7533BF75}",
+    "Hash": "{617323DE-6BE9-DD0A-828B-918C69A4485C}",
     "ObjectPath": "Play_INT_Lever",
     "ShortName": "Play_INT_Lever",
     "Path": "Event/Play_INT_Lever.bnk",
@@ -81,6 +81,6 @@
     ]
    }
   ],
-  "FileHash": "{86F0B1EF-3C4B-B578-E9F8-8A326924AD34}"
+  "FileHash": "{208B46FB-7643-4CF8-08D8-7A6ED9752322}"
  }
 }
